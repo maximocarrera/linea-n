@@ -1,0 +1,42 @@
+categoria: Futbol
+consigna: Nombrá a un jugador de la Selección Argentina campeona del mundo 2022
+activa: si
+apellidos: si
+
+[10]
+Lionel Messi | Messi | Leo Messi
+Emiliano Martinez | Dibu Martinez | Dibu
+Angel Di Maria | Di Maria | Fideo
+Julian Alvarez | Julian
+
+[25]
+Rodrigo De Paul | De Paul
+Enzo Fernandez | Enzo
+Alexis Mac Allister | Mac Allister | Alexis
+Lautaro Martinez | Lautaro | Toro Martinez
+
+[40]
+Cristian Romero | Cuti Romero | Cuti
+Nicolas Otamendi | Otamendi
+Gonzalo Montiel | Cachete Montiel | Montiel
+Leandro Paredes | Paredes
+
+[55]
+Paulo Dybala | Dybala
+Marcos Acuña | Huevo Acuña | Acuña
+Nicolas Tagliafico | Tagliafico
+Nahuel Molina | Molina
+Lisandro Martinez | Licha Martinez | Licha
+
+[75]
+Franco Armani | Armani
+Alejandro Gomez | Papu Gomez | Papu
+Angel Correa | Correa
+
+[100]
+German Pezzella | Pezzella
+Guido Rodriguez | Guido
+Exequiel Palacios | Palacios
+Thiago Almada | Almada
+Juan Foyth | Foyth
+Geronimo Rulli | Rulli

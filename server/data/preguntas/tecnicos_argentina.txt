@@ -1,0 +1,58 @@
+categoria: Futbol
+consigna: Nombrá a un director técnico que haya dirigido a la Selección Argentina mayor
+activa: si
+apellidos: si
+
+[10]
+Lionel Scaloni | Scaloni
+Carlos Bilardo | Bilardo | Doctor Bilardo | Narigon Bilardo
+Cesar Luis Menotti | Menotti | Flaco Menotti
+Diego Maradona | Maradona | Diego
+
+[25]
+Alejandro Sabella | Sabella | Pachorra Sabella
+Alfio Basile | Basile | Coco Basile
+Marcelo Bielsa | Bielsa | Loco Bielsa
+Jorge Sampaoli | Sampaoli
+
+[40]
+Jose Pekerman | Pekerman
+Daniel Passarella | Passarella | Kaiser
+Gerardo Martino | Martino | Tata Martino
+Sergio Batista | Batista | Checho Batista
+Edgardo Bauza | Bauza | Paton Bauza
+
+[60]
+Guillermo Stabile | Stabile | Filtrador Stabile
+Jose Omar Pastoriza | Pastoriza | Pato Pastoriza
+Carlos Griguol | Griguol | Timoteo Griguol
+Juan Carlos Lorenzo | Toto Lorenzo | Lorenzo
+Vladislao Cap | Cap | Polaco Cap
+
+[80]
+Omar Sivori | Sivori | Cabezon Sivori
+Angel Labruna | Labruna | Feo Labruna
+Cesarini | Renato Cesarini
+Adolfo Pedernera | Pedernera
+Jose Maria Minella | Minella
+Juan Jose Pizzuti | Pizzuti
+Enrique Omar Sivori | Sivori
+
+[100]
+Angel Vazquez | Vazquez
+Jose Lago Millan | Lago Millan
+Francisco Olazar | Olazar
+Juan Jose Tramutola | Tramutola
+Felipe Pascucci | Pascucci
+Manuel Seoane | Seoane | Chancha Seoane
+Victorio Spinetto | Spinetto
+Jose Della Torre | Della Torre
+Jose Barreiro | Barreiro
+Carlos Peucelle | Peucelle
+Ernesto Duchini | Duchini
+Osvaldo Zubeldia | Zubeldia
+Carmelo Faraone | Faraone
+Jim Lopes | Lopes
+Miguel Ignomiriello | Ignomiriello
+Jorge Olguin | Olguin
+Carlos Calocero | Calocero

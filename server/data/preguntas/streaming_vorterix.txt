@@ -1,0 +1,44 @@
+categoria: Streaming
+consigna: Nombrá un conductor, panelista o productor de Vorterix
+activa: si
+apellidos: no
+
+[10]
+Mario Pergolini | Pergolini
+Luquitas Rodriguez | PrettyDiamond32 | Lucas Rodriguez | Luis Luis
+Alfre Montes de Oca | Alfre | Viejo Sabio
+Robert Galati | 3 bombas 
+German beder | Beder
+Joaco Cavanna |Cavanna
+
+[30]
+Juan Castro
+Damian Kuc
+
+[55]
+Guille Aquino
+Gata Guedes | Guedes | Gata
+Ardilla
+
+[60]
+Erenestou
+Juan Igal | Igal
+Navaja
+Guille Bianchi | Bianchi
+Schapira | Schapi 
+Palito | xmilanx_
+
+[80]
+Noxi
+Seba del Rio 
+Seba Varela
+
+[100]
+Jazmin Badia | Jaz Badia | Badia
+Oso - Guardia Vorterix | Oso
+Anacleta
+Valen Kavata | Kavata
+Nacho Corral
+Dany Jiménez
+Polaco Silveira
+Nico Etevenaux

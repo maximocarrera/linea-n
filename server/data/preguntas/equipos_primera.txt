@@ -1,0 +1,46 @@
+categoria: Futbol
+consigna: Nombrá a un equipo de la Primera División del fútbol argentino
+activa: si
+apellidos: no
+
+[10]
+Boca Juniors | Boca | Xeneize
+River Plate | River | Millonario
+Independiente | Rojo | Rey de Copas
+Racing Club | Racing | Academia
+San Lorenzo | Ciclon | Cuervo
+
+[25]
+Estudiantes de La Plata | Estudiantes | Pincha
+Velez Sarsfield | Velez | Fortin
+Rosario Central | Central | Canalla
+Newell's Old Boys | Newell's | Ñuls | Lepra
+Huracan | Globo
+
+[45]
+Lanus | Granate
+Talleres | Talleres de Cordoba | T
+Belgrano | Belgrano de Cordoba | Pirata
+Gimnasia y Esgrima La Plata | Gimnasia | Lobo | Tripero
+Argentinos Juniors | Argentinos | Bicho
+
+[65]
+Banfield | Taladro
+Union | Union de Santa Fe | Tatengue
+Defensa y Justicia | Defensa | Halcon
+Tigre | Matador
+Atletico Tucuman | Decano
+
+[85]
+Platense | Calamar
+Instituto | Gloria
+Independiente Rivadavia | Lepra Mendocina
+Sarmiento | Sarmiento de Junin | Verde
+Central Cordoba | Central Cordoba de Santiago del Estero | Ferroviario
+
+[100]
+Aldosivi | Tiburon
+Barracas Central | Barracas | Guapo
+Deportivo Riestra | Riestra | Malevo
+Gimnasia y Esgrima de Mendoza | Gimnasia de Mendoza | Lobo Mendocino
+Estudiantes de Rio Cuarto | Leon del Imperio

@@ -1,0 +1,126 @@
+categoria: Television
+consigna: Nombrá a un participante de las ediciones recientes de Gran Hermano
+activa: si
+apellidos: no
+
+[10]
+Marcos Ginocchio | Primo | Marcos
+Walter Alfa | Alfa | Walter Santiago
+Julieta Poggio | Juli Poggio | Julieta
+Thiago Medina | Thiago
+Juliana Scaglione | Furia | Juliana
+Nacho Castañares | Nacho
+
+[22]
+Andrea del Boca 
+Emanuel Di Gioia 
+Lola Tomaszeusky 
+Solange | Sol
+Santiago Algorta | Tato
+
+[30]
+Romina Uhrig | Romina
+Agustín Guardis | Frodo | Agustin
+Lucila Villar | La Tora | Lucila
+Constanza Romero | Coti | Coti Romero
+Alexis Quiroga | Conejo | Alexis
+Lolo Poggio | Lolo
+Ulises Apóstolo
+Tomás Holder | Holder
+
+[44]
+Bautista Mascia | Bauti | Bautista
+Luana Fernández | Luana
+Brian Sarmiento 
+Luz Tito | Luz
+
+[48]
+Chiara Mancuso | Mancuso
+
+[50]
+Titi
+Yipio
+Pincoya
+Zoe Bogach | Zoe
+Sabrina Cortez | Cortez | Sabri | Sabri Cortez
+Florencia Regidor | Regidor | Flor Regidor
+
+[60]
+Emmanuel Vich | Emma Vich | Emmanuel
+Martin Ku | Chino | Martin
+Denisse Gonzalez | Denisse
+Catalina Gorostidi | Cata | Catalina
+Luca Figurelli | Figurelli
+Manzana
+
+[76]
+Virginia Demo | Virgina
+Darío Martínez Corti | Dario
+Ariel Ansaldo | Ariel
+
+[82]
+Franco Zunino | Zunino
+Juani Caruso 
+Lisandro Navarro | Licha | Lisandro
+Kennys Palacios | Kenny
+Petrona Fabiana Jerez | Petrona
+Jenifer Lauría
+Eugenia Ruiz | Euge | Eugenia 
+Rosina Beltrán | Rosina
+Mora Jabornisky | Mora
+
+[90]
+Cinzia Francischiello | Cinzia
+Daniela de Lucía
+La Maciel | Maciel
+Bomba Tucumana | La Bomba | Bomba
+Alan Simone | Alan
+
+[95]
+Martina Pereyra | Martina
+Lourdes Ciccarone | Lourdes
+Katia Fenocchio | La Tana | Tana
+Selva Pérez | Selva
+Nicolás Grosman | Grosman 
+Florencia Cabrera
+Agostina Spinelli | Agostina
+Isabel De Negri | Isabel | Isabela
+Juliana Díaz | Juliana
+Camila Lattanzio | Cami Lattanzio |Lattanzio 
+
+[100]
+Lucia Maidana | Lucia
+Joel Ojeda | Joel
+Gabriel Lucero 
+Jenny Mavinga | Mavinga
+Nicolás Sicaro
+Divina Gloria
+Eduardo Carrera 
+Franco Poggio
+Tomy Riguera | Tomas Riguera
+Manuel Ibero
+Carmiña Masi
+Delfina De Lellis
+Renato Rossini | Renato
+Keila Sosa
+Candela Campos
+Ezequiel Ois
+Andrea Lázaro
+Sebastián Bello
+Carlos Tocco
+Sofía Buscio
+Claudio Di Lorenzo
+Giuliano Vaschetto  | Giuliano
+Brian Alberto
+Luciana Martínez
+Saif Yousef | Saif
+Santiago Larrivey | Bati 
+Gabriela Gianatassio
+Williams López | Williams
+Axel Klekaylo | Axel
+Hernán Ontivero | Ontivero 
+Damián Moya
+Paloma Méndez
+Mauro Dalessio
+Maximiliano Giudici
+Juan Reverdito | Reverdito

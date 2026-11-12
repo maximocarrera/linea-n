@@ -1,0 +1,220 @@
+categoria: Musica
+consigna: Nombrá una canción de Gustavo Cerati (solista o con Soda Stereo)
+activa: si
+apellidos: no
+
+[10]
+De música ligera | De musica ligera
+Persiana americana
+Cuando pase el temblor
+En la ciudad de la furia | La ciudad de la furia
+Crimen
+Puente
+Prófugos | Profugos
+Nada personal
+Tratame suavemente
+Adiós | Adios
+
+[25]
+Signos
+Un millón de años luz | Un millon de años luz
+Té para tres | Te para tres
+Bocanada
+Lago en el cielo
+Cosas imposibles
+Déjà vu | Deja vu | Dejavu
+Sobredosis de TV
+Juego de seducción | Juego de seduccion
+Zoom
+Ella usó mi cabeza como un revólver | Ella uso mi cabeza como un revolver
+Entre caníbales | Entre canibales
+Corazón delator | Corazon delator
+Te hacen falta vitaminas | Vitaminas
+La excepción | La excepcion
+Me quedo aquí | Me quedo aqui
+
+[40]
+Canción animal | Cancion animal
+Cae el sol
+En remolinos
+Primavera 0 | Primavera cero
+Zona de promesas
+Paseo inmoral
+Fuerza natural
+Cactus
+Te llevo para que me lleves
+Amor amarillo
+Pulsar
+Karaoke
+Vivo
+Un misil en mi placard
+El rito
+Danza rota
+Lo que sangra (La cúpula) | Lo que sangra | La cupula | La cúpula
+Pícnic en el 4° B | Picnic en el 4 B | Picnic en el cuarto B
+(En) El séptimo día | El septimo dia | El séptimo día
+
+[55]
+No
+Día especial | Dia especial
+Bajan
+Rapto
+Magia
+Tabú | Tabu
+Raíz | Raiz
+Río Babel | Rio Babel
+Beautiful
+Verbo carne
+Engaña | Engana
+Perdonar es divino
+Al fin sucede
+Bomba de tiempo
+Médium | Medium
+Otra piel
+Uno entre 1000 | Uno entre mil
+Artefacto
+Sulky
+Tu locura
+Lisa
+Vuelta por el universo
+Fue
+Luna roja
+Ameba
+Hombre al agua
+Sueles dejarme solo
+Imágenes retro | Imagenes retro
+Estoy azulado
+Final caja negra
+No existes
+Sin sobresaltos
+Dietético | Dietetico
+¿Por qué no puedo ser del Jet-Set? | Por que no puedo ser del Jet-Set | Jet Set
+Pasos
+Disco eterno
+Angel eléctrico | Angel electrico
+
+[70]
+Av. Alcorta | Avenida Alcorta
+A merced
+Ahora es nunca
+Cabeza de medusa
+Rombos (Un cuarto lleno de rombos) | Rombos
+Torteval
+Aquí & ahora (Los primeros tres minutos) | Aqui y ahora
+Aquí & ahora (Y después)
+Balsa
+Y si el humo está en foco... | Y si el humo esta en foco
+Amo dejarte así | Amo dejarte asi
+Altar
+Casa
+Camuflaje
+Especie
+Fantasma
+Nací para esto | Naci para esto
+No te creo
+Señales luminosas | Senales luminosas
+Sudestada
+Torre de marfil
+Tu cicatriz en mí | Tu cicatriz en mi
+Caravana
+Dios nos libre
+Jugo de luna
+# (Numeral) | Numeral
+Amor sin rodeos
+Convoy
+Desastre
+Dominó | Domino
+He visto a lucy
+Naturaleza muerta
+Sal
+Tracción a sangre | Traccion a sangre
+1990 (Mil Nueve Noventa) | 1990
+Afrodisiacos
+Camaleón | Camaleon
+Claroscuro
+Crema de estrellas
+Día común - Doble vida | Dia comun - Doble vida | Dia comun
+Efecto doppler
+El cuerpo del delito
+El ritmo de tus ojos
+El tiempo es dinero
+En camino
+En el borde
+Languis
+Mi novia tiene bíceps | Mi novia tiene biceps
+Ni un segundo
+No necesito verte (para saberlo) | No necesito verte
+Nuestra fe
+Observándonos (Satélites) | Observandonos | Satelites
+Ojo de la Tormenta
+Paseando por Roma
+Planta
+Secuencia inicial
+Si no fuera por... | Si no fuera por
+Sweet Sahumerio
+Tele-Ka | Teleka
+Terapia de amor intensiva
+Texturas
+Toma la ruta
+Tráeme la noche | Traeme la noche
+No te mueras en mi casa
+Devoción | Devocion
+The Day and the Time
+
+[85]
++Bien | Mas bien
+Es sólo una ilusión | Es solo una ilusion
+Kuro
+La costura de Dios
+La costura de Dios V2
+Llegaste
+Paisaje porcelana
+Paracaídas | Paracaidas
+Regando
+Símil paraíso | Simil paraiso
+Todos duermen
+Alborada
+Colores santos
+Cozumel
+Hoy ya no soy yo
+La cuerda planetaria
+Madre Tierra
+Marea de Venus
+Pudo ser
+Quatro
+Tu medicina
+Coral
+Génesis | Genesis
+Moirè | Moire
+Mundo de quimeras
+Planeador
+Sonoman
+Superstar
+X-Playo
+Algún día | Algun dia
+Lunas
+
+[100]
+Agua dulce
+De los dientes para adentro
+Inicio
+Lolol
+Los objetos en el espejo están más cerca de lo que parece
+Miércoles | Miercoles
+No es para palabras escritas
+Panel
+Quasar
+Traful
+Venga
+Aurora turbo
+Nro. 9 (Sistema cerrojo) | Nro 9
+Pheremones
+Polynol plus
+Samhain
+Space Jam
+Teletrack
+Tripulante 2.3
+Vértigo | Vertigo
+Casa (Leandro Fresco + Gus Remix)
+Tu cicatriz en mí (Zucker + Gus Remix)
+Vivo (Remix)

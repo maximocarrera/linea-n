@@ -1,0 +1,59 @@
+categoria: Streaming
+consigna: Nombrá un streamer o conductor de Olga
+activa: si
+apellidos: no
+
+[10]
+Migue Granados | Migue
+Nati Jota | Nati
+Homero Pettinato | Homero
+Marti Benza | Benza
+Nacho Elizalde | Elizalde 
+Luli Gonzalez 
+
+
+[30]
+Luchito Hutchison | Luchito | Lucas Hutchison
+Evelyn Botto | Evelyn
+Lucas Fridman | Fridman
+Valen Rizzuti | Rizzuti
+Toro | Giani Odoguardi
+Cami Jara | Cami Jarax
+
+
+[44]
+Gime Accardi | Gimena Accardi | Gime
+Nico Ferrero 
+Juli Manzotti | Manzotti
+Vicky Garabal | Garabal
+Lizy Tagliani
+
+[60]
+Noelia Custodio | Noelia
+Caro Pardíaco | Caro Pardiaco | Caro
+Toto Kirzner | Toto
+Damian Kuc | Damián Kuc | Damian
+Lu Cámpora | Lu Campora
+Grego Rossello | Grego
+Alex Pelao | Alex
+Melian | Meli | Melian Valen | Valen Melian
+Mortedor 
+Pablo Agustin
+Cami Fortunato | Camila Fortunato | Fortunato
+
+[77]
+Paulo Kablan
+La Negra Vernaci | Negra | La Negra | Vernaci
+Gastón Edul | Edul
+Pedro Alfonso
+
+[88]
+Seba Varela
+
+[100]
+Rechi Muzzi | Rechi | Muzzi | Rechimuzzi
+Eber Ludeña | Ludeña | Eber ludenia
+Martin Vazquez | Vazquez Martin
+Pichu | Pichu Straneo
+Yayo | Yayo Guridi
+BenitoSDR | Benito | Beno

@@ -1,0 +1,52 @@
+categoria: Futbol
+consigna: Nombrá a un jugador que haya usado la camiseta 10 de la Selección Argentina
+activa: si
+apellidos: si
+
+[10]
+Lionel Messi | Messi | Leo Messi
+Diego Maradona | Maradona | Diego
+Mario Kempes | Kempes | Matador Kempes
+Juan Roman Riquelme | Riquelme | Roman
+
+[25]
+Ariel Ortega | Ortega | Burrito Ortega
+Sergio Aguero | Kun Aguero | Aguero
+Angel Di Maria | Di Maria | Fideo
+Paulo Dybala | Dybala
+
+[45]
+Pablo Aimar | Aimar | Payaso Aimar
+Marcelo Gallardo | Gallardo | Muñeco Gallardo
+Angel Correa | Correa
+Carlos Tevez | Tevez | Apache Tevez
+
+[65]
+Franco Mastantuono | Mastantuono
+Andres D'Alessandro | D'Alessandro | Cabezon D'Alessandro
+Javier Pastore | Pastore | Flaco Pastore
+Ever Banega | Banega
+Erik Lamela | Lamela | Coco Lamela
+
+[85]
+Enzo Perez | Enzo
+Nicolas Gaitan | Gaitan | Nico Gaitan
+Federico Insua | Insua | Pocho Insua
+Walter Erviti | Erviti
+Walter Montillo | Montillo
+Maxi Moralez | Moralez | Frasquito Moralez
+
+[100]
+Nacho Gonzalez | Ignacio Gonzalez
+Hector Canteros | Canteros | Tito Canteros
+Lucas Mugni | Mugni
+Antonio Rattin | Rattin
+Jose Sanfilippo | Sanfilippo | Nene Sanfilippo
+Alfredo Rojas | Rojas | Tanque Rojas
+Ramon Heredia | Heredia | Cacho Heredia
+Marcelo Espina | Espina | Cabezon Espina
+Gustavo Lopez | Lopez
+Fernando Pandolfi | Pandolfi | Rifle Pandolfi
+Rodolfo Cardoso | Cardoso
+Jose Albornoz | Albornoz | Pepe Albornoz
+German Martelotto | Martelotto | Tato Martelotto

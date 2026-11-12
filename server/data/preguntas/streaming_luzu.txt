@@ -1,0 +1,51 @@
+categoria: Streaming
+consigna: Nombrá un streamer de Luzu
+activa: si
+apellidos: no
+
+[10]
+Nico Occhiato | Occhiato
+Momi Giardina | Momi
+Diego Leuco | Leuco
+Santi Talledo | Talledo
+Flor Jazmín Peña | Flor Jazmín | Flor Jazmin
+
+[30]
+La Joaqui | Joaqui
+Lucas Spadafora 
+Anita Esposito | Ana Esposito | Esposito
+Cami Mayan | Camila Mayan
+Mica Vázquez | Micaela Vazquez
+Fede Popgold | Popgold
+Trinche
+Martin Garabal | Garabal
+Ferbo
+Juli Castro
+
+
+[60]
+Teo de 412 | Teo 
+Agusneta
+La Chilena | Chilena | Belen Negri
+Pestañela | Daniela Celis | Pestaniela
+Domi Faena | Domi
+Pollo Alvarez | Pollo
+
+[75]
+Cris Vanadia
+La Castro | Diego Castro
+
+[100]
+Pulpo | El Pulpo | Nacho Diaz
+Tati Roust 
+El Purre | Purre
+Agustina Garcia
+Seba Martin
+Lucas Lezin
+El Turro | Turro | Turro Marzio
+La Guri | Guri 
+Lucas Ortega
+La Tia 
+Facu Steyn
+
+
