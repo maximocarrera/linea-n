@@ -1,0 +1,59 @@
+categoria: Argentina
+consigna: Nombrá un barrio de la Ciudad de Buenos Aires (CABA)
+activa: si
+apellidos: no
+
+[10]
+Palermo
+Recoleta
+San Telmo
+La Boca
+Puerto Madero
+Belgrano
+Caballito
+Flores
+Almagro
+Villa Crespo
+
+[30]
+Nuñez | Núñez
+Saavedra
+Villa Urquiza
+Devoto | Villa Devoto
+Barracas
+Constitución
+Retiro
+Monserrat
+San Nicolás
+Balvanera | El Once | Once
+Boedo
+Chacarita
+Colegiales
+
+[60]
+Agronomía
+Parque Chas
+Paternal | La Paternal
+Flores Sur | Parque Avellaneda | Avellaneda
+Mataderos
+Liniers
+Villa Luro
+Versalles
+Monte Castro
+Villa Real
+Villa Santa Rita
+Villa del Parque
+
+[100]
+Villa Pueyrredón | Pueyrredón
+Coghlan
+Núñez Oeste
+Saavedra Este
+Villa Ortúzar | Ortúzar
+Parque Chas
+Parque Patricios | Patricios
+Nueva Pompeya | Pompeya
+Villa Soldati | Soldati
+Villa Riachuelo | Riachuelo
+Lugano | Villa Lugano
+Puerto Madero Sur

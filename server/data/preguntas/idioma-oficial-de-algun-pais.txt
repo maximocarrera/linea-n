@@ -1,0 +1,46 @@
+# Línea N · una pregunta por archivo. Después de editar: npm run db:import
+# Un nombre por renglón. Variantes con |   ej: Benín | Benin | Dahomey
+# Niveles: [10] común · [30] poco común · [60] rara · [100] de nicho
+
+categoria: Idiomas
+consigna: Nombrá un idioma oficial de algún país
+activa: si
+apellidos: no
+
+[10]
+Español | Castellano
+Inglés
+Portugués
+Francés
+
+[30]
+Alemán
+Italiano
+Chino | Mandarín
+Japonés
+Ruso
+Árabe
+
+[60]
+Guaraní
+Quechua
+Hindi
+Coreano
+Griego
+Turco
+Neerlandés | Holandés
+Sueco
+Polaco
+
+[100]
+Suajili | Swahili
+Tagalo | Filipino
+Amhárico
+Islandés
+Maltés
+Tetun
+Aimara
+Tigriña
+Malgache
+Kirguís
+Somalí

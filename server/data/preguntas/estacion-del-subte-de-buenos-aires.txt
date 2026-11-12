@@ -1,0 +1,102 @@
+# Línea N · una pregunta por archivo. Después de editar: npm run db:import
+# Un nombre por renglón. Variantes con |   ej: Benín | Benin | Dahomey
+# Niveles: [10] común · [30] poco común · [60] rara · [100] de nicho
+
+categoria: Subte
+consigna: Nombrá una estación del subte de Buenos Aires
+activa: si
+apellidos: no
+
+[10]
+Plaza de Mayo
+Catedral
+Retiro
+Constitución
+Congreso
+Callao
+Palermo
+Plaza Italia
+Florida
+Pueyrredón
+9 de Julio | Nueve de Julio
+Once
+
+[30]
+Perú
+Lima
+Avenida de Mayo
+Carlos Pellegrini
+Diagonal Norte
+Tribunales
+Facultad de Medicina
+Uruguay
+Pasteur
+Medrano
+Scalabrini Ortiz
+Plaza Miserere
+Primera Junta
+Federico Lacroze | Lacroze
+Juramento
+Bolívar
+Correo Central
+Santa Fe
+Corrientes
+Lavalle
+General San Martín | San Martín
+Leandro N. Alem | Alem
+Independencia
+Moreno
+San Juan
+Belgrano
+
+[60]
+Piedras
+Sáenz Peña
+Pasco
+Alberti
+Loria
+Castro Barros
+Río de Janeiro
+Acoyte
+Carlos Gardel | Gardel
+Ángel Gallardo
+Malabia
+Dorrego
+Agüero
+Bulnes
+Ministro Carranza
+Olleros
+José Hernández
+Congreso de Tucumán
+Catalinas
+San José
+Entre Ríos
+Pichincha
+Jujuy
+Urquiza
+Boedo
+Las Heras
+Córdoba
+Venezuela
+Humberto I | Humberto Primo
+Caseros
+Parque Patricios
+Facultad de Derecho
+Tronador
+Los Incas
+Puán
+Carabobo
+
+[100]
+San José de Flores
+San Pedrito
+Echeverría
+Juan Manuel de Rosas
+Avenida La Plata
+José María Moreno
+Emilio Mitre
+Medalla Milagrosa
+Varela
+Plaza de los Virreyes
+Inclán
+Hospitales

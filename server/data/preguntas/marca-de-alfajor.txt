@@ -1,0 +1,67 @@
+categoria: Comida
+consigna: Nombrá una marca de alfajores argentinos
+activa: si
+apellidos: no
+
+[10]
+Guaymallén
+Jorgito
+Havanna
+Cachafaz
+Milka
+Terrabusi
+Capitán del Espacio
+Águila
+Jorgelin
+Tatín
+
+[30]
+Fantoche
+Balañuk
+Block
+Tofi
+Cofler
+Marley
+Fulbito
+Suchard
+Vauquita
+Punta Ballena
+Entre Dos
+Balcarce
+
+[50] // Podés usar este nivel si el sistema lo soporta, o pasarlo a [60] como venías usando:
+[60]
+Merengo
+Havanna Colores
+El Nazareno
+La Aldea
+Cabaña Las Lilas
+Chachingo
+Portezuelo
+Arco Iris
+Abuela Goye
+Belfort
+Dos Dos
+Estancia El Elorza
+
+[100]
+Maza
+Compañía de Chocolates
+Alfajores Regionales
+Cachete
+El Cachafaz Artesanal
+El Nazareno Negro
+Entre Dos Blanco
+Guaymallén de Fruta
+Jorgito Blanco
+Terrabusi Torta
+Vauquita Negro
+Negro y Blanco
+Marplatense
+Atalaya
+La Recova
+La Casa del Alfajor
+Guolis
+El Indiecito
+Estancia Santa Cruz
+Hermenia

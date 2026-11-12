@@ -1,0 +1,50 @@
+# Línea N · una pregunta por archivo. Después de editar: npm run db:import
+# Un nombre por renglón. Variantes con |   ej: Benín | Benin | Dahomey
+# Niveles: [10] común · [30] poco común · [60] rara · [100] de nicho
+
+categoria: Arte
+consigna: Nombrá un color
+activa: si
+apellidos: no
+
+[10]
+Rojo
+Azul
+Verde
+Amarillo
+Negro
+Blanco
+
+[30]
+Violeta
+Naranja
+Rosa
+Gris
+Marrón
+Celeste
+
+[60]
+Turquesa
+Fucsia
+Beige
+Bordó
+Lila
+Dorado
+Plateado
+Magenta
+Cian
+
+[100]
+Ocre
+Cerúleo
+Bermellón
+Carmesí
+Índigo
+Añil
+Malva
+Sepia
+Siena
+Ámbar
+Granate
+Coral
+Lavanda

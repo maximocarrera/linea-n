@@ -1,0 +1,72 @@
+# Línea N · una pregunta por archivo. Después de editar: npm run db:import
+# Un nombre por renglón. Variantes con |   ej: Emiliano Martínez | Dibu Martínez | Dibu
+# Niveles: [10] común · [30] poco común · [60] rara · [100] de nicho
+#
+# CÓMO CARGAR LOS MILES QUE FALTAN:
+#  1. Copiá la lista de jugadores (ej. Wikipedia: "Anexo:Futbolistas de la selección de fútbol de Argentina").
+#  2. Pegala debajo de [100]: todo lo que no muevas a otro nivel cuenta como "de nicho".
+#  3. Subí a [10], [30] o [60] solo a los conocidos. No hace falta borrar repetidos: el import los avisa y los ignora.
+#  4. Cuando esté lista, cambiá "activa: no" por "activa: si" y corré npm run db:import.
+#
+# "apellidos: si" hace que "Messi" o "Riquelme" valgan solos. Si el apellido lo comparten
+# varios (Martínez), no se agrega: poné el apodo a mano (ej. "Lautaro").
+
+categoria: Fútbol
+consigna: Nombrá un jugador que haya jugado en la Selección Argentina
+activa: no
+apellidos: si
+
+[10]
+Lionel Messi | Leo Messi
+Diego Maradona | Diego Armando Maradona
+Ángel Di María | Fideo
+Sergio Agüero | Kun Agüero | Kun
+Gabriel Batistuta | Batigol
+Juan Román Riquelme | Román
+Carlos Tevez
+Mario Kempes
+
+[30]
+Javier Zanetti | Pupi Zanetti
+Javier Mascherano | Jefecito
+Gonzalo Higuaín | Pipita
+Paulo Dybala
+Lautaro Martínez | Lautaro
+Emiliano Martínez | Dibu Martínez | Dibu
+Julián Álvarez | Araña Álvarez
+Claudio Caniggia | Cani
+Fernando Redondo
+Daniel Passarella
+Ubaldo Fillol | Pato Fillol
+Jorge Burruchaga
+
+[60]
+Enzo Fernández
+Alexis Mac Allister
+Rodrigo De Paul
+Cristian Romero | Cuti Romero | Cuti
+Nicolás Otamendi
+Lisandro Martínez | Licha
+Jorge Valdano
+Roberto Ayala | Ratón Ayala
+Diego Simeone | Cholo Simeone
+Ariel Ortega | Burrito Ortega
+Hernán Crespo
+Juan Sebastián Verón | Brujita Verón
+Pablo Aimar
+Javier Saviola | Conejito Saviola
+Sergio Goycochea | Goyco
+Oscar Ruggeri
+
+[100]
+# ↓ Pegá acá el resto de la lista (un nombre por renglón)
+Ricardo Bochini
+Héctor Enrique
+Sergio Batista
+José Luis Brown | Tata Brown
+Nery Pumpido
+Ricardo Giusti
+Julio Olarticoechea
+Oscar Garré
+Pedro Pasculli
+Marcelo Trobbiani

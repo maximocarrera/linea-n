@@ -1,0 +1,40 @@
+# Línea N · una pregunta por archivo. Después de editar: npm run db:import
+# Un nombre por renglón. Variantes con |   ej: Benín | Benin | Dahomey
+# Niveles: [10] común · [30] poco común · [60] rara · [100] de nicho
+
+categoria: Naturaleza
+consigna: Nombrá un animal que empiece con P
+activa: si
+apellidos: no
+
+[10]
+Perro
+Pato
+Pez
+Pájaro
+
+[30]
+Pingüino
+Panda
+Puma
+Pollo
+Paloma
+Pulpo
+
+[60]
+Pelícano
+Puercoespín
+Pantera
+Pavo
+Pavo real
+Perezoso
+Piraña
+Pulga
+
+[100]
+Pangolín
+Pudú
+Pecarí
+Petrel
+Pichiciego
+Piquero

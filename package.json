@@ -1,0 +1,26 @@
+{
+  "name": "linea-n",
+  "private": true,
+  "version": "0.1.0",
+  "description": "Trivia multijugador de respuestas raras con temática de subte",
+  "workspaces": [
+    "shared",
+    "server",
+    "client"
+  ],
+  "scripts": {
+    "dev": "concurrently -k -n server,client -c magenta,cyan \"npm run dev -w server\" \"npm run dev -w client\"",
+    "build": "npm run build -w client && npm run db:import -- --check",
+    "start": "npm start -w server",
+    "db:seed": "npm run db:seed -w server --",
+    "db:import": "npm run db:import -w server --",
+    "db:export": "npm run db:export -w server --",
+    "db:categorias": "npm run db:categorias -w server --"
+  },
+  "devDependencies": {
+    "concurrently": "^9.2.0"
+  },
+  "engines": {
+    "node": "24.x"
+  }
+}

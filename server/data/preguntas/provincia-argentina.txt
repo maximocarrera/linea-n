@@ -1,0 +1,39 @@
+# Línea N · una pregunta por archivo. Después de editar: npm run db:import
+# Un nombre por renglón. Variantes con |   ej: Benín | Benin | Dahomey
+# Niveles: [10] común · [30] poco común · [60] rara · [100] de nicho
+
+categoria: Argentina
+consigna: Nombrá una provincia argentina
+activa: si
+apellidos: no
+
+[10]
+Buenos Aires
+Córdoba
+Santa Fe
+Mendoza
+
+[30]
+Tucumán
+Salta
+Neuquén
+Misiones
+Entre Ríos
+Chubut
+
+[60]
+Jujuy
+San Juan
+San Luis
+Río Negro
+Corrientes
+Santa Cruz
+Tierra del Fuego
+Chaco
+
+[100]
+La Pampa
+Catamarca
+Formosa
+Santiago del Estero
+La Rioja

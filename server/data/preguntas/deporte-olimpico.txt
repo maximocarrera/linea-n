@@ -1,0 +1,46 @@
+# Línea N · una pregunta por archivo. Después de editar: npm run db:import
+# Un nombre por renglón. Variantes con |   ej: Benín | Benin | Dahomey
+# Niveles: [10] común · [30] poco común · [60] rara · [100] de nicho
+
+categoria: Deportes
+consigna: Nombrá un deporte olímpico
+activa: si
+apellidos: no
+
+[10]
+Fútbol
+Natación
+Atletismo
+Básquet | Baloncesto
+
+[30]
+Tenis
+Vóley | Voleibol
+Hockey
+Rugby
+Boxeo
+Ciclismo
+Judo
+
+[60]
+Esgrima
+Remo
+Handball | Balonmano
+Gimnasia
+Golf
+Taekwondo
+Surf
+Skate
+Tiro con arco
+
+[100]
+Pentatlón moderno | Pentatlón
+Bádminton
+Piragüismo | Canotaje
+Lucha
+Halterofilia | Levantamiento de pesas
+Waterpolo
+Breaking
+Escalada
+Vela
+Triatlón

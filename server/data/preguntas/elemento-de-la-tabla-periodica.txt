@@ -1,0 +1,57 @@
+# Línea N · una pregunta por archivo. Después de editar: npm run db:import
+# Un nombre por renglón. Variantes con |   ej: Benín | Benin | Dahomey
+# Niveles: [10] común · [30] poco común · [60] rara · [100] de nicho
+
+categoria: Ciencia
+consigna: Nombrá un elemento de la tabla periódica
+activa: si
+apellidos: no
+
+[10]
+Oxígeno
+Hidrógeno
+Carbono
+Hierro
+Oro
+
+[30]
+Plata
+Cobre
+Helio
+Nitrógeno
+Sodio
+Calcio
+
+[60]
+Litio
+Neón
+Potasio
+Zinc | Cinc
+Mercurio
+Plomo
+Uranio
+Aluminio
+Cloro
+Flúor
+Azufre
+Fósforo
+Silicio
+Magnesio
+
+[100]
+Tecnecio
+Itrio
+Rutenio
+Praseodimio
+Disprosio
+Holmio
+Lutecio
+Hafnio
+Osmio
+Galio
+Germanio
+Vanadio
+Escandio
+Telurio
+Bismuto
+Cerio

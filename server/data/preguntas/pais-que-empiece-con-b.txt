@@ -1,0 +1,33 @@
+# Línea N · una pregunta por archivo. Después de editar: npm run db:import
+# Un nombre por renglón. Variantes con |   ej: Benín | Benin | Dahomey
+# Niveles: [10] común · [30] poco común · [60] rara · [100] de nicho
+
+categoria: Geografía
+consigna: Nombrá un país que empiece con B
+activa: si
+apellidos: no
+
+[10]
+Brasil | Brazil
+Bolivia
+Bélgica | Belgica
+
+[30]
+Bulgaria
+Bahamas
+Bangladés | Bangladesh
+Bosnia y Herzegovina | Bosnia
+
+[60]
+Bielorrusia | Belarus
+Botsuana | Botswana
+Barbados
+Belice | Belize
+Baréin | Bahrein | Bahrain
+
+[100]
+Benín | Benin
+Brunéi | Brunei
+Burundi
+Bután | Butan | Bhutan
+Burkina Faso

@@ -1,0 +1,44 @@
+# Línea N · una pregunta por archivo. Después de editar: npm run db:import
+# Un nombre por renglón. Variantes con |   ej: Benín | Benin | Dahomey
+# Niveles: [10] común · [30] poco común · [60] rara · [100] de nicho
+
+categoria: Geografía
+consigna: Nombrá una capital europea
+activa: si
+apellidos: no
+
+[10]
+Madrid
+París
+Roma
+Londres
+Berlín
+
+[30]
+Lisboa
+Atenas
+Viena
+Ámsterdam | Amsterdam
+Bruselas
+Dublín
+
+[60]
+Praga
+Varsovia
+Budapest
+Estocolmo
+Oslo
+Copenhague
+Helsinki
+Berna
+
+[100]
+Liubliana | Ljubljana
+Vaduz
+La Valeta | Valeta | Valletta
+Chisináu | Chisinau
+Skopie | Skopje
+Tirana
+Podgorica
+Reikiavik | Reykjavik
+Andorra la Vieja

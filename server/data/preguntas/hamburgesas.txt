@@ -1,0 +1,62 @@
+categoria: Comida
+consigna: Nombrá una hamburguesería de la Ciudad de Buenos Aires (CABA)
+activa: si
+apellidos: no
+
+[10]
+McDonald's | Mcdonalds | Mc Donalds
+Burger King
+Mostaza
+
+[30]
+Kiddo
+Gordis | El Gordis | Gordis Burger
+Burgertory
+Duquesa
+Thames
+Pony Pony Burger | Pony
+Denise | Denise Burger
+Buller
+The Embers
+Williamsburg
+Tierra de Nadie | TDN
+Wendy's | Wendys
+Denny's 
+
+
+[60]
+Antares Burgers
+Ovidio
+San Burger
+Stanton
+Hoops
+Kevin Bacon
+Jonnhy B. Good
+Paris Burger
+Bierlife
+Boliche de Hayley
+The Fittest
+Arredondo
+
+[100]
+Frank's Burger | Franks | Franksburger | Frank
+Holy Burgers
+Burger Joint
+Lao
+Big Sur
+Fuisto
+El Desnivel Burgers
+Cervecería de Barrio
+Menta & Limón
+Burger Facts
+Bar de Carnes
+Hambuchas
+Patio de los Lecheros Burger
+La Birra Bar
+An Catering Burger
+La Fernetería Burger
+Punto Burger
+Soberbia
+Frizata Burgers
+Oli Burger
+A lo gordo

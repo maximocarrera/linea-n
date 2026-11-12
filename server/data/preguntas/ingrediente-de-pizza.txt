@@ -1,0 +1,37 @@
+# Línea N · una pregunta por archivo. Después de editar: npm run db:import
+# Un nombre por renglón. Variantes con |   ej: Benín | Benin | Dahomey
+# Niveles: [10] común · [30] poco común · [60] rara · [100] de nicho
+
+categoria: Comida
+consigna: Nombrá un ingrediente de pizza
+activa: si
+apellidos: no
+
+[10]
+Muzzarella | Mozzarella | Muzarela | Queso
+Tomate
+Jamón
+
+[30]
+Aceitunas | Aceituna
+Morrón
+Cebolla
+Orégano
+Pepperoni
+
+[60]
+Champiñones | Champiñón | Hongos
+Anchoas
+Rúcula
+Albahaca
+Huevo
+Palmitos
+Ananá | Piña
+
+[100]
+Alcaparras
+Provolone
+Jamón crudo
+Alcauciles
+Berenjena
+Gorgonzola

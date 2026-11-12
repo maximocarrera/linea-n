@@ -1,0 +1,20 @@
+{
+  "name": "@linean/server",
+  "private": true,
+  "version": "0.1.0",
+  "type": "module",
+  "scripts": {
+    "dev": "node --disable-warning=ExperimentalWarning --watch src/index.js",
+    "start": "node --disable-warning=ExperimentalWarning db/import.js && node --disable-warning=ExperimentalWarning src/index.js",
+    "db:seed": "node --disable-warning=ExperimentalWarning db/seed.js",
+    "db:import": "node --disable-warning=ExperimentalWarning db/import.js",
+    "db:export": "node --disable-warning=ExperimentalWarning db/export.js",
+    "db:categorias": "node --disable-warning=ExperimentalWarning db/categories.js"
+  },
+  "dependencies": {
+    "@linean/shared": "*",
+    "compression": "^1.8.0",
+    "express": "^5.1.0",
+    "socket.io": "^4.8.1"
+  }
+}

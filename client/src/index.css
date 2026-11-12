@@ -1,0 +1,276 @@
+@import "tailwindcss";
+
+/* ───────────── Tokens de diseño: estación de subte ───────────── */
+@theme {
+  --font-sans: "Space Grotesk", ui-sans-serif, system-ui, sans-serif;
+  --font-mono: "JetBrains Mono", ui-monospace, monospace;
+
+  --color-tunnel: #0b0d12;
+  --color-platform: #151a24;
+  --color-platform-2: #1d2330;
+  --color-sign: #0f1219;
+  --color-chalk: #f4f2ea;
+  --color-mute: #aeaca4; /* texto secundario: ~8:1 sobre tunnel (cumple 4.5:1) */
+  --color-rail: #2a3140; /* bordes y divisores visibles */
+  --color-signal: #ffd400;
+  --color-alert: #ff4d4f;
+
+  --color-line-a: #18b4e9;
+  --color-line-b: #e5262f;
+  --color-line-c: #1f5fbf;
+  --color-line-d: #00a05a;
+  --color-line-e: #7b3fa0;
+  --color-line-h: #ffc20e;
+
+  --ease-train: cubic-bezier(0.65, 0, 0.35, 1);
+  --ease-pop: cubic-bezier(0.34, 1.56, 0.64, 1);
+
+  /* Todas las animaciones usan solo transform/opacity → compuestas en GPU */
+  --animate-slide-up: slide-up 480ms var(--ease-pop) both;
+  --animate-pop-in: pop-in 420ms var(--ease-pop) both;
+  --animate-float-up: float-up 1200ms ease-out both;
+  --animate-ping-ring: ping-ring 1400ms ease-out infinite;
+  --animate-flicker: flicker 900ms linear both;
+  --animate-fade-in: fade-in 300ms ease-out both;
+
+  @keyframes slide-up {
+    from { opacity: 0; transform: translate3d(0, 18px, 0); }
+    to { opacity: 1; transform: translate3d(0, 0, 0); }
+  }
+  @keyframes pop-in {
+    from { opacity: 0; transform: scale(0.85); }
+    to { opacity: 1; transform: scale(1); }
+  }
+  @keyframes float-up {
+    0% { opacity: 0; transform: translate3d(0, 10px, 0) scale(0.8); }
+    20% { opacity: 1; transform: translate3d(0, 0, 0) scale(1.1); }
+    100% { opacity: 0; transform: translate3d(0, -70px, 0) scale(1); }
+  }
+  @keyframes ping-ring {
+    from { opacity: 0.7; transform: scale(1); }
+    to { opacity: 0; transform: scale(2.6); }
+  }
+  @keyframes flicker {
+    0%, 12%, 24% { opacity: 0.2; }
+    8%, 18%, 30%, 100% { opacity: 1; }
+  }
+  @keyframes fade-in {
+    from { opacity: 0; }
+    to { opacity: 1; }
+  }
+}
+
+@keyframes train-pass {
+  from { transform: translate3d(100vw, 0, 0); }
+  to { transform: translate3d(-100%, 0, 0); }
+}
+@keyframes curtain {
+  0% { opacity: 0; }
+  25%, 70% { opacity: 1; }
+  100% { opacity: 0; }
+}
+/* Portada */
+@keyframes flap {
+  from { opacity: 0; transform: rotateX(-95deg); }
+  to { opacity: 1; transform: rotateX(0deg); }
+}
+@keyframes grow-x {
+  from { transform: scaleX(0); }
+}
+@keyframes marquee {
+  to { transform: translate3d(-50%, 0, 0); }
+}
+/* Resultados */
+@keyframes rise {
+  from { transform: translate3d(0, 100%, 0); }
+  to { transform: translate3d(0, 0, 0); }
+}
+@keyframes crown-drop {
+  0% { opacity: 0; transform: translate3d(0, -40px, 0) rotate(-20deg); }
+  60% { opacity: 1; transform: translate3d(0, 4px, 0) rotate(6deg); }
+  100% { opacity: 1; transform: translate3d(0, 0, 0) rotate(0deg); }
+}
+@keyframes confetti-fall {
+  from { transform: translate3d(0, -15vh, 0) rotate(0deg); }
+  to { transform: translate3d(var(--drift, 0px), 110vh, 0) rotate(var(--spin, 540deg)); }
+}
+@keyframes blink-dot {
+  50% { opacity: 0.35; }
+}
+@keyframes countdown {
+  from { transform: scaleX(var(--from, 1)); }
+  to { transform: scaleX(0); }
+}
+
+/* ───────────── Base ───────────── */
+@layer base {
+  html {
+    color-scheme: dark;
+    -webkit-text-size-adjust: 100%;
+    text-size-adjust: 100%;
+  }
+  body {
+    background: var(--color-tunnel);
+    color: var(--color-chalk);
+    font-family: var(--font-sans);
+    -webkit-font-smoothing: antialiased;
+    -webkit-tap-highlight-color: transparent;
+    overscroll-behavior: none;
+  }
+  button {
+    cursor: pointer;
+    touch-action: manipulation;
+  }
+  /* 16px mínimo: evita el zoom automático de iOS al enfocar inputs */
+  input {
+    font-size: max(16px, 1em);
+  }
+}
+
+/* ───────────── Utilidades temáticas ───────────── */
+@layer components {
+  /* Pared de azulejos del andén */
+  .tile-wall {
+    background-color: var(--color-tunnel);
+    background-image:
+      radial-gradient(130% 55% at 50% -5%, rgb(255 212 0 / 0.09), transparent 60%),
+      linear-gradient(rgb(255 255 255 / 0.035) 1px, transparent 1px),
+      linear-gradient(90deg, rgb(255 255 255 / 0.035) 1px, transparent 1px);
+    background-size: 100% 100%, 44px 22px, 44px 22px;
+  }
+  /* Línea amarilla de seguridad del andén */
+  .safety-strip {
+    background: repeating-linear-gradient(-45deg, var(--color-signal) 0 14px, #111 14px 28px);
+  }
+  .safe-pad {
+    padding-top: max(1.25rem, env(safe-area-inset-top));
+    padding-bottom: max(1.5rem, calc(env(safe-area-inset-bottom) + 0.75rem));
+    padding-left: max(1rem, env(safe-area-inset-left));
+    padding-right: max(1rem, env(safe-area-inset-right));
+  }
+  .countdown-bar {
+    transform-origin: left center;
+    will-change: transform;
+    animation-name: countdown;
+    animation-timing-function: linear;
+    animation-fill-mode: forwards;
+  }
+  .train {
+    will-change: transform;
+    animation-name: train-pass;
+    animation-timing-function: cubic-bezier(0.5, 0, 0.3, 1);
+    animation-fill-mode: forwards;
+  }
+  .train-car {
+    background: linear-gradient(180deg, #e8ebf0 0%, #b9c0cb 55%, #8c94a1 100%);
+    box-shadow: inset 0 -6px 0 rgb(0 0 0 / 0.25), 0 20px 50px rgb(0 0 0 / 0.6);
+  }
+  .train-window {
+    background: linear-gradient(160deg, #3a4558 0%, #141922 60%, #252e3d 100%);
+  }
+
+  /* ── Portada (brutalismo de cartelería) ── */
+  .label-caps {
+    font-size: 0.75rem;
+    font-weight: 700;
+    letter-spacing: 0.14em;
+    text-transform: uppercase;
+    color: var(--color-mute);
+  }
+  .slab {
+    border: 2px solid var(--color-rail);
+    background: var(--color-platform);
+  }
+  /* Botón con sombra dura: al presionar "se hunde" con transform (no mueve el layout) */
+  .press {
+    box-shadow: 5px 5px 0 0 var(--press-shadow, #000);
+    transition: transform 120ms ease-out, box-shadow 120ms ease-out, background-color 150ms;
+  }
+  .press:hover {
+    transform: translate3d(-1px, -1px, 0);
+    box-shadow: 6px 6px 0 0 var(--press-shadow, #000);
+  }
+  .press:active {
+    transform: translate3d(5px, 5px, 0);
+    box-shadow: 0 0 0 0 var(--press-shadow, #000);
+  }
+  .press:focus-visible,
+  .focus-ring:focus-visible {
+    outline: 3px solid var(--color-signal);
+    outline-offset: 3px;
+  }
+  .flap-wrap {
+    perspective: 400px;
+  }
+  .flap {
+    display: inline-block;
+    transform-origin: 50% 50% -0.3em;
+    backface-visibility: hidden;
+    animation: flap 380ms cubic-bezier(0.3, 1.4, 0.6, 1) both;
+  }
+  .marquee-track {
+    animation: marquee 38s linear infinite;
+    will-change: transform;
+  }
+  .marquee:hover .marquee-track {
+    animation-play-state: paused;
+  }
+  .marquee {
+    mask-image: linear-gradient(90deg, transparent, #000 8%, #000 92%, transparent);
+  }
+  .live-dot {
+    animation: blink-dot 1.6s ease-in-out infinite;
+  }
+  .rise {
+    will-change: transform;
+    animation: rise 650ms cubic-bezier(0.2, 0.9, 0.25, 1) both;
+  }
+  .crown-drop {
+    animation: crown-drop 700ms cubic-bezier(0.3, 1.4, 0.6, 1) both;
+  }
+  .confetti-piece {
+    position: absolute;
+    top: 0;
+    transform: translate3d(0, -15vh, 0);
+    will-change: transform;
+    animation: confetti-fall linear forwards;
+  }
+  /* Botón de ícono: 48×48 mínimo aunque el ícono sea chico */
+  .icon-btn {
+    display: inline-grid;
+    place-items: center;
+    min-width: 3rem;
+    min-height: 3rem;
+    border: 2px solid var(--color-rail);
+    background: var(--color-platform);
+    transition: background-color 150ms, border-color 150ms, transform 120ms;
+  }
+  .icon-btn:hover {
+    border-color: var(--color-mute);
+  }
+  .icon-btn:active {
+    transform: scale(0.94);
+  }
+  .icon-btn:focus-visible {
+    outline: 3px solid var(--color-signal);
+    outline-offset: 2px;
+  }
+  /* Perforación del boleto */
+  .perforation {
+    background-image: radial-gradient(circle, var(--color-rail) 2px, transparent 2.5px);
+    background-size: 12px 6px;
+    background-repeat: repeat-x;
+    background-position: center;
+  }
+}
+
+/* Respetar "reducir movimiento" (excepto la barra del cronómetro, que es información) */
+@media (prefers-reduced-motion: reduce) {
+  *:not(.countdown-bar),
+  *::before,
+  *::after {
+    animation-duration: 1ms !important;
+    animation-iteration-count: 1 !important;
+    transition-duration: 1ms !important;
+  }
+}
