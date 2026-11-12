@@ -1,6 +1,6 @@
 categoria: Musica
 consigna: Nombrá a una banda del rock argentino
-activa: no
+activa: si
 apellidos: no
 
 [10]

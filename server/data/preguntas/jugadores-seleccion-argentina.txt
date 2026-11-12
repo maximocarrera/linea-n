@@ -13,7 +13,7 @@
 
 categoria: Fútbol
 consigna: Nombrá un jugador que haya jugado en la Selección Argentina
-activa: no
+activa: si
 apellidos: si
 
 [10]

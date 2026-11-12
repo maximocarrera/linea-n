@@ -253,7 +253,7 @@ An American Werewolf in London | Un hombre lobo americano en Londres
 Raging Bull | Toro salvaje
 Kramer vs. Kramer
 Apocalypse Now | Apocalipsis ahora
-The Deer Hunter | El francotirador
+The Deer Hunter
 Midnight Express | Expreso de medianoche
 Annie Hall | Dos extraños amantes
 Close Encounters of the Third Kind | Encuentros cercanos del tercer tipo
@@ -784,7 +784,6 @@ Bad Girl
 The Barefoot Contessa
 The Big Country
 The Big House
-The Black Swan
 Blood and Sand
 Blossoms in the Dust
 Body and Soul

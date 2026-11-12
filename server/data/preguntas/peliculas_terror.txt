@@ -152,7 +152,6 @@ The Cloverfield Paradox
 Pet Sematary | Cementerio de animales | Cementerio maldito
 The Black Phone | El telefono negro
 Raw | Crudo | Grave
-The Final Destination | Destino final 4
 Scream 3
 
 [25]
@@ -358,7 +357,7 @@ Morgan
 The Cell | La celda
 Cam
 In the Mouth of Madness | En la boca del miedo
-The Silence | El silencio
+The Silence
 Candyman
 Jacob's Ladder | La escalera de Jacob
 The Dead Zone | La zona muerta
@@ -427,7 +426,7 @@ The Bye Bye Man
 Wrong Turn 2 Dead End | Camino hacia el terror 2
 Greta
 Tusk
-Ringu | Ring
+Ringu
 Jason X
 The Final Girls
 The Human Centipede 2 (Full Sequence) | El ciempies humano 2
@@ -465,7 +464,6 @@ The Tall Man
 El espinazo del diablo | The Devil's Backbone
 Day of the Dead | Dia de los muertos
 Cult of Chucky | El culto de Chucky
-Texas Chainsaw Massacre | La masacre de Texas 2022
 The Gift
 The Addams Family 2 | Los locos Addams 2
 The Lodge
@@ -475,7 +473,6 @@ The Taking of Deborah Logan | La posesion de Deborah Logan
 REC 4 Apocalipsis | REC4 Apocalypse
 Hostel Part III | Hostal 3
 Halloween 5 The Revenge of Michael Myers | Halloween 5 la venganza de Michael Myers
-Cell
 Dead Snow | Zombies nazis
 13 Sins
 Scanners
@@ -573,7 +570,6 @@ A Classic Horror Story
 The Room
 Critters
 Diabolique | Las diabolicas | Les Diaboliques
-Possession
 Ichi the Killer
 The Night House | La casa oscura
 The Stepfather | El padrastro
@@ -654,7 +650,6 @@ The Loved Ones
 Willy's Wonderland
 Black Sheep | Ovejas asesinas
 Leprechaun | Leprechaun el duende maldito
-Host
 Open Grave
 Night Teeth
 The Howling | Aullidos
@@ -820,7 +815,6 @@ Devil's Due
 The Thing from Another World | El enigma de otro mundo 1951
 Vampire Hunter D Bloodlust
 Return of the Living Dead Part II
-House | Hausu
 The Innocents | Los inocentes
 Boo 2 A Madea Halloween
 Shark Night 3D
@@ -865,7 +859,6 @@ Demonic
 Needful Things
 Intruders
 Dante's Inferno An Animated Epic
-The Relic | La reliquia
 Black Box
 30 Days of Night Dark Days
 Spontaneous
@@ -982,7 +975,7 @@ Behind the Mask The Rise of Leslie Vernon
 The End | The End L'inferno fuori
 Mirrors 2
 The Stuff
-Incantation | Maldicion
+Incantation
 When the Bough Breaks
 Knights of Badassdom
 The Vault
@@ -1025,7 +1018,6 @@ The Thinning
 Backtrack
 Mara
 Body Snatchers
-Darkness
 Tremors A Cold Day in Hell
 American Psycho II All American Girl
 Coma
@@ -1047,7 +1039,6 @@ The Cured
 Bedevilled
 Sightless
 Alien Abduction
-The Hidden
 Big Bad Wolves
 Spell
 Patient Zero
@@ -1077,7 +1068,6 @@ The Funhouse
 A Bay of Blood | Bahia de sangre | Ecologia del delitto
 Amusement
 Warlock
-The Little Shop of Horrors | La tiendita del horror
 Primeval
 Cure
 Hatchet III
@@ -1775,7 +1765,6 @@ Evil Eye
 Monstrum
 The Black Room
 F
-Hunger
 Heartless
 Feral
 Let's Scare Jessica to Death
@@ -1927,7 +1916,6 @@ Stranded
 Rodan
 Long Time Dead
 Faces of Death
-The Beast | La Bete
 Children of the Corn V Fields of Terror
 The Call
 The Hollow Child
@@ -1943,7 +1931,6 @@ Puppet Master III Toulon's Revenge
 Let's Be Evil
 Rape Zombie Lust of the Dead
 Thale
-The Mimic
 Cottage Country
 Critters Attack
 Vile
@@ -1964,7 +1951,6 @@ The Vault of Horror
 Scars of Dracula
 The Tingler
 Safer at Home
-The Cursed
 The Final Wish
 Blacula
 Like.Share.Follow.
@@ -2019,7 +2005,7 @@ The City of the Dead
 Blood Rage
 A Lizard in a Woman's Skin | Una lucertola con la pelle di donna
 The Call of Cthulhu
-La casa muda | The Silent House
+La casa muda
 13 Game of Death
 La Leyenda del Chupacabras | The Legend of the Chupacabras
 Silent Night, Deadly Night Part 2
@@ -2199,7 +2185,6 @@ Sublime
 House on the Edge of the Park | La casa sperduta nel parco
 Gamera 3 Revenge of Iris
 Blood Diner
-Prophecy
 Race with the Devil
 Eat Locals
 Crimewave
@@ -2397,7 +2382,6 @@ Man's Best Friend
 End of the Line
 Death Machine
 Two Thousand Maniacs | 2000 Maniacs
-Nightmare
 Horsehead
 Demon House
 Tras el cristal | In a Glass Cage
@@ -2429,7 +2413,6 @@ Carry On Screaming
 The Wizard of Gore
 The Theatre Bizarre
 5150 Elm's Way | 5150 rue des Ormes
-Ritual
 Wishing Stairs
 Monster Portal
 Dark Country
@@ -2488,7 +2471,6 @@ The Abominable Snowman
 Crawlspace
 Bosque de sombras | The Backwoods
 The Last Broadcast
-The Toolbox Murders
 Dead of Winter
 The Sect | La setta
 Slaughtered Vomit Dolls
@@ -2501,7 +2483,6 @@ Amityville The Evil Escapes
 Love Bite
 Mine Games
 Count Dracula | Nachts, wenn Dracula erwacht
-Shortcut
 Lucifer Rising
 Slice
 The Beast Within
@@ -2633,7 +2614,6 @@ Castle of Blood | Danza macabra
 The Dunwich Horror
 Vampire Girl vs. Frankenstein Girl
 Lifechanger
-The Antichrist | L'anticristo
 Dark Woods II | Villmark 2
 The Wasp Woman
 Sadako 3D
@@ -2660,7 +2640,6 @@ The Evil of Frankenstein
 Killer Toon
 Deep Dark
 Awoken
-The Watcher
 Detention of the Dead
 Nightworld
 Zoo
@@ -2687,7 +2666,6 @@ Children of the Damned
 Hold Your Breath
 Nightlight
 Romasanta The Werewolf Hunt
-Remains
 All Hallows' Eve 2
 Baby Blues
 Man with the Screaming Brain
@@ -2705,8 +2683,6 @@ Sadako
 Crocodile 2 Death Swamp
 Rise of the Zombies
 Sssssss
-The Initiation
-Funhouse
 Teddy
 The Amityville Curse
 Maus | The Maus
@@ -2802,7 +2778,6 @@ Father's Day
 Embrion | Embryo
 Creepozoids
 Queen of Spades
-The Haunted
 They Reach
 One Missed Call 3 Final
 Night of the Demons III
@@ -3227,7 +3202,6 @@ Yavarum Nalam
 Doom Asylum
 Sick Nurses
 Hippopotamus
-Djinn
 Range 15
 The Fair Haired Child
 Ju-on The Beginning of the End
@@ -3241,7 +3215,6 @@ Gemini
 Sijjin
 Circus of Horrors
 Lust of the Vampire | I vampiri
-The Devil
 The Sorcerers
 Treevenge
 Morgue
@@ -3435,7 +3408,6 @@ Night School
 The Piper
 Eegah
 Day the World Ended
-Baby
 El buque maldito | The Ghost Galleon
 Dead Season
 The Redwood Massacre
@@ -3490,7 +3462,6 @@ Death Walks on High Heels | La morte cammina con i tacchi alti
 The Shiver of the Vampires | Le frisson des vampires
 Hellevator
 Don't Let Him In
-Hollow
 Fear of the Dark
 The Asphyx
 Baby Shower
@@ -3654,12 +3625,10 @@ The Snare
 Prom Night IV Deliver Us from Evil
 Murder-Rock Dancing Death | Murderock Uccide a passo di danza
 La casa del caracol | The House of Snails
-Slumber Party Massacre
 Ripper Letter from Hell
 The Dawn
 Mission Galactica The Cylon Attack
 Deep Shock
-Uninvited
 Devilman
 Deadtime Stories
 Class of Nuke 'Em High 2 Subhumanoid Meltdown
@@ -3827,7 +3796,6 @@ Alien Convergence
 The Swimmers
 The Visitation
 Martian Land
-11/11/11
 Ghoulies IV
 It Waits
 DNA
@@ -3843,7 +3811,6 @@ The Monster That Challenged the World
 Perkins' 14
 Lady Frankenstein | La figlia di Frankenstein
 2359
-Open House
 Eye of the Devil
 Conquest
 Caltiki, the Immortal Monster | Caltiki Il mostro immortale
@@ -3868,10 +3835,8 @@ Color Me Blood Red
 Arbor Demon
 Daimajin
 The Ringmaster | Finale
-Broken
 Sugar Hill
 Teenagers from Outer Space
-Return
 Apt
 The Axiom
 The Incredibly Strange Creatures Who Stopped Living and Became Mixed-Up Zombies
@@ -3902,7 +3867,6 @@ Raging Sharks
 VANish
 Hansel & Gretel Warriors of Witchcraft
 WNUF Halloween Special
-Backwoods
 4D Man
 The V Word
 The Odds
@@ -3980,7 +3944,6 @@ Hideous
 Nine Lives
 Tonight She Comes
 Antarctic Journal
-The Werewolf
 The Ghost of Yotsuya
 Sky High
 Indestructible Man
@@ -4094,7 +4057,6 @@ May the Devil Take You Too
 All Through the House
 Depraved
 The Locals
-The Tooth Fairy
 House of Good and Evil
 Black Rainbow
 Goke, Body Snatcher from Hell
@@ -4161,7 +4123,6 @@ Messages Deleted
 Seven Mummies
 The Doll 2
 Corridors of Blood
-Voices
 Lake Fear
 The Device
 The Perfect Husband
@@ -4227,7 +4188,6 @@ Midnight Son
 Moby Dick
 The Inhabitants
 Zombie Island Massacre
-Entity
 Cannibal
 388 Arletta Avenue
 From the Depths
@@ -4253,12 +4213,10 @@ The Being
 Devoured
 The Dorm That Dripped Blood
 The Child
-Monster
 U Turn
 Creep Van
 Die in One Day
 Monster a Go-Go
-Incubus
 Office Killer
 First Man into Space
 Night of the Ghouls
@@ -4266,7 +4224,6 @@ Blood & Donuts
 Koma
 The Emperor and the Golem
 Mexico Barbaro II
-The Prey
 Gestapo's Last Orgy | L'ultima orgia del III Reich
 Sea Beast
 Sinister Squad
@@ -4280,7 +4237,6 @@ Land of Smiles
 The Smiling Man
 One of Us
 Gehenna Where Death Lives
-Neighbor
 The School
 S&Man
 Comedown
@@ -4316,14 +4272,12 @@ Afterparty
 Killing Birds
 Merlin's Shop of Mystical Wonders
 Dead Space
-The Color Out of Space | Die Farbe
 La noche del virgen | The Night of the Virgin
 The Rejected
 Horrors of Malformed Men
 Discopath
 Vampires Out For Blood
 The Flesh and the Fiends
-Plague
 Creating Carrie
 The Kingdom II | Riget II
 Blue Sunshine
@@ -4364,7 +4318,6 @@ The Mummy's Shroud
 Scalps
 Day of the Mummy
 Human Lanterns
-The Aftermath
 Hansel and Gretel
 Alena
 El jorobado de la Morgue | Hunchback of the Morgue
@@ -4390,7 +4343,6 @@ SS Experiment Love Camp | Lager SSadis Kastrat Kommandantur
 Ballad in Blood
 Observance
 Ghostkeeper
-The Godsend
 Amuck | Alla ricerca del piacere
 Soultaker
 The Touch of Satan
@@ -4429,7 +4381,6 @@ Dead Air
 Vacaciones de terror 2 | Vacations of Terror 2
 Trilogy of Terror II
 Silent Scream
-Believers
 Hoax
 Bloodsuckers
 Schizoid
@@ -4467,7 +4418,6 @@ The Damned Thing
 Howard Lovecraft & the Frozen Kingdom
 The Stone Tape
 El escapulario | The Scapular
-The American Nightmare
 What Ever Happened to Aunt Alice
 Welcome to Mercy
 Amphibious 3D
@@ -4484,7 +4434,6 @@ Subject Two
 Sudor frio | Cold Sweat
 Bobby Yeah
 Elevated
-Boat
 Tuck Me In
 Heks
 For the Sake of Vicious
@@ -4498,7 +4447,6 @@ Terror in the Aisles
 Skinned Deep
 House of Mortal Sin
 Kraken Tentacles of the Deep
-The Ogre | La casa dell'orco
 Headgame
 Dinocroc
 Dracula The Dark Prince
@@ -4532,7 +4480,6 @@ The Bees
 Deadly Weekend
 Devilman Volume 3 Devilman Apocalypse
 M.O.M. Mothers of Monsters
-The Undead
 Omnivores
 Inkubus
 The Face of Fu Manchu
@@ -4561,7 +4508,6 @@ Aval
 The She Beast
 Extinction The G.M.O. Chronicles
 Remote Control
-The Demon | Il demonio
 La campana del infierno | Bell from Hell
 Smash Cut
 Dead Meat
@@ -4583,7 +4529,7 @@ Killer Mosquitos | Tafanos
 Encounters
 Rabid Grannies
 Eaters
-El vampiro | The Vampire
+El vampiro
 Brutal Relax
 Alien Alone
 The Hunting
@@ -4609,7 +4555,6 @@ The Dead Hate the Living
 Evolver
 Horror Stories
 Night of Dark Shadows
-Victim
 Psychosis
 Sasquatch Mountain
 Dabbe 5 Curse of the Jinn
@@ -4638,7 +4583,6 @@ The Butcher
 Paintball Massacre
 The Astro-Zombies
 Black Swarm
-Terror
 Billy the Kid Versus Dracula
 Cthulhu
 Lost Colony The Legend of Roanoke
@@ -4651,7 +4595,6 @@ Conjurer
 El callejon | Blind Alley
 Scanner Cop
 The Rambler
-Dark
 Monstrosity
 Curse II The Bite
 Dracula's Dog
@@ -4708,7 +4651,6 @@ Espectro | Demon Inside
 Stepfather 3
 Alien Predator
 Caved In Prehistoric Terror
-Body
 Jack and Jill
 Shark Exorcist
 Forbidden Siren
@@ -4738,7 +4680,6 @@ Someone's Knocking at the Door
 The Lazarus Child
 Valerie on the Stairs
 Limbo
-The Feast
 Zodiac Killer
 Undocumented
 Dogra Magra
@@ -4816,7 +4757,6 @@ They Remain
 The Helpers
 The Insatiable
 The Oak Room
-The Morgue
 La Niña De La Mina
 Cyst
 Dead Sea
@@ -4839,7 +4779,6 @@ Tomie Unlimited
 The Dead Are Alive | L'etrusco uccide ancora
 Hallowed Ground
 Vicious Lips
-The Afflicted
 Decoder
 Jack-O
 Karen
@@ -4924,8 +4863,6 @@ American Horror House
 The Special
 The Ouija Exorcism
 Silent Venom
-Rats
-The Day the World Ended
 Meridian
 Embodiment of Evil | Encarnacao do Demonio
 Asylum Twisted Horror & Fantasy Tales
@@ -4948,7 +4885,6 @@ Hair High
 Henry Portrait of a Serial Killer 2 Mask of Sanity
 Inoperable
 Dorian Gray | Das Bildnis des Dorian Gray
-The Dorm
 Ice Road Terror
 The Cloth
 Touch of Evil
@@ -5003,7 +4939,6 @@ The Squeaker | Edgar Wallace Der Zinker
 In Their Sleep | Dans ton sommeil
 Class of Nuke 'Em High 3 The Good, the Bad and the Subhumanoid
 Thralls
-Rift
 Beyond Evil
 Act of Vengeance
 The Adventure of Denchu-Kozo
@@ -5057,7 +4992,6 @@ Flu Bird Horror
 Circus of Fear
 Sleepstalker
 Skeleton Man
-The Murders in the Rue Morgue
 Ceremonia sangrienta | The Legend of Blood Castle
 Afraid of the Dark
 Scary Movie
@@ -5065,7 +4999,6 @@ Absence
 1920
 Styria
 Scream for Help
-Slayer
 Curse of the Undead
 Sijjin 3 The Forbidden Love
 The Possession of Joel Delaney
@@ -5096,11 +5029,9 @@ DreadOut
 Hazard Jack
 The Swerve
 Human Zoo
-The Premonition
 Death Warmed Up
 Buried Alive II
 Gut
-Lighthouse
 The Columnist | De Kuthoer
 Lake Fear 3
 Watch Me When I Kill | Il gatto dagli occhi di giada
@@ -5141,7 +5072,6 @@ La tia Alejandra | Aunt Alejandra
 Bed Number 6 | Letto n. 6
 The California Kid
 Bunker of the Dead
-The Ghoul
 I Love Sarah Jane
 The Killer Must Kill Again | L'assassino e costretto ad uccidere ancora
 Atom Age Vampire
@@ -5160,15 +5090,12 @@ Ninja Apocalypse
 Horny House of Horror
 What Josiah Saw
 Giallo in Venice | Giallo a Venezia
-The Wicked City
 All Souls Day Dia de los Muertos
 The Terror of Hallow's Eve
 Mr. Vampire III
 Flying Monkeys
 Raised by Wolves
-The Retreat
 Hansel Vs. Gretel
-The Thirst
 The Ninth Passenger
 Killer Under The Bed
 It Comes
@@ -5217,7 +5144,6 @@ Deep Space
 Evil Laugh
 Bajo la Sal | Under the Salt
 Trog
-Corridor | Isolerad
 The Hitchhiker
 Fading of the Cries
 Germ
@@ -5261,7 +5187,6 @@ Devil Story | Devil Story Il etait une fois le Diable
 Season's Greetings
 The Blue Hour
 Ghost of Love | Fantasma d'amore
-Golem
 Paura
 Death Tube- Broadcast Murder Show
 Find Me
@@ -5269,7 +5194,6 @@ Stille Nacht II Are We Still Married
 Alexia
 Hacksaw
 Crystal Skulls
-Abandoned
 Hinterland
 Billy & Mandy Wrath of the Spider Queen
 Strange Nature
@@ -5286,7 +5210,6 @@ Deadcon
 Halloween Pussy Trap Kill Kill
 Ghostmates
 Black Demons | Demoni 3
-The Hatching
 The Fallen Ones
 Edgar Allan Poe's Lighthouse Keeper
 Minutes to Midnight
@@ -5297,16 +5220,13 @@ Cheerleader Massacre
 Pooka Lives
 Blue Demon
 Warhouse
-The Crawlers
 Demon Legacy
 Zoombies 2
 The Ganzfeld Haunting
 Fire City End of Days
-The Demons | Les demons
 Food of the Gods II
 The Sleeper
 Midsummer | Midsommer
-Apparition
 Dark Age
 Driven
 Creature with the Atom Brain
@@ -5370,7 +5290,6 @@ Doctor Blood's Coffin
 The Glow
 Blood and Lace
 The Alien Dead
-The Triangle
 Yoga
 Beyond the Woods
 My Dear Killer | Mio caro assassino
@@ -5382,7 +5301,6 @@ H0us3
 The Iguana with the Tongue of Fire | L'iguana dalla lingua di fuoco
 He Dies at the End
 Werewolves on Wheels
-Fear
 Under the Blossoming Cherry Trees
 Death Link
 See You Soon
@@ -5468,7 +5386,6 @@ The Horror at 37,000 Feet
 The Thing That Couldn't Die
 The Spider Labyrinth | Il nido del ragno
 The Deep Ones
-The Blackout
 Invasion of the Pod People
 Eko Eko Azarak Wizard of Darkness
 Vampire Boys 2 The New Brood
@@ -5504,7 +5421,6 @@ House Swap
 It's Gradiva Who Is Calling You
 Star Crystal
 Escape from Marwin
-Forsaken
 Luther the Geek
 Septic Man
 Ek Thi Daayan
@@ -5521,7 +5437,7 @@ Cries in the Night
 Door to Silence | Le porte del silenzio
 Morgana
 Neighbour No. 13
-La senda | The Path
+La senda
 Net I Die
 Cross of the Seven Jewels | La croce dalle 7 pietre
 Careful
@@ -5531,7 +5447,7 @@ Terror-Creatures from the Grave
 I REC U
 AA-
 The Cyclops
-Los Huesos | The Bones
+Los Huesos
 Al final del espectro | At the End of the Spectra
 Gritos en el pasillo | Screaming in the Hallway
 A Dragon Arrives
@@ -5578,7 +5494,6 @@ Vampire Clan
 Devil's Domain
 Inferno of Torture
 Rampo Noir
-Eternal
 Watchers II
 Boys from County Hell
 Look What's Happened to Rosemary's Baby
@@ -5614,7 +5529,6 @@ Five Across the Eyes
 Bhoot
 City of Dead Men
 Sleep | Schlaf
-Dead
 Artik
 The Blood of Fu Manchu
 Night of the Scarecrow
@@ -5630,7 +5544,6 @@ Scrapbook
 Crescendo
 Gigantis The Fire Monster
 Scanner Cop II
-The Spell
 The Demolitionist
 The Runestone
 The Phoenix Tapes '97
@@ -5806,7 +5719,6 @@ Oculus Chapter 3 The Man with the Plan
 Capulina contra los vampiros | Capulina vs. the Vampires
 Bracula Condemor II
 The Severed Arm
-The Dark House
 Wisconsin Death Trip
 Ferat Vampire
 Ring of Terror
@@ -5926,7 +5838,6 @@ Antidote
 Rule Number One
 Deadly Detention
 Sweet River
-The Seed
 Alien Terminator
 Apprentice to Murder
 Live Animals
@@ -5990,7 +5901,6 @@ The Woman Who Powders Herself | La Femme qui se poudre
 The Gruesome Twosome
 Suspension
 The Last Little Red Riding Hood | Le dernier chaperon rouge
-The Black Forest | A Mata Negra
 La mano de un hombre muerto | The Sadistic Baron Von Klaus
 Attack of the Beast Creatures
 El bosque del lobo | The Ancines Woods
@@ -6151,7 +6061,6 @@ Apocalipsis Voodoo | Voodoo Apocalypse
 El ataque de los pajaros | Birds of Prey
 Bane
 Theatre of Death
-Demented
 Faces of Death IV
 Yonggary
 En las afueras de la ciudad | Hidden in the Woods
@@ -6169,7 +6078,6 @@ Horror Stories 2
 Puzzlehead
 Visions of Ecstasy
 Escape from Hell
-The Visitors | Besokarna
 Cowboy
 Santo y Blue Demon contra el doctor Frankenstein | Santo and Blue Demon vs. Dr. Frankenstein
 Bewitched
@@ -6179,7 +6087,6 @@ The Coffin
 Kristen
 Killer Barbys | Vampire Killer Barbys
 The Children of the Dead | Die Kinder der Toten
-Medium
 They Have Changed Their Face | ...hanno cambiato faccia
 Necropolis
 Devil's Weekend | Making-Off
@@ -6269,7 +6176,6 @@ Godmonster of Indian Flats
 Spooky House
 A Reflection of Fear
 Dark Beacon
-The Howl | L'urlo
 Vampire Hookers
 Beneath Loch Ness
 Evil In the Time of Heroes
@@ -6320,7 +6226,6 @@ Watchers 3
 Brutal Massacre A Comedy
 The Sinful Nuns of Saint Valentine | Le scomunicate di San Valentino
 Lizzie Borden's Revenge
-The House of Usher
 The Devonsville Terror
 Reflections
 The Unforgiving
@@ -6367,7 +6272,6 @@ The Source of Shadows
 I Was a Teenage Zombie
 Night Screams
 Ax 'Em
-The Boogeyman
 The House on Tombstone Hill
 Munafik
 Dog Food
@@ -6378,7 +6282,6 @@ Ellos Volvieron | They Returned
 Dracula of Exarcheia
 Return to Glennascaul A Story That Is Told in Dublin
 The Restaurant of Many Orders
-The Priest
 Pig
 Dark Fables | As Fabulas Negras
 Zombie 90 Extreme Pestilence
@@ -6438,8 +6341,6 @@ Grave Secrets
 Make Me a Sandwich
 Dead Heist
 Ultimo deseo | The People Who Own the Dark
-Jekyll + Hyde
-The Zodiac Killer
 America's Most Haunted
 Dark Intruder
 Reclusion
@@ -6470,7 +6371,6 @@ Claw
 Without Name
 The Body Tree
 The Other Side of the Underneath
-The House of the Dead
 Red Letter Day
 Do You Wanna Know a Secret
 Blood Mania
@@ -6641,7 +6541,6 @@ Plot of Fear | E tanta paura
 Nagina
 Muni 2 Kanchana
 The Free Fall
-The Hospital
 Jacob
 Chemical Peel
 Framed
@@ -6664,7 +6563,6 @@ A Record of Sweet Murder
 An American Terror
 A Banquet
 Curfew
-Kindred
 Soy toxico | I Am Toxic
 Killer Eye Halloween Haunt
 Legend of the Bog
@@ -6748,7 +6646,6 @@ Dark Harvest
 In Ghost House Inn
 Who Are You
 The Unwilling
-Hypnosis
 Decay
 The 50 Best Horror Movies You've Never Seen
 The House That Cried Murder
@@ -6758,17 +6655,14 @@ Terror Toons
 The Carrier
 Play Dead
 The United Monster Talent Agency
-The Slaughter
 The Sleeping Room
 Ubaldo Terzani Horror Show
 The Hamburg Syndrome | Die Hamburger Krankheit
 Tales From The Dark 1
 Chillers
 The Source
-The Stalker
 The 13th Floor
 American Burger
-Coffin
 Mother Riley Meets the Vampire
 Aqui huele a muerto... (Pues yo no he sido) | It Smells Like Someone Died Here... But It Wasn't Me
 Predtucha
@@ -6791,7 +6685,6 @@ Sangre eterna | Eternal Blood
 The Nature of Nicholas
 Respire
 The Landlady
-The Possessed
 Empty
 The Lost Tape Andy's Terrifying Last Days Revealed
 Kutsal Damacana 3 Dracoola
@@ -6821,7 +6714,6 @@ A Ghost Waits
 Grim Prairie Tales
 Daughter of Dr. Jekyll
 Get the Hell Out
-Rage | Wut
 The Night Caller
 A Holy Place
 Genocide
@@ -6841,7 +6733,6 @@ Evil Clutch | Il bosco 1
 Asih 2
 Devadoothan
 Island Of Blood
-Evil
 The Vampire and the Ballerina | L'amante del vampiro
 The Jester Chapter 2
 Night Shot
@@ -6998,10 +6889,8 @@ Suburban Sasquatch
 Sightings Heartland Ghost
 Tattoo
 The Stink of Flesh
-Basement
 I.C.U.
 Barrio Tales
-Night Visitor
 La Marca del Hombre Lobo | Frankenstein's Bloody Terror
 Ghosts of Goldfield
 Dead of the Nite
@@ -7027,7 +6916,6 @@ Dead Weight
 The Blair Thumb
 Curse of the Faceless Man
 Luciferous
-Sacrament
 Cursed Seat
 The Blackwell Ghost 2
 The Haunting of Hell House
@@ -7173,7 +7061,6 @@ Return to the Lost World
 Alien Lockdown
 Netherbeast Incorporated
 Cataclysm
-RoomMate
 Slay Belles
 Billy Club
 Hallows' Eve
@@ -7192,7 +7079,6 @@ Headhunter
 The Last Slumber Party
 Demonwarp
 Hitcher in the Dark | Paura nel buio
-Hideout
 Violence Jack Hell's Wind
 Curse of the Blind Dead
 The Witchmaker
@@ -7201,7 +7087,6 @@ Da Hip Hop Witch
 1921
 Curse of the Wolf
 The Tomb of Dracula
-Encounter
 The Fiend
 Bram Stoker's Legend of the Mummy
 Evil Bong 420
@@ -7232,7 +7117,6 @@ Bone Sickness
 Make Me Shudder 2 Shudder Me Mae Nak
 Bienvenidos al infierno | Welcome to Hell
 Killer Bash
-The Intruder
 To Jennifer
 Cool Air
 Hide
@@ -7428,7 +7312,6 @@ Gorenos
 Darkness Reigns
 Smothered
 Army of the Damned
-The Family
 Dorian
 Lycan
 Bloodthirsty Butchers
@@ -7476,7 +7359,6 @@ Black Magic 2
 Cupid
 Mirror Mirror 2 Raven Dance
 Zombie Self-Defense Force
-Inheritance
 Paranormal Incident
 Tomie Beginning
 How to Save Us
@@ -7564,7 +7446,6 @@ The Mummy Rebirth
 El vampiro teporocho | The Vampire Wino
 Island Claws
 Monsterland
-Wasteland
 Blind Date
 Beautiful People
 Shanks
@@ -7889,7 +7770,6 @@ Blue Demon ver.2.0
 666 The Beast
 Late Night Double Feature
 The Devil's Messenger
-The Cut
 Skeleton Key 2 667 Neighbor of the Beast
 HazMat
 Shapeshifter
@@ -7959,7 +7839,6 @@ Mr. Dentonn
 Killer Kart
 Geist
 I Heard It Too
-The Jigsaw
 Lippy
 Old People
 Caveat
@@ -8016,7 +7895,6 @@ Moonstalker
 Dark Honeymoon
 Mermaid Forest
 Fox Trap
-Beyond | Dykkerne
 Two-Fisted Tales
 Nocturna
 Conjuring the Devil
@@ -8050,7 +7928,6 @@ Dead on Appraisal
 The Killer Is Still Among Us | L'assassino e ancora tra noi
 Bachelor Games
 Strange Events
-Masque of the Red Death
 Infliction
 The Evangelist
 30 Days to Die
@@ -8076,8 +7953,6 @@ Train of the Dead
 The Game
 Dr. Heckyl and Mr. Hype
 Alison's Birthday
-Echo | Ekko
-Sacred
 Lantern's Lane
 Mustang Sally's Horror House
 Naked Zombie Girl
@@ -8125,7 +8000,6 @@ Eyes in the Dark
 Huntress Spirit of the Night
 Closed for the Season
 Vacant House
-The Incantation
 Mindflesh
 A Darker Reality
 The Unkindness of Ravens
@@ -8150,7 +8024,6 @@ The Haunted House Project
 Deadly Encounter
 Autopsia de un fantasma | Autopsy of a Ghost
 Bunni
-The Inside
 La Leyenda del Espantapajaros | The Legend of the Scarecrow
 Are You Here
 Deer Crossing
@@ -8204,19 +8077,17 @@ The Tale of Sweeney Todd
 Interplanetary
 House of the Witchdoctor
 Mutator
-Wolfman
 The Visitant
 Capulina contra las momias (El terror de Guanajuato) | Capulina vs. the Mummies
 The End of April
 The Killing of Satan
 Sharks of the Corn
 El Monstruo Resucitado | The Revived Monster
-La luna negra | The Black Moon
+La luna negra
 Abbey Grace
 Dorm of the Dead
 Dr. Satan y la magia negra | Dr. Satan vs. Black Magic
 Frostbiter Wrath of the Wendigo
-Fiend
 Inn of the Damned
 I Love Snuff
 Celluloid Nightmares
@@ -8240,7 +8111,6 @@ Demented Death Farm Massacre
 Silver
 Lost Paradise Riding Habit Harakiri
 Sunod
-Second Coming
 3 A.M. PART 2
 The Brain Machine
 I Was a Teenage Werebear
@@ -8310,7 +8180,6 @@ The Cradle of Shadows | Le Berceau des ombres
 Geethanjali
 Santo vs. la hija de Frankenstein | Santo vs. Frankenstein's Daughter
 Red Room 2
-Ward
 La endemoniada | A Woman Possessed
 Therapy
 Disturbed
@@ -8355,7 +8224,6 @@ Violent Shit II
 Fuckkkyouuu
 The Cop Cam
 Daughter
-Children
 The Spine
 Yellow Room | Chambre jaune
 House in the Alley
@@ -8399,14 +8267,12 @@ The Open Door
 Blood Bound
 While We Sleep
 The Blazing World
-The Fear Chamber
 Afghan Knights
 Monster of Frankenstein
 Wicked Witches
 Skeeter
 Seven Women for Satan | Les week-ends malefiques du Comte Zaroff
 Stinger
-The Summoned
 Almost Dead
 Girl Next
 Ladyworld
@@ -8431,7 +8297,6 @@ Lake Fear 2 The Swamp
 The Last Exorcist
 Deadlocked
 Senseless
-The Orphan
 The Spiral Staircase
 Acts of Death
 Day Dream
@@ -8440,7 +8305,6 @@ Zombies The Beginning
 Fear Runs Silent
 Neowolf
 Diary of a Cannibal
-Dead Inside
 An American Vampire Story
 Lockjaw Rise of the Kulev Serpent
 The Stepford Children
@@ -8466,7 +8330,6 @@ Dream Warrior
 Voodoo Moon
 Alien Psychosis
 Hatched
-The Hide
 Durgamati The Myth
 The Drone
 Holiday Hell
@@ -8489,7 +8352,6 @@ Killjoy's Psycho Circus
 The Bloodsucker Leads the Dance | La sanguisuga conduce la danza
 Twilight Vamps
 The Outer Wild
-The Necromancer
 Clinton Road
 Mutant Vampire Zombies from the 'Hood
 Gas Light
@@ -8502,7 +8364,6 @@ Prom Ride
 Gila
 The Mummy Lives
 Killer Therapy
-The Ghouls
 Mutant Species
 Black Creek
 Axe to Grind
@@ -8592,7 +8453,6 @@ Camera Trap
 Guess What Happened to Count Dracula
 Dr. Jekyll's Dungeon of Death
 Dick Night
-The Darkroom
 The Zombinator
 Dismal
 Curse of the Maya
@@ -8647,7 +8507,6 @@ Capps Crossing
 Torched
 The Legend of Beaver Dam
 Illusion of Blood
-Cyclops
 The Sleepover
 Pot Zombies
 Superbeast
@@ -8770,7 +8629,6 @@ The Sermon
 Divided Into Zero
 The Grotto
 28 Weeks Later 28 Seconds Later
-Game
 Mondo Weirdo | Jungfrau am Abgrund
 The Unliving | Aterfodelsen
 Kazuo Umezu's Horror Theater Diet
@@ -8810,7 +8668,6 @@ The Jar
 Down to Hell
 The Bloodthirsty Fairy | La fee sanguinaire
 To My Mother and Father
-The Scarecrow
 Seytan-i Racim
 The Capitol of the Dead | A Capital dos Mortos
 Teeny-Tiny and the Witch Woman
@@ -8832,7 +8689,7 @@ Carved
 The Blue Door
 Lili
 5 Minute Dating
-Visitante | Visitor
+Visitante
 Chucky's Vacation Slides
 Naked Poison
 Chompy & The Girls
@@ -8841,7 +8698,6 @@ A Zombie Exorcism | Opstandelsen
 El jinete sin cabeza
 3 Scream Queens
 Serial Rapist
-Dead Zone
 Dawning of the Dead
 Aegri Somnia
 Dybbuk
@@ -8862,7 +8718,6 @@ Walking the Dead
 La Blue Girl Revenge of the Shikima Realm
 Scathing
 Iruttu Araiyil Murattu Kuthu
-Unholy
 Violence Voyager
 After School Massacre
 Hypochondriac
@@ -8936,7 +8791,6 @@ Death of the Virgin
 Bigfoot Wars
 Wild Country
 The Legend Of Wasco
-The Black Death
 Evil Takes Root
 BnB HELL
 Killer Rack
@@ -8970,7 +8824,6 @@ La saga de los Dracula | The Dracula Saga
 Hack House
 The Mad Room
 Zombiegeddon
-The Monster Hunter
 Vampire Wars
 Throwback
 Camp Blood 8 Revelations
@@ -8985,7 +8838,6 @@ The River of Fables
 Stash
 Trust Me
 Sucker The Vampire
-The Scorned
 Son of Sam
 Restraint
 Dark Amazon
@@ -9036,7 +8888,6 @@ Naina
 Fausto | Faust
 My World Dies Screaming
 Pandamonium
-The Choke
 The Ghosts of Edendale
 Witchcraft 666 The Devil's Mistress
 SideFX
@@ -9115,7 +8966,6 @@ Swamp Ape
 Dead List
 Misbegotten
 Hotel Inferno 3 The Castle of Screams
-The Circle
 Blood Bags
 The Terror Within II
 1313 Nightmare Mansion
@@ -9125,7 +8975,7 @@ Black Ice
 Cannibal Hookers
 Atrocity
 The Snake Woman
-Otra vuelta de tuerca | Turn of the Screw
+Otra vuelta de tuerca
 The Astrologer
 Run Like Hell
 Strain 100
@@ -9154,7 +9004,6 @@ The Far Cry Experience
 El huerto del frances | The Frenchman's Garden
 The 11th Commandment
 Espiritismo | Spiritism
-Third Eye
 Hard Rock Nightmare
 Nikos the Impaler
 Rock 'n' Roll Frankenstein
@@ -9274,7 +9123,6 @@ Flight to Hell
 The Vengeance of the Vampire Women
 Brimstone and Treacle
 The Evil Marriage
-Omen
 Chanthaly
 El dia trajo la oscuridad | Darkness by Day
 Creature of Destruction
@@ -9386,7 +9234,6 @@ Real Estate Of Death | Vende-se Imovel
 The Little Monster | Le Petit Monstre
 The Last Seance
 Black Maiden Chapter Q
-The Door in the Woods
 The Rule of Three
 2AM The Smiling Man
 Restart The Earth
@@ -9475,7 +9322,6 @@ Attack of the Southern Fried Zombies
 The Portal
 Attack of the Virgin Mummies
 Fear PHarm 2
-The Black House
 Adrenochrome
 Brackenmore
 Exterminator City
@@ -9530,7 +9376,6 @@ Fetish Factory
 Burial Ground Massacre
 Grindsploitation
 Bhoothakaalam
-Portal
 Maleficarum
 The Thing on the Doorstep
 Devil Girl
@@ -9633,8 +9478,6 @@ The Ripper
 Zomvideo
 The Demonic Womanizer Costante Nicosia, or Dracula in Brianza | Il cav. Costante Nicosia demoniaco, ovvero Dracula in Brianza
 Madness
-Vampiro
-She Wolf
 The Ghost Cat of Ouma Crossing
 SOS Save Our Skins
 Please Don't Eat My Mother
@@ -9697,7 +9540,6 @@ The Killing of Angel Street
 Archaon The Halloween Summoning
 Mountain Devil
 Unseen Evil
-Sight
 Survivors
 Reel Horror
 Not Like Others | Vampyrer
@@ -9754,7 +9596,6 @@ Walking Down the Place of a Skull
 Shhh...
 Demon Is on the Island | Le demon dans l'ile
 Kolaiyuthir Kaalam
-The Home
 666 (Beware the End Is at Hand)
 Zombie Campout
 Kissed
@@ -9774,7 +9615,6 @@ Slaughterhouse of the Rising Sun
 Low Season
 Tequila Body Shots
 The Ancestral
-U-Turn
 After Dark
 The Hoarding
 The Dark Sleep
@@ -9812,7 +9652,6 @@ Pulse Pounders
 Ninja Zombies
 Bloodshed
 Vera
-Haunted Castle
 Headhunter The Assessment Weekend
 Return To Splatter Farm
 The Book of Fate
@@ -9960,7 +9799,6 @@ The Dummy
 Witchcraft VII Judgement Hour
 Araf
 The Laboratory of Fear | Le laboratoire de l'angoisse
-The Voice
 The Soul Guardians
 Prometheus' Garden
 Angeluz | Angel of Light
@@ -10051,7 +9889,6 @@ Lunch Ladies
 Marian
 Xuong 13
 Film Horor
-Lost
 Paradox A Rusty Lake Film
 Goodnight
 My Little Goat
@@ -10114,7 +9951,6 @@ Crimson
 The Woods Have Eyes
 Squeal
 Zomblogalypse
-Darkling
 Hoodman
 Alien Strain
 Black Ribbon
@@ -10295,7 +10131,6 @@ Sheep Skin
 Curio
 Creature Lake
 Murders at the House of Death
-The Dread
 A Feast of Flesh
 The Night of the Headless Horseman
 Vengeance of the Dead
@@ -10342,7 +10177,6 @@ Black Magic Woman
 Witchcraft XI Sisters in Blood
 Scorpius Gigantus
 World Apartment Horror
-Follower
 Happy Tree Friends The Movie
 Hantu Kak Limah
 Stagknight
@@ -10358,17 +10192,14 @@ Litchi Hikari Club
 The Brotherhood VI Initiation
 Wekufe The Origin of Evil
 Gore Whore
-Vanished
 Last Girl
 Kill the Scream Queen
 Christopher Roth
-Hunters
 GhostWatcher
 Moonlight Boy
 Club Vampire
 Witchcraft IX Bitter Flesh
 Survival Run
-The Inferno
 Colmillos, el hombre lobo
 Dead South
 Embalming
@@ -10415,7 +10246,6 @@ Mad at the Moon
 Cry for the Strangers
 The Hoard
 Immortal Kiss Queen of the Night
-Unwanted
 You're Nobody 'til Somebody Kills You
 Bryan Loves You
 Blood Sombrero
@@ -10473,7 +10303,6 @@ A Whisper in the Dark | Un sussurro nel buio
 AR-15 Comando implacable | AR-15 Relentless Command
 Restless Souls | Bag det stille ydre
 The Amateur Monster Movie
-Promise
 Trunk
 Serving Up Richard
 Must Love Death
@@ -10517,7 +10346,6 @@ Vampire at Midnight
 Downtime
 Chathur Mukham
 Aroused
-The Drifter
 ORG
 Beyond the Bridge
 The Perfect Bride
@@ -10564,7 +10392,6 @@ The Familiar
 Horror Hotline... Big Head Monster
 The Touch of Her Flesh
 Charly, dias de sangre | Charly Days of Blood
-Offering
 Everybloody's End
 Revived
 All Must Die | Utdrikningslaget
@@ -10587,7 +10414,6 @@ Refused
 Zombie Cheerleader Camp
 El vampiro de la autopista | The Horrible Sexy Vampire
 Hysteria
-Night Stalker
 Manchas de sangre en un coche nuevo | Blood Stains in a New Car
 Obsession A Taste for Fear | Pathos Segreta Inquietudine
 Mas alla del terror | Beyond Terror
@@ -10646,7 +10472,6 @@ Switch
 Head Cheerleader Dead Cheerleader
 Hanna's Homecoming | Wo kein Schatten fallt
 The Man Who Turned to Stone
-Box
 Fatal Pulse
 The Girl with the Hungry Eyes
 Al Pereira vs. the Alligator Ladies
@@ -10709,7 +10534,6 @@ Baron Olavo, the Horrible | Barao Olavo, O Horrivel
 Bad Ben 7 The Haunted Highway
 Blood Cult
 Forever
-The Vicious
 The Pig Child
 Islamic Exorcist
 Violator
@@ -10746,7 +10570,6 @@ Beyond the Seventh Door
 The Dead Man 2 Return of the Dead Man
 Kazuo Umezu's Horror Theater Death Make
 Urban Legend Story Hikiko
-Granny
 Loveless Zoritsa
 La venganza de Huracan Ramirez | The Revenge of Hurricane Ramirez
 The Murder Game
@@ -10760,7 +10583,6 @@ New York Vampire
 HauntedWeen
 The Ghosts of Yotsuya
 C.I.A. Secret Story | Faccia di spia
-The Clown | Le Queloune
 The Truth According to Satan
 Beyond the Grave | Porto dos Mortos
 Stray Dogs
@@ -10794,7 +10616,6 @@ Laura Panic
 Natural Selection
 Migrating Forms
 Alien Beasts
-Farm
 Angst, Piss & Shit | Angst, Piss & Drid
 Kagbeni
 Crow Hand
@@ -10811,7 +10632,7 @@ Sister LuLu
 Gifts from Strangers
 The Stomach
 A Stem | Um Ramo
-Profanadores de tumbas | The Grave Robbers
+Profanadores de tumbas
 The Strange Case of Dr. Jekyll and Mr. Hyde
 Zombeak
 Isolated
@@ -10825,7 +10646,6 @@ Looking Glass | Spegelbarn
 ...ya no puede caminar.
 Job Interview
 Time to Eat
-Visitation
 School Girl Harakiri
 Vampirisme
 Inside Scarlett
@@ -10835,7 +10655,6 @@ Pesadilla asesina | Killing Nightmare
 Where The Devil Dwells
 Wartime
 Doc. 33
-The Slender Man
 Bring Back the Dead
 Cerco de terror | Siege of Terror
 Insomnia | Insomnie
@@ -10899,7 +10718,6 @@ Rape Zombie Lust of the Dead 4
 Rising Boas in a Girl's School
 Jurassic Domination
 A Child's Play Story Chucky's Revenge
-Jack in the Box
 Abigail
 The Wailer 3
 7 Rules
@@ -10995,7 +10813,6 @@ Zombio 2 Chimarrao Zombies
 Devil's Harvest
 A Haunting On Dice Road 2 Town of the Dead
 When Evil Calls
-The Lingering
 La muerte ronda a Monica | Death Haunts Monica
 Consequences
 Zombies Gone Wild
@@ -11050,7 +10867,6 @@ Masked Mutilator
 Water
 The Village in the Woods
 Hey... Stop Stabbing Me
-The Horror
 Demon Sex
 Curse of Pirate Death
 Tales of Poe
@@ -11110,14 +10926,12 @@ The Melancholy Fantastic
 Hide-and-Never Seek
 Lucifer's Women
 Doctor
-The Day of the Dead
 Psycho Storm Chaser
 Dr. Moreau's House of Pain
 A Dark Path
 Sin The Movie
 The Casebook of Eddie Brewer
 Coffin Homes
-Hallows Eve
 Witch from Nepal
 Eradication
 Deviance
@@ -11176,7 +10990,6 @@ Tomcat Dangerous Desires
 Clown Of The Dead
 Flesh Blanket
 Mr. Bricks A Heavy Metal Murder Musical
-The Dwelling
 Perfect Victims
 The Last Faust
 Feeding Grounds
@@ -11207,7 +11020,6 @@ Ahockalypse
 Sin
 Dwellers The Curse of Pastor Stokes
 Terminal
-The Coven
 The House in Sherwood
 Sportkill
 Haunted Poland
@@ -11222,7 +11034,6 @@ The Last Vampire On Earth
 What Became of Jack and Jill
 Bigfoot vs the Illuminati
 Watch Out
-The Seance
 Snakewoman
 Head Trauma
 Stricken
@@ -11274,7 +11085,6 @@ Lesson of the Evil Prologue
 Freaky Farley
 Royal Jelly
 Sukob
-Wolf House
 The Adult Version of Jekyll & Hide
 Halloween Hell
 A Grim Becoming
@@ -11299,7 +11109,6 @@ Rock-A-Die Baby
 Inhumanoid
 Frankenstein Created Bikers
 Night Crawlers
-Harbinger
 Strawberry Flavored Plastic
 Killer Christmas
 Reel Zombies
@@ -11375,7 +11184,6 @@ Half Human The Story of the Abominable Snowman
 Obscene Desire | L'osceno desiderio
 Hell House
 Not of This World
-Psychic
 At Stake Vampire Solutions
 Klown Kamp Massacre
 Unsullied
@@ -11403,7 +11211,6 @@ Traces Of Death IV
 Engine Trouble
 The 7
 Jessica's Room
-The Ghost Train
 Darkside Witches
 Bikini Party Massacre
 Digital Devil Story Megami Tensei
@@ -11415,7 +11222,6 @@ Paper Rock, Scissors
 Crystal Force
 Killer Raccoons 2 Dark Christmas in the Dark
 The Vulture
-Ghost
 Nefarious
 The Forbidden
 Female Harakiri Glorious Death
@@ -11437,7 +11243,6 @@ Bear Creek
 The Confession
 Sherlock Holmes and the Baskerville Curse
 The Hidebehind
-The Big Bad
 Blood Thirsty
 Hager
 Heavy Metal Massacre
@@ -11474,7 +11279,6 @@ Asylum of Satan
 Saving Grace
 The Resurrection of Michael Myers Part 2
 Los Pasajeros | The Passengers
-The Chrysalis
 The Hand That Feeds the Dead | La mano che nutre la morte
 Death of Evil
 Inside A Chinese Horror Story
@@ -11488,7 +11292,6 @@ El burro jorobado | The Hunched Donkey
 Wor
 Far Out
 In The Woods
-The Sisters
 Vampire Sisters
 Dark Sanity
 Viaje directo al infierno | Direct Trip to Hell
@@ -11500,9 +11303,7 @@ Day of the Nightmare
 Revenge of the Radioactive Reporter
 KFK
 The Sleep Survival Horror (Part One)
-Lift
 Sweet, Sweet Rachel
-Awakening
 Flesh Feast
 Den of Darkness
 Trippin'
@@ -11543,7 +11344,6 @@ The Single Girls
 Chainsaw Cheerleaders
 Silent Night, Bloody Night 2 Revival
 You're Invited The Making of Night of the Demons
-The Four
 Floor 9.5
 Cult Following
 Reaver
@@ -11603,7 +11403,6 @@ Electromagnetic
 The Psychotronic Man
 Eko Eko Azarak Awakening
 Blood Stalkers
-Bell Witch Haunting
 Siyaah
 El invernadero | The Greenhouse
 Prometheus Triumphant A Fugue in the Key of Flesh
@@ -11617,7 +11416,6 @@ Locura de terror
 The Light
 Crying Bitch
 Dark Vale
-Abomination
 Bath Bomb
 Daemonrunner
 Sloppy the Psychotic
@@ -11671,7 +11469,6 @@ Thomas and the Bewitched | Thomas e gli indemoniati
 Blue Lake Girl
 Mr. Wrong
 Cinebasura La peli | Bad Movie The Movie
-The Scary Movie
 Lady Vampire
 Slices
 Lethal Target
@@ -11703,7 +11500,6 @@ House of Mystery
 Bar-B-Que Movie
 Meat Market 2
 Rise of the Undead
-Familiar
 The Disturbance
 I, Vampire
 The Rape After
@@ -11784,7 +11580,6 @@ Mirror of Flesh | Espelho de Carne
 Ich piss' auf deinen Kadaver
 Girlfriends
 Morbid
-The Lady Vampire
 Devil's Offspring
 Criticized
 Porcelain Rising
@@ -11840,7 +11635,6 @@ Spook Train Room One Curtains
 La venganza del silla de ruedas
 The Haunted Drum
 Mr Creak
-Rake
 El jinete de la muerte | The Death Rider
 La hacienda del terror | Estate of Terror
 El reloj de la muerte
@@ -11911,12 +11705,11 @@ Oscar's Bell
 Ferine
 Rue
 A Quiet Room in Walthamstow
-Shed
 Damned Memory | Maldita Lembranca
 Makr
 Dual
 Atomic Ed
-The Mare | Den
+The Mare
 Level
 Guest House
 Total Freak
@@ -11950,7 +11743,6 @@ Affliction
 Danse Macabre
 Concealer
 High Desert Hell
-Void | Lacuna
 Dance of the Crabs
 When the Howls Find Us
 Immure
@@ -12005,7 +11797,6 @@ Anonymous Killers
 School Tales
 El nuevo Freddy | The New Freddy
 Know Fear
-Curse
 Blood, Sweat And Terrors
 Alien Vs. Zombies
 Quiet Kill
@@ -12036,7 +11827,6 @@ Claws
 Die and Let Live
 Science Team
 Lady Dracula
-Sickhouse
 Motocross Zombies from Hell
 The Monster Kid and The Demon's Sword
 Paranormal Prison
@@ -12066,7 +11856,6 @@ The Rizen Possession
 Neon Lights
 She's Allergic to Cats
 Mortuary Blues
-The Entrance
 The Dollhouse Murders
 Tales from the Grave
 A Taste of Phobia
@@ -12158,7 +11947,6 @@ Gorillaz Phase One Celebrity Take Down
 909 Experiment
 Aragne Sign of Vermillion
 Poignant
-The Blood Harvest
 Heartbeat 100
 Peripheral
 The Jitters
@@ -12377,7 +12165,6 @@ Invicta
 Day 14
 Hell of a Night
 Earth Day
-Head
 Attack of the Demons
 Twilight Online
 Phoonk 2
@@ -12473,7 +12260,6 @@ Desire Path
 The Haunting at Death Valley Junction
 The House by the Edge of the Lake | Sensitivita
 Death Cast
-The Bedevilled
 Witchcraft XII In the Lair of the Serpent
 The Monster of Phantom Lake
 Morris County
@@ -12511,7 +12297,6 @@ She Was So Pretty
 Traces Of Death III
 Writhing Tongue
 Beverly Hills Bodysnatchers
-The Getaway
 Four Boxes
 Death in the Shadows | De Prooi
 Invasion on Chestnut Ridge
@@ -12552,7 +12337,6 @@ Embedded
 The Eve
 Indiana
 Blood Orange
-Abducted
 Shock Attack
 Forest of the Dead
 Beloved Beast
@@ -12575,7 +12359,6 @@ Evil in Her
 The Golden Nazi Vampire of Absam Part II The Secret of Kottlitz Castle | Der goldene Nazivampir von Absam 2 Das Geheimnis von Schloss Kottlitz
 Thirsty
 Demon's Kiss
-Laughing Dead
 The Warrior
 Chromophobia
 War Of The God Monsters
@@ -12648,7 +12431,6 @@ Susan Hill's Ghost Story
 The Fury Within
 Haunted Universities 2nd Semester
 Deccal
-Trip
 Tear of the Prince of Darkness
 Hellish Love
 The Dreaming
@@ -12716,7 +12498,6 @@ Una notte da paura
 Never Trust a Stranger
 Tender Loving Care
 Kriya
-The Shadows
 Sammy
 Sadomaster Locura General | Sadomaster Total Mayhem
 Itsy Bitsy Spiders
@@ -12760,7 +12541,6 @@ Pontianak Harum Sundal Malam 2
 E.N.D. The Movie
 Jingles the Clown
 Tsunambee
-Delivery
 Vampiros Sexos
 No Mercy No Future | Die Beruhrte
 Hasta Que El Sol Se Oculte (Victimas De La Noche)
@@ -12862,9 +12642,7 @@ Fright House
 Love and Rage
 Trancado por Dentro
 The Shadowed Mind
-Changeling
 The Ghosts Must Be Crazy
-Incidente | Incident
 The Lonely Host
 Scream Test
 First Like
@@ -12879,7 +12657,6 @@ The Lonely Ones
 Moonchild
 Killer Barbys vs. Dracula
 Body Jumper
-The Talisman
 Motel 666
 The Final Haunting
 Dr. Frankenstein on Campus
@@ -13053,7 +12830,6 @@ Kyoko vs. Yuki
 Nightmare at Elm Manor
 El Filandon
 The Transcend
-The Muck
 Marina Monster
 Ultraje | Outrage
 Anabolyzer
@@ -13068,10 +12844,8 @@ The Curse of Doctor Wolffenstein
 Ninja, the Violent Sorceror
 Welcome to Willits After Sundown
 Blissful Banquet
-Endless
 Screen
 Amor de madre | Mother's Love
-The Animal
 Service
 Ravager
 Revenge of the Spacemen
@@ -13086,13 +12860,11 @@ Blight
 The Vegetable Monster from Outer Space | O Monstro Legume do Espaco
 The American Werewolf Project
 Untitled BH Tilt Horror #2
-The Painted Skin
 Archipelago
 In a Thicket
 Midnight Show
 Wake Me When I Leave
 Dead Sands
-The Necronomicon
 Hermann mit der Schneeschaufel
 Pist 2015
 Summer of the Zombies
@@ -13110,14 +12882,12 @@ Meera Jaakirathai
 The Listing
 King Ripple
 House of Straw
-The Carnivore | Carnivora
 Anorexia
 Some Stories Are Better Left Untold. | Creepy Campfire Stories
 Even Kids Started Small
 Regissoren
 Play House
 Behind the Bush
-The Bite
 Wake Up to Kill 3
 Jenny
 Scientifically Perfect
@@ -13139,7 +12909,6 @@ Sargad
 Pigskin
 Voodoun Blues
 Terra e Luz
-The Guest
 A. Friend
 #NoFilter
 On Dark Paths
@@ -13227,7 +12996,6 @@ The Haunting of the Suicide House
 Mareld
 A Death Story Called Girl
 Antoni Psycho
-Bagman
 Blund's Lullaby
 Black Eyed Child (BEC)
 Skickelsen
@@ -13256,11 +13024,9 @@ Where Blood Lies
 The Housesitters
 100% pur porc
 Shitters
-Woods
 Deep Dish Apocalypse
 Road Trash
 Circles
-Descent
 M Is for Masochist
 Model Family
 Tennessee Gothic
@@ -13268,7 +13034,6 @@ Sports Day
 The Third Hand
 The Ash Safe Haven
 The Grot in the Grotto
-Skin
 Pocong vs Kuntilanak
 Ghost Painter
 Qarakoz
@@ -13318,7 +13083,6 @@ Revelacao
 Filth
 Bricks
 La Cena | The Supper
-Unseen
 The Crescent Moon Clown
 It Gets Worse
 The Grim Adventures of Billy & Mandy Meet the Reaper
@@ -13330,7 +13094,6 @@ El Reflejo de Saturno | The Reflection of Saturn
 Steelmanville Road
 The Last Marriage | Det sista aktenskapet
 Aftertaste
-Spore
 The Silent Dog | O Cao Silencioso
 Badder Ben The Final Chapter
 Lost in the Post
@@ -13364,7 +13127,6 @@ Curse of Crom The Legend of Halloween
 The Zombie Apocalypse in Apartment 14F
 Painted in Blood
 Hell Teacher Nube
-The Lair
 Kaatteri
 Rape Zombie Side-Story Hardcore of the Dead
 Ivanna
@@ -13494,7 +13256,6 @@ A Very Very Sexy Snuff Movie
 Grace's Room
 Corazon Ang Unang Aswang
 The Nights Before Christmas
-The Stare
 Vamps 2 Blood Sisters
 RIP Rest in Pieces
 In Between Loves
@@ -13548,9 +13309,7 @@ The Mummy's Kiss 2nd Dynasty
 Legal Innocence
 Dead Woman's Hollow
 The Girl in the Crawlspace
-The Demon Inside
 A Monsterous Holiday
-Covenant
 Mordeo Insatiable Hunger
 Death by VHS
 Gutterballs 2 Balls Deep
@@ -13589,7 +13348,6 @@ Inner Ghosts
 Preternatural
 Camp Death III in 2D
 Season of the Hunted
-Housesitters
 The Killer in the House
 Inhumanity
 666
@@ -13667,7 +13425,6 @@ Scream Baby Scream
 Lord of the Undead
 La momia nacional | The National Mummy
 Sex Beyond the Grave
-The Haunted School
 Infamous Bondage Murders
 House of the Wolf Man
 Ambuli
@@ -13714,7 +13471,6 @@ Bayi Gaib
 Flash
 Poseido
 Coulrophobia
-The Boo
 Chikati Gadilo Chithakotudu
 Videophobia
 A Golpe de Hacha | With a Blow of the Axe
@@ -13727,7 +13483,6 @@ Kratt
 The Changed
 Grave Intentions
 The Covid Killer
-Surrogate
 The Devil's Music
 Lynch Mob
 Ego
@@ -13766,7 +13521,6 @@ Famously Haunted Amityville
 Dead Billy
 The Witches of Sappho Salon
 Meltdown
-Hole
 Post Human An Event
 Walk Away
 Blood for Irina
@@ -13797,7 +13551,6 @@ The 7th Hunt
 The Bloody Indulgent
 Tiger Woman
 Maniac Farmer
-Night
 Deadwood Falls
 The Faith Community
 Do You See Me
@@ -13816,7 +13569,6 @@ Manos Returns
 Cauldron Baptism of Blood
 Call Me Tonight
 Debbie Rochon Confidential My Years in Tromaville Exposed
-The Occupant
 It's My Party and I'll Die If I Want To
 The Narrative of Victor Karloch
 The Infernal Machine | A Maquina Infernal
@@ -13842,7 +13594,6 @@ Deprivation
 Camera Phone 2
 Death on Scenic Drive
 Psycho Diver Soul Siren
-The Bloodletting
 Living Dead Lock Up
 Schizophreniac The Whore Mangler
 Terror from Beneath the Earth
@@ -13899,10 +13650,8 @@ Phantasmagoria of the Interior
 Un vampiro para dos
 Men in White
 Caedes
-The Siren
 Hobbs End
 Tahkhana
-Cellular Boyfriend +
 Ice Cream
 Unrated II Scary as Hell
 The Antwerp Killer
@@ -13944,14 +13693,12 @@ Troublesome Night 5
 Hyde's Secret Nightmare
 Puppet Killer
 Ghost in the House
-The Serpent of Death
 Midori-ko
 Hanako of the Toilet
 Operation Pink Squad II
 Hens Night
 Desnuda inquietud | Rape
 Murder University
-Rule of Three
 Sigma Die
 The Shoot
 Rucker
@@ -13973,7 +13720,6 @@ Cruiser
 The Chinese Ghostbuster
 The Only Mom
 The Mill at Calder's End
-Survivor
 Children of Camp Blood
 MR James Ghost Writer
 Jithan 2
@@ -14003,7 +13749,6 @@ Chronicles of an Exorcism
 Nf713
 Back Woods
 The Serpent Warriors
-Brainiac
 Whistler's Mother
 Death Shock
 Alien Valley
@@ -14023,7 +13768,6 @@ The Fox With Nine Tails
 A Judgment in Stone
 No debes estar aqui | You Shouldn't Be Here
 Scarlet Fry's Horrorama
-Cutting Room
 Sharp Teeth
 Eyes of the Werewolf
 Woman from the Sea
@@ -14043,7 +13787,6 @@ A Dark Place Inside
 The Haunting of Pearson Place
 Blood Pigs
 Sabbath
-* Cemetery
 Pizza Girl Massacre
 Vault of Horror I
 Honto Ni Atta Kowai Hanashi 2018 SP
@@ -14144,7 +13887,6 @@ The Secret | Hemligheten
 Muckman
 Krasue Fad Pob
 The Haunting at Thompson High
-Tortured
 Tortura
 Malam Jumat Kliwon
 Confessions of a Psycho Cat
@@ -14179,7 +13921,6 @@ Death in Charge
 The Possession of Virginia | Le diable est parmi nous
 Fatal Hours | Horas Fatais
 Mortician
-Second Sight | Das zweite Gesicht
 Konthayum Poonoolum
 Hell's Belles
 Kalpana
@@ -14245,7 +13986,6 @@ Where Evil Dwells
 Biohazard The Stage
 El espectro del terror | The Specter of Terror
 Jugular Wine A Vampire Odyssey
-The Dark Angel
 Peigal Jaakkirathai
 The Sacred Riana Beginning
 Secrecy
@@ -14261,7 +14001,6 @@ Heart of the Home
 Zombies Reborn
 The Gaze
 333
-The Unspeakable
 Arumi
 7ujuh
 GWAR Scumdogs XXX Live The 30th Anniversary Reunion Show
@@ -14413,7 +14152,6 @@ Dream
 Lycanimator
 El Regreso de la Bestia
 Bandh Darwaza
-The Asylum
 Bloody Tease
 Cypress
 The Silver Mummy
@@ -14509,7 +14247,6 @@ Kingdom of the Vampire
 Santa Preys For X-Mas
 Blood Sucking Babes from Burbank
 Naked Beneath the Water
-3 A.M.
 The Garbage Man
 L'armadio
 Gravestoned
@@ -14518,7 +14255,6 @@ Spiritual Exercises 10 Films by Olivier Smolders
 Nosferatu. Horror of the Night
 Kuntilanak Beranak
 The Last
-Lock In
 Gingerdead The Adventures of Nella & Nello
 Butcher House
 Night of the Groping Dead
@@ -14536,7 +14272,6 @@ Devil's Racecourse
 Fairview Falls
 Thunder of Gigantic Serpent
 Resident Debile
-Spine
 The Ghost Dance
 Wicked World
 Kibakichi 2
@@ -14626,7 +14361,6 @@ The Last Flesh & Blood Show
 Screamer
 Serial Killer
 Fleshburn
-Invitation
 Graveyard of the Living Dead
 House of Ghosts
 The Bloody Video Horror That Made Me Puke on My Aunt Gertrude
@@ -14675,7 +14409,6 @@ The Ruining
 The Scorpion's Sting
 Night of the Flesh Eaters
 The Ghostly Face
-The Wolf Girl
 Blood Slaves of the Vampire Wolf
 Within the Darkness
 Belly of the Wolf
@@ -14732,7 +14465,6 @@ Nasi Tangas
 158
 Faust 2.0
 The House That Cried Blood
-Off Season
 Hong Kong X File
 Kismet
 Teddy Bomb
@@ -14748,7 +14480,6 @@ Nighthawks
 I Was a Teenage Intellectual
 Uncommon Enemies
 Bug Chaser
-The Trick
 The Biker Warrior Babe vs. The Zombie Babies From Hell
 City of the Vampires
 Gore, Quebec
@@ -14760,7 +14491,6 @@ Hello Who Is It
 The Jogger
 Zombinladen The Axis of Evil Dead
 Zombie Cult Massacre
-The Outer Darkness
 Hell Hath No Fury
 Spectres
 Hippocampus M 21th
@@ -14884,7 +14614,6 @@ Sinistre
 Video Tape Terror
 Blood Orgy At Beaver Lake
 The Cycle
-Other
 Salvacion | Salvation
 Deyyam
 High School Spirits
@@ -14931,7 +14660,6 @@ Dracula and Company
 Z-Office
 T is for Talk
 Colecao de Humanos Mortos
-The Tell Tale Heart
 Nenek Gayung
 Blood Demon Rising
 Caravan
@@ -14948,7 +14676,6 @@ When Demons Die
 Unmatta
 Batman Fights Dracula
 Let Us Go and Burn Her Body Or, The Devil Done Let Out
-13th Floor
 Shrouded 3
 The Return of the Forest Monster
 Alguien mato algo
@@ -15002,10 +14729,8 @@ Los Supervivientes
 @janabringlove
 Speechless
 Cakeman
-Conduit
 Stereoscope
 Azem 2 Cin Garezi
-Cured
 Holiday Fear
 Zhigrana
 Henry & Aaron's Perfectly Adequate Christmas Special
@@ -15074,7 +14799,6 @@ Pocong Minta Kawin
 Leperfuck
 End User
 Mikus
-The Ghosts | Les fantomes
 The Sound of Blue, Green and Red
 The Trees of the East
 Razor
@@ -15151,7 +14875,6 @@ Dead Island Gut Wrenching
 Mae
 East Hell
 Herman
-The Desecrated
 Wolfman vs. Godzilla
 Beauty Juice
 Insignis
@@ -15167,7 +14890,6 @@ ROMEO
 Toe
 El Diablo Ha Invadido Mi Sangre
 Labrys
-Stomach
 Fear and Desire
 Goatling Son of Satan | Cabrito
 Nail
@@ -15179,7 +14901,6 @@ Letter from Death
 Red Skies
 Astral Seyahat
 Sunburn
-Boneyard
 Night of the Living Jews
 Lost in the Cave Dwelling
 Pictures
@@ -15240,7 +14961,6 @@ Ancora pochi passi
 All Hallow's Eve
 Survive Girls 2
 The Motorist
-Culpa
 The Tent
 Mateo
 On the Trail of Bigfoot The Legend
@@ -15259,7 +14979,6 @@ The Requiem Bell
 Ouija Mummy
 Let Me Play
 El mutilador
-The Polaroid
 Fifty Fifty
 Spirit Animal
 Don't Let It In
@@ -15359,7 +15078,6 @@ Unmade
 Hiraeth
 It's Me, Billy
 Cielo Rojo (Gigantes de Metal)
-The Killer
 Let's Stop at the Morgue
 Extremo Ocidente
 Klan
@@ -15372,7 +15090,6 @@ Loving Polly
 Facies
 665
 The Boneyard Match
-The Spiral
 Cama-Cruso
 The Devil's Bargain
 The Beast From Twenty Zillion Years Ago
@@ -15403,7 +15120,6 @@ Fatal Love
 The Secretary
 Flee the Light
 Jailangkung Sandekala
-Night Caller
 Idiot
 Mumun
 Dead Bride
@@ -15487,7 +15203,6 @@ Jangan Pandang Belakang Congkak 2
 Citrus Springs
 Sandy Hook Lingerie Party Massacre
 Chinese Erotic Ghost Story
-Presence
 Greetings
 Legend of the Sandsquatch
 All Jacked Up and Full of Worms
@@ -15497,7 +15212,6 @@ Bees Saal Baad
 As a Prelude to Fear
 The Haunting of Pendle Hill
 Scarecrow County
-Unborn
 Intlo Deyyam Nakem Bhayam
 There's No Such Thing as Vampires
 American Psycho with Huey Lewis and Weird Al
@@ -15591,17 +15305,14 @@ Creature Unknown
 Rooftop
 Squatter
 Feast of Fear
-Llorona | Weeping Lady
 Deadly Obsession
 Bottle Monster
-The Goblin
 Thrillkill
 Feeders 3 The Final Meal
 The Profane Exhibit
 Kisaragi Station
 Erotic Scary Stories Vol.1 Iguana Woman
 Tales from the Occult
-Skeleton Key
 The History of Metal and Horror
 Tales of the Bizarre 2019 Rain Special
 Witchcraft 16 Hollywood Coven
@@ -15669,13 +15380,11 @@ Auto Shop of Horrors
 The Digital Dead Rise of the Zombies
 Muerte Tales of Horror
 I Live Alone
-Witch-Hunt
 Curse of Evil
 Evil Offspring
 WatchUsDie.com
 Plot 7
 Heaven is Hell
-The Monster Man
 Blown
 Poltergeist Encounters
 Faces Without Eyes
@@ -15684,14 +15393,11 @@ Shake, Rattle & Roll II
 Death Scenes 2
 Early Warning
 House of Black Wings
-Ripper
 Stagger
-Sleeper
 Cannibal Mercenary
 Predator The Quietus
 Kutob
 Astonished
-Door
 The Demon's Baby
 The Mysterious Death of Nina Chereau | La mort mysterieuse de Nina Chereau
 Mr. Zombie
@@ -15754,7 +15460,6 @@ Messenger of Wrath
 Laboratory Conditions
 Occult Bolshevism
 House of the Gorgon
-Messengers
 Il messaggio
 The Closed Ward
 Slime
@@ -15796,7 +15501,6 @@ Caress of the Vampire 2 Teenage Ghoul Girl A Go-Go
 Bruka, Queen of Evil
 Soorya Kireedam
 Psycho Holocaust
-Snow Woman
 La mata-viejitas asesina serial | The Granny-Killer Serial Killer
 Suicide Dolls
 Death Train
@@ -15818,7 +15522,6 @@ Naked Cannibal Campers
 The Red Man
 Flying Saucer Rock 'N' Roll
 A Stranger Calls from Beyond the Crimson Room
-CHEST
 Phantom Soldiers
 Shockwave
 Cannibal Collector
@@ -15918,7 +15621,6 @@ Dead Inn
 The Legend of the 5ive
 Troublesome Night 12
 Three's A Shroud
-Absent
 The Monk
 The Dungeon of Dr. Dreck
 072 Squadron G Rangers
@@ -15967,10 +15669,8 @@ Uniform SurviGirl II
 They Who Are Not Seen
 Avarice
 The Lashman
-Sandman
 Dead Shit
 Bridge to Nowhere
-The Hunting Ground
 Seven Deadly Tapes
 318
 Arwah Kuntilanak Duyung
@@ -15978,7 +15678,6 @@ Dilim
 Midnight 2
 Parapsycho Spectrum of Fear | Parapsycho Spektrum der Angst
 Dragon Century
-The Creeping
 Green Hat Diner
 Demon of Steel Battle of the Great Demon Beasts
 3 Pocong Idiot
@@ -15986,7 +15685,6 @@ Astro Zombies M4 Invaders from Cyberspace
 Backward Creep
 Kakak
 Blue
-The Apostles
 The Dark Days of Demetrius
 Honour Thy Mother
 The Lights
@@ -16044,7 +15742,6 @@ Scariest Night of Your Life
 A Good Son
 Missing 77
 Skrip 7707
-Dr Jekyll and Mr Hyde | Dr Jekyll y Mr Hyde
 Girls Just Wanna Have Blood
 Praana
 Vampire Obsession
@@ -16058,7 +15755,6 @@ There's Something in the Shadows
 Case#13
 Autumn Road
 The Moose Head Over the Mantel
-Fugue
 Key Lime Voodoo
 Oma the Demonic
 The Path of Evil
@@ -16068,7 +15764,6 @@ Vampirus
 The Recovered
 The Mysterious Red Curse
 Mari-Cookie and the Killer Tarantula
-The Mime
 Gothic Vampires from Hell
 The Chasing World 4
 Dweller
@@ -16098,7 +15793,6 @@ Deep Hatred
 Hansel and Gretel Lost in the Forest | Hansel und Gretel verliefen sich im Wald
 Those Merry Souls
 When Death Calls
-The Ghost Writer
 South African Spook Hunter
 Open Your Eyes
 The Worst Horror Movie Ever Made The Re-Make
@@ -16130,7 +15824,6 @@ Wolfsbayne
 Goatsucker
 Mole
 Sodomaniac
-Dawn
 Palo Pinto Gold
 Hell Nurse
 Nothing Left
@@ -16138,7 +15831,6 @@ Amityville in the Hood
 Blood Stained Shoes
 The Slit Mouthed Woman
 La Isla
-The Slasher
 Demon Fighter Kocho
 Big Cat Trail
 Jason Hates Selfies
@@ -16156,7 +15848,6 @@ Young Goodman Brown
 Sawbones
 An Ideal Host
 Unusual Attachment
-Dark Side of the Moon
 The Sun Never Sets
 Trance
 Mystery of the Night
@@ -16279,7 +15970,6 @@ Speck
 How My Dad Killed Dracula
 Terminal Station | Terminal Praia Grande
 Awake | Reveil
-The 13th Sign
 The Burden | Het Juk
 Kembalinya Anak Iblis
 Check.
@@ -16339,7 +16029,6 @@ Smile Guide 1 How To Effectively Apple
 Smile Guide 2 How To Make From Paper
 Pamahiin
 The Naked and the Living Dead
-Dare
 Cinco De Mayo
 Root
 La casa del kilometro 5
@@ -16418,7 +16107,6 @@ Clowns in the Woods
 Wivine
 Panic At Midnight
 The Z Effect
-The Eyes
 Nightmare Zone
 L'ogre
 Breaking Santa
@@ -16518,7 +16206,7 @@ Crepitus
 Blossom
 Un crimen comun | A Common Crime
 Beyond the Shadows
-Calabria | The Tormented
+Calabria
 The Angel in the Pit | O Anjo no Poco
 OctoGod
 Cuando tu carne grite basta
@@ -16544,7 +16232,6 @@ Vampiros
 Troublesome Night 10
 Banyo Queen
 Our Enemy
-Demon Lover
 The Fatality
 Housewife from Hell
 Devil Returns
@@ -16572,8 +16259,6 @@ Don't Die First
 Wild Hunt
 Video Murders
 Ghost Money
-Remake
-Disembodied
 Barbecue Death Squad From Hell
 Klaus Eats Butterflies
 Badass Bunyip
@@ -16592,7 +16277,6 @@ Medley Brandelli di scuola
 From The Woods
 Virtual Death Match
 Fearsome
-The Ascension
 The Horror Convention Massacre
 Tides of the Heart
 Paranormal Doorways
@@ -16627,7 +16311,6 @@ Bound X Blood The Orphan Killer 2
 The Truck
 Black Asylum
 House with 1000 Doors
-The Missing
 Madam White Snake
 Pyaasa Haiwan
 Two Sheriffs
@@ -16660,7 +16343,6 @@ The Smiling Man Supercut
 Expecting
 Sitsit
 Kill Giggles
-Bloodhound
 The Ghost Writer Show The Call of Cthulhu
 Enter the Freeman
 Little Brother
@@ -16676,7 +16358,6 @@ Destino (Florida)
 zombie world, the movie
 Maggots
 The Man In The Mask
-Feed
 Jungle Virgin Force
 Dark Romances Vol. 1
 To Save a Child
@@ -16715,7 +16396,6 @@ Chalawan Kraithong 2
 Tokolosh
 They Are Mine
 Prank Week
-The First Date
 Meow
 Old Haunt
 Rutabaga
@@ -16775,7 +16455,6 @@ Strovengah Amor Torto
 Pocong Jumat Kliwon
 Gryla
 Max
-Next Victim
 Kiss of Death | O Beijo Letal
 Blood on Benefits
 White House
@@ -16794,7 +16473,6 @@ Last Bus
 O.V.N.I. | U.F.O.
 Killer Love
 Banshee Blacktop
-The Parasite
 Murder at Makeout Point
 Full Disclosure Report
 Sledge
@@ -16860,7 +16538,6 @@ Ghost Island 2
 House of Nightmares The Last Dance
 Daikaiju Eiga G
 Video Dating Tape
-Perfect Bride
 Birth in the Grave
 Transition
 Ohm
@@ -16871,7 +16548,6 @@ Something Sweet
 Nutcracker An American Nightmare
 Eyes Are Upon You
 Ghost Office
-The Dead of Night
 Hatred Of A Minute
 The Haunted Lantern
 Kisah Nyata Dukun AS Misteri Kebun Tebu
@@ -16892,7 +16568,6 @@ The Legend of Ghost Festival
 H.P. Lovecraft Ipotesi di un viaggio in Italia
 Attack of the Flesh Devouring Space Worms from Space
 The Incredible Doktor Markesan
-The Hereafter
 Kid Safe The Video
 Clap, You're Dead | Ciak, si Muore
 Karma Punishment
@@ -16931,7 +16606,6 @@ Six She's and a He
 The Devil and Miss Sarah
 The Flesh of Another
 Boy Frankenstein
-The Puzzle
 Amore Estremo
 The Mailman
 The Devil's Muse
@@ -16959,7 +16633,6 @@ The Curse of the Alpha Stone
 Rumah Pondok Indah
 Susuk Pocong
 Geo Lobotomy
-The Butterfly
 Unborn Sins
 Shake Rattle & Roll XI
 Hospitality
@@ -17012,7 +16685,6 @@ Bad Blood
 Dirty Fingers | Smutsiga fingrar
 Junji Inagawa's Shivering Horror
 Lizard Boy
-Mutation
 Stragglers
 Mati Suri
 Son of Terror
@@ -17095,7 +16767,6 @@ Tontine Massacre
 Zombie Genocide
 Razor's Ring
 Twilight Syndrome Dead Cruise
-The Seekers
 Desire of the Innocent Blood
 If It's a Man Hang Up
 Parallel Lines The Hunt
@@ -17111,7 +16782,6 @@ Thirteen to Centaurus
 Infekt Wie sieht das Ende der Welt aus
 Love & Murder
 A Candle in the Dark
-The Grim Reaper
 Foreclosure
 The Holy Man With Ghost Sathu
 The Ex-Wife
@@ -17173,10 +16843,8 @@ Afrikanisches Schnitzel
 Lake Noir
 Devil Ivy
 Ghost Variety
-The Hotel
 The Legend of Snake
 Long Taek
-The Daughter
 Deader Country
 Secret Room No. 7
 Taxi Tonight 2
@@ -17214,7 +16882,6 @@ Wishbaby
 Killer Dead
 Cara Mengundang Hantu
 Toxic Lullaby
-The Pray
 Antisocial Behaviour
 Asylum Night
 Immortal Enemy
@@ -17222,7 +16889,6 @@ Back Slash
 Vapid Shallow Models Must Die
 I Was a Teenage Strangler
 Vamps Deadly Dreamgirls
-Witch
 Cannibal Flesh Riot
 Trick of the Witch
 Eat Me
@@ -17244,7 +16910,6 @@ Angel of Darkness Volume 4
 Winepires Blood Toll
 Space Wolf
 Dark Surface
-Grandmother
 Creepy Tales Girls Night Out
 Cold Head | La tete froide
 The Best of Gesichter des Todes
@@ -17254,7 +16919,6 @@ The Sanctuary
 The Stone No Soul Unturned
 The Leaf Blower Massacre
 Deadville
-Vampire Family
 Monkey Boy
 Midsummer Nightmares
 The Hiding
@@ -17294,7 +16958,6 @@ Pity
 Malleus Maleficarum
 Greater Than
 The Makeover
-The Heat
 Satan Place A Soap Opera from Hell
 Samurai of the Dead
 Insaniac
@@ -17314,7 +16977,6 @@ Creatures from the Grave
 The Beautiful Ghost's Grievance
 When the Gods Fall Asleep | Quando os Deuses Adormecem
 The Evil Girl
-Headless Ghost
 Haunted Villa
 Kids Get Dead 2 The Kids Get Deader
 Three Women's Rancour
@@ -17374,7 +17036,6 @@ The Black Mountain Madman
 Raw 3 The Revelation of Grete Muller | Raw 3 Die Offenbarung der Grete Muller
 Recortadas
 Frankenstein Vs. Hitler
-Beasts
 Crippled Creek
 La Funcionaria Asesina | The Slayer Bureaucrat
 Horror of the Wolf
@@ -17417,7 +17078,6 @@ Kung Fu Vampire
 Scary Tales Night Elevator
 Dark in the White Light
 T is for Tantrum
-Scary House
 Professor Lust
 Margaret
 Dead of Knight
@@ -17449,7 +17109,6 @@ Das Schwabische Sagewerkmassaker
 Living in Bondage
 Eye of the Paranoid
 Admission By Guts
-The Witching Hour
 666 sq ft
 Grammy
 Angie + Zahra
@@ -17494,7 +17153,6 @@ Kadokawa Mystery & Horror Tales Vol. 2
 The Legend of Blood Mountain
 Elektrik Kiss
 Ada Apa Dengan Pocong
-Wake
 Androgynym
 Seventh
 Trees
@@ -17545,7 +17203,6 @@ The Virgin Corpse
 Searching for Haizmann
 The Devil's Lettuce
 Assumption
-Hatred
 A Little Change
 Fatal Invitation
 Taxi
@@ -17612,7 +17269,6 @@ Deep 6
 The Man Who Came To Kill
 And Hell Awaits
 El psicopata asesino | The Psychopathic Murderer
-Harvest
 Nido de escorpiones | Nest of Scorpions
 La huella | The Mark
 Rostros | Faces
@@ -17624,7 +17280,6 @@ El motel de la muerte | Motel of Death
 Self Induced Nightmares
 Under the Apple Tree
 Cursed Woods
-Rougarou
 Generation Ax
 Half Twin
 The Ghostly Rental | La Redevance du Fantome
@@ -17712,12 +17367,10 @@ Invitation of Ghost
 The Final Judgement
 Violeta, la pescadora del mar negro | Violet, Fisher of the Black Sea
 Midnight Evocation
-Unfamiliar
 Shrouded
 Mokdugi Video
 Ghosts vs. Aliens
 Zombrex Dead Rising Sun
-Undertaker
 The Dismembered
 Sick Bastard
 Collision
@@ -17793,7 +17446,6 @@ The Sleepwalker Strangler
 Couples Night
 Ingression
 Dibuk O Demonio
-The Evil Cat
 The Good Samaritan
 Dead House
 Distortions
@@ -17828,7 +17480,6 @@ Trampoline
 Paul's Bad Day
 Infract
 The Idol
-Gorgon
 The Return of the Monster
 Fangs & Claws | Dentes e Garras
 Working Stiffs
@@ -17891,7 +17542,7 @@ He Lives in the Woods
 Incarnation of the Devil
 The Darkest
 Difficulty Breathing
-El paranoico | The Paranoid
+El paranoico
 TEMA TEVE
 Don't Let Her Out
 Dancing with The Devil
@@ -17904,7 +17555,6 @@ Pinky
 Bloody Night
 MAID OF THE DEAD
 Transgression
-The Hangman
 Sandwitch
 Bride of Frankie
 Delirium What's Your Worst Fear
@@ -17946,7 +17596,6 @@ Bloody Current Exchange
 Paranormal Saw
 Necrologies
 Crittus
-Midnight Man
 Expelling the Demon
 Maxim Xul
 Flash sangriento | Bloody Flash
@@ -18006,8 +17655,6 @@ Pharisee
 Lowriders vs Zombies from Space
 House of Hope
 Van
-Nameless
-The Graveyard Shift
 Cambio | Change
 Blame it on Toby
 Sleep Eaters
@@ -18078,7 +17725,6 @@ Love Rain
 Bad Dose
 65th
 Dead Things
-Territory
 Axemas
 0234
 Almas Inocentes | Innocent Souls
@@ -18237,7 +17883,6 @@ Grave Sight
 Little Lunch The Halloween Horror Story
 Murder On Line One
 La ultima cena
-The Dead End
 Genomorph
 Tales From The Campfire
 The Latent Image
@@ -18270,13 +17915,11 @@ FEEL
 Nyarlathotep
 SELFIE
 Animal Within
-Eve
-Hunt | Cacada
 The Death Pledge
 Dirt Dauber
 VI
 Scraps
-Supervivere | The Escape
+Supervivere
 Night Call
 The Theatre of Terror
 Spacca La Testa
@@ -18311,7 +17954,6 @@ Executioner The Musical
 The Secret of the Count of Kaunitz
 The Clown Statue
 Knife
-Driver
 Smile Guide 5 How To Properly Phone
 Smile Guide 6 How Your Child
 My Parents, The Zombies
@@ -18323,7 +17965,6 @@ Limerence
 Dulces sueños | Sweet dreams
 Bridal Party Massacre
 Blood Angel 2
-The Monsters
 La Mamita
 Violet
 Mushroom Melody A Ballad In Rhythm Jeans
@@ -18343,7 +17984,6 @@ Brasil 2020
 Hotel Infierno
 Blanket
 Blood Mask the Possession of Nicole Lameroux
-The Attachment | L'Attache
 Paranoia Tapes 3 Siren
 Below the Mountainpeaks
 Necromantic
@@ -18373,7 +18013,6 @@ The Life of Grace
 Maya 3D
 i-Mania
 Ghost Story Godmother of Mongkok
-The Mannequin
 Decapitato Consequenze Mortali
 Thorns
 Here Comes Eddie
@@ -18512,7 +18151,6 @@ The Great American Serial Killer
 Breakfast With Benjamin
 Miimaland
 Log Out
-Elf
 The Pickman Model
 A Black Morning
 Good Guy with a Gun
@@ -18529,7 +18167,6 @@ Dream Goblin
 Plus jamais possible
 Bondo
 Cheap Devils
-The Loft
 The Saucing
 259
 Pastiche
@@ -18601,7 +18238,6 @@ Queen of the night
 The Project
 A Black Rift Begins to Yawn
 Paranoia Tapes 5 Rewind
-Toxic Man
 Cardinal
 Paranoia Tapes 6 060606
 Alpine Lake
@@ -18633,7 +18269,6 @@ Decent Work
 Jenny Dixon Beach
 Extreme Life & Death The Blair Witches of Shockumentaries, Part One
 Drunkenness
-The House Guest
 Cin Bebek 2
 The Burglary
 Jolly
@@ -18657,7 +18292,6 @@ Ice Man
 A Wake
 The Pigman
 The Expected
-Domicile
 A Late Night Drive
 xVoid
 Wicked Conclusions
@@ -18677,7 +18311,6 @@ Sex, Gewalt und gute Laune
 Friday the 13th AGAIN
 Sex, Gewalt und gute Laune Vol. 2
 Who's There
-I C U
 Norman and the Killer
 Benighted
 The Blair Witch Rejects
@@ -18814,12 +18447,10 @@ Black Full Moon
 No One Can Take Your Place
 Theourgia
 The Exchange
-Itch
 A Tribute to Dr. Shock
 Chop Chop... You're Dead
 Executioner 2 Electric Boogaloo
 Triaphilia
-Familiars
 Ada Hantu
 If She Screams
 NYX 13 Minutes of Horror Film Fest Folklore
@@ -18860,7 +18491,6 @@ The Glass Breakfront
 F.I.R NO. 339/07/06
 Lock All Doors
 A volte nel buio (Sometimes in the dark)
-Casa
 Indringer
 Man on a Train
 In the Bathroom..
@@ -18907,7 +18537,6 @@ Cinema
 MegaMuerte
 Dead County
 Blood House
-The Pig
 Vanam
 Stuffings
 An Inside Job
@@ -18918,7 +18547,6 @@ From Where It Came
 Family Forbidden
 Machine Learning
 My Stranger
-Self-Portrait
 Ang Mahiwagang Daigdig ni Pedro Penduko
 Somoro O Filme
 Puri
@@ -18993,7 +18621,6 @@ Dawn of the Atomic Beast
 Afternoon Drive
 Figure
 Espelunca
-The Mystery Box
 Sadie, Baby
 Indistinct
 Love for Sale
@@ -19006,7 +18633,6 @@ Box Cutter
 O Lasanha
 Mittel Wurffel
 Uomini con piedi con patate
-The Supernatural
 Through the Devil's Eyes
 Evil Spirit Village
 Zombie Bite
@@ -19116,12 +18742,10 @@ Bones and All | Hasta los huesos
 Sissy
 Wendell & Wild
 Deadstream
-The Origin
 Pamali
 Sex and Curse
 Ash and Bone
 Ringworms
-Toy Box
 Enough Sleep
 Haunted Connecticut
 Charles
@@ -19176,12 +18800,10 @@ Upload
 It's in the Woods
 Legion The Final Exorcism
 Something in the Dirt
-The Hunted
 Astonishing Tales of Terror Rocktapussy
 Devil of Rape
 Films Confiscated from a French Brothel
 Public Access Limited
-The Spiritual Love
 Werewolves in Heat
 Love Island (Fire Island)
 And Now Our Next Guest...
@@ -19229,7 +18851,6 @@ Witch Trials
 Protesis
 Agony
 Sadako DX
-Nanny
 Day Zero
 The Legend Of Hawes
 Walking Against the Rain
@@ -19290,7 +18911,6 @@ Fear of Silent Hill
 Thumb Princess
 Campfire Creepers The Skull of Sam
 Pursuit of a Killer
-Curse of La Llorona
 Personae
 Poltergays 2, Masacre en la Pijamada
 Tumbal Hitam
@@ -19298,7 +18918,6 @@ Halloween Candy
 Conjuring Baba
 Gore All Hallows' Eve
 The Kirlian Witness
-Good Samaritan
 Krai Thong 2
 Gregory Horror Show The Nightmare Begins
 Hitozuma Mentalist Junko Saotome
@@ -19306,12 +18925,10 @@ The Embrace
 The Group
 Backwood The Barn Massacre
 Spirits Of The Fall
-The Dybbuk
 Garum (Fantastica contradiccion) | Garum (Fantastic Contradictions)
 Ouija 2
 The Demon's Child
 Murders
-Vampire Girls
 Becoming Death
 L'Energie Sombre P=WP
 Sar Kati Laash
@@ -19374,7 +18991,6 @@ Acidic Anna
 Amityville The Resurgence
 Chandi The Power of Woman
 The Vampyre Wars
-Ghost Killer
 She Came From The Woods
 2025 Blood, White & Blue
 Under the Scares
@@ -19429,13 +19045,11 @@ The Copper Queen
 The Satan Cube
 Kecoh Hantu Raya Tok Chai
 Caroltyn
-Raven
 #Slaughterhouse
 Midnight Peepshow
 Somebody's Darling
 Kuta
 The Hornet's Disciple and the Scars She Left
-The Spookies
 Amityville Vampire
 Dog
 A Way Out
@@ -19538,7 +19152,6 @@ The Strange House in the Mist | A estranha casa na bruma
 Lake of Shadows
 Spooky Kitaro Ghost Nighter
 Dark Journey
-Hermandad
 Nagai Go no Horror Gekijo Kirikagami
 The Urban Legend of Sugisawa Village
 Girls Gone Grabblin'
@@ -19582,7 +19195,6 @@ Sins of the Sisters
 Conspiracao Fatal
 SAVJ
 Judaa Hoke Bhi
-Perfection
 Digest
 ParaSense The Naked Experiments
 Startime Turn of the Screw
@@ -19887,7 +19499,6 @@ Malencolia
 His Mother
 Normal Porn for Normal People
 Halloween Jack O'Lantern
-Cleanse | Tvagning
 LACED
 Santau
 Creepypasta Deathnet
@@ -19914,7 +19525,6 @@ Anthaku Minchi
 Pie
 Octagon
 Lost In Apocalypse
-The Ghost House
 The Proposal
 Breakdown
 Poltergays Pesadija en lo profundo del recto
@@ -19965,7 +19575,6 @@ La Sangre de Frankenstein
 Screaming for Sanity Truth or Dare 3
 Phantom of the Big Tent
 The Devil's Mistress
-The Poison
 Eyes to Heaven
 911
 Nurarihyon
@@ -20087,7 +19696,6 @@ Escape To Black Tree Forest
 Troublesome Night 16
 Senritsu Kaiki File Super Kowa Too Dark Mystery Snake Woman
 Ghosts Galore
-The Truth
 Audition Found Footage Film
 Gahan Wilson's Diner
 Shikari
@@ -20103,7 +19711,6 @@ The Devil's Lettuce 2 Edible Evil
 Force to Fear
 The Halloween Kid
 Frankenstein's Grandson Moses Version Changes | O Frankenstein de Moises Neto Versao Muda
-El maleficio | The Hex
 Khooni Mahal
 The Fuzzies
 The F13th Fan Film Mixtape
@@ -20130,7 +19737,6 @@ Black Friday Subliminal
 Snuff Reel
 Satan Baby
 Pursuit of a Legend
-Dead Room
 The Men Who Fell
 Brainjacked
 Royal
@@ -20145,7 +19751,6 @@ Junky
 Neeya
 Daisy Derkins, Dogsitter of the Damned
 Waterfront Inn
-Obsessed
 Shocking
 Edison Death Machine
 The Curse of Willow Song
@@ -20157,10 +19762,8 @@ Unplugging Nightmare
 Ghost's Love
 Edmund Kemper Part 2 La Mort C'est La Vie
 The House on Todville Road
-Knock Knock, Who's There
 Female
 Young Harvest
-Immortal
 Old Blood
 bloody house/ Bunshinsaba Then a Shadow
 Mahlukat
@@ -20205,7 +19808,6 @@ All Night Halloween Party
 Courting a Killer
 Taven
 The Curse of All Hallows' Eve
-The Ghost Story
 Colonel Kill Motherfuckers
 Halloween Mind Massacre
 The Focusing Effect
@@ -20228,7 +19830,6 @@ Smut Without Smut Satanic Horror Nite
 Silly Scaries
 Berdella
 Sacrificial Youth
-Post-Mortem
 Bloody Rage of Bigfoot
 Hybrid Hazards
 Glashnok
@@ -20241,7 +19842,6 @@ Spirits Among Us
 Vixen Velvet's Zombie Massacre
 Nosferatu's Crush
 None Left Standing
-Addiction
 Ratstar
 Beast with a Budget
 39 A Film by Carroll McKane
@@ -20249,7 +19849,6 @@ There's Trouble in Track Town
 Nongkrong
 Wolf Tracer's Dinosaur Island
 Honto Ni Atta Kowai Hanashi Natsu Hen 2015
-Nest | El nido
 Late Night Ride
 Because You're Dead to Me
 Cockhammer
@@ -20431,7 +20030,6 @@ The Clapper
 Fate of the Night
 Al-Hijab
 Lucky Girl
-The Starve
 Hairmetal Shotgun Zombie Massacre The Movie
 Obito Doce Obito
 Mouchuki Forest Bungalow
@@ -20464,7 +20062,6 @@ His Devil's Night
 Dasa Tirigindi
 The World of Dracula
 Dendam Arwah Rel Bintaro
-Egg
 Rinkaku
 Senritsu Kaiki File Kowasugi File 03 Legend of a Human-Eating Kappa
 Tasogare Otome x Amnesia Taima Otome
@@ -20807,7 +20404,6 @@ Snake Curse
 Menopause
 Cla'am
 Tales of the Creeping Death
-Call
 Jason Goes Back to Hell
 Amityville Clownhouse
 Shiny New World
@@ -20835,7 +20431,6 @@ Eje
 The Fox and The Rabbit
 SHARK CAR The Movie
 Rotten Shadows
-Lullaby
 Minxiong Haunted House
 Deep Learning Death
 Found Footage 0.1
@@ -20852,7 +20447,6 @@ Paku Pontianak
 Hantu Budeg
 Dark Night
 A Little More Flesh II
-Smile)
 The Corporate Cutthroat Massacre
 Confessions of a Necrophile Girl
 Serpentine
@@ -20862,7 +20456,6 @@ Underneath An Anthology of Terror
 Faces of Dying V
 Essence of Echoes
 Nobody Ordered Love
-The Slit-Mouthed Woman
 Valentine Nightmare
 To Escape Bondage
 Benaam
@@ -20883,13 +20476,11 @@ Abandoned Creatures
 Mama Minta Pulsa
 Harp Brothers
 The Dark Offerings
-The Creek
 Nature, Morte.
 Black Mamba
 Alienated
 Keep the Gaslight Burning
 O Coracao Revelador
-Cry
 ManFish
 Corpse-Drivers of Xiangxi
 Princess Voices from Hell
@@ -20929,7 +20520,6 @@ Abraham's Boys
 Fade
 Le zombi de Cap-Rouge
 Savage Harvest 2 October Blood
-La jaula
 Scary Tales The Return of Mr. Longfellow
 The Hanging Balloons
 Hantu Jamu Gendong
@@ -20989,10 +20579,7 @@ The Expressionless
 The Case of the Spirit of Banana
 A Deadly Night
 Love Zombie Romance of the Dead
-Nesting
-The House Call
 At The End Of The Tunnel
-The Frank
 Closed Doors
 Grindsploitation 10 Milkin' It
 New Tales of Terror from Tokyo and All Over Japan Ghost Story
@@ -21041,9 +20628,7 @@ Demon Protocol
 The Monstrologist
 Sadi-Scream Vol. 1
 Tinder Tango
-Odds
 Shockumentary
-The Blood Shed
 Six Tickets to Hell
 The Legend of Black Annie
 Lumber vs. Jack
@@ -21088,11 +20673,9 @@ ACRI The Legend of Homo-Aquarellius
 Shock 2000 Snuff Perversions Part II
 Surveilled
 Mirror Game
-Breach
 The Siamese Twins
 Ghost Nursing
 Regal Shocker (The Movie)
-Snake Woman
 House of the Lute
 Alien Lover
 Ghost in Me
@@ -21157,7 +20740,6 @@ Tantrums
 Gold
 I've Killed Before
 Can You Imagine
-The Shadow
 Schism
 Pleasures
 Squish | Sprotch
@@ -21184,7 +20766,6 @@ I Need You Dead
 Days of Violence
 Jerome Um Conto de Natal
 brief days alcoholic days
-Psycho Therapy
 Out-There
 Camp Somerset
 TeenAlien
@@ -21203,7 +20784,6 @@ Forgotten Trash
 The Undying Swan
 Dead of Winter The Donner Party
 Children of Wrath
-Alien Autopsy
 Geminis
 Found Footage of Fear
 Meathook Massacre Part VI Bloodline
@@ -21259,7 +20839,6 @@ Noctambulist
 The Desert Man
 Maneaters Are Loose
 Dragon Blue
-Purgatory.
 Scaramouche Scaramouche
 Date Night
 Miss Millie
@@ -21267,7 +20846,6 @@ Fornacis
 Inseyed
 Killing Poe
 Fallen Angel
-After Party
 Yo, Monstruo
 Paranoia Tapes 2 Press Play
 Motel Providence
@@ -21293,7 +20871,6 @@ Dairy of Terror
 Password
 La Sceneggiatura
 Blank
-Devil's Rain | Pluie du diable
 Red Lips II
 Red Lips Eat the Living
 The Legend of Moonlight Mountain | Moonlight Mountain
@@ -21316,7 +20893,6 @@ Expendable
 Final Appointment
 Whispers in the Gloom
 Violent New Breed
-The Shivers
 Bloodthirsty Cannibal Demons
 Vampire Femmes
 Hell-ephone
@@ -21505,7 +21081,6 @@ Barricada
 Fear Of The Living Dead
 KidZ
 Farewell Johnny
-END | FIM
 Death Penalty.com A New Beginning
 Neighbor Hoodz
 Un silencio de tumba | Silence of the Grave
@@ -21555,7 +21130,6 @@ Terror in Rock 'n' Roll Onsjon | Terror i Rock 'n' Roll Onsjon
 Les corbeaux
 Klischee
 Clowns Vs. Ninjas
-The Death Train
 The Nutzoids at Cannibal Cove
 Vampires and Other Stereotypes
 Mas carnaza
@@ -21577,7 +21151,6 @@ HogMaul The Legend of Abrams County
 Please Talk with Me
 Surviving Evidence
 The Hackers
-The Nightmare Man
 Nigel the Psychopath
 Savage Vows
 They Didn't Make it
@@ -21589,7 +21162,6 @@ The Wrong Door
 Ghost Forest Cottage
 Horror Filmed
 Inexchange
-Black Cat
 The Last Strands of Man
 Siege of Evil
 Caidos
@@ -21621,7 +21193,6 @@ Tetesan Darah Perawan
 The Dark Dealer
 El circulo de Raynard
 Mysterium Noctis
-The Deadfall
 Nekro
 Carol Anne Is Dead
 Hantu Tok Mudim
@@ -21646,7 +21217,6 @@ Gargoyle Girls
 Zombiefication
 Interview with Terror
 The Mutagen
-The Black Magic
 Strange Tales
 Final Destinations
 So Shall You Reap
@@ -21691,7 +21261,6 @@ Departyd
 1 Hour to Die 2
 The Best Of Tromadance Film Festival Volume 2
 Kidnapped Souls
-The House of Ghosts
 Badai Selatan
 Mor
 The Temptress and the Monk
@@ -21742,7 +21311,6 @@ Nenek Bongkok Tiga
 Tagus Ranch Massacre
 Mr. Stitches
 Anak Setan
-Bees
 A Curticao do Avacalho
 Liebre 105 | Rabbit 105
 My Honeymoon with a Vampire
@@ -21757,7 +21325,6 @@ Potential Employee
 Billy's Cult
 The Cuckoo in the Clock
 Children of a Darker Dawn
-Veil
 Trust During a Zombie Apocalypse
 My Lucid Dungeon
 Vampire Boulevard
@@ -21804,7 +21371,6 @@ Pun Mae Bia
 Princess of Anaconda
 Vieques
 Liquid
-The Monitor
 Lazy Boyz
 The Darkness Within
 The World of Hammer Lands Before Time
@@ -21954,7 +21520,6 @@ Bit Parts
 The Story of Jang-hwa and Heung-ryeon
 A Flower of Evil
 The Great Story of Jang-hwa and Hong-ryeon
-Bride from the Grave
 A Ghost Story
 Sell Your Life
 A Regret
@@ -21962,7 +21527,6 @@ A Virgin Ghost
 Space Monster Wangmagwi
 A Girl of White Hair
 Why a Cuckoo Cries
-Grudge
 Witch Castle
 The Devil and the Beauty
 The Magical Sword of Skeletal Spirit
@@ -22036,7 +21600,6 @@ Sivi
 13 aam Pakkam Paarkka
 Choice Cuts
 Drag
-The Creed
 Puaka Balai Gombak
 Incall
 This Is Not a Computer The Making of Computer Hearts
@@ -22056,7 +21619,6 @@ Double Dose of Terror
 Pig Girl
 Soldier of the Night
 Oceaniden
-Swamp
 Vampire Vignettes
 The Adventures of Filfila
 Gudang Kubur
@@ -22096,14 +21658,12 @@ Switched
 Kvistur
 Red Love
 Insides
-Grey Matter
 The Fish Dies By The Mouth | Pela Boca Morre o Peixe
 Ang Mahiwagang Daigdig ni Elias Paniki
 Gabi ng Lagim Ngayon
 Lavagem
 Places to Be
 Domo
-Chilling
 Hantu Bungkus Ikat Tepi
 Di Sini Ada Yang Mati
 The Terror Factor
@@ -22142,7 +21702,6 @@ Astraea
 Cannibal Fog
 Prognosis
 A Tricky Treat
-The Lycanthrope
 Dense Fear Bloodline
 The Beast from the Beginning of Time
 Midnight Garage
@@ -22168,7 +21727,6 @@ What Happened To Anne
 Vampire from Gorjanci
 Puti
 16 Days 'til the Rest of Your Life
-Defiled
 The Bizarre Case of the Electric Cord Strangler
 Shake Rattle and Roll VI
 Snake Charmer
@@ -22254,7 +21812,6 @@ The Redux
 Dendam Pocong Mupeng
 Writer's Block
 Blood Kiss
-Witches Brew
 Abed
 Phometrica
 The Orbitrons
@@ -22280,7 +21837,6 @@ Slaughter Me Naked
 Edwin Brienen's Hysteria
 Black Eyes
 HALFMOON
-Cycle
 Enchiridion
 Pillow Fright
 Tickle
@@ -22318,7 +21874,6 @@ Killing Twice A Deadhunter Chronicle
 Our Kingdom Come
 Sons of Perdition
 Interimere
-Rite
 Whistle Stop
 Derek
 Filthy
@@ -22480,7 +22035,6 @@ Dead Is Dead 25
 Dead Is Dead Again
 Cult of the Vampire
 Count
-The White Fox
 Dead Ahead
 Untot Kampfer in der Leichenwelt
 An Ending
@@ -22555,7 +22109,6 @@ If I Were 1000 Years Old | Si j'avais 1000 ans
 A Perfect Blue Sky | Un ciel bleu presque parfait
 L'Elue des Enfers
 Les Proies du Mal
-Last Halloween
 Hemophilia
 Crimson Dance
 Infame
@@ -22574,7 +22127,6 @@ Physical Sculpture | Sculpture physique
 A Photograph
 Kampung Zombie
 Jessika
-The Curve
 The Shrieking
 Collinsville Two Axes of Evil
 The Ditch
@@ -22623,7 +22175,6 @@ When Pen Ghost Meets Plate Ghost
 When Susurrus Stirs
 Biest
 Moderation
-The Ghosting
 Black Dog
 Dense Fear
 Bhago Bhoot Aayaa
@@ -22678,7 +22229,6 @@ Hotel Hollywood
 Help Me First
 M Is for Mime Time
 Ootake Shinobu no Reikan Shoujo
-The Dweller
 Hallucinative Comas
 Halloween Horrors
 Psycho Vampire
@@ -22704,7 +22254,6 @@ Yudelmi
 Escalofrio diabolico | Diabolical Shudder
 Antidote for Witchcraft
 Whispering Soul
-The Magic Amethyst
 Jockstrap Slaughterhouse
 Possessed Grandmother in the Eerie House
 The Possessed Grandmother
@@ -22721,7 +22270,6 @@ Midnight Thunder
 Satan's Revenge
 Bloody Wedding
 Bloody Love
-Snake Queen
 Magic Implants
 Night Virgin
 Little Devil
@@ -22741,7 +22289,6 @@ Goddess of Night
 The Jealous Ghost
 Wishing to Get Rich Quick
 The Curse of Nyai Roro Kidul
-The Haunted House
 Kiss and Be Killed
 Demon of Gonggo Gulf
 Resurrected from the Grave
@@ -22760,7 +22307,6 @@ Pocong Ghost
 The Mystery of Ronggeng Jaipong
 Nenek Grondong
 Ghost Love
-The Zombie
 The Sunken-Eyed Ghost
 Muñeco Viviente V | Puppet Pal V
 La casa de Tourneur
@@ -22785,7 +22331,6 @@ The Snake Man
 The Snake Girl
 Crocodile Man
 Elephant Wife
-The Crocodile
 Snake Lady
 Undying Love
 The Sleeping Plot
@@ -22841,7 +22386,6 @@ Two in the Morning
 Death Beach
 Buns
 A Woman in the Shadow
-Loop
 The Day I Vanished
 In Memory of Laura
 Larry Gone Demon
@@ -22859,7 +22403,6 @@ Chungul
 The Frozen Horror Show
 Fukashigi monogatari Fantastic Collection
 Last Day At The Beach
-The Vacancy
 The Exhumation
 Shock Ending
 Lady In Danger
@@ -22869,7 +22412,6 @@ Go Nagai's Scary Zone The Mysterious Demon
 The World of Hammer Wicked Women
 The World of Hammer Vamp
 Bala Bala Maniwala Ka
-Project
 Ai no kagero
 Kusku
 I Am Nightmare
@@ -22927,7 +22469,6 @@ Skookum The Hunt for Bigfoot
 Scattered
 The Slavers
 Everything's Eventual
-Silent
 Halloween Nightmare 2
 Pontianak
 The Modular Body
@@ -22954,11 +22495,9 @@ Tragedi Penerbangan 574
 Takut
 Road Kill
 Night of the Living Heads
-The Python
 Snake Devil
 Spiritual Of Snake
 The Snake King's Grandchild
-The King Cobra
 Killers by Nature
 Holland Road
 Visits Hungry Ghost Anthology
@@ -23042,7 +22581,6 @@ Demon, Demon
 The Fallen Member | O Membro Decaido
 Zombie in a Haunted House
 Escrito en la niebla | Written in the Fog
-Complex
 I'm Being Followed
 Room-Mates
 Coffin Joe Tales | Contos de Horror
@@ -23227,7 +22765,6 @@ Igodo The Land of the Living Dead
 Napoleon's Curse
 The Z Triangle
 Lurking Evil
-Birthday
 iMedium
 Ghost Hospital
 Don't Cry
@@ -23272,7 +22809,6 @@ A Herdade dos Defuntos
 The Curse of Sanguanel
 D.R.
 Jaws of the Shark
-The Grief
 Strip Mahjong Idol Sengoku Era
 A Grave for Jimmy | En grav for Jimmy
 Mettle
@@ -23292,7 +22828,6 @@ The Horror Of Sandy Creek
 Auditorium 6
 06 Tiros, 60Ml
 Sozinho
-The Harvesters
 The Professor
 The Canadoo
 Viola vs. The Vampire King
@@ -23335,7 +22870,6 @@ Bon Appetit
 Crave
 Drip Drop
 Paralys
-Teddy Bears Picnic
 Third Wheel
 The Masked Strangler
 Salvation by Blood
@@ -23360,7 +22894,6 @@ Insaan Bana Shaitan
 Daayan
 Khoon Ki Pyasi
 Khofnak Mahal
-Blood & Honey
 Fwd
 Debit Wolf
 Supernatural Swamp Slaughter
@@ -23406,7 +22939,6 @@ Hua Shin Juanq Daw Goei
 Rumah Hantu Pasar Malam
 Story of the Eye
 A Good Man | Un Homme Bien
-The Breeder
 Les dieux en colere
 Das dunkle Haus am Rande des Waldes
 Reap Culture
@@ -23421,9 +22953,7 @@ Vampire Training Camp
 Of Bloody Peony at Night
 Voodoo Doll
 Attack of the Thanksgiving Squash
-The Hell
 The Ghostly Daughter-in-Law
-The Stormy Night
 Woman Ghost
 Dead. Tissue. Love.
 Cold Ones
@@ -23481,9 +23011,7 @@ The Viper's Hex
 A Beautiful Killing
 The Black Box Murders
 The Book of Murder
-The Break
 The Centerfold Murders
-Jinn
 The Deadly Volley
 Distant Early Warning
 Promiscuities
@@ -23565,7 +23093,6 @@ Valley of the Rats
 Terror in the Streets
 Blood Red Sandman
 Snapp
-Driller Killer
 7 Manusia Harimau
 Ek Din Ek Raat
 The Big Slaughter Club
@@ -23608,7 +23135,6 @@ In Good Spirits
 Integro
 Jangan Dengerin Sendiri
 Mr. Humphreys and His Inheritance
-The Sacrifice
 M is for Make Believe
 Elegy
 The Well aka Brunnen
@@ -23664,7 +23190,6 @@ Demon of the Flats
 A Night Alone
 Below the Trees
 Wayfarers
-Tattooist
 Cruel Perdon
 The Negative
 Family Curse
@@ -23694,7 +23219,6 @@ Feed Your Demons
 I Can't Breathe
 Run Rabbit
 Rumah Pasung
-Mirror
 Terowongan Casablanca
 Ghost on the Bridge
 Skin Baby
@@ -23703,7 +23227,6 @@ Hotel Camarillo
 Count Your Curses | A Chacun sa Malediction
 Menhir
 Umberto Temple Room
-The Silent Scream
 Rodriguez Creation
 The Bloody Paw of the Cruel Beast | Die blutige Pranke der grausamen Bestie
 0150 AM
@@ -23752,7 +23275,6 @@ Viagem Sem Volta
 Madman 2
 Til Death Bloodbath
 Living Nightmare 2
-P.O.V.
 Bloody Game
 Twisted Tales 2
 The Good Book
@@ -23879,7 +23401,6 @@ Backwoods Marcy
 Wild Games
 Demon Queen's Bed
 Mystery in Hong Kong
-Forbidden Love
 The Chloroformed Model
 Slaughtered Socialites
 Mark of the Devil 666 The Moralist
@@ -23974,7 +23495,6 @@ Benito Tilmann O Pior Cineasta do Mundo
 Dead American Woman
 Far from the Apple Tree
 The Foggy House
-School
 Groundhog
 Sunscapades
 Leash
@@ -23990,7 +23510,6 @@ The Supernatural Events on Campus
 Mid-Night Train
 The Little
 Pizza Hunt
-The Kin
 Prosper
 Restricted Area Baron Palace
 Vampire Night
@@ -24067,7 +23586,6 @@ Married to a Witch
 USB
 Outside Outside Outside Outside
 Werewolf Massacre at Hell's Gate
-The Intervention
 An Beanshi
 Meathook Massacre III First Hunt
 5 Minutes to Midnight
@@ -24121,7 +23639,6 @@ Execution
 The Storymaker
 Le livre muet
 Devilwood
-The Cold Dark
 The Bride With Painted Skin
 Sin Señal | No Signal
 T is for Temptation
@@ -24245,7 +23762,6 @@ Mask of Sanity
 Mrs. Oldina Goes Shopping | Dona Oldina Vai as Compras
 Wengi Anak Mayit
 Underland
-Once Bitten...
 Dr. Balden Cross Beyond The Void
 The Black Dude Lives
 Maiden Well
@@ -24314,7 +23830,6 @@ Those Among Us
 Spooktown II
 One Awaken
 The Writer's Ghost
-Swarm
 The Witch Chronicles
 Monster with a Movie Camera
 Devil Lover
@@ -24351,7 +23866,6 @@ Cliche
 Mindcreep
 Auopssessed
 Clogs
-Exorcist
 Tales from Beyond the Grave
 Die Rache Des Mark S.
 Devote to Spring
@@ -24412,7 +23926,6 @@ Burying The Mother In-Law
 Igor the Vegan Vampire
 Don't Stay Too Long
 The Writer
-Supper
 Midnight's Calling
 Kettensagen Zombies
 Grenzganger
@@ -24433,7 +23946,6 @@ A Fairy's Mandarin Duck
 Konpaku
 Tales of the Bizarre 2008 Spring Special
 Can't See Me Love You
-7
 Parva
 Department 666
 Marie
@@ -24460,7 +23972,6 @@ Die Scheiss blutigen Zombies
 Brico Killer
 Night Terrorizer
 Fatal Premonitions
-Little Monster
 Carfucker
 DOREIJYU
 Uncertain Doom
@@ -24482,7 +23993,6 @@ Premonitions
 Avulsion
 Jojo
 Forest Creatures Feel No Cold
-The Devil's Due
 To Catch a Mouse
 House Among the Trees
 El tunche | The Tunche
@@ -24623,7 +24133,6 @@ Tight
 A Fistful of Toothpicks
 Cin-Si Bozuk
 To the Valley of Shadows | Ao Vale das Sombras
-DARK ROOM
 Shiny Diamonds
 Invite Only
 From the Other Side | Do Outro Lado
@@ -24634,7 +24143,6 @@ Wrath of the Skunkape
 Dr Prasad c/o sitara
 Allodium
 Notivago
-Bad Seed | Erva Daninha
 Date From Hell
 Avogardo Murmansk Mutation
 Azazel Son of the Devil
@@ -24652,7 +24160,6 @@ Stillborn
 Remorse | La logique du remords
 A Whisper in the Dark 2
 Elixir
-Candy
 Siddah
 Ennaval
 Night Bus
@@ -24739,7 +24246,6 @@ Last Train Home
 A Nightmare on Chocolate
 Twitz from Pluto Graff, Jackass and TV Casualty
 A Crazy Country Christmas
-The Reflection | Le reflet
 Piano
 Church of Fears
 The Great Altar
@@ -24754,7 +24260,6 @@ Fog Island
 Camp Corpses
 Serial Rabbit
 Pengantin Topeng
-Jack O' Lantern
 Blood City Massacre
 Hell's Half Acre
 Nakalnya Anak Muda
@@ -24803,7 +24308,6 @@ Cesedin Olumu
 Angriff der Deichzombies
 Attacked
 Triptychon of Fear
-Silence
 Orfeus
 505
 The Doppel Chain
@@ -24857,7 +24361,6 @@ Hotline 666 Delivery to Hell
 Nausea
 Les Demons de la Cave
 Flat no 609
-The Shadow of Death
 Monster Heaven
 Grandma Werewolf
 Strangled Starlets
@@ -24939,7 +24442,6 @@ Witiko
 Jejak Darah
 Brady's Bargain
 Rawmouth
-Fury
 Inside My Dream
 Dendam Azalea
 Costacurta (A Tale of Satankrajina)
@@ -24954,7 +24456,6 @@ Paranormal Phenomenon
 Sinful
 Carcosa
 Gece Gelen Cin Bebek
-Silenced
 The Death, Her and Me
 Haunted Hills
 The Dreadful Hallowgreen Special
@@ -25016,7 +24517,6 @@ Raising Hell
 Ixtab
 Ashes To Ashes
 The Things that Haunt Us
-The Knife
 Kajeng Kliwon
 Tales From Deep Hell
 Be Good | Sois sage
@@ -25039,7 +24539,6 @@ Bodysnatcher | Ultracorpo
 The Stubermensch
 The Bystander
 Insect Inside
-The Reunion
 Death Muffins
 The Cool Kids
 Free as Dead
@@ -25058,7 +24557,6 @@ The Doll Comes Home
 Monster Pool Chapter Four
 Kaaal
 Mukuro Trilogy
-Real Thing
 Torching the Dusties
 Pepper
 Zombiosis
@@ -25078,13 +24576,11 @@ Primo Alieno
 Ron Rico
 Jamie
 Lady Plastic
-The Dead Enders
 Tokoloshe An African Curse
 Djoerig Salawe
 Sola en la Noche
 Atanker Choya
 Hantu Ustazah Supiah
-The Offerings
 Christmas at Dracula's
 Litchi Hikari Club Stage Play
 Edificio Ezquizofrenico | Schizophrenic Building
@@ -25095,7 +24591,6 @@ Cry Cry Scream Scream
 Zombi Ritual
 The Debacle
 The Frankenstein Monster Project
-The Soul
 Movie Madness
 A Walk in the City
 The Highest Highs
@@ -25133,7 +24628,6 @@ O Chamado da Faculdade
 Meta Putz
 Cuckoo
 Wolf of Vengeance
-Shelter
 Santau Maut
 Foto
 Arwah Tumbal Nyai Part Tumbal
@@ -25181,7 +24675,6 @@ Jesus I Was Evil
 Security Anthem
 Blood Rites of the Vampyr
 The Ridges
-Black Shuck
 Journey Through the Night
 Coagula
 Vajramukhi
@@ -25189,7 +24682,6 @@ Aatakkuntu Lekkakkilla
 Frigid
 UpsideDown | OppNed
 El taxista perfecto | The Perfect Taxi Driver
-Wicked
 Last House on CCTV
 Tales for the Campfire 3
 A Noiva do Turvo
@@ -25247,7 +24739,6 @@ Flowers 02
 Antitesi
 The Trail of Death
 The Trail of Death 2 Redemption
-Fate
 Kamen Rider Ghost Final Stage
 Attack of the Killer Manatee
 Sobrado
@@ -25321,7 +24812,6 @@ Dungeon of Evil
 Ovenia A Love Story
 Follow the Sun
 Five Find Your Limit
-Closet
 Johnny Tanggo Rides Again
 Island of the Cannibal Death Gods
 Blot
@@ -25455,13 +24945,11 @@ The Haunting of Cassie Palmer
 Karimpoocha
 Channel X Cartoon Show
 Sudden Light
-Eclipse
 She Must Come
 Beg for Life
 Obverse and Reverse
 The Fungus among Us
 Hobu Chandra Raja Gobu Chandra Mantri
-The Disturbed
 Hotel Darklight
 Skt. Clemens
 Jade of Tai Chi
@@ -25619,7 +25107,6 @@ Homemade Horror Film Compilation 1920, 1940s, and 1960s
 Meta
 In Search of the Real Frankenstein
 The Eliminator
-The Waiting
 Minha Esposa e um Zumbi
 Count Duckula The Vampire Strikes Back
 Night Woman
@@ -25635,7 +25122,6 @@ The Frightened President
 Middle of the Night
 Another Evil Night
 The Vesuvius Xperiment
-The Carver
 Ghost Gambler
 Evil Thoughts
 Smashing the Coffin
@@ -25700,7 +25186,6 @@ Keith
 Numerus Duo
 UORC, La Pelicula | UORC The Movie
 The Killer Walks Among Us
-Weirdo
 Cha da Tarde
 Come and play
 Evilio vuelve (El purificador)
@@ -25846,13 +25331,11 @@ Cassette
 Miss Call
 Man In The Box
 The Night Delivery
-Seven
 Estado De Miedo | State of Fear
 Maria's Tale
 The Arachnophobe
 Deeflowered
 Tales From Parts Unknown
-Dead/Undead
 Daddy Christmas
 Estrela radiante
 Necrochorume
@@ -25868,7 +25351,6 @@ Full Moon Massacre
 Toys
 Mr. Thisforthat
 The Cruise
-The Black Box
 Devil's Meat
 Mr. Ticklez
 Scary Stories to Tell by the Campfire The Green Ribbon
@@ -25901,7 +25383,6 @@ The Thing from Elsweyr
 Investigation of Indian Cabin Rd
 A 1984 Period Piece in Present Day
 Bungkeuleukan
-(a)wake
 Roshdy Building
 Alt Manheim
 Decline
@@ -26025,10 +25506,8 @@ TNR
 Shopping is Contagious
 Heart Attack Man
 The Hollow Hours
-Wrath
 El fabricante de sillas | The Chair-Maker
 HBDTM
-The Ceremony
 Rhapsody in Blood
 Asesinarte | Murderart
 Threads
@@ -26042,7 +25521,6 @@ UNICORN
 Segregatio
 Clamps
 Nightfill
-Mummy
 Avaruuden Teurastajat
 Llega la noche
 Air | Ar
@@ -26106,7 +25584,6 @@ Pukawa Ko
 Sleep Paralysis
 OT
 Balbal
-Psychopath
 Guardian of the Abyss
 Queen The Awakening
 Anino Kabiling Katalagman
@@ -26151,7 +25628,6 @@ Sexto Aniversario
 Ganger
 Embopa
 Splattenstein 2000
-La visitante
 Hellfie
 Retratos
 Desde el bosque | From the forest
@@ -26196,7 +25672,6 @@ En la hora mas oscura
 Method to the Madness
 Diable en Boite
 400 Ways to Kill a Vampire
-Beacon
 Children's Scary Story The Fear of a Three Sided Mirror
 Children's Scary Story Mysterious Refrigerator
 Children's Scary Story Kotatsu Black Hole
@@ -26312,11 +25787,9 @@ The night of the invasion of the garden dwarves from outer space
 Nudist of the Living Dead
 Quarantina Gothika
 Ile Alatau
-Moonlight Sonata
 Emily's Monster
 The Torch
 Noctopia
-Snare
 Demons in the Dark
 The Cask
 Gassal
@@ -26339,7 +25812,6 @@ Crust
 Lies Inside
 Unseeing Evil
 Grade A
-The Housewife
 Satanico
 The Collector's Chest
 Recollection
@@ -26359,7 +25831,6 @@ The Thrill
 A Deadly Love
 Mad Martha Church Warrior
 Silent Lake
-BUNKER
 Transmission 14 The Last Broadcast
 The Child Who Would Not Come
 Mala Sangre
@@ -26458,7 +25929,6 @@ Akai
 El niño que habla con las estrellas | The boy who speaks to the stars
 Bloodthirsty Spider
 The Best of Me
-Craving
 Rent | Aluga-se
 Thread
 Diary of a Demon
@@ -26477,8 +25947,6 @@ Conexao Macabra
 IMThem
 The Vacation House
 The Ghost Resort
-The Insomniac
-The Dreamcatcher
 The Ouija Board Project
 Rear Window
 Survive Girls
@@ -26496,7 +25964,6 @@ Red Pill
 Hanako San
 Terra Formars OAD (OVA)
 The Girl with the Blurred Face
-The Infiltration
 Grimorio | Grimoire
 Titus Andronicus
 Ultimate Zombie Feast
@@ -26547,7 +26014,6 @@ Zumbi de Astamona
 Smile Lines
 Paramedics II
 Real Paranormal Activity
-The Rave
 O Olhar da Besta
 The House of Pop 7
 The House of Pop 9
@@ -26555,7 +26021,6 @@ The House of Pop 10
 The House of Pop 11
 The House of Pop 13
 Perfect Match
-Dismembered
 Sadistic Bitch
 Bavathi
 End Roll 2.58.11
@@ -26621,7 +26086,6 @@ Lentera
 The Settling House
 No esta noche
 Jingle, Jingle
-The Pumpkin Man
 The Thrift
 Absorbed
 Amdusias
@@ -26770,7 +26234,6 @@ Rhyme Slaya
 Burn Out
 Blue Seed Beyond
 A Cthulhu Story
-The Bag
 Watching Me Watching You
 The Fetch
 Faces of the Dead
@@ -26800,7 +26263,6 @@ M Fantasia Dramatica
 I Stopped by Your House Last Night and The Porch Lights Swallowed Me Up
 DINNER
 Cafe | Coffee
-Muñecas
 The Game is Over
 Cain
 Pampa Feroz
@@ -26813,7 +26275,6 @@ A Renaissance
 Daityo (The Demon)
 On The Roof
 Who Was It The Beginning(Part 1)
-Stranger
 Homemade
 60 minutos | 60 Minutes
 The Mississippi Mummy
@@ -26832,8 +26293,6 @@ Series Plandemicas | Plandemic Series
 Shattered
 Arachne
 The Apocalypse will be Automated
-Girl
-The Lone Wolf
 Where the Shadows Fall
 Tales of the Bizarre 2006 Fall Special
 Lo stronzo assassino
@@ -26860,7 +26319,6 @@ Thingz
 Bed Bugs
 Kagewani
 Kagewani Shou
-The Vampire Assassin
 Martel's Movie Madness The Movie Part One The Beginning
 Horror News
 Breathe
@@ -26921,7 +26379,6 @@ Asgar Cin Vadisi
 Sundown at Cemetery Junction
 Honto ni Atta Noroi no Video Vol. 1
 Banned from Broadcast
-Wrong House
 A Machine for Boredom
 Steam
 A Comedy of Horrors Volume 1
@@ -26944,7 +26401,6 @@ Flowers in Autumn
 Yokai Girl Kirin
 Oscuro Silencio
 Two Wolves | Dois Lobos
-The Night Hunter
 He Rang
 New Legend of Lyon Another Flare
 Birch Pollen of the DOD | Bjorkpollen of the Dead
@@ -26967,7 +26423,6 @@ Circus
 Sound Of Unheared Knock
 Gomma
 Reawaken
-Enchanted
 Evie
 Fine-toothed Festivities
 The Dream Killer Chapter 1
@@ -26975,13 +26430,11 @@ Chaos.TV
 Inner Earth Attacks A Love Story
 Violet's Prey
 Sleepless Night with Bamboo Wife
-The Depraved
 La maison dans la neige
 The Summertime Falsehoods
 Blood Blade
 Illusion
 Bloody Guys
-Dark Red
 Dreaming to Accept Reality
 Eri's Murder Diary
 Murasaki Kagami
@@ -27097,7 +26550,6 @@ Permanentes Diarrho und Hamorrhoiden
 Sissy Sorcery
 Reptile House
 The Calls Are Coming from Inside
-Head Hunter
 Intuit
 Tajriba The Experiment
 Vauxhall Rideshow Escape from Dead School
@@ -27110,7 +26562,6 @@ Sea of Madness
 Trader Jack
 Kaykobad
 The Devil's Paw
-The Wolf
 Grim Reapers
 Ordalie
 Paranormal Phenomenon 2
@@ -27125,11 +26576,9 @@ Vana Espuma | Idle Mist
 She. Picked. Me.
 Rose City Underground Earthsong
 Her Release
-$TRIP
 The Mariachi and the Rattlesnake Witch
 Performance Anxiety
 Ghost Puncher
-The Red Room
 Water 2 The Cleansing
 Camper
 The Evil Little Thing
@@ -27172,7 +26621,6 @@ Broke Up
 Wich
 Sealed Fates
 Carve the Flesh
-Toll
 Razor Tail
 That Smile
 Cuddlez
@@ -27221,7 +26669,6 @@ The Wind of Ghost
 Tuition
 Ready to Burst
 The Man in the Rabbit Mask
-The Mortified
 Garin Movie Project
 I Am Home
 The Driving Dead
@@ -27231,7 +26678,6 @@ The Halloween Store Zombie Wedding Movie
 Sealed Video 30 Shadow People Bandage Girl
 Fuuin Eizou 50
 The Evil Inside
-Doll
 Case #3809 The Eldritch Mortician
 He heard a baby cry
 Sweet & Lo
@@ -27259,7 +26705,6 @@ Do Not
 The Sins of Government
 Lost Child
 Flesh Eater X
-Lambs
 ig,gz,
 The Man in the Garage
 Princesse
@@ -27275,7 +26720,6 @@ Buddha Powers
 Pappy's Graveyard
 Adiala
 A Normal Human Interaction
-Niebla | Fog
 The Unsettling
 Claustrophobia
 The Horse and the Stag
@@ -27318,7 +26762,6 @@ Jack's Shed
 37 Ghosts
 Satanika
 Free Range
-The Lock-In
 Quando Chegar a Noite, Pise Devagar
 Chef's Kiss
 The Phantom Lake Kids in The Beast Walks Among Us
@@ -27387,7 +26830,6 @@ Killer Horizon
 Zifir-i Azap
 Return of the Beast from Outer Space
 Cry Baby
-Anniversary
 The Mind
 The Curse of Pizza Mike
 Devil's Five
@@ -27470,7 +26912,6 @@ Eyang Putri
 Zombie Blood Death
 Puff
 Better Safe Than Sorry
-Portrait
 Fleshy Headed Mutants of 2051
 The Abyss of the Soul | Os Abismos da Alma
 La Noche del Pato | The Night of the Duck
@@ -27478,7 +26919,6 @@ Cold Bodies Pile High
 Saluzt
 Annabel Lee
 The Dead That Live
-MIsogyny
 Lamento
 Deadly Beloved
 Pygmalion
@@ -27504,7 +26944,6 @@ The Holy Sound
 Blood-sucking Tree
 Nocturnal Girl
 The Poison Beauty
-Tree
 Cemetery Dreamland | Il paese dei sogni del cimitero
 Nyami Nyami and the Evil Eggs
 Hell on the Shelf
@@ -27533,7 +26972,6 @@ The Lost Voyager
 ForgotteNation
 The Man Who Beat the Man
 Psycho Das Geheimnis des Phantom-Killers
-The Hitchhiker Massacre
 The Bad Father
 Intra
 Sound Check
@@ -27625,7 +27063,6 @@ January
 Double Edged
 Pinocchio
 Lethal Bite
-The Audition
 The Mini-Munsters
 Couple Rings
 Hunting Rabbits
@@ -27717,10 +27154,8 @@ Faces of Dying
 Faces of Dying II
 Faces of Dying III
 Negatives
-Friends
 There's Something In The Silence
 Ing Tianak
-Others
 2702 Cypress
 Bali
 Memories of the Sea
@@ -27757,7 +27192,6 @@ The Elevator
 The Palm
 Dormitory
 Return of the Living Sluts
-The Bewitched
 A Nightmare of a Night
 Death Breed
 Relax with Draco
@@ -27805,7 +27239,6 @@ Midnight Screams
 La Maison des Monstres
 At All Cost
 Shinshu, A Curse Video Legend 13 Infectious Straw Dolls
-Ghost Bride
 Friday the 13th Halloween Night
 The Herald and the Horror
 Paye
@@ -27818,7 +27251,6 @@ Ruins Search
 Anamnesis
 Stories of a Gravedigger
 Raisin
-The Artist
 A Little Dead
 Stiletto
 Eye Witness
@@ -27839,7 +27271,6 @@ Crow Island
 Trah 7
 The Boy's Gone
 Massacre Manor
-The Deranged
 Masacre en la Navidad del infierno
 Allan
 Walt Disney's Halloween Hilarities
@@ -27886,10 +27317,8 @@ Skulldive
 Fulet
 Penganten Pocong
 Mitowolksyphon
-The Lamb
 Schizophrenia
 Mimicry
-Magic Man
 Shapeshifters
 5+Camera
 Yurika-chan
@@ -27974,7 +27403,6 @@ Hollie
 Locked
 Truly, Madly
 Love by Proxy
-Hag
 E's Mind
 Hoshi Shin'ichi Mystery Special
 S.K.B.
@@ -27994,7 +27422,6 @@ Damia The Last Drop of Blood
 Anxiety
 Last Walk
 O Colar
-The Human Zoo
 The Devil's Children
 Horse Brothers
 Moonlight Exigent
@@ -28092,7 +27519,6 @@ Acting
 Kenali, Tentukan
 A Walk Through the Woods
 A Walk Through the Woods (Remake)
-The Gateway
 Rumah
 Molar
 Akio Jissoji's Wonder Museum 1
@@ -28102,18 +27528,15 @@ Tapeworm
 Hard Front
 Dura The Infection
 Kumiho
-Confession
 Bangka Days After The Sun Stopped Shining
 Eye in the Woods
 Flesh and blood
 Iblis Dalam Kandungan
 Fear the Reaper
 Reibaku
-Undone
 Follow Her
 Akio Jissoji's Wonder Museum 2
 Rat Dick
-Noise
 Mysterious World, Episode 1 Love Never Dies
 The Northern Incident
 Setan Siang Bolong
@@ -28150,12 +27573,10 @@ Tales of Phantasmagoria The Last of the Coven
 Tales of Phantasmagoria Sam Will Be Home Soon
 Tales of Phantasmagoria No End
 Tales of Phantasmagoria Below the Riverbed
-Pendulum | O Pendulo
 Dr. Lucchetti's Macabre Atheneum | A Macabra Biblioteca do Dr. Lucchetti
 Work in Progress
 The Quiet Light of the Midnight Cold
 Tales of Phantasmagoria Evening with the Reaper
-Attic
 Regalo
 The Dairy Tapes
 From Almost Night Till Almost Day
@@ -28163,7 +27584,6 @@ Ilk Seans NMSM
 Doors
 The Texas Chain Saw Massacre Chicken Run
 Beasts The Dummy
-The Gatekeeper
 Party 85
 The Bride's Hotel | Hotel da Noiva
 Veined
@@ -28199,7 +27619,6 @@ GSKD-002 Deny
 GSKD-003 Feedback
 The Retelling
 Jersey Devil
-The Jersey Devil
 Seiren
 Long After Us
 Aversion
@@ -28223,7 +27642,6 @@ Dead by Dawn 2 the Return
 Dead by Dawn 2 the Mask of Conrad
 The Butcher Surgeon
 Baton of Dracula
-Best Seller
 Hell Creek
 Deeply Disturbed
 The Little Old Lady Who Was Not Afraid of Anything
@@ -28235,7 +27653,6 @@ Sir Ghost
 Not at the Table
 Killer Track
 Lost At Dusk
-Forbidden
 Job Lot
 The White Goddess
 Na dobranoc
@@ -28247,9 +27664,7 @@ Road Rage
 An Alien Claymation
 Labirynt
 Pill
-The Honeymoon
 The Woods Man's Natural Enemy
-Pigman
 To Catch a Crow
 Kumal
 The Breaking
@@ -28265,7 +27680,6 @@ Chainsaw Bunny Deleted Scene
 Horror of the Underworld
 Don't Press Record
 Banned in America VI
-Final Girl
 Sink Away
 A Casa do Campo
 The Stalker Chronicles Episode Two Reflections
@@ -28327,9 +27741,7 @@ Phal-O-Krat
 Inseto
 Tapehead
 The Monster at Home
-The Last Christmas
 Break Out
-Tuloy... Bukas Ang Pinto
 Kuntilanak-Kuntilanak
 The Rotting of Casey Culpepper
 Loose Ends
@@ -28339,7 +27751,6 @@ The Beast Will Kill Us All
 Sir-Ayet Olu Dogan
 Slaughter'd
 A Deer in the Woods
-Sanctuary
 Venga Monjas La Ferguson Party
 Fable Teeth of Beasts
 Specter of Weeping Hill
@@ -28390,12 +27801,10 @@ Facez of Death 2000 Part V
 Facez of Death 2000 Part VI
 Facez of Death 2000 Part VII
 Curiosity Kills
-Dracula Vs Frankenstein
 Boisvert
 Fair Prey
 The Final Voyage of the Good Ship Demeter
 First Taste
-The First Taste
 I Had a Dream of a House at Night
 Initiation Night
 Claw 2 Blood Legacy
@@ -28436,7 +27845,6 @@ Three in a Coffin
 Midnight Thirst
 As I Lay Asleep
 The Mars Project
-Mito
 Shinrei Urabon The Curse of a Woman
 Morticia
 Visions of Filth
@@ -28444,7 +27852,6 @@ The Norah Zone
 Night's Vampires | Nella Notte
 The New Girls
 The Draft
-The Nightshift
 The Not So Bright Vampire
 Only Human
 The Hallucination
@@ -28480,7 +27887,6 @@ My Twisted Desire
 Killer Waves 2
 Bite School 2
 O Capenga
-The Apartment
 Suicide Net
 Dusk Incarnate
 Cin Perdesi
@@ -28495,7 +27901,6 @@ Contingency
 Station ID
 A Look Back
 Real Sleep
-Accident | Ulykke
 Expediente 212 Archivo Fantasma
 The Silent Paracosm
 Help of God
@@ -28699,7 +28104,6 @@ I Miss Her
 Off Limits
 Streamer Stalker
 Swole Ghost
-The Angst
 Ufa
 The Sweet Spot
 Trash Life
@@ -28722,7 +28126,6 @@ Button Man
 One's Own Flesh & Blood
 Meathook Massacre Mayhem
 Willow & Lydia
-The Trunk
 The Wardrobe
 Approaching Shadows
 Pensive
@@ -28765,7 +28168,6 @@ In the Expectation of Memory | Na Expectativa da Memoria
 Demon Fighter
 La verdad sobre el caso del señor Valdemar
 Spare Me
-The Devil's Playground
 Abject
 Tell Me Your Story
 I don't eat strawberries, I don't like the color
@@ -28796,9 +28198,7 @@ Keep It in the Dark
 Sitcom
 Consumed
 Im Wald
-The Ants
 Muchuu Tousou
-FROM.BEYOND
 You're It
 Children of Terror
 Halloween Is Killing Me
@@ -28809,14 +28209,12 @@ Albondigas
 Smog
 The Golden Arm (Michigan)
 R23 Criminal's Diary
-The Stray
 The Clown Chainsaw Massacre
 The Tide Of Perception
 Enkiri-Mura Dead End Survival
 Ball and Chain
 Stabbin Cabin
 Bhoomi
-PSYCHO=
 The Haunted Cinema 2
 Tofino 2018
 Butts Motel
@@ -28870,7 +28268,6 @@ The Dark Castle
 Hagesu (Hantu Gendong Susu)
 Aspiralux
 Terrore
-Black Spider
 Tes Nyali
 Gue Bukan Pocong
 Rock And Roll Fuck 'n' Lovely
@@ -28913,7 +28310,6 @@ The Killdren Are Coming
 Insemnopedy The Dream of Victor F.
 Catnado
 My Name Is Max
-U -Turn
 The Myrtles Plantation Murder, Mystery, and Magic
 S.O.V. The True Independents
 Slash-O-Lantern
@@ -28983,7 +28379,6 @@ Dark Portrait
 Bass Blister
 Strobicon
 Batman Dead End
-The Skullduggery
 Heroine Cruelty Story XV
 Takbo, Bilis... Takboooo
 Duval Dare
@@ -29000,7 +28395,6 @@ PostMortem Maria Auxiliadora Lara Barcelos
 Piñata
 Photoshop Nightmare
 Shortest Horror Movie Ever
-The Exorcism
 Puppeteered
 Do Not Watch Me
 Special Report Zombie Invasion
@@ -29042,7 +28436,6 @@ Jekyll/Hide
 Chariot
 Never Ever Open It
 Hungry Hickory
-Hands
 Horror Nights
 Silent Key
 Tech Noir
