@@ -1,16 +1,10 @@
 import { useEffect, useState } from 'react';
 
-const prefersReducedMotion = () => typeof matchMedia === 'function' && matchMedia('(prefers-reduced-motion: reduce)').matches;
-
-/** Número que cuenta hasta `value` (ease-out). El lector de pantalla lee solo el valor final. */
+/** Número que cuenta hasta `value` (ease-out; no es movimiento, corre también con "reducir movimiento"). El lector de pantalla lee solo el valor final. */
 export default function CountUp({ value, duration = 900 }) {
-  const [shown, setShown] = useState(() => (prefersReducedMotion() ? value : 0));
+  const [shown, setShown] = useState(0);
 
   useEffect(() => {
-    if (prefersReducedMotion()) {
-      setShown(value);
-      return;
-    }
     let raf;
     const t0 = performance.now();
     const tick = (t) => {

@@ -17,6 +17,12 @@ const players = [
 ];
 const room = { code: 'KXPR', hostId: 'a', state: 'question', players };
 const question = { id: 1, category: 'Geografía', prompt: 'Nombrá un país que empiece con B', validCount: 17 };
+const crowd = [
+  { id: 1, prompt: 'Nombrá un país que empiece con B', total: 214, top: [{ answer: 'Brasil', picks: 98 }], counts: { 'Benín': 3, Brasil: 98 }, answers: { b: 'Benín', c: 'Brasil' }, mine: 'Benín' },
+  { id: 2, prompt: 'Nombrá una marca de alfajores argentinos', total: 87, top: [{ answer: 'Havanna', picks: 31 }], counts: { Havanna: 31 }, answers: { b: 'Havanna' }, mine: 'Havanna' },
+  { id: 3, prompt: 'Nombrá un color', total: 1, top: [{ answer: 'Verde Agua', picks: 1 }], counts: { 'Verde Agua': 1 }, answers: { b: 'Verde Agua' }, mine: 'Verde Agua' },
+  { id: 4, prompt: 'Nombrá un barrio de CABA', total: 40, top: [{ answer: 'Palermo', picks: 12 }], counts: {}, answers: {}, mine: null },
+];
 const noop = async () => ({ ok: false, reason: 'invalid' });
 
 function round(extra = {}) {
@@ -55,8 +61,8 @@ const SCREENS = {
       connected
     />
   ),
-  podium: () => <MultiResults ranking={players} meId="c" isHost onRestart={() => {}} onLeave={() => {}} />,
-  'solo-win': () => <SoloResults score={760} target={700} marks={[100, 60, 100, 30, 100, 60, 100, 10, 100, 100]} onRetry={() => {}} onExit={() => {}} />,
+  podium: () => <MultiResults ranking={players} rounds={crowd} meId="b" isHost onRestart={() => {}} onLeave={() => {}} />,
+  'solo-win': () => <SoloResults score={760} target={700} marks={[100, 60, 100, 30, 100, 60, 100, 10, 100, 100]} rounds={crowd} onRetry={() => {}} onExit={() => {}} />,
   'solo-lose': () => <SoloResults score={410} target={700} marks={[10, 60, 0, 30, 100, 60, 10, 0, 100, 40]} onRetry={() => {}} onExit={() => {}} />,
 };
 

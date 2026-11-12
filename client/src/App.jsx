@@ -45,7 +45,7 @@ export default function App() {
     if (room.state === 'lobby') {
       screen = <Lobby room={room} meId={mp.playerId} onStart={mp.start} onLeave={mp.leave} connected={mp.connected} />;
     } else if (room.state === 'finished' && mp.final) {
-      screen = <MultiResults ranking={mp.final.ranking} meId={mp.playerId} isHost={room.hostId === mp.playerId} onRestart={mp.restart} onLeave={mp.leave} />;
+      screen = <MultiResults ranking={mp.final.ranking} rounds={mp.final.rounds} meId={mp.playerId} isHost={room.hostId === mp.playerId} onRestart={mp.restart} onLeave={mp.leave} />;
     } else if (mp.round) {
       screen = <MultiGame room={room} round={mp.round} reveal={mp.reveal} meId={mp.playerId} onSubmit={mp.submit} onLeave={mp.leave} connected={mp.connected} />;
     } else {

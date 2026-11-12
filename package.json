@@ -15,7 +15,8 @@
     "db:seed": "npm run db:seed -w server --",
     "db:import": "npm run db:import -w server --",
     "db:export": "npm run db:export -w server --",
-    "db:categorias": "npm run db:categorias -w server --"
+    "db:categorias": "npm run db:categorias -w server --",
+    "db:sugerencias": "npm run db:sugerencias -w server --"
   },
   "devDependencies": {
     "concurrently": "^9.2.0"

@@ -22,8 +22,8 @@ export default function SoloGame({ onExit, onRetry }) {
   useEffect(() => {
     const ctrl = new AbortController();
     fetchSoloGame(getRecent(), { signal: ctrl.signal })
-      .then((questions) =>
-        setLoad(questions.length ? { status: 'ready', questions } : { status: 'error', message: 'No hay preguntas cargadas todavía.' }),
+      .then(({ gameId, questions }) =>
+        setLoad(questions.length ? { status: 'ready', gameId, questions } : { status: 'error', message: 'No hay preguntas cargadas todavía.' }),
       )
       .catch((err) => {
         if (!ctrl.signal.aborted) setLoad({ status: 'error', message: err.message });
@@ -31,7 +31,7 @@ export default function SoloGame({ onExit, onRetry }) {
     return () => ctrl.abort();
   }, [attempt]);
 
-  if (load.status === 'ready') return <SoloRun questions={load.questions} onExit={onExit} onRetry={onRetry} />;
+  if (load.status === 'ready') return <SoloRun gameId={load.gameId} questions={load.questions} onExit={onExit} onRetry={onRetry} />;
 
   if (load.status === 'loading') return <WaitingTrain />;
 
@@ -69,9 +69,10 @@ export function WaitingTrain({ text = 'Esperando el tren…' }) {
   );
 }
 
-function SoloRun({ questions, onExit, onRetry }) {
+function SoloRun({ gameId, questions, onExit, onRetry }) {
   const [index, setIndex] = useState(0);
   const [marks, setMarks] = useState([]); // puntos por estación
+  const [plays, setPlays] = useState([]); // { id, text } de cada respuesta válida (el server la vuelve a validar)
   const [result, setResult] = useState(undefined); // undefined = jugando · null = sin respuesta · {display, points}
   const [clock, setClock] = useState(makeClock);
 
@@ -92,6 +93,7 @@ function SoloRun({ questions, onExit, onRetry }) {
       if (!match) return { ok: false, reason: 'invalid' };
       setResult(match);
       setMarks((m) => [...m, match.points]);
+      setPlays((p) => [...p, { id: question.id, text }]);
       return { ok: true, ...match };
     },
     [question, result],
@@ -116,7 +118,7 @@ function SoloRun({ questions, onExit, onRetry }) {
     return () => clearTimeout(t);
   }, [result, done, next]);
 
-  if (done) return <SoloResults score={score} target={SOLO_TARGET} marks={marks} onRetry={onRetry} onExit={onExit} />;
+  if (done) return <SoloResults score={score} target={SOLO_TARGET} marks={marks} gameId={gameId} plays={plays} onRetry={onRetry} onExit={onExit} />;
 
   return (
     <>

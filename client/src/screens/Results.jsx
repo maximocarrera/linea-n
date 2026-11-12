@@ -1,3 +1,4 @@
+import { useEffect, useState } from 'react';
 import { Crown, DoorOpen, Home, RotateCcw, TrainFront } from 'lucide-react';
 import { TERMINAL_STATION } from '@linean/shared';
 import Confetti from '../components/Confetti';
@@ -5,12 +6,33 @@ import LineBadge from '../components/LineBadge';
 import LineProgress from '../components/LineProgress';
 import CountUp from '../components/landing/CountUp';
 import { GameAdInline } from '../components/AdSlot';
+import CrowdBreakdown from '../components/CrowdBreakdown';
 import FlapText from '../components/landing/FlapText';
+import { sendSoloResults } from '../lib/api';
 import { rankPlayers } from '../lib/ranking';
+
+/** Manda las respuestas de la partida solo y trae el % real de la gente por pregunta. */
+function useSoloCrowd(gameId, plays) {
+  const [crowd, setCrowd] = useState({ status: gameId ? 'loading' : 'error', rounds: [] });
+  useEffect(() => {
+    if (!gameId) return;
+    let alive = true;
+    sendSoloResults(gameId, plays ?? [])
+      .then((rounds) => alive && setCrowd({ status: 'ready', rounds }))
+      .catch(() => alive && setCrowd({ status: 'error', rounds: [] }));
+    return () => {
+      alive = false;
+    };
+    // plays no cambia una vez terminada la partida: alcanza con gameId.
+  }, [gameId]);
+  return crowd;
+}
 
 // ─────────────────────────────── Solo ───────────────────────────────
 
-export function SoloResults({ score, target, marks, onRetry, onExit }) {
+export function SoloResults({ score, target, marks, gameId, plays, rounds, onRetry, onExit }) {
+  const fetched = useSoloCrowd(rounds ? null : gameId, plays);
+  const crowd = rounds ? { status: 'ready', rounds } : fetched; // rounds fijo = vista previa
   const won = score >= target;
   const pct = Math.min(1, score / target);
 
@@ -61,7 +83,7 @@ export function SoloResults({ score, target, marks, onRetry, onExit }) {
         <LineProgress total={marks.length} current={marks.length} marks={marks} />
       </section>
 
-      <div className="mt-auto grid gap-3 pb-2">
+      <div className="grid gap-3">
         <button type="button" onClick={onRetry} className="press flex min-h-16 cursor-pointer items-center justify-center gap-3 bg-signal text-xl font-bold text-tunnel uppercase" style={{ '--press-shadow': '#f4f2ea' }}>
           <RotateCcw className="size-6" aria-hidden /> Otro viaje
         </button>
@@ -69,6 +91,8 @@ export function SoloResults({ score, target, marks, onRetry, onExit }) {
           <Home className="size-5" aria-hidden /> Volver al hall
         </button>
       </div>
+
+      <CrowdBreakdown status={crowd.status} rounds={crowd.rounds} delay={320} />
       <GameAdInline />
     </>
   );
@@ -76,7 +100,8 @@ export function SoloResults({ score, target, marks, onRetry, onExit }) {
 
 // ─────────────────────────────── Multijugador ───────────────────────────────
 
-export function MultiResults({ ranking, meId, isHost, onRestart, onLeave }) {
+export function MultiResults({ ranking, rounds = [], meId, isHost, onRestart, onLeave }) {
+  const myRounds = rounds.map((r) => ({ ...r, mine: r.answers?.[meId] ?? null }));
   const ranked = rankPlayers(ranking);
   const top = ranked[0];
   const winners = ranked.filter((p) => p.position === 1);
@@ -116,7 +141,7 @@ export function MultiResults({ ranking, meId, isHost, onRestart, onLeave }) {
 
       <RankingLine ranked={ranked} meId={meId} />
 
-      <div className="mt-auto grid gap-3 pb-2">
+      <div className="grid gap-3">
         {isHost ? (
           <button type="button" onClick={onRestart} className="press flex min-h-16 cursor-pointer items-center justify-center gap-3 bg-signal text-xl font-bold text-tunnel uppercase" style={{ '--press-shadow': '#f4f2ea' }}>
             <TrainFront className="size-6" aria-hidden /> Otra vuelta
@@ -131,6 +156,8 @@ export function MultiResults({ ranking, meId, isHost, onRestart, onLeave }) {
           <DoorOpen className="size-5" aria-hidden /> Bajarse
         </button>
       </div>
+
+      {myRounds.length > 0 && <CrowdBreakdown rounds={myRounds} delay={1500} />}
       <GameAdInline />
     </>
   );

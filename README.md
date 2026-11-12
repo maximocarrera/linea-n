@@ -81,7 +81,20 @@ npm start       # el servidor sirve el cliente y los sockets en el mismo puerto 
 3. Dejá **1 réplica**: las salas viven en memoria del proceso.
 4. Para sumar preguntas en producción: editá los `.txt`, hacé push y Railway redeploya (el import corre solo).
 
-La base `linean.db` no se versiona: se genera en cada arranque desde los `.txt`.
+La base `linean.db` no se versiona: las preguntas se regeneran en cada arranque desde los `.txt`.
+
+**Importante: sugerencias y porcentajes.** La misma base guarda el buzón de sugerencias (`suggestions`) y cuántas veces se eligió cada respuesta (`answer_picks`). El disco de Railway se borra en cada deploy, así que para no perder esos datos:
+
+1. En el servicio: **New → Volume** (o click derecho → *Attach Volume*), montado en `/data`.
+2. **Variables** → `LINEAN_DB=/data/linean.db`.
+3. Redeploy. Desde ahí la base vive en el volumen y sobrevive a los deploys (las preguntas se siguen actualizando desde los `.txt`).
+
+Para leer las sugerencias en producción: `railway ssh` (CLI de Railway, dentro del servicio) y `npm run db:sugerencias`.
+
+### Publicidad (AdSense)
+
+- El script de AdSense está siempre en `client/index.html` (Google lo necesita para revisar el sitio) y `client/public/ads.txt` declara el editor.
+- Los bloques se prenden con `VITE_ADS_ENABLED=true` en `client/.env.production` (hoy en `false`, mientras AdSense revisa). Los IDs de bloque van en el mismo archivo.
 
 Si el cliente y el servidor viven en dominios distintos: `VITE_SERVER_URL` en el build del cliente y `CLIENT_ORIGIN` en el servidor.
 
@@ -95,8 +108,17 @@ Si el cliente y el servidor viven en dominios distintos: `VITE_SERVER_URL` en el
 | Endpoint | Para qué |
 | --- | --- |
 | `GET /api/stats` | Portada: categorías activas, totales y algunas respuestas de nicho de muestra (caché de 30 s) |
-| `GET /api/solo-game?exclude=…` | Las 10 preguntas de una partida solo |
+| `GET /api/solo-game?exclude=…` | Las 10 preguntas de una partida solo, con un `gameId` (ticket de un solo uso, 2 h) |
+| `POST /api/solo-game/:gameId/results` | `{ plays: [{ id, text }] }` → el server revalida cada respuesta, la suma a las estadísticas y devuelve el % real de la gente por pregunta. Repetir el envío devuelve lo mismo sin volver a contar |
+| `POST /api/suggestions` | `{ text, questionId? }` → buzón (3 a 500 caracteres, 6 cada 10 min por IP) |
 | `GET /health` | Estado del servidor |
+
+### Seguridad del buzón
+
+- El texto se guarda con sentencias preparadas de SQLite (nunca se arma SQL con lo que escribe el jugador), así que algo como `'); DROP TABLE …` queda guardado como texto común.
+- Antes de guardar se limpia: sin caracteres de control, códigos de escape de consola, caracteres invisibles ni de dirección (bidi); largo máximo 500.
+- JSON de 4 KB como máximo, límite por IP y tope global por hora, y un campo trampa invisible para bots.
+- Las sugerencias no se muestran en la web (solo por consola), así que no hay forma de inyectar HTML o scripts a otros jugadores.
 
 ## Protocolo de sockets
 
@@ -114,7 +136,7 @@ Si el cliente y el servidor viven en dominios distintos: `VITE_SERVER_URL` en el
 | `round:start` | pregunta pública (sin respuestas), `introMs`, `durationMs`, `answered`, `mine` |
 | `round:progress` | ids de quienes ya respondieron |
 | `round:end` | resultados de la ronda, respuestas de nicho, scoreboard |
-| `game:over` | ranking final |
+| `game:over` | `{ ranking, rounds }` · rounds = por pregunta: % real de la gente (`total`, `top`, `counts`) y qué respondió cada jugador (`answers`) |
 
 Los tiempos viajan como **duraciones relativas**, no como timestamps, para que no importe si el reloj del celular está desfasado. El `playerId` queda guardado en `localStorage`, así que si el celu se bloquea o pierde señal, vuelve a entrar a la misma sala con su puntaje.
 
@@ -139,6 +161,7 @@ Pedro Pasculli
 - `npm run db:import` valida todo (errores con número de línea, duplicados) y carga. Se puede correr las veces que quieras: cada archivo reemplaza las respuestas de **su** pregunta.
 - `npm run db:import -- --check` solo valida · `npm run db:import -- seleccion` solo los archivos que contengan "seleccion".
 - `npm run db:categorias` lista las preguntas cargadas agrupadas por categoría, con su estado (activa / inactiva / sin respuestas).
+- `npm run db:sugerencias` muestra el buzón (las últimas 50, agrupadas por pregunta). `-- --todas` muestra todo; `-- --borrar 4,7` borra por número.
 - `npm run db:export` crea archivos para las preguntas que estén en la base y todavía no tengan uno.
 
 ## Base de preguntas (SQLite)

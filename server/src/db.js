@@ -105,6 +105,84 @@ export class QuestionStore {
   pickGame(count, avoid = []) {
     return this.load(this.pickIds(count, avoid));
   }
+
+  // ───────────── Estadísticas reales: qué eligió la gente ─────────────
+
+  /** Suma una elección por cada respuesta (texto principal, como lo devuelve matchAnswer). */
+  recordPicks(questionId, answers) {
+    const list = answers.filter(Boolean);
+    if (!list.length) return;
+    this.#tx(() => {
+      for (const answer of list) this.#stmt.upsertPick.run(questionId, answer);
+    });
+  }
+
+  /**
+   * Resumen de cada pregunta de una partida:
+   *   { id, category, prompt, total, top: [{answer, picks}], counts: {respuesta: picks} }
+   * `total` = cuántas veces se respondió (bien) esa pregunta en todas las partidas.
+   * Solo cuentan respuestas que siguen siendo válidas en la base.
+   * `chosen` = respuestas de esta partida cuyo conteo hace falta aunque no estén en el top.
+   */
+  crowd(items, topCount = 3) {
+    return items.map(({ id, category, prompt, chosen = [] }) => {
+      const rows = this.#stmt.picksOf.all(id);
+      const total = rows.reduce((n, r) => n + r.picks, 0);
+      const counts = {};
+      const wanted = new Set(chosen.filter(Boolean));
+      for (const r of rows) if (wanted.has(r.answer)) counts[r.answer] = r.picks;
+      return {
+        id,
+        category,
+        prompt,
+        total,
+        top: rows.slice(0, topCount).map((r) => ({ answer: r.answer, picks: r.picks })),
+        counts,
+      };
+    });
+  }
+
+  // ───────────── Buzón de sugerencias ─────────────
+
+  /** Guarda una sugerencia ya validada. Devuelve false si la pregunta indicada no existe. */
+  addSuggestion({ text, questionId = null }) {
+    let prompt = null;
+    if (questionId != null) {
+      prompt = this.#stmt.promptOf.get(questionId)?.prompt;
+      if (!prompt) return false;
+    }
+    this.#stmt.insertSuggestion.run(questionId, prompt, text);
+    return true;
+  }
+
+  // Sentencias preparadas: los valores viajan como parámetros, nunca pegados en el SQL.
+  get #stmt() {
+    return (this._stmt ??= {
+      upsertPick: this.db.prepare(`
+        INSERT INTO answer_picks (question_id, answer, picks) VALUES (?, ?, 1)
+        ON CONFLICT (question_id, answer) DO UPDATE SET picks = picks + 1
+      `),
+      picksOf: this.db.prepare(`
+        SELECT p.answer, p.picks FROM answer_picks p
+        WHERE p.question_id = ? AND p.picks > 0
+          AND EXISTS (SELECT 1 FROM answers a WHERE a.question_id = p.question_id AND a.answer = p.answer)
+        ORDER BY p.picks DESC, p.answer
+      `),
+      promptOf: this.db.prepare('SELECT prompt FROM questions WHERE id = ?'),
+      insertSuggestion: this.db.prepare('INSERT INTO suggestions (question_id, question_prompt, text) VALUES (?, ?, ?)'),
+    });
+  }
+
+  #tx(fn) {
+    this.db.exec('BEGIN');
+    try {
+      fn();
+      this.db.exec('COMMIT');
+    } catch (err) {
+      this.db.exec('ROLLBACK');
+      throw err;
+    }
+  }
 }
 
 /** Formato compacto para mandar al cliente: answers = [respuesta, alias, puntos]. */

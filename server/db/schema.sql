@@ -27,6 +27,27 @@ CREATE TABLE IF NOT EXISTS answers (
 
 CREATE INDEX IF NOT EXISTS idx_questions_active ON questions(active);
 
+-- Cuántas veces se eligió cada respuesta (para el "X% eligió esta respuesta" del final).
+-- Va por texto de la respuesta y sin FK: sobrevive a npm run db:import, que reemplaza
+-- las filas de answers. Lo carga el juego; no hace falta tocarla a mano.
+CREATE TABLE IF NOT EXISTS answer_picks (
+  question_id INTEGER NOT NULL,
+  answer      TEXT    NOT NULL,
+  picks       INTEGER NOT NULL DEFAULT 0,
+  PRIMARY KEY (question_id, answer)
+) WITHOUT ROWID;
+
+-- Buzón de sugerencias que dejan los jugadores (npm run db:sugerencias para leerlas).
+--   question_id / question_prompt: la pregunta sobre la que opinan (NULL = sugerencia general).
+--   Se guarda una copia de la consigna por si después la pregunta cambia o se borra.
+CREATE TABLE IF NOT EXISTS suggestions (
+  id              INTEGER PRIMARY KEY AUTOINCREMENT,
+  question_id     INTEGER,
+  question_prompt TEXT,
+  text            TEXT    NOT NULL CHECK (length(text) BETWEEN 1 AND 600),
+  created_at      TEXT    NOT NULL DEFAULT (datetime('now'))
+);
+
 -- Vista de control: cuántas respuestas tiene cada pregunta y cómo se reparten por rareza.
 CREATE VIEW IF NOT EXISTS question_overview AS
 SELECT

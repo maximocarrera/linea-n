@@ -1,5 +1,6 @@
 import { QUESTIONS_PER_GAME, TERMINAL_STATION } from '@linean/shared';
 import AdSlot, { AD_SLOTS } from '../components/AdSlot';
+import { CafecitoPanel, SuggestionBox } from '../components/landing/CommunityPanels';
 import LineBadge from '../components/LineBadge';
 import DepartureBoard from '../components/landing/DepartureBoard';
 import NicheTicker from '../components/landing/NicheTicker';
@@ -29,10 +30,12 @@ export default function Home(props) {
         <div className="grid animate-slide-up gap-6 lg:col-start-1" style={{ animationDelay: '260ms' }}>
           <RarityFare />
           <DepartureBoard stats={stats} />
+          <SuggestionBox />
         </div>
       </div>
 
-      <footer className="mt-4 border-t-2 border-rail pt-8 pb-4">
+      <footer className="mt-4 grid gap-8 border-t-2 border-rail pt-8 pb-4">
+        <CafecitoPanel />
         <AdSlot slot={AD_SLOTS.footer} minHeight={100} className="mx-auto w-full max-w-3xl" />
       </footer>
     </>

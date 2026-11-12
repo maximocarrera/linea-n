@@ -34,6 +34,8 @@ export class Room {
     this.roundEndsAt = 0;
     this.answers = new Map(); // playerId -> { input, display, points }
     this.lastReveal = null;
+    this.played = []; // por ronda: { question, answers: { playerId: respuesta } }
+    this.gameOver = null;
     this.timer = null;
     this.dropTimers = new Map();
     this.lastActivity = Date.now();
@@ -134,6 +136,8 @@ export class Room {
 
     for (const p of this.players.values()) p.score = 0;
     this.questions = questions;
+    this.played = [];
+    this.gameOver = null;
     this.roundIndex = -1;
     this.nextRound();
     return { ok: true };
@@ -151,6 +155,8 @@ export class Room {
     this.state = 'lobby';
     this.roundIndex = -1;
     this.lastReveal = null;
+    this.played = [];
+    this.gameOver = null;
     this.broadcast();
     return { ok: true };
   }
@@ -226,6 +232,15 @@ export class Room {
     });
     results.sort((a, b) => b.points - a.points);
 
+    // Estadísticas reales: cada respuesta válida de la ronda suma una elección.
+    const picked = Object.fromEntries([...this.answers].map(([id, a]) => [id, a.display]));
+    this.played.push({ question: this.question, answers: picked });
+    try {
+      this.store.recordPicks(this.question.id, Object.values(picked));
+    } catch (err) {
+      console.error('recordPicks:', err); // si falla la estadística, la partida sigue
+    }
+
     this.lastReveal = {
       index: this.roundIndex,
       total: this.questions.length,
@@ -242,7 +257,8 @@ export class Room {
   finish() {
     clearTimeout(this.timer);
     this.state = 'finished';
-    this.io.to(this.channel).emit('game:over', { ranking: this.scoreboard() });
+    this.gameOver = { ranking: this.scoreboard(), rounds: this.crowdSummary() };
+    this.io.to(this.channel).emit('game:over', this.gameOver);
     this.broadcast();
   }
 
@@ -253,7 +269,20 @@ export class Room {
     else if (this.state === 'reveal' && this.lastReveal) {
       socket.emit('round:start', this.roundPayload(playerId));
       socket.emit('round:end', this.lastReveal);
-    } else if (this.state === 'finished') socket.emit('game:over', { ranking: this.scoreboard() });
+    } else if (this.state === 'finished') socket.emit('game:over', { ...this.gameOver, ranking: this.scoreboard() });
+  }
+
+  /** Por pregunta jugada: % real de la gente (todas las partidas) + qué eligió cada jugador. */
+  crowdSummary() {
+    try {
+      const crowd = this.store.crowd(
+        this.played.map(({ question: q, answers }) => ({ id: q.id, category: q.category, prompt: q.prompt, chosen: Object.values(answers) })),
+      );
+      return crowd.map((r, i) => ({ ...r, answers: this.played[i].answers }));
+    } catch (err) {
+      console.error('crowdSummary:', err);
+      return [];
+    }
   }
 
   scoreboard() {

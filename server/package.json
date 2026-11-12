@@ -9,7 +9,8 @@
     "db:seed": "node --disable-warning=ExperimentalWarning db/seed.js",
     "db:import": "node --disable-warning=ExperimentalWarning db/import.js",
     "db:export": "node --disable-warning=ExperimentalWarning db/export.js",
-    "db:categorias": "node --disable-warning=ExperimentalWarning db/categories.js"
+    "db:categorias": "node --disable-warning=ExperimentalWarning db/categories.js",
+    "db:sugerencias": "node --disable-warning=ExperimentalWarning db/suggestions.js"
   },
   "dependencies": {
     "@linean/shared": "*",

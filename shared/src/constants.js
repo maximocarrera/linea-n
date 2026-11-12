@@ -13,6 +13,10 @@ export const MAX_PLAYERS = 12;
 export const MAX_NAME = 16;
 export const MAX_ANSWER = 60;
 
+// Buzón de sugerencias (landing y fin de partida).
+export const SUGGESTION_MIN = 3;
+export const SUGGESTION_MAX = 500;
+
 // Cuántas preguntas jugadas recuerda cada navegador para no repetirlas pronto.
 export const RECENT_LIMIT = 40;
 

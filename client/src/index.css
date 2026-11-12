@@ -268,13 +268,32 @@
   }
 }
 
-/* Respetar "reducir movimiento" (excepto la barra del cronómetro, que es información) */
+/*
+ * "Reducir movimiento" (lo activa el sistema: en Windows, con las animaciones del sistema apagadas;
+ * en iOS/Android, desde Accesibilidad). Menos movimiento, no cero: lo que se desplaza mucho
+ * pasa a ser un fundido, la cinta de la portada va lenta y se saca lo que cruza toda la pantalla
+ * (tren, confeti). Los números que cuentan, las barras y el cronómetro siguen igual.
+ */
 @media (prefers-reduced-motion: reduce) {
-  *:not(.countdown-bar),
-  *::before,
-  *::after {
-    animation-duration: 1ms !important;
-    animation-iteration-count: 1 !important;
-    transition-duration: 1ms !important;
+  .animate-slide-up,
+  .animate-pop-in,
+  .animate-float-up,
+  .flap,
+  .crown-drop,
+  .rise {
+    animation-name: fade-in !important;
+  }
+  .marquee-track {
+    animation-duration: 90s;
+  }
+  .train,
+  .confetti-piece,
+  .animate-ping-ring {
+    display: none;
+  }
+  .press,
+  .icon-btn {
+    transition-duration: 1ms;
   }
 }
+
