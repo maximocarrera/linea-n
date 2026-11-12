@@ -2,6 +2,7 @@
  * Vista previa de pantallas con datos de ejemplo — SOLO en desarrollo.
  * Abrí http://localhost:5173/?preview=lobby | question | locked | reveal | podium | solo-win | solo-lose
  */
+import { GameAdRail } from '../components/AdSlot';
 import Station from '../components/Station';
 import Lobby from '../screens/Lobby';
 import MultiGame from '../screens/MultiGame';
@@ -61,5 +62,10 @@ const SCREENS = {
 
 export default function Preview({ name }) {
   const Screen = SCREENS[name];
-  return <Station>{Screen ? <Screen /> : <p className="label-caps m-auto">Previews: {Object.keys(SCREENS).join(' · ')}</p>}</Station>;
+  return (
+    <>
+      <Station>{Screen ? <Screen /> : <p className="label-caps m-auto">Previews: {Object.keys(SCREENS).join(' · ')}</p>}</Station>
+      <GameAdRail />
+    </>
+  );
 }

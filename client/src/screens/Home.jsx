@@ -1,4 +1,5 @@
 import { QUESTIONS_PER_GAME, TERMINAL_STATION } from '@linean/shared';
+import AdSlot, { AD_SLOTS } from '../components/AdSlot';
 import LineBadge from '../components/LineBadge';
 import DepartureBoard from '../components/landing/DepartureBoard';
 import NicheTicker from '../components/landing/NicheTicker';
@@ -30,6 +31,10 @@ export default function Home(props) {
           <DepartureBoard stats={stats} />
         </div>
       </div>
+
+      <footer className="mt-4 border-t-2 border-rail pt-8 pb-4">
+        <AdSlot slot={AD_SLOTS.footer} minHeight={100} className="mx-auto w-full max-w-3xl" />
+      </footer>
     </>
   );
 }

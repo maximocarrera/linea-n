@@ -1,5 +1,5 @@
 import { useState } from 'react';
-import { ArrowRight, LoaderCircle, Plus, Ticket, Users } from 'lucide-react';
+import { ArrowRight, KeyRound, LoaderCircle, Ticket, Users } from 'lucide-react';
 import { MAX_NAME, QUESTIONS_PER_GAME, SOLO_TARGET } from '@linean/shared';
 
 /** Boleto: nombre del pasajero + acciones (solo, crear sala, unirse). */
@@ -55,40 +55,48 @@ export default function TicketCard({ name, setName, initialCode, onSolo, onCreat
 
         <div className="perforation -mx-5 h-2 sm:-mx-6" aria-hidden />
 
-        <div>
-          <p className="label-caps flex items-center gap-2">
-            <Users className="size-4" aria-hidden /> Con amigos
-          </p>
-          <div className="mt-3 grid grid-cols-2 gap-3">
-            <button
-              type="button"
-              onClick={onCreate}
-              disabled={!hasName || busy}
-              aria-describedby={hasName ? undefined : 'name-help'}
-              className="press flex min-h-14 cursor-pointer items-center justify-center gap-2 border-2 border-chalk bg-platform-2 px-3 text-sm font-bold whitespace-nowrap uppercase sm:text-base disabled:cursor-not-allowed disabled:border-rail disabled:text-mute disabled:shadow-none"
-              style={{ '--press-shadow': '#e5262f' }}
-            >
-              {busy && !joining ? <LoaderCircle className="size-5 animate-spin" aria-hidden /> : <Plus className="size-5" aria-hidden />}
-              Crear sala
-            </button>
-            <button
-              type="button"
-              onClick={() => setJoining((j) => !j)}
-              aria-expanded={joining}
-              aria-controls="join-form"
-              className={`press flex min-h-14 cursor-pointer items-center justify-center gap-2 border-2 px-3 text-sm font-bold whitespace-nowrap uppercase sm:text-base ${
-                joining ? 'border-line-d bg-line-d text-white' : 'border-chalk bg-platform-2'
-              }`}
-              style={{ '--press-shadow': '#00a05a' }}
-            >
-              Unirse
-            </button>
-          </div>
+        <div className="grid gap-3">
+          {/* Mismo formato que "Viaje solo", en versión secundaria (contorno + sombra roja) */}
+          <button
+            type="button"
+            onClick={onCreate}
+            disabled={!hasName || busy}
+            aria-describedby={hasName ? undefined : 'name-help'}
+            className="press group flex min-h-18 cursor-pointer items-center justify-between gap-4 border-2 border-chalk bg-platform-2 px-5 py-4 text-left disabled:cursor-not-allowed disabled:border-rail disabled:text-mute disabled:shadow-none"
+            style={{ '--press-shadow': '#e5262f' }}
+          >
+            <span className="flex items-center gap-4">
+              <Users className="size-7 shrink-0" aria-hidden />
+              <span>
+                <span className="block text-xl leading-none font-bold tracking-tight uppercase sm:text-2xl">Jugar con amigos</span>
+                <span className="mt-1.5 block text-sm font-semibold text-mute">Creá una sala y pasales el código</span>
+              </span>
+            </span>
+            {busy && !joining ? (
+              <LoaderCircle className="size-7 shrink-0 animate-spin" aria-hidden />
+            ) : (
+              <ArrowRight className="size-7 shrink-0 transition-transform duration-200 group-hover:translate-x-1" aria-hidden />
+            )}
+          </button>
+
+          <button
+            type="button"
+            onClick={() => setJoining((j) => !j)}
+            aria-expanded={joining}
+            aria-controls="join-form"
+            className={`press flex min-h-12 cursor-pointer items-center justify-center gap-2 border-2 px-4 text-sm font-bold uppercase ${
+              joining ? 'border-line-d bg-line-d text-white' : 'border-rail bg-platform text-chalk'
+            }`}
+            style={{ '--press-shadow': '#00a05a' }}
+          >
+            <KeyRound className="size-4" aria-hidden />
+            ¿Te pasaron un código? Unirse
+          </button>
 
           {joining && (
             <form
               id="join-form"
-              className="mt-4 animate-slide-up"
+              className="mt-1 animate-slide-up"
               onSubmit={(e) => {
                 e.preventDefault();
                 if (canJoin) onJoin(code);

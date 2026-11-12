@@ -1,4 +1,5 @@
 import { useEffect, useState } from 'react';
+import { GameAdRail } from './components/AdSlot';
 import Station from './components/Station';
 import { local } from './lib/storage';
 import { useRoom } from './lib/useRoom';
@@ -66,5 +67,12 @@ export default function App() {
     );
   }
 
-  return <Station wide={wide}>{screen}</Station>;
+  return (
+    <>
+      <Station wide={wide}>{screen}</Station>
+      {/* Lateral de publicidad en pantallas de juego (solo escritorio ancho). Queda montado
+          mientras se juega, así no se recarga en cada estación. */}
+      {!wide && <GameAdRail />}
+    </>
+  );
 }

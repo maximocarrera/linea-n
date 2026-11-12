@@ -4,6 +4,7 @@ import Confetti from '../components/Confetti';
 import LineBadge from '../components/LineBadge';
 import LineProgress from '../components/LineProgress';
 import CountUp from '../components/landing/CountUp';
+import { GameAdInline } from '../components/AdSlot';
 import FlapText from '../components/landing/FlapText';
 import { rankPlayers } from '../lib/ranking';
 
@@ -68,6 +69,7 @@ export function SoloResults({ score, target, marks, onRetry, onExit }) {
           <Home className="size-5" aria-hidden /> Volver al hall
         </button>
       </div>
+      <GameAdInline />
     </>
   );
 }
@@ -129,6 +131,7 @@ export function MultiResults({ ranking, meId, isHost, onRestart, onLeave }) {
           <DoorOpen className="size-5" aria-hidden /> Bajarse
         </button>
       </div>
+      <GameAdInline />
     </>
   );
 }

@@ -255,6 +255,10 @@
     outline: 3px solid var(--color-signal);
     outline-offset: 2px;
   }
+  /* Si AdSense no tiene anuncio para ese lugar, ocultamos el bloque entero (rótulo incluido) */
+  .ad-slot:has(ins.adsbygoogle[data-ad-status='unfilled']) {
+    display: none;
+  }
   /* Perforación del boleto */
   .perforation {
     background-image: radial-gradient(circle, var(--color-rail) 2px, transparent 2.5px);

@@ -3,6 +3,7 @@ import { Check, Copy, Share2, TrainFront, UserRound } from 'lucide-react';
 import { MAX_PLAYERS } from '@linean/shared';
 import GameHeader, { ConnectionPill } from '../components/GameHeader';
 import LineBadge from '../components/LineBadge';
+import { GameAdInline } from '../components/AdSlot';
 import FlapText from '../components/landing/FlapText';
 import { copyText, shareOrCopy } from '../lib/share';
 import { useShareOrigin } from '../lib/useShareOrigin';
@@ -143,6 +144,7 @@ export default function Lobby({ room, meId, onStart, onLeave, connected }) {
           </p>
         )}
       </div>
+      <GameAdInline />
     </>
   );
 }
