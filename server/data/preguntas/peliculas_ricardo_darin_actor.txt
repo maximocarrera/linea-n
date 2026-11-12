@@ -1,0 +1,52 @@
+categoria: Cine 
+consigna: Nombra una película de Ricardo Darín como actor
+activa: si
+apellidos: no
+
+[10]
+El secreto de sus ojos | El secreto de sus ojos
+Relatos salvajes | Relatos salvajes
+Argentina, 1985 | Argentina, 1985
+Nueve reinas | Nueve reinas
+El hijo de la novia | El hijo de la novia
+La odisea de los giles | La odisea de los giles
+Truman | Truman
+El aura | El aura
+Un cuento chino | Un cuento chino
+Carancho | Carancho
+
+[25]
+Luna de Avellaneda | Luna de Avellaneda
+El mismo amor, la misma lluvia | El mismo amor, la misma lluvia
+Kamchatka | Kamchatka
+Tesis sobre un homicidio | Tesis sobre un homicidio
+Elefante blanco | Elefante blanco
+La cordillera | La cordillera
+Nieve negra | Nieve negra
+Koblic | Kóblic
+El amor menos pensado | El amor menos pensado
+Todos lo saben | Todos lo saben
+
+[45]
+Septimo | Séptimo
+La fuga | La fuga
+Samy y yo | Samy y yo
+El faro | El faro
+XXY | XXY
+La educacion de las hadas | La educación de las hadas
+La senal | La señal
+Elijo creer | Elijo creer
+Perdido por perdido | Perdido por perdido
+El desquite | El desquite
+
+[70]
+Revancha de un amigo | Revancha de un amigo
+Me sobra un marido | Me sobra un marido
+Expreso a la emboscada | Expreso a la emboscada
+Te amo | Te amo
+The Stranger | The Stranger
+La Rosales | La Rosales
+Abierto dia y noche | Abierto día y noche
+La discoteca del amor | La discoteca del amor
+La cancion de Buenos Aires | La canción de Buenos Aires
+La playa del amor | La playa del amor

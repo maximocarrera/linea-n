@@ -1,0 +1,39 @@
+categoria: Futbol
+consigna: Nombrá a un equipo de fútbol que empiece con la letra B
+activa: si
+apellidos: no
+
+[10]
+Boca Juniors | Boca | Xeneize
+Barcelona | Barcelona SC | Barca
+Bayern Munich | Bayern | Bayern de Munich
+Borussia Dortmund | Dortmund | BVB
+Benfica | Las Aguilas
+
+[25]
+Bayer Leverkusen | Leverkusen | Aspirinas
+Bologna | Bolonia
+Botafogo | Fogo | Estrela Solitaria
+Bragantino | Red Bull Bragantino
+Boca Unidos | Correntinos
+
+[45]
+Belgrano | Belgrano de Cordoba | Pirata
+Banfield | Taladro
+Burgos | Burgos CF
+Bari | SSC Bari
+Brescia | Rondinelle
+
+[65]
+Boavista | Las Panteras
+Belenenses | O Salace
+Brest | Stade Brestois
+Burnley | The Clarets
+Blackburn Rovers | Blackburn
+
+[100]
+Barracas Central | Barracas | Guapo
+Brown de Adrogue | Tricolor
+Boca de Rio Gallegos | Boca Rio Gallegos
+Basilea | FC Basel
+Belen | Belen FC

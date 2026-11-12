@@ -1,0 +1,101 @@
+categoria: Musica
+consigna: Nombrá una canción de Emilia Mernes (solista o colaboración)
+activa: si
+apellidos: no
+
+[10]
+La Original | La_Original.mp3 | La Original.mp3
+No se ve | No_se_ve.mp3 | No se ve.mp3
+Los Del Espacio
+En La Intimidad
+como si no importara | Como Si No Importara
+cuatro veinte | Cuatro Veinte | 420
+intoxicao | Intoxicao
+Jagger | Jagger.mp3
+Exclusive | Exclusive.mp3
+GTA | GTA.mp3
+UNA FOTO | Una Foto | Una Foto Remix
+
+[25]
+Perdonarte ¿Para Qué? | Perdonarte Para Que | Perdonarte
+rápido lento | Rapido Lento
+De Enero A Diciembre
+Salgo a Bailar
+Recalienta
+BB
+noviogangsta <3 | noviogangsta | Novio Gangsta
+Alegría | Alegria
+CARITA TRISTE | Carita Triste
+blackout | blackout 🧊
+bunda | bunda 🍑
+
+[40]
+Facts | Facts.mp3
+IConic | IConic.mp3
+Ojitos Verdes | Ojitos_Verdes.mp3 | Ojitos Verdes.mp3
+24 Hs | 24_Hs.mp3 | 24 Hs.mp3
+La Playlist | La_Playlist.mpeg | La Playlist.mpeg
+JET Set | JET_Set.mp3 | Jet Set.mp3
+Muñecos | Muñecos.mp3 | Munecos | Munecos.mp3
+Guerrero | Guerrero.mp3
+A 1000 Km | A_1000_Km.mp3 | A 1000 Km.mp3 | A Mil Kilometros
+Tu Recuerdo
+Esto Recién Empieza | Esto Recien Empieza
+Bendición | Bendicion
+Policía | Policia
+No Más | No Mas
+TU Y YO | Tu y Yo
+El Plan
+MASNA | Masna | Masna Remix
+
+[55]
+latin girl | Latin Girl
+cielo en la mente | Cielo en la Mente
+la balada | La Balada
+mi otra mitad | Mi Otra Mitad
+La Chain
+Underground
+Perreito Salvaje
+Quieres
+No Soy Yo
+Histeriqueo
+Billion
+Boomshakalaka
+BOTA | Bota
+Olvidarte
++ Te Vale | Mas Te Vale
+La cita | La Cita
+MOTINHA 2.0 | Motinha 2.0 | Mete Marcha
+JETSKI | Jetski | Jetski Remix
+Somos Más | Somos Mas
+
+[70]
+DAMN GIRL | Damn Girl
+Q-Lito | Q Lito | Culito
+828
+NAGASAKI | Nagasaki
+Diva
+Tu Debilidad
+Ultravioleta
+Vestido Rojo
+Cumbia Playera
+Maldita Noche
+
+[85]
+Genio Atrapado
+perfectas | Perfectas
+pasarella | pasarella 👠 | Pasarela
+servidora | servidora 🕶️
+supersexi | Supersexi
+beautiful | beautiful 💄
+GLOWY | Glowy | GLOWY 💄
+
+[100]
+BODYPAINTING | Bodypainting
+DE MUSEO | DE MUSEO 👠 | De Museo
+ACEITE DE 🍑 | Aceite de Durazno | Aceite
+MÁSCARA DE 🧊 | Mascara de Hielo | Mascara
+YO MISMA | YO MISMA 🕶️ | Yo Misma
+Al Final
+Já É Tarde | Ja E Tarde | No Más
+Girl's Girl | Girls Girl | Girls Trip

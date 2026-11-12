@@ -1,0 +1,76 @@
+categoria: Argentina
+consigna: Nombra a un presidente de la Argentina
+activa: si
+apellidos: no
+
+[10]
+Juan Domingo Peron | Peron | Juan Peron
+Raul Alfonsin | Alfonsin
+Carlos Menem | Menem | Carlos Saul Menem
+Julio Argentino Roca | Roca
+Domingo Faustino Sarmiento | Sarmiento
+Bartolome Mitre | Mitre
+Cristina Fernandez de Kirchner | Cristina Kirchner | Cristina
+Mauricio Macri | Macri
+Alberto Fernandez | Alberto Fernandez
+Hipolito Yrigoyen | Yrigoyen
+
+[25]
+Nestor Kirchner | Nestor Kirchner | Nestor
+Fernando de la Rua | De la Rua
+Arturo Umberto Illia | Illia
+Arturo Frondizi | Frondizi
+Justo Jose de Urquiza | Urquiza
+Bernardino Rivadavia | Rivadavia
+Nicolas Avellaneda | Avellaneda
+Carlos Pellegrini | Pellegrini
+Marcelo Torcuato de Alvear | Alvear | Marcelo T. de Alvear
+Javier Milei | Milei
+
+[45]
+Roque Saenz Pena | Roque Saenz Pena
+Jose Figueroa Alcorta | Jose Figueroa Alcorta
+Victorino de la Plaza | Victorino de la Plaza
+Roberto M. Ortiz | Ortiz
+Ramon Castillo | Castillo
+Isabel Peron | Isabel Martinez de Peron | Isabelita
+Eduardo Duhalde | Duhalde
+Adolfo Rodriguez Saa | Rodriguez Saa
+Luis Saenz Pena | Luis Saenz Pena
+Manuel Quintana | Manuel Quintana
+
+[65]
+Vicente Lopez y Planes | Vicente Lopez y Planes
+Santiago Derqui | Santiago Derqui
+Jose Evaristo Uriburu | Jose Evaristo Uriburu
+Jose Maria Guido | Guido
+Hector Jose Campora | Campora
+Raul Alberto Lastiri | Lastiri
+Juan Esteban Pedernera | Pedernera
+Marcos Paz | Marcos Paz
+Agustin Pedro Justo | Justo
+Roberto Marcelino Ortiz | Ortiz
+
+[85]
+Juan Martin de Pueyrredon | Pueyrredon
+Jose Rondeau | Rondeau
+Manuel de Sarratea | Sarratea
+Antonio Gonzalez de Balcarce | Balcarce
+Juan Jose Viamonte | Viamonte
+Justo Daract | Daract
+Vicente Dupuy | Dupuy
+Juan Bautista Bustos | Bustos
+Ignacio Alvarez Thomas | Alvarez Thomas
+Gervasio Antonio de Posadas | Posadas
+
+[100]
+Manuel Dorrego | Dorrego
+Juan Galo de Lavalle | Lavalle
+Jose Maria Paz | Paz
+Cornelio Saavedra | Cornelio Saavedra
+Juan Ramon Balcarce | Juan Ramon Balcarce
+Alejandro Vicente Lopez | Alejandro Vicente Lopez
+Salvador Maria del Carril | Salvador Maria del Carril
+Feliciano Chiclana | Chiclana
+Manuel Alberti | Manuel Alberti
+Miguel de Azcuenaga | Miguel de Azcuenaga

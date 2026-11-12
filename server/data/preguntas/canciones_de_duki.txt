@@ -1,0 +1,288 @@
+categoria: Musica
+consigna: Nombrá una canción de Duki (solista o colaboración)
+activa: si
+apellidos: no
+
+[10]
+Goteo
+She Don't Give a FO | She Dont Give a Fo
+Loca
+Hello Cotto
+GIVENCHY | Givenchy
+Malbec
+DUKI | BZRP Music Sessions 50 | Session 50 | Bizarrap Session 50
+Además de Mí | Ademas de Mi | Ademas de Mi Remix
+Los Del Espacio
+Antes de Perderte
+Rockstar
+Sin Culpa
+
+[22]
+Como Si No Importara
+YaMeFui | Ya Me Fui
+Marisola | Marisola Remix
+Tumbando El Club | Tumbando El Club Remix
+Hijo de La Noche
+Pintao
+3 Estrellas En El Conjunto
+Si Quieren Frontear
+Top 5
+
+[30]
+Ley de Atracción | Ley de Atraccion
+Chico Estrella
+Ticket
+
+[35]
+Quavo | QUAVO
+Trap N' Export | TRAP N' EXPORT | Trap N Export
+Vuelta a La Luna | Vuelta a La Luna Remix
+Si Te Sentis Sola | Si Te Sentís Sola
+No Vendo Trap
+HitBoy | Hit Boy
+Otro Level
+Mi Chain de Roque
+Si Me Sobrara El Tiempo
+Unfollow
+Pantera
+Te Traje Flores
+RoCKSTAR 2.0 | Rockstar 2.0 | Rockstar 2
+don't liE | Dont Lie
+aPoLLo13 | Apollo 13
+hARAkiRi | Harakiri
+Nueva Era
+Barro
+Ameri
+Buscarte Lejos
+Esto Recién Empieza | Esto Recien Empieza
+Hablamos Mañana | Hablamos Manana
+
+[45]
+Te Lo Dije | Loca Remix
+Goteo (remix)
+Pastillas
+Muriendome | Muriéndome
+Amor Bipolar
+Cascada
+Celosa
+24
+Sold Out Dates
+Fumo y Espero
+Fvck Luv
+Rosa
+Ella Es Una G
+Alas
+Cereza
+A Punta de Espada
+Billetes
+5 Stars
+B.U.H.O | Buho
+Perdiendo El Tiempo
+Xanax
+Tussi
+Uno Dos | uNO dOS
+Tu Nombre
+JET LAG | Jet Lag
+RCP
+
+[49]
+MASCARA | Mascara
+Remember Me
+Shorty
+Modo Avión | Modo Avion
+Constelación | Constelacion
+Imperio
+Vida de Rock
+TROYA | Troya
+JEFES DEL SUDOESTE | Jefes del Sudoeste
+bUSCANDO Ameri | Buscando Ameri
+Ultimo Tren a Ameri | Último Tren a Ameri
+
+[60]
+01 dE ENEro | 01 de Enero | Primero de Enero
+AEROBICO | Aerobico | Aerobico Remix
+aGaRRo La PLaTa | Agarro La Plata
+AGRIDULCE | Agridulce
+ANGELITO | Angelito
+Ánimo | Animo
+Baby Pluto
+Batman
+BICI | Bici
+CALL ME MAYBE | Call Me Maybe
+Cara de Diablo
+Cine 🚬 | Cine
+Colombiana
+DEL ESTUDIO AL ESTADIO | Del Estudio Al Estadio
+Diabla Soy Tu Fanático | Diabla Soy Tu Fanatico
+Dime
+Dolce
+eCLIPSE sOLAR | Eclipse Solar
+En Movimiento
+Entre Cuatro Paredes
+Eres Para Mí | Eres Para Mi
+FORNAI | Fornai
+Gelato
+GiGi
+Golfista
+Guapo
+H.I.E.L.O. | Hielo
+Hablan de Mí | Hablan de Mi
+Hambre de Más | Hambre de Mas
+
+[62]
+Hasta Las 6
+Iba a Llamarte
+La Jefatura
+LeBron
+Level Up
+Lex Luthor
+Lo Olvidaste
+Lola
+Luna
+Makina de Armado
+Me Dejaste Así | Me Dejaste Asi
+Me Enseñaste | Me Ensenaste
+MEDUSA | Medusa
+Mi Diablo
+Mi Señora | Mi Senora
+Midtown
+Mil Colores
+Mojaa
+
+[64]
+Muero de Fiesta Este Finde
+Nena Sad | Nena Sad Remix
+NO DA MÁS | No Da Mas
+NO ME ALCANZA | No Me Alcanza
+NO SON KLLE | No Son Klle
+Otra Vez
+PACTO | Pacto
+París | Paris
+Perdón | Perdon
+Perreo Bendito
+PLÁSTICO | Plastico
+Por Mi Nombre
+Rápido | Rapido
+ROSA NEGRA | Rosa Negra
+
+[68]
+Señorita
+Sol y Luna
+Sudaca
+Sudor y Trabajo
+Super Gotenks
+Ta Te Ti
+Tan Mal
+Todo Negro
+Un Día Más | Un Dia Mas
+Valentino
+Vamos
+Vampiros
+Vapormax
+Verano Hater
+Víspera | Vispera
+Volando Bajito
+Volver a Empezar
+WACHA | Wacha
+Yin Yan
+Yo-Yo
+
+[74]
+100pre@Límite | Siempre Al Limite | 100pre Al Limite
+2Tonos | Dos Tonos
+7 Pakas
+Acapella
+ALELUYA | Aleluya | Aleluya Remix
+Alley Oop
+Amor Al Arte
+antes de perderte (OG VERSION) | Antes de Perderte OG
+Ballin' | Ballin
+Basado En Hechos Reales
+Brindis
+Café | Cafe
+Calabasas
+Carita Morena
+Cassette 01 | Cassette 01 Freestyle
+Cayendo Pa' Arriba | Cayendo Pa Arriba
+CEO
+Como Si Na
+Congelado
+cONTRA><Mi | Contra Mi
+Cuanto
+Deja Vu
+Demonios
+
+
+[88]
+Bodak Yellow | Bodak Yellow Remix
+CSIpher | C运Sipher
+Envy Me Freestyle, Pt. 2 | Envy Me Freestyle
+Exit
+Hello Cotto (Remix)
+I Dance
+Lost Tape 2016-2017 | Lost Tape
+Malbec (GALLERY SESSION)
+R.I.P La Manshon | RIP La Manshon
+Ready For The Night
+Toc Psycho x CRYPTONITA | Toc Psycho | Cryptonita
+Trapperz a Máfia da Sicília | Trapperz a Mafia da Sicilia
+
+[90]
+Marca de La Cadena
+Me Gusta Lo Simple
+Mericrisma
+N.C.L.C | NCLC
+Navidad
+No Confundan
+No Drama
+No Me Llores
+Nota Especial
+One Millon Dollar Baby | One Million Dollar Baby
+Perrea
+
+
+[96]
+Sake
+Salgo Pa La Calle
+Secreto
+Sigo Fresh
+Sin Mirar
+Smoke a Lot
+Sol
+Starboy | Starboy Remix
+Street Love
+Tengo Lo Ke Kiero
+Todo Lit
+Trabajador
+Trato de Estar Bien
+Tu Silencio
+Uh Ah Uh
+Una Vaina Loca
+Vida Eterna
+Wake Up & Bake Up
+Y Si Te Vas
+
+[100]
+El Malo
+Ella Es Mi Bitch
+En Odio
+En Parte... No lo sé | En Parte No Lo Se
+EO EO
+Escalera
+Ferrari
+Fifty Fifty
+Flex Like Trunkz
+Fvck Fame
+Hablamos Mucho Hacemos Poco
+Hardaway
+I Don’t Know | I Dont Know
+I.D.K | IDK
+It's a Vibe | Its a Vibe
+La Vuelta | "La Vuelta"
+Lambo | Lambo Remix
+Leitmotiv
+Lokita Del Septum
+Louis Vuitton
+Lunes No Va Bien
+Madara
+MALPARIDO | Malparido

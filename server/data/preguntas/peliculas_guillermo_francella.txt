@@ -1,0 +1,50 @@
+categoria: Cine Argentino
+consigna: Nombra una película de Guillermo Francella
+activa: si
+apellidos: no
+
+[10]
+El secreto de sus ojos | El secreto de sus ojos
+El robo del siglo | El robo del siglo
+El clan | El clan
+Mi obra maestra | Mi obra maestra
+Un novio para mi mujer | Un novio para mi mujer
+El misterio de la felicidad | El misterio de la felicidad
+Corazon de Leon | Corazon de Leon
+Animal | Animal
+Granizo | Granizo
+La extorsion | La extorsión
+
+[25]
+Los marziano | Los Marziano
+Incorregibles | Incorregibles
+Bañeros III, todopoderosos | Bañeros III
+Papa se volvio loco | Papá se volvió loco
+Un dia en el paraiso | Un día en el paraíso
+Papa es un idolo | Papá es un ídolo
+Esa maldita costilla | Esa maldita costilla
+Un argentino en New York | Un argentino en New York
+Los caballeros de la cama redonda | Los caballeros de la cama redonda
+Playa de Lobos | Playa de Lobos
+
+[45]
+Homo Argentum | Homo Argentum
+Muchachos: La pelicula de la gente | Muchachos
+Los que aman, odian | Los que aman, odian
+¡Atraco! | ¡Atraco!
+El vagoneta en el mundo del cine | El vagoneta en el mundo del cine
+Extermineitors IV, como hermanos gemelos | Extermineitors IV
+Extermineitors III, la gran pelea final | Extermineitors III
+Extermineitors II, la venganza del dragon | Extermineitors II
+Yo tenia un plazo fijo | Yo tenía un plazo fijo
+Los extermineitors | Los extermineitors
+
+[70]
+Bañeros II, la playa loca | Bañeros II
+Paraiso Relax (Casa de masajes) | Paraíso Relax
+Los pilotos mas locos del mundo | Los pilotos más locos del mundo
+Johnny Tolengo, el majestuoso | Johnny Tolengo, el majestuoso
+Las colegialas | Las colegialas
+Camarero nocturno en Mar del Plata | Camarero nocturno
+Brigada explosiva | Brigada explosiva
+El telo y la tele | El telo y la tele

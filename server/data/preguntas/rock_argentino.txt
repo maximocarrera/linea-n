@@ -1,0 +1,97 @@
+categoria: Musica
+consigna: Nombrá a una banda del rock argentino
+activa: no
+apellidos: no
+[10]
+Soda Stereo | Soda
+Patricio Rey y sus Redonditos de Ricota | Los Redondos | Redonditos de Ricota
+La Renga
+Los Piojos
+Divididos | La Aplanadora del Rock
+Los Fabulosos Cadillacs | LFC | Cadillacs
+Los Auténticos Decadentes | Los Decadentes
+Sui Generis
+Serú Girán
+Almendra
+Sumo
+Rata Blanca
+Babasónicos
+Las Pastillas del Abuelo
+Callejeros
+Intoxicados
+Bersuit Vergarabat | La Bersuit
+Enanitos Verdes | Los Enanitos Verdes
+Ratones Paranoicos | Los Ratones
+Airbag
+[25]
+Virus
+Los Abuelos de la Nada | Los Abuelos
+Las Pelotas
+Los Pericos
+Attaque 77 | A77aque
+Viejas Locas
+Ciro y los Persas
+La Beriso
+Guasones
+Estelares
+Catupecu Machu
+Miranda!
+Almafuerte
+Hermética
+Pappo's Blues
+Riff
+Vox Dei
+Pescado Rabioso
+Los Gatos
+Zas | Miguel Mateos Zas
+Memphis La Blusera | Memphis
+Caballeros de la Quema | Los Caballeros de la Quema
+[45]
+Bandalos Chinos
+Conociendo Rusia
+El Kuelgue
+Él Mató a un Policía Motorizado | Él Mató
+Árbol
+Eruca Sativa
+Carajo
+2 Minutos | Dos Minutos
+Los Violadores
+Flema
+Todos Tus Muertos | TTM
+Illya Kuryaki and the Valderramas | IKV | Illya Kuryaki
+Massacre
+Manal
+Invisible
+La Máquina de Hacer Pájaros
+Los Twist
+GIT
+Suéter
+La Mississippi
+V8
+A.N.I.M.A.L. | ANIMAL
+[65]
+Usted Señalemelo
+Marilina Bertoldi
+Peces Raros
+Indios
+Los Espíritus
+El Otro Yo
+Los Brujos
+Juana La Loca
+Arco Iris
+Aquelarre
+Color Humano
+Crucis
+Don Cornelio y la Zona | Don Cornelio
+[85]
+Mi Amigo Invencible
+Las Ligas Menores
+Bestia Bebé
+Winona Riders
+Dum Chica
+Mujer Cebra
+Martes Menta
+[100]
+Ryan
+Blair
+Pelos y Señales

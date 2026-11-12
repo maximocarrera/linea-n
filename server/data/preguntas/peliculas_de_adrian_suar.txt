@@ -1,0 +1,35 @@
+categoria: Cine
+consigna: Nombrá una película de Adrián Suar
+activa: si
+apellidos: no
+
+[10]
+El hijo de la novia | El hijo de la novia
+Un novio para mi mujer | Un novio para mi mujer
+Me case con un boludo | Me case con un boludo
+El futbol o yo | El futbol o yo
+30 noches con mi ex | 30 noches con mi ex
+
+[25]
+Dos mas dos | Dos mas dos
+Igualita a mi | Igualita a mi
+Corazon loco | Corazon loco
+Jaque mate | Jaque mate
+Comodines | Comodines
+
+[45]
+Apariencias | Apariencias
+Cohen vs. Rosi | Cohen vs. Rosi
+Mazel Tov | Mazel Tov
+Yo, narciso | Yo, narciso
+El dia que me amen | El dia que me amen
+
+[65]
+Dejala correr | Dejala correr
+Alma mia | Alma mia
+El nino de barro | El nino de barro
+18-J | 18-J
+
+[100]
+Los Pintin al rescate | Los Pintin al rescate
+Charly, dias de sangre | Charly, dias de sangre

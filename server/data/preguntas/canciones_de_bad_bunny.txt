@@ -1,0 +1,340 @@
+categoria: Musica
+consigna: Nombrá una canción de Bad Bunny (solista o colaboración)
+activa: si
+apellidos: no
+
+[10]
+Tití Me Preguntó | Titi Me Pregunto
+Me Porto Bonito
+DÁKITI | Dakiti
+Yonaguni
+Callaita
+Soy Peor
+Yo Perreo Sola
+Moscow Mule
+Efecto
+Ojitos Lindos
+LA CANCIÓN | La Cancion
+Mia
+
+[20]
+Vete
+Safaera
+LA NOCHE DE ANOCHE | La Noche de Anoche
+I Like It
+un x100to | Un Por Ciento
+MONACO | Monaco
+PERRO NEGRO | Perro Negro
+DtMF | Debi Tirar Mas Fotos
+BAILE INoLVIDABLE | Baile Inolvidable
+NUEVAYoL | Nuevayol
+Te Bote | Te Bote Remix
+Diles
+Chambea
+Amorfoda
+
+[30]
+UN DÍA (ONE DAY) | Un Dia | One Day
+Si Veo a Tu Mamá | Si Veo a Tu Mama
+La Difícil | La Dificil
+La Santa
+Ignorantes
+Pero Ya No
+A Tu Merced
+Estamos Bien
+Si Estuviésemos Juntos | Si Estuviesemos Juntos
+Otra Noche En Miami
+No Me Conoce | No Me Conoce Remix
+Soltera | Soltera Remix
+Ahora Me Llama
+Mayores
+Krippy Kush
+Tu No Metes Cabra
+WHERE SHE GOES | Where She Goes
+UN PREVIEW | Un Preview
+
+[46]
+Neverita
+Un Coco
+Tarot
+Party
+Después de la Playa | Despues de la Playa
+Me Fui de Vacaciones
+Dos Mil 16 | 2016
+Un Verano Sin Ti
+Un Ratito
+Andrea
+El Apagón | El Apagon
+Enséñame a Bailar | Enseñar a Bailar | EnseName a Bailar
+Lo Siento BB:/ | Lo Siento BB
+Volví | Volvi
+Volando | Volando Remix
+AM | AM Remix
+CÓMO SE SIENTE | Como Se Siente
+25/8
+120
+BOOKER T | Booker T
+HACIENDO QUE ME AMAS | Haciendo Que Me Amas
+TE MUDASTE | Te Mudaste
+La Romana
+Caro
+NI BIEN NI MAL | Ni Bien Ni Mal
+Cuando Perriabas
+Bichiyal
+Soliá | Solia
+Esta Rico
+Sensualidad
+Te Gusté | Te Guste
+Dura | Dura Remix
+El Amante | El Amante Remix
+EL BAÑO | El Baño | El Bano
+Loca | Loca Remix
+Gato de Noche
+La Jumpa
+Coco Chanel
+MOJABI GHOST | Mojabi Ghost
+FINA | Fina
+HIBIKI | Hibiki
+SEDA | Seda
+BATICANO | Baticano
+NO ME QUIERO CASAR | No Me Quiero Casar
+TELEFONO NUEVO | Telefono Nuevo
+ADIVINO | Adivino
+EoO
+VeLDÁ | Velda
+CAFé CON RON | Cafe Con Ron
+VOY A LLeVARTE PA PR | Voy a Llevarte Pa PR
+PERFuMITO NUEVO | Perfumito Nuevo
+KLOuFRENS | Kloufrens
+KETU TeCRÉ | Ketu Tecre
+
+[60]
+Aguacero
+Otro Atardecer
+BYE ME FUI | Bye Me Fui
+CANCIÓN CON YANDEL | Cancion Con Yandel
+PA' ROMPERLA | Pa Romperla
+BAD CON NICKY | Bad Con Nicky
+MÁS DE UNA CITA | Mas De Una Cita
+EN CASITA | En Casita
+RONCA FREESTYLE | Ronca Freestyle
+LA DROGA | La Droga
+EL MUNDO ES MÍO | El Mundo Es Mio
+HOY COBRÉ | Hoy Cobre
+MALDITA POBREZA | Maldita Pobreza
+ANTES QUE SE ACABE | Antes Que Se Acabe
+TRELLAS | Trellas
+SORRY PAPI | Sorry Papi
+TE DESEO LO MEJOR | Te Deseo Lo Mejor
+YO VISTO ASÍ | Yo Visto Asi
+6 Rings
+Ser Bichote
+Como Antes
+¿Quién Tú Eres? | Quien Tu Eres
+RLNDT
+Tenemos Que Hablar
+Solo de Mi
+YO LE LLEGO | Yo Le Llego
+CUIDAO POR AHÍ | Cuidao Por Ahi
+MOJAITA | Mojaita
+ODIO | Odio
+UN PESO | Un Peso
+COMO UN BEBÉ | Como Un Bebe
+QUÉ PRETENDES | Que Pretendes
+Bellacoso
+Afilando Los Cuchillos
+Cántalo | Cantalo
+Hablamos Mañana | Hablamos Manana
+Está Cabrón Ser Yo | Esta Cabron Ser Yo
+P FKN R
+Una Vez
+La Zona
+La Corriente
+La T-Shirt de Biggie
+La Última Vez | La Ultima Vez
+Madura
+Original
+Pa Ti
+Soy El Diablo
+Te Lo Meto Yo
+Tú No Vive' Así | Tu No Vive Asi
+Vuelve
+X ÚLTIMA VEZ | X Ultima Vez
+De Museo
+100 MILLONES | 100 Millones
+Tormenta
+K-POP | K Pop
+Gently
+ACHO PR | Acho PR
+MERCEDES CAROTA | Mercedes Carota
+CYBERTRUCK | Cybertruck
+MR. OCTOBER | Mr October
+NADIE SABE | Nadie Sabe
+LOS PITS | Los Pits
+VUELVE CANDY B | Vuelve Candy B
+THUNDER Y LIGHTNING | Thunder y Lightning
+BABY NUEVA | Baby Nueva
+PASIEMPRE | Pasiempre
+EL CLúB | El Club
+PIToRRO DE COCO | Pitorro de Coco
+TURiSTA | Turista
+BOKeTE | Bokete
+WELTiTA | Weltita
+LO QUE LE PASÓ A HAWAii | Lo Que Le Paso a Hawaii
+LA MuDANZA | La Mudanza
+ALAMBRE PúA | Alambre Pua
+Una Velita
+
+[75]
+200 MPH
+<3 | Corazon
+Agosto
+BENDICIONES | Bendiciones
+CANTARES DE NAVIDAD | Cantares de Navidad
+Compositor Del Año | Compositor Del Ano
+Dame Algo
+Dema Ga Ge Gi Go Gu
+Desde El Corazón | Desde El Corazon
+Dime Si Te Acuerdas
+Escápate Conmigo | Escapate Conmigo
+Estamos Arriba
+Estamos Clear
+Explícale | Explicale
+Fantasía | Fantasia
+Flor
+Hasta Que Dios Diga
+Infeliz
+Kemba Walker
+La Cartera
+Mala y peligrosa
+Me Acostumbré | Me Acostumbre
+Me Gusta
+Me Llamas
+Me Llueven
+Me Mata
+Netflixxx
+No Te Hagas
+Otra Vez
+Puerta Abierta
+Puesto Pa' Guerrial | Puesto Pa Guerrial
+Qué Malo | Que Malo
+Qué Pasaría... | Que Pasaria
+Satisfacción | Satisfaccion
+Si Tu Lo Dejas
+Si Tu Novio Te Deja Sola
+Solita
+Toda La Noche
+Tranquilo
+Triste
+Un Polvo
+Yo No Soy Celoso
+EUROPA :( | Europa Carita Triste
+EUROPA :) | Europa Carita Feliz
+GRACIAS POR NADA | Gracias Por Nada
+VOU 787 | Vou 787
+
+[88]
+47 | 47 Remix
+Amantes de Una Noche
+Amigos y Enemigos
+Andan Por Ahí | Andan Por Ahi
+Así Soy Yo | Asi Soy Yo
+Báilame | Bailame
+Blockia
+Caile
+Como Soy
+Coronamos
+Crecía | Crecia
+Cual Es Tu Plan
+Demonia Baila
+Después de las 9 | Despues de las 9
+Diabla | Diabla Remix
+Dime
+El Combo Me Llama 2
+El Ganador | El Ganador Remix
+Favorito de Los Capos
+Gucci Gang | Gucci Gang Spanish Remix
+Haters | Haters Remix
+Hoy
+Know No Better
+La Movie
+La Pistola
+Lean
+Liberace | Liberace Remix
+Lo Que Yo Diga
+Loco Pero Millonario
+Loyal | Loyal Remix
+Maldades | Maldades Remix
+Move Your Body
+No Es Igual
+No Perdamos Tiempo
+Otra Noche
+Pa' Que Le Dé | Pa Que Le De
+Panamera | Panamera Remix
+Polaroid
+Prayer
+Prohibido
+Pure
+Sexo Sin Cariño | Sexo Sin Carino
+Sexto Sentido
+So Drunk
+Subimos de Rango
+Tagliatelle Santeria
+Te Descuido
+Thinkin' | Thinkin
+Tócate Tu Misma | Tocate Tu Misma
+Trepate
+Tú Me Gustas | Tu Me Gustas
+Un Ratito Mas
+Vamos Pa' La Calle | Vamos Pa La Calle
+
+[100]
+120 (remix)
+Ahora Me Llama (remix)
+Another
+Calentando
+Chavos y Prendas
+Contigo
+Culpable
+CYNH2
+Diles (part. Ozuna, Farruko, Arcangel y Ñengo Flow)
+Dime Si Vas a Volver
+EL BAÑO (remix)
+El Chapo
+El Combo Me Llama 2.1
+El Freestyle
+En Lo Que
+Es Tiempo
+Estamos Cabrón | Estamos Cabron
+Explícale (remix)
+Explícame | Explicame
+Flow Exagerao
+Get
+Give It Up
+Give It Up (remix)
+Hot Niggas
+Krippy Kush (remix)
+Krippy Kush (Travis Scott Remix)
+La Vida
+Lo De Nosotros
+Me Importa Un Carajo
+Me Llueven (Extended Version)
+Me Llueven 2
+Me Llueven 3.0
+Me Rolié | Me Rolie
+Mood
+No Me Wua Dejar
+No Prometo Nada
+Otra Ve' (remix)
+Otra Vez (Remake)
+Pa' Que Le Dé (remix)
+Solo Avísame | Solo Avisame
+Soy Peor (remix)
+Super Bowl LX Halftime Show
+Tentación | Tentacion
+Tiempo Perdido
+Tócate Tu Misma (remix)
+Tú No Metes Cabra (remix)
+Vamos A Llegar
+Vamos Pa' La Calle (remix)
+Yo Perreo Sola (remix)

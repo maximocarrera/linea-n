@@ -1,0 +1,54 @@
+categoria: Cine
+consigna: Nombrá una película del Universo Cinematográfico de Marvel (UCM) 
+activa: si
+apellidos: no
+
+[10]
+Avengers Endgame | Vengadores Endgame | Endgame
+Avengers Infinity War | Vengadores Infinity War | Infinity War
+The Avengers | Los Vengadores | Avengers 1
+Spider-Man No Way Home | Spider-Man Sin Camino a Casa | No Way Home
+Iron Man | Iron Man 1
+Deadpool y Wolverine | Deadpool & Wolverine | Deadpool 3
+
+[25]
+Avengers Age of Ultron | Vengadores La Era de Ultrón | Era de Ultrón
+Captain America Civil War | Capitán América Civil War | Civil War
+Black Panther | Pantera Negra
+Guardians of the Galaxy | Guardianes de la Galaxia | Guardianes 1
+Thor Ragnarok | Thor 3
+Doctor Strange | Doctor Strange Hechicero Supremo
+
+[45]
+Iron Man 2
+Iron Man 3
+Captain America The First Avenger | Capitán América El Primer Vengador | Capitán América 1
+Captain America The Winter Soldier | Capitán América El Soldado del Invierno | El Soldado del Invierno
+Thor | Thor 1
+Spider-Man Homecoming | Spider-Man De Regreso a Casa
+Spider-Man Far From Home | Spider-Man Lejos de Casa
+
+[65]
+Ant-Man | Ant-Man El Hombre Hormiga | Ant-Man 1
+Doctor Strange in the Multiverse of Madness | Doctor Strange en el Multiverso de la Locura | Doctor Strange 2
+Guardians of the Galaxy Vol 2 | Guardianes de la Galaxia Vol 2 | Guardianes 2
+Guardians of the Galaxy Vol 3 | Guardianes de la Galaxia Vol 3 | Guardianes 3
+Captain Marvel | Capitana Marvel
+Black Widow | Viuda Negra
+Thor Love and Thunder | Thor Amor y Trueno | Thor 4
+
+[85]
+The Incredible Hulk | El Increíble Hulk | Hulk
+Thor The Dark World | Thor Un Mundo Oscuro | Thor 2
+Ant-Man and the Wasp | Ant-Man y la Avispa | Ant-Man 2
+Black Panther Wakanda Forever | Pantera Negra Wakanda Por Siempre | Black Panther 2
+Shang-Chi and the Legend of the Ten Rings | Shang-Chi y la Leyenda de los Diez Anillos | Shang-Chi
+Spider-Man Brand New Day | Spider-Man 4
+
+[100]
+Eternals | Eternos
+Ant-Man and the Wasp Quantumania | Ant-Man y la Avispa Quantumanía | Ant-Man 3
+The Marvels | Las Marvels
+Captain America Brave New World | Capitán América Un Nuevo Mundo | Capitán América 4
+Thunderbolts | Los Thunderbolts
+The Fantastic Four First Steps | Los Cuatro Fantásticos Primeros Pasos | Los 4 Fantásticos
