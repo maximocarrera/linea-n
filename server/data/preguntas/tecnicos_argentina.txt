@@ -30,13 +30,12 @@ Juan Carlos Lorenzo | Toto Lorenzo | Lorenzo
 Vladislao Cap | Cap | Polaco Cap
 
 [80]
-Omar Sivori | Sivori | Cabezon Sivori
+Omar Sivori | Sivori | Cabezon Sivori | Enrique Omar Sivori
 Angel Labruna | Labruna | Feo Labruna
 Cesarini | Renato Cesarini
 Adolfo Pedernera | Pedernera
 Jose Maria Minella | Minella
 Juan Jose Pizzuti | Pizzuti
-Enrique Omar Sivori | Sivori
 
 [100]
 Angel Vazquez | Vazquez
