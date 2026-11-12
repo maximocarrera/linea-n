@@ -1,0 +1,1359 @@
+categoria: Cine
+consigna: Nombrá una película ganadora del Oscar
+activa: si
+apellidos: no
+
+[10]
+Everything Everywhere All at Once | Todo en todas partes al mismo tiempo
+Top Gun Maverick
+Avatar The Way of Water | Avatar el camino del agua
+Dune | Duna
+No Time to Die | Sin tiempo para morir
+Encanto
+Parasite | Parasitos
+Toy Story 4
+Joker | Guason
+Bohemian Rhapsody
+Black Panther | Pantera negra
+Spider-Man Into the Spider-Verse | Spider-Man un nuevo universo
+Coco
+Get Out | Huye
+La La Land | La La Land una historia de amor
+Fantastic Beasts and Where to Find Them | Animales fantasticos y donde encontrarlos
+The Jungle Book | El libro de la selva
+Sing | Sing ven y canta
+Suicide Squad | Escuadron suicida
+Zootopia
+Mad Max Fury Road | Mad Max furia en el camino
+The Revenant | El renacido
+Inside Out | Intensamente
+Interstellar | Interestelar
+Big Hero 6 | Grandes heroes
+Frozen | Frozen una aventura congelada
+Skyfall | Operacion Skyfall
+Brave | Valiente
+Inception | El origen
+Toy Story 3
+Alice in Wonderland | Alicia en el pais de las maravillas
+Black Swan | El cisne negro
+Avatar
+Up | Up una aventura de altura
+The Dark Knight | Batman el caballero de la noche
+WALL-E
+Ratatouille
+Pirates of the Caribbean Dead Man's Chest | Piratas del Caribe el cofre de la muerte | Piratas del Caribe 2
+Happy Feet | Happy Feet el pinguino
+King Kong
+The Incredibles | Los increibles
+Spider-Man 2
+The Lord of the Rings The Return of the King | El señor de los anillos el retorno del rey
+Finding Nemo | Buscando a Nemo
+The Lord of the Rings The Two Towers | El señor de los anillos las dos torres
+Spirited Away | El viaje de Chihiro
+The Lord of the Rings The Fellowship of the Ring | El señor de los anillos la comunidad del anillo
+Monsters, Inc.
+Shrek
+Gladiator | Gladiador
+How the Grinch Stole Christmas | El Grinch
+The Matrix | Matrix
+Tarzan
+Saving Private Ryan | Rescatando al soldado Ryan
+Titanic
+Men in Black | Hombres de negro
+Independence Day | Dia de la independencia
+Braveheart | Corazon valiente
+Pocahontas
+Toy Story
+Forrest Gump
+The Lion King | El rey leon
+Pulp Fiction | Tiempos violentos
+Schindler's List | La lista de Schindler
+Jurassic Park | Parque jurasico
+Mrs. Doubtfire | Papa por siempre
+Bram Stoker's Dracula | Dracula de Bram Stoker
+Aladdin
+The Silence of the Lambs | El silencio de los inocentes
+Terminator 2 Judgment Day | Terminator 2 el juicio final | Terminator 2
+Beauty and the Beast | La bella y la bestia
+Ghost | Ghost la sombra del amor
+The Little Mermaid | La sirenita
+Indiana Jones and the Last Crusade | Indiana Jones y la ultima cruzada
+Batman
+Dirty Dancing | Baile caliente
+Aliens | Aliens el regreso
+Top Gun
+Back to the Future | Volver al futuro
+Indiana Jones and the Temple of Doom | Indiana Jones y el templo de la perdicion
+Return of the Jedi | El regreso del Jedi
+E.T. The Extra-Terrestrial | ET el extraterrestre | ET
+Raiders of the Lost Ark | Indiana Jones en busca del arca perdida | Los cazadores del arca perdida
+The Empire Strikes Back | El imperio contraataca
+Alien | Alien el octavo pasajero
+Superman
+Star Wars | La guerra de las galaxias
+Rocky
+Jaws | Tiburon
+The Godfather Part II | El padrino 2 | El padrino parte II
+The Exorcist | El exorcista
+The Godfather | El padrino
+The Sound of Music | La novicia rebelde
+Casablanca
+Dumbo
+Gone with the Wind | Lo que el viento se llevo
+Mary Poppins
+Pinocchio | Pinocho
+Snow White and the Seven Dwarfs | Blancanieves y los siete enanitos | Blancanieves
+The Wizard of Oz | El mago de Oz
+
+[25]
+All Quiet on the Western Front | Sin novedad en el frente
+The Whale | La ballena
+Black Panther Wakanda Forever | Pantera negra Wakanda por siempre
+Guillermo del Toro's Pinocchio | Pinocho de Guillermo del Toro
+CODA | CODA señales del corazon
+West Side Story | Amor sin barreras
+Cruella
+The Father | El padre
+Tenet
+Soul
+Ford v Ferrari | Contra lo imposible
+Little Women | Mujercitas
+Marriage Story | Historia de un matrimonio
+Jojo Rabbit
+Once Upon a Time in Hollywood | Habia una vez en Hollywood
+1917
+Rocketman
+Green Book | Green Book una amistad sin fronteras
+Roma
+A Star Is Born | Nace una estrella
+The Shape of Water | La forma del agua
+Dunkirk
+Three Billboards Outside Ebbing, Missouri | Tres anuncios por un crimen
+Blade Runner 2049
+Call Me by Your Name | Llamame por tu nombre
+Una mujer fantastica | A Fantastic Woman
+Moonlight | Luz de luna
+Hacksaw Ridge | Hasta el ultimo hombre
+Arrival | La llegada
+Spotlight | En primera plana
+The Big Short | La gran apuesta
+The Danish Girl | La chica danesa
+The Hateful Eight | Los 8 mas odiados
+Ex Machina
+Spectre
+Birdman or (The Unexpected Virtue of Ignorance) | Birdman o la inesperada virtud de la ignorancia | Birdman
+The Grand Budapest Hotel | El gran hotel Budapest
+Whiplash | Whiplash musica y obsesion
+The Imitation Game | El codigo enigma
+American Sniper | Francotirador
+The Theory of Everything | La teoria del todo
+12 Years a Slave | 12 años de esclavitud
+Gravity | Gravedad
+Dallas Buyers Club | El club de los desahuciados
+The Great Gatsby | El gran Gatsby
+Her | Ella
+Argo
+Life of Pi | Una aventura extraordinaria
+Les Miserables | Los miserables
+Lincoln
+Django Unchained | Django sin cadenas
+Silver Linings Playbook | El lado luminoso de la vida
+The Artist | El artista
+Hugo | La invencion de Hugo Cabret
+The Girl with the Dragon Tattoo | La chica del dragon tatuado
+Midnight in Paris | Medianoche en Paris
+The Help | Historias cruzadas
+Rango
+The King's Speech | El discurso del rey
+The Social Network | Red social
+The Fighter | El ganador
+The Hurt Locker | Vivir al limite
+Inglourious Basterds | Bastardos sin gloria
+Star Trek
+The Blind Side | Un sueño posible
+El secreto de sus ojos | The Secret in Their Eyes
+Slumdog Millionaire | Quien quiere ser millonario
+The Curious Case of Benjamin Button | El curioso caso de Benjamin Button
+No Country for Old Men | Sin lugar para los debiles
+The Bourne Ultimatum | Bourne el ultimatum
+There Will Be Blood | Petroleo sangriento
+Juno
+The Departed | Los infiltrados
+El laberinto del fauno | Pan's Labyrinth
+Little Miss Sunshine | Pequeña Miss Sunshine
+Babel
+Crash | Vidas cruzadas
+Brokeback Mountain | Secreto en la montaña
+Memoirs of a Geisha | Memorias de una geisha
+The Chronicles of Narnia The Lion, the Witch and the Wardrobe | Las cronicas de Narnia el leon la bruja y el ropero | Las cronicas de Narnia
+Wallace & Gromit The Curse of the Were-Rabbit | Wallace y Gromit la batalla de los vegetales
+Million Dollar Baby | Golpes del destino
+The Aviator | El aviador
+Ray
+Lemony Snicket's A Series of Unfortunate Events | Lemony Snicket una serie de eventos desafortunados
+Eternal Sunshine of the Spotless Mind | Eterno resplandor de una mente sin recuerdos
+Diarios de motocicleta | The Motorcycle Diaries
+Mar adentro | The Sea Inside
+Chicago
+The Pianist | El pianista
+Frida
+Hable con ella | Talk to Her
+8 Mile
+A Beautiful Mind | Una mente brillante
+Moulin Rouge | Moulin Rouge amor en rojo
+Black Hawk Down | La caida del halcon negro
+Pearl Harbor
+Training Day | Dia de entrenamiento
+Crouching Tiger, Hidden Dragon | El tigre y el dragon
+Erin Brockovich | Erin Brockovich una mujer audaz
+American Beauty | Belleza americana
+Sleepy Hollow | La leyenda del jinete sin cabeza
+Girl, Interrupted | Inocencia interrumpida
+Todo sobre mi madre | All About My Mother
+Shakespeare in Love | Shakespeare apasionado
+Life Is Beautiful | La vida es bella
+The Prince of Egypt | El principe de Egipto
+Good Will Hunting | En busca del destino
+As Good as It Gets | Mejor imposible
+Fargo
+Evita
+Jerry Maguire | Jerry Maguire amor y desafio
+The Nutty Professor | El profesor chiflado
+Apollo 13
+The Usual Suspects | Los sospechosos de siempre
+Babe | Babe el chanchito valiente
+Speed | Maxima velocidad
+Philadelphia | Filadelfia
+The Fugitive | El fugitivo
+Unforgiven | Los imperdonables
+Scent of a Woman | Perfume de mujer
+The Last of the Mohicans | El ultimo de los mohicanos
+Death Becomes Her | La muerte le sienta bien
+Dances with Wolves | Danza con lobos
+Dick Tracy
+Goodfellas | Buenos muchachos
+Misery
+Total Recall | El vengador del futuro
+Dead Poets Society | La sociedad de los poetas muertos
+Cinema Paradiso
+Rain Man
+Who Framed Roger Rabbit | Quien engaño a Roger Rabbit
+Beetlejuice | Beetlejuice el super fantasma
+The Untouchables | Los intocables
+RoboCop
+Platoon | Peloton
+The Fly | La mosca
+Out of Africa | Africa mia
+Cocoon
+La historia oficial | The Official Story
+Amadeus
+Purple Rain
+Flashdance
+An American Werewolf in London | Un hombre lobo americano en Londres
+Raging Bull | Toro salvaje
+Kramer vs. Kramer
+Apocalypse Now | Apocalipsis ahora
+The Deer Hunter | El francotirador
+Midnight Express | Expreso de medianoche
+Annie Hall | Dos extraños amantes
+Close Encounters of the Third Kind | Encuentros cercanos del tercer tipo
+Network | Poder que mata
+The Omen | La profecia
+One Flew Over the Cuckoo's Nest | Atrapado sin salida
+Chinatown | Barrio chino
+Murder on the Orient Express | Asesinato en el Orient Express
+The Sting | El golpe
+Cabaret
+The Poseidon Adventure | La aventura del Poseidon
+The French Connection | Contacto en Francia
+Midnight Cowboy | Perdidos en la noche
+Butch Cassidy and the Sundance Kid | Butch Cassidy
+2001 A Space Odyssey | 2001 odisea del espacio
+Rosemary's Baby | El bebe de Rosemary
+Planet of the Apes | El planeta de los simios
+Bonnie and Clyde | Bonnie y Clyde
+The Graduate | El graduado
+Doctor Zhivago
+All About Eve | La malvada
+Ben-Hur
+Breakfast at Tiffany's | Desayuno en Tiffany's | Desayuno con diamantes
+The Bridge on the River Kwai | El puente sobre el rio Kwai
+Citizen Kane | El ciudadano Kane
+Cleopatra
+Fantasia
+Goldfinger
+Lawrence of Arabia | Lawrence de Arabia
+My Fair Lady | Mi bella dama
+Roman Holiday | La princesa que queria vivir
+Some Like It Hot | Una Eva y dos Adanes
+Spartacus | Espartaco
+Sunset Boulevard | El ocaso de una vida
+The Ten Commandments | Los diez mandamientos
+Thunderball | Operacion trueno
+To Kill a Mockingbird | Matar a un ruiseñor
+
+[45]
+Women Talking | Ellas hablan
+Navalny
+RRR
+The Eyes of Tammy Faye | Los ojos de Tammy Faye
+Drive My Car
+Belfast
+The Power of the Dog | El poder del perro
+King Richard | Rey Richard una familia ganadora
+Nomadland
+Judas and the Black Messiah | Judas y el mesias negro
+Minari
+Mank
+Sound of Metal | El sonido del metal
+Ma Rainey's Black Bottom | La madre del blues
+Promising Young Woman | Hermosa venganza
+Another Round | Otra ronda
+My Octopus Teacher | Lo que el pulpo me enseño
+Judy
+Bombshell | El escandalo
+The Favourite | La favorita
+Vice | El vicepresidente mas alla del poder
+BlacKkKlansman | El infiltrado del KKKlan
+First Man | El primer hombre en la luna
+If Beale Street Could Talk | El blues de Beale Street
+Darkest Hour | Las horas mas oscuras
+Phantom Thread | El hilo fantasma
+I, Tonya | Yo Tonya
+Manchester by the Sea | Manchester junto al mar
+The Salesman | El viajante
+Bridge of Spies | Puente de espias
+Room | La habitacion
+Son of Saul | El hijo de Saul
+Boyhood | Boyhood momentos de una vida
+Selma
+Still Alice | Siempre Alice
+The Great Beauty | La gran belleza
+Zero Dark Thirty | La noche mas oscura
+Amour | Amor
+The Iron Lady | La dama de hierro
+The Descendants | Los descendientes
+A Separation | La separacion
+The Muppets | Los Muppets
+In a Better World | En un mundo mejor
+The Wolfman | El hombre lobo
+Inside Job | Trabajo confidencial
+Precious
+Crazy Heart | Loco corazon
+The Young Victoria | La reina Victoria
+Milk
+The Reader | El lector
+The Duchess | La duquesa
+La Vie en rose | La vida en rosa
+Atonement | Expiacion deseo y pecado
+Sweeney Todd The Demon Barber of Fleet Street | Sweeney Todd el barbero demoniaco de la calle Fleet
+The Golden Compass | La brujula dorada
+Elizabeth The Golden Age | Elizabeth la edad de oro
+Taxi to the Dark Side | Taxi al lado oscuro
+The Counterfeiters | Los falsificadores
+Dreamgirls
+An Inconvenient Truth | Una verdad incomoda
+The Queen | La reina
+Letters from Iwo Jima | Cartas desde Iwo Jima
+The Last King of Scotland | El ultimo rey de Escocia
+The Lives of Others | La vida de los otros
+Marie Antoinette | Maria Antonieta
+Capote
+Walk the Line | Johnny y June pasion y locura
+The Constant Gardener | El jardinero fiel
+Syriana
+March of the Penguins | La marcha de los pinguinos
+Tsotsi
+Finding Neverland | Descubriendo Nunca Jamas
+Sideways | Entre copas
+Master and Commander The Far Side of the World | Master and Commander al otro lado del mundo
+Mystic River | Rio mistico
+Cold Mountain | Regreso a Cold Mountain
+Lost in Translation | Perdidos en Tokio
+The Barbarian Invasions | Las invasiones barbaras
+Monster | Monster asesina en serie
+The Fog of War | Niebla de guerra
+The Hours | Las horas
+Road to Perdition | Camino a la perdicion
+Adaptation | El ladron de orquideas
+Nowhere in Africa | En algun lugar de Africa
+Bowling for Columbine | Masacre en Columbine
+Gosford Park
+No Man's Land | Tierra de nadie
+Traffic
+Almost Famous | Casi famosos
+Wonder Boys | Jovenes prodigiosos
+The Cider House Rules | Las reglas de la vida
+Boys Don't Cry | Los muchachos no lloran
+The Red Violin | El violin rojo
+The Old Man and the Sea | El viejo y el mar
+Gods and Monsters | Dioses y monstruos
+What Dreams May Come | Mas alla de los sueños
+L.A. Confidential | Los Angeles al desnudo
+The Full Monty | Todo o nada
+The English Patient | El paciente ingles
+Shine | Claroscuro
+The Ghost and the Darkness | Los demonios de la noche
+When We Were Kings | Cuando eramos reyes
+Restoration | Restauracion
+Sense and Sensibility | Sensatez y sentimientos
+Il Postino The Postman | El cartero
+Dead Man Walking | Mientras estes conmigo
+Leaving Las Vegas | Adios a Las Vegas
+Mighty Aphrodite | Poderosa Afrodita
+Antonia's Line | La linea de Antonia
+Ed Wood
+Bullets Over Broadway | Disparos sobre Broadway
+The Madness of King George | La locura del rey Jorge
+Legends of the Fall | Leyendas de pasion
+Burnt by the Sun | Quemado por el sol
+The Adventures of Priscilla, Queen of the Desert | Las aventuras de Priscilla reina del desierto
+The Piano | La leccion de piano
+The Age of Innocence | La edad de la inocencia
+Belle Epoque
+The Crying Game | El juego de las lagrimas
+A River Runs Through It | Nada es para siempre
+Indochine | Indochina
+My Cousin Vinny | Mi primo Vinny
+Bugsy
+JFK
+Thelma & Louise | Thelma y Louise
+The Fisher King | Pescador de ilusiones
+Mediterraneo
+The Hunt for Red October | La caceria del octubre rojo
+Driving Miss Daisy | Conduciendo a Miss Daisy
+Glory | Tiempos de gloria
+Born on the Fourth of July | Nacido el 4 de julio
+My Left Foot | Mi pie izquierdo
+The Abyss | El abismo
+Henry V | Enrique V
+Dangerous Liaisons | Relaciones peligrosas
+Mississippi Burning | Mississippi en llamas
+Working Girl | Secretaria ejecutiva
+The Accidental Tourist | El turista accidental
+A Fish Called Wanda | Un pez llamado Wanda
+The Accused | Acusados
+The Last Emperor | El ultimo emperador
+Moonstruck | Hechizo de luna
+Babette's Feast | El festin de Babette
+Harry and the Hendersons | Harry y los Henderson
+Innerspace | Viaje insolito
+Wall Street | Wall Street poder y codicia
+Hannah and Her Sisters | Hannah y sus hermanas
+The Mission | La mision
+Children of a Lesser God | Te amare en silencio
+The Color of Money | El color del dinero
+Witness | Testigo en peligro
+Prizzi's Honor | El honor de los Prizzi
+Kiss of the Spider Woman | El beso de la mujer araña
+Ran
+White Nights | Sol de medianoche
+Mask | Mascara
+The Killing Fields | Los gritos del silencio
+A Passage to India | Pasaje a la India
+Places in the Heart | En un lugar del corazon
+The Woman in Red | La dama de rojo
+Terms of Endearment | La fuerza del cariño
+Fanny & Alexander | Fanny y Alexander
+Gandhi
+An Officer and a Gentleman | Reto al destino
+Tootsie
+Victor/Victoria | Victor Victoria
+Sophie's Choice | La decision de Sophie
+Missing | Desaparecido
+Quest for Fire | La guerra del fuego
+Chariots of Fire | Carrozas de fuego
+Reds | Rojos
+On Golden Pond | En la laguna dorada
+Arthur | Arturo el millonario seductor
+Ordinary People | Gente como uno
+Fame | Fama
+Moscow Does Not Believe in Tears | Moscu no cree en las lagrimas
+All That Jazz | El show debe continuar
+Being There | Desde el jardin
+The Tin Drum | El tambor de hojalata
+The Black Stallion | El corcel negro
+Coming Home | Regreso sin gloria
+Heaven Can Wait | El cielo puede esperar
+Death on the Nile | Muerte en el Nilo
+The Goodbye Girl | La chica del adios
+All the President's Men | Todos los hombres del presidente
+Logan's Run | La fuga de Logan
+Barry Lyndon
+Dog Day Afternoon | Tarde de perros
+The Towering Inferno | Infierno en la torre
+Earthquake | Terremoto
+Cries and Whispers | Gritos y susurros
+Day for Night | La noche americana
+Paper Moon | Luna de papel
+The Discreet Charm of the Bourgeoisie | El discreto encanto de la burguesia
+A Christmas Carol | Un cuento de Navidad
+Limelight | Candilejas
+Fiddler on the Roof | El violinista en el tejado
+The Last Picture Show | La ultima pelicula
+Bedknobs and Broomsticks | Travesuras de una bruja
+Summer of '42 | Verano del 42
+Shaft
+Patton
+Ryan's Daughter | La hija de Ryan
+Airport | Aeropuerto
+Love Story | Historia de amor
+M*A*S*H | MASH
+Tora Tora Tora
+Woodstock
+Let It Be
+
+[65]
+Michael Clayton
+Elizabeth
+Howards End
+Cyrano de Bergerac
+A Room with a View
+The Right Stuff
+Tender Mercies
+Yentl
+Tess
+Coal Miner's Daughter
+Breaking Away
+Julia
+Bound for Glory
+Nashville
+The Way We Were
+A Touch of Class
+Nicholas and Alexandra
+Hello, Dolly
+Z
+Anne of the Thousand Days | Ana de los mil dias
+They Shoot Horses, Don't They
+True Grit | Temple de acero
+Oliver
+The Lion in Winter | El leon en invierno
+Romeo and Juliet | Romeo y Julieta
+Funny Girl
+The Producers | Los productores
+The Thomas Crown Affair | El caso Thomas Crown
+War and Peace | La guerra y la paz
+In the Heat of the Night | Al calor de la noche
+Camelot
+Guess Who's Coming to Dinner | Adivina quien viene a cenar
+Doctor Dolittle | El doctor Dolittle
+Thoroughly Modern Millie | Millie una chica moderna
+Cool Hand Luke | La leyenda del indomable
+The Dirty Dozen | Doce del patibulo
+A Man for All Seasons | Un hombre para la eternidad
+Who's Afraid of Virginia Woolf | Quien le teme a Virginia Woolf
+Fantastic Voyage | Viaje fantastico
+A Man and a Woman | Un hombre y una mujer
+Born Free | Nacida libre
+A Funny Thing Happened on the Way to the Forum | Golfus de Roma
+Darling
+Ship of Fools | La nave de los locos
+Cat Ballou
+The Great Race | La carrera del siglo
+A Patch of Blue
+7th Heaven
+20,000 Leagues Under the Sea | 20000 leguas de viaje submarino
+The Adventures of Robin Hood | Las aventuras de Robin Hood
+The African Queen | La reina africana
+The Alamo | El Alamo
+Alexander's Ragtime Band
+All the King's Men
+An American in Paris | Un americano en Paris
+Anastasia
+Anchors Aweigh
+Anna and the King of Siam
+Anthony Adverse
+The Apartment | El apartamento
+Around the World in 80 Days | La vuelta al mundo en 80 dias
+The Awful Truth
+The Bad and the Beautiful
+Battleground
+Becket
+The Bells of St. Mary's
+The Best Years of Our Lives | Los mejores años de nuestras vidas
+Bicycle Thieves | Ladron de bicicletas
+The Bishop's Wife
+Black Narcissus | Narciso negro
+Black Orpheus | Orfeo negro
+Born Yesterday
+Boys Town
+Champion
+Cimarron
+The Circus | El circo
+The Country Girl
+Cover Girl
+Days of Wine and Roses
+The Defiant Ones
+The Diary of Anne Frank | El diario de Ana Frank
+Divorce Italian Style | Divorcio a la italiana
+Dodsworth
+Dr. Jekyll and Mr. Hyde | Dr Jekyll y Mr Hyde
+East of Eden | Al este del paraiso
+Elmer Gantry
+The Facts of Life
+Federico Fellini's 8 y medio | 8 y medio | Ocho y medio
+For Whom the Bell Tolls
+From Here to Eternity | De aqui a la eternidad
+Gaslight
+The Gay Divorcee
+Gentleman's Agreement
+Giant | Gigante
+Gigi
+Going My Way
+The Good Earth
+Goodbye, Mr. Chips
+Grand Hotel | Gran hotel
+The Grapes of Wrath | Las uvas de la ira
+Great Expectations
+The Great Ziegfeld
+The Greatest Show on Earth | El mayor espectaculo del mundo
+The Guns of Navarone | Los cañones de Navarone
+Hamlet
+The Heiress
+Here Comes Mr. Jordan
+The High and the Mighty
+High Noon | A la hora señalada
+How Green Was My Valley | Que verde era mi valle
+How the West Was Won | La conquista del oeste
+Hud
+The Human Comedy
+The Hustler | El buscavidas
+I Want to Live
+In Old Arizona
+In Old Chicago
+The Informer
+It Happened One Night | Sucedio una noche
+It's a Mad, Mad, Mad, Mad World
+The Jazz Singer | El cantor de jazz
+Jezebel
+Joan of Arc
+Johnny Belinda
+The Jolson Story
+Judgment at Nuremberg | El juicio de Nuremberg
+Julius Caesar
+The King and I | El rey y yo
+Kitty Foyle
+La Strada
+La Dolce Vita
+Laura
+The Life of Emile Zola
+Lili
+Lilies of the Field
+The Lives of a Bengal Lancer
+The Longest Day
+Lost Horizon
+The Lost Weekend
+Love Is a Many-Splendored Thing
+Love Me or Leave Me
+Marty
+A Midsummer Night's Dream
+Mildred Pierce
+Miracle on 34th Street | Milagro en la calle 34
+The Miracle Worker
+Mister Roberts
+The More the Merrier
+Mr. Deeds Goes to Town
+Mr. Smith Goes to Washington
+Mrs. Miniver
+The Music Man
+Mutiny on the Bounty | Rebelion a bordo
+National Velvet
+Never on Sunday
+Nights of Cabiria | Las noches de Cabiria
+North West Mounted Police
+Oklahoma
+On the Waterfront | Nido de ratas
+One Hundred Men and a Girl
+One Night of Love
+The Patriot
+Phantom of the Opera | El fantasma de la opera
+The Philadelphia Story
+Picnic
+The Picture of Dorian Gray | El retrato de Dorian Gray
+Pillow Talk
+A Place in the Sun | Un lugar en el sol
+Pride and Prejudice | Orgullo y prejuicio
+The Pride of the Yankees
+The Quiet Man
+The Rains Came
+Rashomon
+Rebecca | Rebeca
+The Red Shoes | Las zapatillas rojas
+The Robe | El manto sagrado
+Room at the Top
+The Rose Tattoo
+Sabrina
+Samson and Delilah | Sanson y Dalila
+San Francisco
+Sayonara
+Separate Tables
+Sergeant York
+Seven Brides for Seven Brothers
+Shane
+Since You Went Away
+The Snake Pit
+The Song of Bernadette
+Sons and Lovers
+Spellbound | Cuentame tu vida
+Stagecoach | La diligencia
+A Streetcar Named Desire | Un tranvia llamado deseo
+Sunrise | Amanecer
+The Thief of Bagdad | El ladron de Bagdad
+The Third Man | El tercer hombre
+The Time Machine | La maquina del tiempo
+To Catch a Thief | Para atrapar al ladron
+Tom Jones
+The Treasure of the Sierra Madre | El tesoro de la Sierra Madre
+Two Women | Dos mujeres
+Viva Zapata
+The War of the Worlds | La guerra de los mundos
+What Ever Happened to Baby Jane
+Wilson
+Wings | Alas
+With a Song in My Heart
+Wuthering Heights | Cumbres borrascosas
+Yankee Doodle Dandy
+The Yearling
+You Can't Take It with You
+Zorba the Greek | Zorba el griego
+
+[85]
+Fences
+Ida
+Blue Jasmine
+Anna Karenina
+Hustle & Flow
+Iris
+Monster's Ball
+U-571
+Pollock
+Topsy-Turvy
+Affliction
+Emma
+Sling Blade
+Reversal of Fortune
+Pelle the Conqueror
+Round Midnight
+The Trip to Bountiful
+The River
+Just Another Missing Kid
+Melvin and Howard
+Norma Rae
+A Little Romance
+Days of Heaven
+California Suite
+The Buddy Holly Story
+A Little Night Music
+Fellini's Casanova
+Shampoo
+The Sunshine Boys
+The Hindenburg
+Alice Doesn't Live Here Anymore
+Amarcord
+Harry and Tonto
+The Paper Chase
+Save the Tiger
+Travels with My Aunt
+Butterflies Are Free
+The Candidate
+Sentinels of Silence
+The Garden of the Finzi-Continis
+The Hospital
+Klute
+Women in Love
+Lovers and Other Strangers
+Cromwell
+Investigation of a Citizen Above Suspicion
+Marooned
+The Magic Machines
+The Prime of Miss Jean Brodie
+Bullitt
+The Subject Was Roses
+A Place to Stand
+Grand Prix
+The Fortune Cookie
+A Thousand Clowns
+The Shop on Main Street
+Adventures of Don Juan
+Air Force
+All That Money Can Buy
+America America
+Annie Get Your Gun
+Arise, My Love
+Bad Girl
+The Barefoot Contessa
+The Big Country
+The Big House
+The Black Swan
+Blood and Sand
+Blossoms in the Dust
+Body and Soul
+The Brave One
+Breaking the Sound Barrier
+The Bridges at Toko-Ri
+Broadway Melody of 1936
+The Broadway Melody
+Broken Lance
+BUtterfield 8
+Calamity Jane
+Call Me Madam
+Captains Courageous
+Cavalcade
+The Champ
+The Charge of the Light Brigade
+Come and Get It
+Come Back, Little Sheba
+The Cowboy and the Lady
+A Damsel in Distress
+The Dark Angel
+Destination Moon
+Disraeli
+The Divine Lady
+The Divorcee
+A Double Life
+Exodus
+The Face of Lincoln
+A Farewell to Arms
+The Farmer's Daughter
+Father Goose
+A Free Soul
+The Garden of Allah
+The Glenn Miller Story
+Gold Diggers of 1935
+The Great Caruso
+The Great Waltz
+Green Dolphin Street
+Harvey
+The Harvey Girls
+Hello, Frisco, Hello
+Here Comes the Groom
+Holiday Inn
+The Hurricane
+I'll Cry Tomorrow
+In Which We Serve
+Interrupted Melody
+The Invaders
+Irma la Douce
+King Solomon's Mines
+The Last Command
+The Lavender Hill Mob
+Leave Her to Heaven
+Les Girls
+A Letter to Three Wives
+Lust for Life
+Mother Wore Tights
+My Gal Sal
+The Naked City
+Naughty Marietta
+Neighbours
+The Night of the Iguana
+None But the Lonely Heart
+Now, Voyager
+Porgy and Bess
+Portrait of Jennie
+The Private Life of Henry VIII
+Pygmalion
+The Razor's Edge
+Reap the Wild Wind
+The Search
+Shanghai Express
+Skippy
+The Solid Gold Cadillac
+Somebody Up There Likes Me
+Song of the South
+South Pacific
+Splendor in the Grass
+Stalag 17
+State Fair
+The Story of Louis Pasteur
+Street Angel
+Strike Up the Band
+Sundays and Cybele
+Suspicion
+Sweet Bird of Youth
+Sweethearts
+Swing Time
+That Hamilton Woman
+Thirty Seconds Over Tokyo
+This Above All
+This Is the Army
+Three Coins in the Fountain
+Through a Glass Darkly
+To Each His Own
+A Tree Grows in Brooklyn
+Twelve O'Clock High
+The Virgin Spring
+Viva Villa
+Waikiki Wedding
+Watch on the Rhine
+The Westerner
+When Worlds Collide
+White Wilderness
+Woman of the Year
+Wonder Man
+The Wonderful World of the Brothers Grimm
+Written on the Wind
+
+[100]
+The Elephant Whisperers
+An Irish Goodbye
+The Boy, the Mole, the Fox and the Horse
+The Windshield Wiper
+The Long Goodbye
+The Queen of Basketball
+Summer of Soul
+Colette
+If Anything Happens I Love You
+Two Distant Strangers
+Learning to Skateboard in a Warzone (If You're a Girl)
+The Neighbors' Window
+American Factory
+Hair Love
+Bao
+Free Solo
+Period. End of Sentence.
+Skin
+Dear Basketball
+Heaven Is a Traffic Jam on the 405
+Icarus
+The Silent Child
+Flesh and Sand
+O.J. Made in America
+Piper
+The White Helmets
+Amy
+Bear Story
+A Girl in the River The Price of Forgiveness
+Stutterer
+Citizenfour
+Crisis Hotline Veterans Press 1
+The Phone Call
+Feast
+Mr Hublot
+The Lady in Number 6
+Helium
+20 Feet from Stardom
+Paperman
+Searching for Sugar Man
+Inocente
+Curfew
+The Fantastic Flying Books of Mr. Morris Lessmore
+The Shore
+Undefeated
+Saving Face
+Beginners
+The Lost Thing
+God of Love
+Strangers No More
+Music by Prudence
+The Cove
+The New Tenants
+Logorama
+Departures
+Vicky Cristina Barcelona
+Smile Pinki
+Man on Wire
+Toyland
+La Maison en Petits Cubes
+Peter & the Wolf
+Once
+Le Mozart des pickpockets
+Freeheld
+The Danish Poet
+West Bank Story
+The Blood of Yingzhou District
+Six Shooter
+The Moon and the Son An Imagined Conversation
+A Note of Triumph The Golden Age of Norman Corwin
+Born into Brothels
+Mighty Times The Children's March
+Wasp
+Ryan
+Two Soldiers
+Harvie Krumpet
+Chernobyl Heart
+This Charming Man
+The ChubbChubbs
+Twin Towers
+Thoth
+For the Birds
+Murder on a Sunday Morning
+The Accountant
+Father and Daughter
+Into the Arms of Strangers Stories of the Kindertransport
+Quiero ser | I Want to Be
+Big Mama
+One Day in September
+My Mother Dreams the Satan's Disciples in New York
+King Gimp
+The Personals
+The Last Days
+Election Night
+Bunny
+Visas and Virtue
+Character
+Geri's Game
+A Story of Healing
+The Long Way Home
+Kolya
+Quest
+Breathing Lessons The Life and Work of Mark O'Brien
+Dear Diary
+Anne Frank Remembered
+A Close Shave
+Lieberman in Love
+One Survivor Remembers
+A Time for Justice
+Franz Kafka's It's a Wonderful Life
+Maya Lin A Strong Clear Vision
+Trevor
+Bob's Birthday
+Blue Sky
+The Wrong Trousers
+I Am a Promise The Children of Stanton Elementary School
+Black Rider
+Defending Our Lives
+The Panama Deception
+Educating Peter
+Omnibus
+Mona Lisa Descending a Staircase
+In the Shadow of the Stars
+Manipulation
+Session Man
+City Slickers
+Deadly Deception General Electric, Nuclear Weapons and Our Environment
+American Dream
+Journey of Hope
+Days of Waiting
+Creature Comforts
+The Lunch Date
+The Johnstown Flood
+Common Threads Stories from the Quilt
+Work Experience
+Balance
+The Appointments of Dennis Jennings
+Bird
+Hotel Terminus The Life and Times of Klaus Barbie
+The Milagro Beanfield War
+Tin Toy
+You Don't Have to Die
+The Man Who Planted Trees
+Ray's Male Heterosexual Dance Hall
+The Ten-Year Lunch
+Young at Heart
+Artie Shaw Time Is All You've Got
+The Assault
+Down and Out in America
+A Greek Tragedy
+Precious Images
+Women for America, for the World
+Anna & Bella
+Broken Rainbow
+Molly's Pilgrim
+Witness to War Dr. Charlie Clements
+Charade
+Dangerous Moves
+The Stone Carvers
+The Times of Harvey Milk
+Boys and Girls
+Flamenco at 515
+He Makes Me Feel Like Dancin'
+Sundae in New York
+The Year of Living Dangerously
+If You Love This Planet
+A Shocking Accident
+Tango
+To Begin Again
+Close Harmony
+Crac
+Genocide
+Mephisto
+Violet
+The Dollar Bottom
+From Mao to Mozart Isaac Stern in China
+Karl Hess Toward Liberty
+Best Boy
+Board and Care
+Every Child
+Paul Robeson Tribute to an Artist
+The Flight of the Gossamer Condor
+Get Out Your Handkerchiefs
+Scared Straight
+Special Delivery
+Teenage Father
+Thank God It's Friday
+Gravity Is My Enemy
+I'll Find a Way
+Madame Rosa
+The Sand Castle
+Who Are the DeBolts And Where Did They Get Nineteen Kids
+You Light Up My Life
+Black and White in Color
+Harlan County, USA
+In the Region of Ice
+Leisure
+Number Our Days
+Angel and Big Joe
+Dersu Uzala
+The End of the Game
+Great
+The Man Who Skied Down Everest
+Closed Mondays
+Don't
+Hearts and Minds
+One-Eyed Men Are Kings
+The Bolero
+Frank Film
+The Great American Cowboy
+Princeton A Search for Answers
+Marjoe
+Norman Rockwell's World... An American Dream
+This Tiny World
+The Crunch Bird
+The Hellstrom Chronicle
+Interviews with My Lai Veterans
+Is It Always Right to Be Right
+The Resurrection of Broncho Billy
+Arthur Rubinstein The Love of Life
+Cactus Flower
+Czechoslovakia 1968
+It's Tough to Be a Bird
+Charly
+Journey into Self
+Robert Kennedy Remembered
+Why Man Creates
+Winnie the Pooh and the Blustery Day
+The Anderson Platoon
+The Box
+Closely Watched Trains
+The Redwoods
+A Herb Alpert and the Tijuana Brass Double Feature
+The War Game
+Wild Wings
+A Year Toward Tomorrow
+The Sandpiper
+The Eleanor Roosevelt Story
+To Be Alive
+7 Faces of Dr. Lao
+The Alaskan Eskimo
+Albert Schweitzer
+Ama Girls
+Amphibious Fighters
+Aquatic House Party
+The Bachelor and the Bobby-Soxer
+The Battle of Midway
+Bear Country
+Benjy
+The Bespoke Overcoat
+Beyond the Line of Duty
+The Big Broadcast of 1938
+Bill and Coo
+Birds Anonymous
+Black Fox The Rise and Fall of Adolf Hitler
+Blithe Spirit
+Blood on the Sun
+Bored of Education
+A Boy and His Dog
+The Bridge of San Luis Rey
+Busy Little Bears
+Captain Carey, U.S.A.
+Casals Conducts 1964
+The Cat Concerto
+Chagall
+A Chance to Live
+The Chicken
+Churchill's Island
+City of Wax
+Climbing the Matterhorn
+Coquette
+The Country Cousin
+Crash Dive
+Crashing the Water Barrier
+The Critic
+La Cucaracha
+Dangerous
+The Dawn Patrol
+Day of the Painter
+Daybreak in Udi
+December 7th
+Declaration of Independence
+Der Fuehrer's Face
+Desert Victory
+Design for Death
+Designing Woman
+The Dot and the Line
+The Dove
+Dylan Thomas
+Easter Parade
+The Enemy Below
+Eskimo
+Facing Your Danger
+Ferdinand the Bull
+The Fighting Lady
+First Steps
+Flowers and Trees
+Folies Bergere
+For Scent-imental Reasons
+Forbidden Games
+Frenchman's Creek
+Gate of Hell
+Gerald McBoing-Boing
+Giuseppina
+Give Me Liberty
+Glass
+The Golden Fish
+Goodbye, Miss Turlock
+Grand Canyon
+Grandad of Races
+The Great Lie
+The Great McGinty
+Happy Anniversary
+Heavenly Music
+Helen Keller in Her Story
+Hitler Lives
+A Hole in the Head
+The Hole
+The Horse with the Flying Tail
+The House I Live In
+The House on 92nd Street
+How to Sleep
+I Wanted Wings
+I Won't Play
+In Beaver Valley
+Johann Mouse
+Johnny Eager
+The Joker Is Wild
+Kentucky
+Key Largo
+King of Jazz
+Knighty Knight Bugs
+Kokoda Front Line
+Kon-Tiki
+Krakatoa
+Kukan
+Lady Be Good
+Lend a Paw
+Light in the Window
+The Little Kidnappers
+The Little Orphan
+The Living Desert
+Magoo's Puddle Jumper
+Main Street on the March
+The Man Who Knew Too Much
+Manhattan Melodrama
+Marie-Louise
+Men Against the Arctic
+The Merry Widow
+Mighty Joe Young
+The Milky Way
+Min and Bill
+Monsieur Vincent
+Moonbird
+Morning Glory
+Moscow Strikes Back
+Mouse Trouble
+Munro
+The Music Box
+My Uncle
+Nature's Half Acre
+Neptune's Daughter
+Nine from Little Rock
+An Occurrence at Owl Creek Bridge
+Of Pups and Puzzles
+The Old Mill
+On the Town
+One Way Passage
+Overture to The Merry Wives of Windsor
+The Paleface
+Panic in the Streets
+Papa's Delicate Condition
+Penny Wisdom
+The Pink Phink
+Plymouth Adventure
+Pollyanna
+Prelude to War
+Princess O'Rourke
+The Private Life of the Gannets
+Project Hope
+The Public Pays
+Quicker'n a Wink
+Quiet Please
+The Red Balloon
+Robert Frost A Lover's Quarrel with the World
+Samurai I Musashi Miyamoto
+The Scoundrel
+The Sea Around Us
+Seal Island
+Seawards the Great Ships
+The Secret Land
+Seeds of Destiny
+Serengeti Shall Not Die
+Seven Days to Noon
+The Seventh Veil
+She Wore a Yellow Ribbon
+Shoeshine
+The Silent World
+The Sin of Madelon Claudet
+Sky Above and Mud Beneath
+So Much for So Little
+So This Is Harris
+Song Without End
+Sons of Liberty
+Spawn of the North
+Speaking of Animals and Their Families
+Speedy Gonzales
+Stairway to Light
+Star in the Night
+The Stratton Story
+The Substitute
+Survival City
+Symphony of a City
+Tabu
+Target for Tonight
+Teddy, the Rough Rider
+Tempest
+That Mothers Might Live
+This Land Is Mine
+This Mechanical Age
+The Three Faces of Eve
+Three Little Pigs
+Three Orphan Kittens
+Thursday's Children
+A Time Out of War
+Tin Pan Alley
+The Titan Story of Michelangelo
+tom thumb
+Toot, Whistle, Plunk and Boom
+Topkapi
+The Tortoise and the Hare
+Torture Money
+Toward Independence
+Transatlantic
+The True Glory
+The True Story of the Civil War
+Tweetie Pie
+Two Arabian Knights
+The Two Mouseketeers
+The Ugly Duckling
+Underworld
+The V.I.P.s
+Vacation from Marriage
+Van Gogh
+The Vanishing Prairie
+The Walls of Malapaga
+Water Birds
+The Way of All Flesh
+The Wetback Hound
+When Tomorrow Comes
+When Magoo Flew
+White Shadows in the South Seas
+Who's Who in Animal Land
+Why Korea
+Wings Over Everest
+With Byrd at the South Pole
+With the Marines at Tarawa
+World of Kids
+World Without Sun
+Wrestling Swordfish
+The Yankee Doodle Mouse
+Yesterday, Today and Tomorrow

@@ -1,0 +1,64 @@
+categoria: Comida
+consigna: Nombra una marca de galletitas Argentina
+activa: si
+apellidos: no
+
+[10]
+Oreo | Oreo
+Melba | Melba
+Chocolinas | Chocolinas
+Criollitas | Criollitas
+Don Satur | Don Satur
+Pitusas | Pitusas
+Toddy | Toddy
+Sonrisas | Sonrisas
+Frutigran | Frutigran
+Terrabusi | Terrabusi
+
+[25]
+Bagley | Bagley
+Express | Express
+Maná | Maná
+Diversión | Surtido Bagley | Diversión
+Opera | Ópera
+Rex | Rex
+Traviatas | Traviata
+Melitas | Melitas
+Lincolns | Lincoln
+Ceral | Ceral
+
+[45]
+Aiquén | Aiquen
+Mentholina | Mentholina
+9 de Oro | 9 de Oro
+Merengadas | Merengadas
+Rumba | Rumba
+Duquesa | Duquesa
+Pazz | Pazz
+Frac | Frac
+Surtido Fini | Fini
+Divertidas | Divertidas
+
+[70]
+Bocaditos | Bocaditos Bagley
+Pionono | Pionono
+Granix | Granix
+Pitusas Frutilla | Pitusas Frutilla
+Dale | Dale
+Modena | Modena
+Día | Dia
+Arcor | Galletitas Arcor
+Cerealitas | Cerealitas
+Avena | Avena Granix
+
+[100]
+Vainillas | Vainillas
+Express Light | Express Light
+Criollitas de Agua | Criollitas de Agua
+Melba Black | Melba Black
+Don Satur Dulces | Bizcochitos Dulces Don Satur
+Don Satur Salados | Bizcochitos Salados Don Satur
+Pitusas Chocolate | Pitusas Chocolate
+Toddy Mini | Toddy Mini
+Frutigran con Avena | Frutigran Avena
+Granix Integral | Granix Integral

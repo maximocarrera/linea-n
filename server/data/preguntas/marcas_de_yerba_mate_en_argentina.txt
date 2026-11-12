@@ -1,0 +1,96 @@
+categoria: Comida
+consigna: Nombra una marca de yerba mate de la Argentina
+activa: si
+apellidos: no
+
+[10]
+Taragui | Taragüí
+Playadito | Playadito
+Rosamonte | Rosamonte
+Amanda | Amanda
+Nobleza Gaucha | Nobleza Gaucha
+Cruz de Malta | Cruz de Malta
+Pipore | Piporé
+Union | Unión
+La Merced | La Merced
+Liebig | Liebig Original
+
+[25]
+Mañanita | Mañanita
+Campeche | Campeche
+Chamigo | Chamigo
+Sublime | Sublime
+Aguantadora | Aguantadora
+Sinceridad | Sinceridad
+Pampa | Pampa
+Romance | Romance
+El Chasqui | El Chasqui
+Mate Rojo | Mate Rojo
+
+[45]
+La Hoja | La Hoja
+Primicia | Primicia
+La Tranquera | La Tranquera
+Buen Dia | Buen Día
+Andresito | Andresito
+Encuentro | Encuentro
+Primera Cita | Primera Cita
+Chamarra | Chamarra
+El Hachero | El Hachero
+Don Leandro | Don Leandro
+
+[65]
+Pampero | Pampero
+Kartha | Kartha
+La Obereña | La Obereña
+Mulita | Mulita
+Costa Norte | Costa Norte
+Urrutia | Urrutia
+Insignia | Insignia
+Palermo | Palermo
+Sol y Lluvia | Sol y Lluvia
+Titrayju | Titrayju
+Fronteras | Fronteras
+Indumar | Indumar
+Quieto | Quieto
+Don Omar | Don Omar
+Secadero | Secadero
+
+[85]
+Flor de Lis | Flor de Lis
+Hoja Verde | Hoja Verde
+Don Lucas | Don Lucas
+Sanesa | Sanesa
+Cosmico | Cósmico
+Origen | Origen
+Yerbatera Misiones | Yerbatera Misiones
+Don Basilio | Don Basilio
+Las Treinta | Las Treinta
+Arapegua | Arapeguá
+Tierra Roja | Tierra Roja
+Caa Yari | Caa Yarí
+La Rastrojera | La Rastrojera
+Guayra | Guayrá
+Yaguarete | Yaguareté
+
+[100]
+Kraus | Kraus
+Anna Park | Anna Park
+Roapipo | Roapipó
+Jesper | Jesper
+Pampa Organica | Pampa Orgánica
+Tucangua | Tucanguá
+Onoiru | Oñoirũ
+Granja Suiza | Granja Suiza
+Porongo | Porongo
+Kalena | Kalena
+Cuatro Caminos | Cuatro Caminos
+Fidel | Fidel
+Isondu | Isondú
+Grapia Milenaria | Grapia Milenaria
+CBSé | CBSé
+Cachamate | Cachamate
+Verdeflor | Verdeflor
+Don Arregui | Don Arregui
+Kurupi | Kurupí
+Taragui Citricos | Taragüí Cítricos

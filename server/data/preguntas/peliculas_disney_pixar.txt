@@ -1,0 +1,106 @@
+categoria: Cine
+consigna: Nombrá una película de Disney o Pixar
+activa: si
+apellidos: no
+
+[10]
+El rey leon | El rey león
+Toy Story | Toy Story
+Frozen: Una aventura congelada | Frozen
+Buscando a Nemo | Buscando a Nemo
+La bella y la bestia | La bella y la bestia
+Coco | Coco
+Aladdin | Aladdín
+Intensa-Mente | Intensa-Mente
+Up: Una aventura de altura | Up
+La sirenita | La sirenita
+
+[25]
+Moana: Un mar de aventuras | Moana
+Encanto | Encanto
+Zootopia | Zootopia
+Los Increibles | Los Increíbles
+Monsters, Inc. | Monsters, Inc.
+Toy Story 3 | Toy Story 3
+Wall-E | WALL·E
+Ratatouille | Ratatouille
+Enredados | Enredados
+Mulan | Mulán
+
+[45]
+Blancanieves y los siete enanos | Blancanieves
+Pinocho | Pinocho
+Dumbo | Dumbo
+Bambi | Bambi
+La Cenicienta | La Cenicienta
+Alicia en el pais de las maravillas | Alicia en el país de las maravillas
+Peter Pan | Peter Pan
+La dama y el vagabundo | La dama y el vagabundo
+La bella durmiente | La bella durmiente
+101 dalmatas | 101 dálmatas
+El libro de la selva | El libro de la selva
+Tarzan | Tarzán
+Hercules | Hércules
+El jorobado de Notre Dame | El jorobado de Notre Dame
+Pocahontas | Pocahontas
+
+[65]
+Bichos: Una aventura en miniatura | Bichos
+Toy Story 2 | Toy Story 2
+Monsters University | Monsters University
+Buscando a Dory | Buscando a Dory
+Los Increibles 2 | Los Increíbles 2
+Toy Story 4 | Toy Story 4
+Cars | Cars
+Cars 2 | Cars 2
+Cars 3 | Cars 3
+Valiente | Valiente
+Un gran dinosaurio | Un gran dinosaurio
+Soul | Soul
+Luca | Luca
+Red | Red
+Elementos | Elemental
+
+[85]
+Fantasia | Fantasía
+Los aristogatos | Los aristogatos
+Robin Hood | Robin Hood
+Bernardo y Bianca | Bernardo y Bianca
+El zorro y el sabueso | El zorro y el sabueso
+El caldero magico | El caldero mágico
+Policias y ratones | Policías y ratones
+Oliver y su pandilla | Oliver y su pandilla
+La espada en la piedra | La espada en la piedra
+Las locuras del emperador | Las locuras del emperador
+Atlantis: El imperio perdido | Atlantis
+El planeta del tesoro | El planeta del tesoro
+Lilo y Stitch | Lilo & Stitch
+Tierra de osos | Tierra de osos
+La princesa y el sapo | La princesa y el sapo
+
+[100]
+Saludos, amigos | Saludos, amigos
+Los tres caballeros | Los tres caballeros
+Musica, maestro | Música, maestro
+Las aventuras de Bongo, Mickey y las judias magicas | Las aventuras de Bongo
+Tiempo de melodia | Tiempo de melodía
+Las aventuras de Ichabod y el Sr. Sapo | Las aventuras de Ichabod
+Fantasia 2000 | Fantasía 2000
+Dinosaurio | Dinosaurio
+Vacas vaqueras | Vacas vaqueras
+Chicken Little | Chicken Little
+La familia del futuro | La familia del futuro
+Bolt | Bolt
+Winnie the Pooh | Winnie the Pooh
+Ralph, el demoledor | Ralph, el demoledor
+Grandes heroes | Grandes héroes
+Unidos | Unidos
+Raya y el ultimo dragon | Raya y el último dragón
+Lightyear | Lightyear
+Un mundo extrano | Un mundo extraño
+Wish: El poder de los deseos | Wish
+Intensa-Mente 2 | Intensa-Mente 2
+Moana 2 | Moana 2
+Elio | Elio
+Zootopia 2 | Zootopia 2
+Hoppers | Hoppers
