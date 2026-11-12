@@ -10,7 +10,7 @@ import { useStats } from '../lib/useStats';
 
 /**
  * Portada. Mobile: marca → hero → boleto (acciones) → tarifa → tablero.
- * Desktop: dos columnas, con el boleto fijo (sticky) a la derecha.
+ * Desktop: dos columnas parejas (izq. hero + tablero, der. boleto + tarifa + buzón).
  */
 export default function Home(props) {
   const stats = useStats();
@@ -20,16 +20,25 @@ export default function Home(props) {
     <>
       <TopBar status={stats.status} />
 
-      <div className="grid grid-cols-1 gap-8 pb-8 lg:grid-cols-[minmax(0,1.35fr)_minmax(0,1fr)] lg:gap-x-14 lg:gap-y-10 lg:pt-6">
-        <Hero samples={stats.data?.samples} className="lg:col-start-1" />
+      {/* Mobile: una columna en el orden del código. Desktop: izquierda hero + tablero;
+          derecha boleto + tarifa + buzón. La última fila es 1fr para que el tablero (que ocupa
+          dos filas) estire esa y no deje un hueco entre la tarifa y el buzón. */}
+      <div className="grid grid-cols-1 gap-8 pb-8 lg:grid-cols-[minmax(0,1.35fr)_minmax(0,1fr)] lg:grid-rows-[auto_auto_1fr] lg:gap-x-14 lg:gap-y-8 lg:pt-6">
+        <Hero samples={stats.data?.samples} className="lg:col-start-1 lg:row-start-1" />
 
-        <div className="animate-slide-up self-start lg:sticky lg:top-8 lg:col-start-2 lg:row-span-2 lg:row-start-1" style={{ animationDelay: '160ms' }}>
+        <div className="animate-slide-up self-start lg:col-start-2 lg:row-start-1" style={{ animationDelay: '160ms' }}>
           <TicketCard {...props} serial={serial} />
         </div>
 
-        <div className="grid animate-slide-up gap-6 lg:col-start-1" style={{ animationDelay: '260ms' }}>
+        <div className="animate-slide-up self-start lg:col-start-2 lg:row-start-2" style={{ animationDelay: '240ms' }}>
           <RarityFare />
+        </div>
+
+        <div className="animate-slide-up self-start lg:col-start-1 lg:row-span-2 lg:row-start-2" style={{ animationDelay: '300ms' }}>
           <DepartureBoard stats={stats} />
+        </div>
+
+        <div className="animate-slide-up self-start lg:col-start-2 lg:row-start-3" style={{ animationDelay: '360ms' }}>
           <SuggestionBox />
         </div>
       </div>

@@ -28,7 +28,11 @@ export function useRoom() {
       }
     };
     const onDisconnect = () => setConnected(false);
+    // Si ya te bajaste (no hay sala guardada), los avisos que lleguen tarde de esa sala se ignoran:
+    // si no, la pantalla volvía a "estar en la sala" sin partida y quedaba en "Esperando el tren".
+    const inRoom = () => Boolean(session.get(ROOM_KEY));
     const onRoomUpdate = (data) => {
+      if (!inRoom()) return;
       setRoom(data);
       if (data.state === 'lobby') {
         setRound(null);
@@ -37,6 +41,7 @@ export function useRoom() {
       }
     };
     const onRoundStart = (d) => {
+      if (!inRoom()) return;
       rememberPlayed(d.question.id);
       const startsAt = Date.now() + d.introMs;
       setRound({ ...d, startsAt, endsAt: startsAt + d.durationMs });
@@ -45,7 +50,7 @@ export function useRoom() {
     };
     const onProgress = ({ answered }) => setRound((r) => (r ? { ...r, answered } : r));
     const onRoundEnd = (d) => setReveal({ ...d, nextAt: Date.now() + d.nextInMs });
-    const onGameOver = (d) => setFinal(d);
+    const onGameOver = (d) => inRoom() && setFinal(d);
 
     socket.on('connect', onConnect);
     socket.on('disconnect', onDisconnect);

@@ -8,9 +8,11 @@ export function registerSocketHandlers(io, rooms) {
     const reply = (ack, payload) => typeof ack === 'function' && ack(payload);
     const currentRoom = () => rooms.get(socket.data.roomCode);
     const leaveCurrent = () => {
-      currentRoom()?.leave(socket.data.playerId);
+      const room = currentRoom();
+      // Primero sale del canal: así el aviso "se fue X" les llega a los demás y no a quien se va.
       if (socket.data.roomCode) socket.leave(`room:${socket.data.roomCode}`);
       socket.data.roomCode = null;
+      room?.leave(socket.data.playerId);
     };
     const identity = (data) => ({
       playerId: clean(data?.playerId, 64),
