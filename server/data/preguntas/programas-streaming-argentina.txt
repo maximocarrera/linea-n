@@ -1,0 +1,34 @@
+# Línea N · una pregunta por archivo. Después de editar: npm run db:import
+# Un nombre por renglón. Variantes con |
+# Niveles: [10] común · [30] poco común · [60] rara · [100] de nicho
+# Programas de los canales de streaming argentinos.
+
+categoria: Streaming
+consigna: Nombrá un programa de streaming argentino
+activa: si
+apellidos: no
+
+[10]
+Nadie Dice Nada | NDN
+Sería Increíble
+Paren la Mano
+Antes Que Nadie | AQN
+
+[30]
+Patria y Familia
+Soñé que Volaba
+Se Fue Larga
+FM Luzu
+Algo Va a Picar
+Paraíso Fiscal
+Tengo Capturas
+La Cruda
+Industria Nacional
+
+[60]
+Vuelta y Media
+Seguimos
+Mi Primo es Así
+Un Poco de Ruido
+BZRP Music Sessions | Bizarrap Music Sessions | Bzrp Sessions
+La Misa

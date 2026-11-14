@@ -1,0 +1,392 @@
+# Línea N · una pregunta por archivo. Después de editar: npm run db:import
+# Un nombre por renglón. Variantes con |   (título en Latinoamérica | original | España)
+# Niveles: [10] común · [30] poco común · [60] rara · [100] de nicho
+# Series originales de Netflix (ficción, animación, docuseries y realities), de todos los países.
+# Las que Netflix rescató de otro canal y siguió produciendo (Black Mirror, You, Cobra Kai, Lucifer) cuentan.
+
+categoria: Televisión
+consigna: Nombrá una serie original de Netflix
+activa: si
+apellidos: no
+
+[10]
+Stranger Things
+La casa de papel | Money Heist
+El juego del calamar | Squid Game
+Merlina | Wednesday
+The Crown
+Bridgerton | Los Bridgerton
+Narcos
+Black Mirror
+Dark
+Élite | Elite
+You
+El Eternauta
+
+[30]
+Orange Is the New Black
+House of Cards
+Ozark
+The Witcher
+Lupin
+Sex Education
+Por trece razones | 13 Reasons Why | Por 13 razones
+Emily en París | Emily in Paris
+Cobra Kai
+Gambito de dama | The Queen's Gambit
+Dahmer | Monstruo: La historia de Jeffrey Dahmer | Monster
+Adolescencia | Adolescence
+Luis Miguel: la serie | Luis Miguel
+Narcos: México | Narcos Mexico
+The Umbrella Academy
+Lucifer
+BoJack Horseman | Bojack
+Daredevil
+Mindhunter
+Las chicas del cable | Cable Girls
+La casa de las flores
+Club de Cuervos
+Arcane
+One Piece
+Alice in Borderland
+Berlín | Berlin
+Rebelde
+¿Quién mató a Sara?
+Oscuro deseo
+Griselda
+Bebé reno | Baby Reindeer
+El problema de los 3 cuerpos | 3 Body Problem | El problema de los tres cuerpos
+Outer Banks
+Ginny y Georgia | Ginny & Georgia
+Virgin River
+Love, Death & Robots | Love Death and Robots
+La maldición de Hill House | The Haunting of Hill House
+Selena: la serie | Selena
+Cien años de soledad
+División Palermo
+Envidiosa
+Apache: la vida de Carlos Tevez | Apache
+Monstruos: La historia de Lyle y Erik Menendez | Menendez
+Inventando a Anna | Inventing Anna
+Heartstopper
+Sombra y hueso | Shadow and Bone
+Avatar: La leyenda de Aang | Avatar: The Last Airbender
+Toy Boy
+Valeria
+
+[60]
+Jessica Jones
+Luke Cage
+Iron Fist
+The Defenders | Los defensores
+The Punisher
+Sense8
+Narcos: Colombia
+Una serie de eventos desafortunados | A Series of Unfortunate Events | Una serie de catastróficas desdichas
+Perdidos en el espacio | Lost in Space
+Altered Carbon
+La maldición de Bly Manor | The Haunting of Bly Manor
+Misa de medianoche | Midnight Mass
+La caída de la casa Usher | The Fall of the House of Usher
+El club de la medianoche | The Midnight Club
+El mundo oculto de Sabrina | Chilling Adventures of Sabrina | Sabrina
+Muñeca rusa | Russian Doll
+Muerta para mí | Dead to Me
+Creedme | Unbelievable | Inconcebible
+Así nos ven | When They See Us
+Unorthodox | Poco ortodoxa
+Ratched
+Hollywood
+The Politician
+Grace and Frankie | Grace y Frankie
+Unbreakable Kimmy Schmidt
+Master of None
+GLOW
+Godless
+Dear White People | Querida gente blanca
+Atypical | Atípico
+Big Mouth
+(Des)encanto | Disenchantment | Desencanto
+The OA
+Marco Polo
+Hemlock Grove
+Bloodline
+Fuller House | Madres forzosas
+Un día a la vez | One Day at a Time
+El método Kominsky | The Kominsky Method
+Space Force
+Maid | La asistenta
+The Sandman
+Cowboy Bebop
+El vigilante | The Watcher
+El agente nocturno | The Night Agent
+El abogado del Lincoln | The Lincoln Lawyer | Abogado Lincoln
+La diplomática | The Diplomat
+Bronca | Beef
+Ripley
+Los caballeros | The Gentlemen
+Nadie quiere esto | Nobody Wants This
+Día cero | Zero Day
+Palomas negras | Black Doves
+Sirenas | Sirens
+Kaos
+Yo nunca | Never Have I Ever
+Locke & Key | Locke y Key
+Destino: La saga Winx | Fate: The Winx Saga
+The Witcher: El origen de la sangre | The Witcher: Blood Origin
+Kingdom
+Sweet Home
+Estamos muertos | All of Us Are Dead
+Rumbo al infierno | Hellbound
+La gloria | The Glory
+Mask Girl
+Physical: 100
+Inferno de solteros | Single's Inferno
+Squid Game: El desafío | Squid Game: The Challenge
+3%
+Sintonía | Sintonia
+Ciudad invisible | Cidade Invisível
+El mecanismo | O Mecanismo
+Hermandad | Irmandade
+Senna
+Bárbaros | Barbaren | Barbarians
+Cómo vender drogas online (a toda pastilla) | How to Sell Drugs Online (Fast)
+1899
+Ragnarok
+The Rain
+Arenas movedizas | Quicksand
+Young Royals
+El hombre de las castañas | The Chestnut Man
+Into the Night
+Marsella | Marseille
+Suburra
+Baby
+Alta mar | High Seas
+Paquita Salas
+Hache
+El desorden que dejas
+Sky Rojo
+Las de la última fila
+Machos alfa
+La chica de nieve | The Snow Girl
+El inocente
+Bienvenidos a Edén
+Intimidad
+Respira
+El caso Asunta
+Clanes
+El tiempo que te doy
+Smiley
+Feria: la luz más oscura | Feria
+Alma
+Control Z
+Monarca
+Ingobernable
+Diablero
+Siempre bruja
+Pálpito
+Distrito salvaje
+Frontera verde
+Chichipatos
+Madre solo hay dos
+Historia de un crimen: Colosio | Colosio
+Somos.
+Bandidos
+Las Maldivas | Maldivas
+Baby Bandito
+Puerta 7
+El reino
+Edha
+Casi feliz
+Atrapados
+En el barro
+El marginal
+Sacred Games | Juegos sagrados
+Delhi Crime
+Heeramandi
+Lilyhammer
+Anne con E | Anne with an E
+Blood & Water | Sangre y agua
+El niño que se tragó el universo | Boy Swallows Universe
+Heartbreak High
+Cazatrolls | Trollhunters
+Voltron: El defensor legendario | Voltron
+She-Ra y las princesas del poder | She-Ra
+El príncipe dragón | The Dragon Prince
+Castlevania
+Hilda
+Carmen Sandiego
+Jurassic World: Campamento Cretácico | Camp Cretaceous
+Blue Eye Samurai
+Masters del Universo: Revelación | Masters of the Universe: Revelation
+Cyberpunk: Edgerunners
+Devilman Crybaby
+Inside Job
+F is for Family
+Tuca & Bertie
+La casa de muñecas de Gabby | Gabby's Dollhouse
+Making a Murderer
+Tiger King | Tiger King: Asesinato, caos y locura
+Wild Wild Country
+Chef's Table
+Queer Eye
+Selling Sunset
+Love Is Blind | Love Is Blind: Brasil | Love Is Blind: Argentina
+Jugando con fuego | Too Hot to Handle
+The Circle
+Fórmula 1: La emoción de un Grand Prix | Drive to Survive | Formula 1: Drive to Survive
+Cheer
+Nuestro planeta | Our Planet
+No te metas con los gatos | Don't F**k with Cats
+Conversaciones con asesinos | Conversations with a Killer
+Misterios sin resolver | Unsolved Mysteries
+Amor en el espectro | Love on the Spectrum
+Nailed It!
+Bling Empire
+El piso es lava | Floor Is Lava
+Full Swing
+Break Point
+Quarterback
+Beckham
+Neymar: El caos perfecto | Neymar: The Perfect Chaos
+Sunderland 'Til I Die | Sunderland hasta la muerte
+Last Chance U
+
+[100]
+El protector | The Protector
+Atiye | El don
+Ethos | Bir Başkadır
+Love 101
+1983
+Sexify
+Snabba Cash | Dinero fácil
+Borgen: Reino, poder y gloria | Borgen
+Biohackers
+Kleo
+Tribus de Europa | Tribes of Europa
+Perros de Berlín | Dogs of Berlin
+Family Business | Negocio familiar
+Vampiros | Vampires
+La Révolution
+Summertime
+Zero
+Luna nera | Luna negra
+Curon
+Generación 56K | Generazione 56K
+La ley de Lidia Poët | La legge di Lidia Poët
+Supersex
+El gatopardo | Il Gattopardo
+Jamtara
+She
+Los hombres del ferrocarril | The Railway Men
+Scoop
+Mismatched
+Kota Factory
+Tidelands | Mareas
+Wellmania
+Detrás de sus ojos | Behind Her Eyes
+Anatomía de un escándalo | Anatomy of a Scandal
+Eric
+Missing You | Te echo de menos
+Pueblo tóxico | Toxic Town
+Departamento Q | Dept. Q
+El desconocido | The Stranger
+Engáñame una vez | Fool Me Once
+Quédate cerca | Stay Close
+Safe | A salvo
+The Innocents | Los inocentes
+Giri/Haji | Deber/Vergüenza
+After Life | Después de la vida
+Top Boy
+The English Game | El juego inglés
+Los irregulares de Baker Street | The Irregulars
+Bodies | Cuerpos
+Supacell
+Lockwood & Co
+Kaleidoscope | Caleidoscopio
+Florida Man
+Obliterated | Obliterados
+The Recruit | El recluta
+La pareja perfecta | The Perfect Couple
+American Primeval | Tierra de salvajes
+The Residence | La residencia
+Pulse
+Untamed | Salvaje
+Wayward
+Painkiller
+Halston
+Clickbait
+Another Life
+Away | Lejos
+Hit & Run
+Messiah | Mesías
+Spinning Out | Patinaje sobre hielo
+The Society | La sociedad
+I Am Not Okay with This | No estoy bien con esto
+The Order | La orden
+October Faction | La facción de octubre
+Raising Dion | Criando a Dion
+Jupiter's Legacy | El legado de Júpiter
+Warrior Nun
+Sweet Tooth | Sweet Tooth: el niño ciervo
+Firefly Lane | La calle Firefly
+Sweet Magnolias | Dulces magnolias
+Glamorous | Glamurosa
+Bodkin
+Uncoupled | Soltero otra vez
+XO, Kitty
+Mi vida con los chicos Walter | My Life with the Walter Boys
+Running Point
+Las cuatro estaciones | The Four Seasons
+Mo
+Survival of the Thickest
+Human Resources | Recursos humanos
+Medical Police
+The Ranch | El rancho
+Insatiable | Insaciable
+Lady Dynamite
+Love
+Easy
+The Chair | La directora
+Los hermanos Sun | The Brothers Sun
+Kid Cosmic
+Dead End: Paranormal Park
+Kung Fu Panda: El caballero dragón | Kung Fu Panda: The Dragon Knight
+Sonic Prime
+Tomb Raider: La leyenda de Lara Croft
+El ocaso de los dioses | Twilight of the Gods
+Sangre de Zeus | Blood of Zeus
+Dota: Sangre de dragón | Dota: Dragon's Blood
+Baki
+Yu Yu Hakusho
+El director desnudo | The Naked Director
+First Love
+Black Knight
+Criatura de Gyeongseong | Gyeongseong Creature
+D.P.
+Extracurricular
+My Name
+The 8 Show
+Ultimatum
+Perfect Match
+Dating Around
+A todo vidrio | Blown Away
+Rhythm + Flow
+Salt Fat Acid Heat | Sal, grasa, ácido, calor
+Ugly Delicious
+Street Food
+Somebody Feed Phil | Phil, ¿qué hay para comer?
+Dirty Money | Dinero sucio
+Evil Genius | Mente criminal
+The Keepers
+Abstract | Abstract: El arte del diseño
+Explained | Explicado
+Night on Earth | La Tierra de noche
+Indian Matchmaking
+Tour de France: Unchained | Tour de Francia: En el corazón del pelotón
+Boca Juniors Confidencial
+Pedaço de Mim | Pedazo de mí
+DNA do Crime | ADN del crimen
+Bom dia, Verônica | Buenos días, Verónica
+Coisa Mais Linda | Algo muy bonito
+Os Donos do Jogo | Los dueños del juego

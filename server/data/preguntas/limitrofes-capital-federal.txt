@@ -1,0 +1,50 @@
+# Línea N · una pregunta por archivo. Después de editar: npm run db:import
+# Un nombre por renglón. Variantes con |
+# Niveles: [10] común · [30] poco común · [60] rara · [100] de nicho
+# Los 7 partidos del conurbano que limitan con CABA (General Paz y Riachuelo)
+# y las localidades que tocan el límite.
+
+categoria: Argentina
+consigna: Nombrá un barrio o partido que limite con Capital Federal
+activa: si
+apellidos: no
+
+[10]
+Vicente López
+Avellaneda
+La Matanza
+Lanús
+
+[30]
+San Martín | General San Martín
+Tres de Febrero | 3 de Febrero
+Lomas de Zamora
+Ramos Mejía
+Ciudadela
+Dock Sud
+
+[60]
+Villa Martelli
+Florida
+Sáenz Peña
+Santos Lugares
+Valentín Alsina
+Villa Lynch
+Lomas del Mirador
+Tapiales
+Villa Celina
+Ciudad Madero
+Piñeyro
+Villa Fiorito | Fiorito
+
+[100]
+Villa Maipú
+San Andrés
+Villa Raffo
+José Ingenieros
+Ingeniero Budge
+Isla Maciel
+Gerli
+Villa Madero
+Aldo Bonzi
+Villa Diamante

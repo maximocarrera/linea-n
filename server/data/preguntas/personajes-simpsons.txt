@@ -50,7 +50,7 @@ Kodos
 Rod Flanders | Rod
 Todd Flanders | Todd
 Maude Flanders | Maude
-Mona Simpson | Mona
+Mona Simpson | Mona | Abuela Simpson
 Herb Powell | Herb | Hermano de Homero
 Reverendo Alegría | Alegría | Reverendo Lovejoy | Lovejoy
 Helena Alegría | Helen Lovejoy
@@ -129,3 +129,43 @@ Fallout Boy
 Blinky
 Señor Teeny | Mr. Teeny
 Akira
+Hugo | Hugo Simpson | Gemelo malvado de Bart
+Señor Bergstrom | Sr. Bergstrom | Bergstrom
+Ruth Powers
+Raphael | Tipo sarcástico
+Base de datos | Database
+Gunter y Ernst | Gunter | Ernst
+Niñera bandida | Ms. Botz | Lucille Botz
+Leopold
+Rabino Krustofsky | Hyman Krustofsky
+Bea Simmons
+Gerald | Bebé uniceja | Bebé de una ceja
+Cecil Terwilliger | Cecil
+Viejo judío | Old Jewish Man
+Herman
+Larry Burns
+Bernice Hibbert
+Shauna Chalmers | Shauna
+Shary Bobbins | Sherry Bobbins
+Princesa Kashmir
+Pinchy
+Stampy
+Jub-Jub
+Roger Meyers | Roger Meyers Jr.
+Gabbo
+Kumiko | Kumiko Albertson
+Juez Snyder | Judge Snyder
+Abogado de pelo azul | Blue Haired Lawyer
+Amber
+Karl
+Jacques
+Francine
+Gina Vendetti
+Freddy Quimby
+Clancy Bouvier
+Señora Muntz | Mamá de Nelson
+Mr. Sparkle | Señor Chispas
+Malibu Stacy
+Señor Quitanieves | Mr. Plow
+Sideshow Raheem
+Becky

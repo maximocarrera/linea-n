@@ -1,0 +1,30 @@
+# Línea N · una pregunta por archivo. Después de editar: npm run db:import
+# Un nombre por renglón. Variantes con |
+# Niveles: [10] común · [30] poco común · [60] rara · [100] de nicho
+# Canales de streaming argentinos (YouTube/Twitch/Kick), incluidas las radios con canal de streaming.
+
+categoria: Streaming
+consigna: Nombrá un canal de streaming argentino
+activa: si
+apellidos: no
+
+[10]
+Luzu TV | Luzu
+Olga
+Blender
+Vorterix
+
+[30]
+Gelatina
+Bondi | Bondi Live
+Neura
+Carajo
+Azz
+
+[60]
+Urbana Play | Urbana
+Futurock
+República Z
+Picnic
+Un Poco de Ruido
+La Casa Streaming

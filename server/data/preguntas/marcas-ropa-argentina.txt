@@ -1,0 +1,92 @@
+# Línea N · una pregunta por archivo. Después de editar: npm run db:import
+# Un nombre por renglón. Variantes con |
+# Niveles: [10] común · [30] poco común · [60] rara · [100] de nicho
+# Marcas de ropa y calzado nacidas en Argentina.
+
+categoria: Argentina
+consigna: Nombrá una marca de ropa argentina
+activa: si
+apellidos: no
+
+[10]
+Rapsodia
+Kosiuko
+Ayres
+Wanama
+Topper
+Cheeky
+Mimo & Co | Mimo | Mimo y Co
+Prüne | Prune
+
+[30]
+Akiabara
+Vitamina
+Paula Cahen d'Anvers | Paula Cahen | Paula
+Ona Saez
+Jazmín Chebar
+María Cher
+Las Pepas
+Complot
+47 Street
+Muaa
+Kevingston
+La Martina
+Cardón
+Grimoldi
+Ricky Sarkany | Sarkany
+Mishka
+Uma
+Bowen
+Tascani
+Etiqueta Negra
+Grisino
+Markova
+Sweet Victorian | Sweet
+Desiderata
+Kill
+Legacy
+Portsaid
+Rever Pass
+Taverniti
+John L. Cook | John Cook
+Mistral
+Key Biscayne
+Macowens
+Narrow
+
+[60]
+Cuesta Blanca
+Equus
+Herencia
+Old Bridge
+Bolivia
+Cristóbal Colón
+Chocolate
+Yagmour
+Simplicita
+Juana de Arco
+Allô Martínez | Allo Martinez
+Ossira
+Sibyl Vane
+Lázaro
+Tucci
+Viamo
+Paruolo
+Flecha
+Pampero
+Grafa
+Ombú
+Athix
+Montagne
+Ansilta
+Doll Fins
+Benito Fernández
+Pablo Ramírez
+Tramando
+Pesqueira
+AY Not Dead
+Kostüme
+Juanita Jo
+Ted Bodin
+Bensimon
+Hermanos Estebecorena

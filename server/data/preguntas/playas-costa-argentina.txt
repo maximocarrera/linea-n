@@ -1,0 +1,88 @@
+# Línea N · una pregunta por archivo. Después de editar: npm run db:import
+# Un nombre por renglón. Variantes con |
+# Niveles: [10] común · [30] poco común · [60] rara · [100] de nicho
+# Balnearios y playas de mar de la costa argentina (Buenos Aires y Patagonia).
+
+categoria: Argentina
+consigna: Nombrá una playa de la costa argentina
+activa: si
+apellidos: no
+
+[10]
+Mar del Plata | Mardel | La Feliz
+Pinamar
+Villa Gesell | Gesell
+Cariló
+Necochea
+Miramar
+San Bernardo
+
+[30]
+Mar de las Pampas
+Mar Azul
+Santa Teresita
+San Clemente del Tuyú | San Clemente
+Mar de Ajó
+Costa del Este
+Las Toninas
+Monte Hermoso
+Las Grutas
+Puerto Madryn | Madryn
+Ostende
+Valeria del Mar
+Claromecó
+Chapadmalal
+Costa Esmeralda
+Playa Grande
+Punta Mogotes
+
+[60]
+Mar del Tuyú
+La Lucila del Mar
+Costa Azul
+Aguas Verdes
+Nueva Atlantis
+Mar de Cobo
+Santa Clara del Mar
+Mar Chiquita
+Camet Norte
+La Caleta
+Mar del Sur
+Quequén
+Pehuen Có | Pehuen-Có
+Reta
+Orense
+Playa Unión
+Rada Tilly
+Puerto Pirámides
+Playas Doradas
+Balneario El Cóndor | El Cóndor
+Caleta Olivia
+Punta Médanos
+
+[100]
+Costa Bonita
+Arenas Verdes
+Sauce Grande
+Balneario Marisol | Marisol
+Balneario Los Ángeles
+Punta Alta
+Bahía Rosas
+Bahía Creek
+Balneario Massini | Massini
+Camarones
+El Doradillo
+Las Grutas del Sur
+Balneario La Ventana
+Puerto San Julián | San Julián
+Cabo Raso
+Playa Magagna
+Balneario Sauce Grande
+Mar de Cobo Sur
+Faro Querandí
+Montecarlo
+Punta Rasa
+Balneario Parque Mar Chiquita
+Las Gaviotas
+Mar Azul Norte
+Costa Chica

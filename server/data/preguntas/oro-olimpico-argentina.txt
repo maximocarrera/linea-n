@@ -1,0 +1,107 @@
+# Línea N · una pregunta por archivo. Después de editar: npm run db:import
+# Un nombre por renglón. Variantes con |
+# Niveles: [10] común · [30] poco común · [60] rara · [100] de nicho
+# Deportistas argentinos con medalla de oro olímpica, incluidos los integrantes
+# de los equipos campeones (polo 1924/1936, fútbol 2004/2008, básquet 2004, hockey 2016).
+
+categoria: Argentina
+consigna: Nombrá un deportista argentino que haya ganado una medalla de oro olímpica
+activa: si
+apellidos: si
+
+[10]
+Lionel Messi | Messi | Leo Messi
+Emanuel Ginóbili | Manu Ginóbili | Manu
+Paula Pareto | Peque Pareto
+Carlos Tevez | Carlitos Tevez
+Juan Román Riquelme | Riquelme | Román
+Ángel Di María | Fideo
+Sergio Agüero | Kun Agüero | Kun
+Javier Mascherano | Masche
+
+[30]
+Luis Scola
+Andrés Nocioni | Chapu Nocioni | Chapu
+Carlos Delfino | Lancha Delfino
+Fabricio Oberto
+Santiago Lange
+Cecilia Carranza | Cecilia Carranza Saroli
+José Torres | Maligno Torres | José Maligno Torres
+Sebastián Crismanich
+Juan Curuchet | Juan Esteban Curuchet
+Walter Pérez
+Delfo Cabrera
+Juan Carlos Zabala
+Pascual Pérez
+Ezequiel Lavezzi | Pocho Lavezzi
+Fernando Gago
+Sergio Romero | Chiquito Romero
+Pablo Zabaleta
+Roberto Ayala | Ratón Ayala
+Gabriel Heinze | Gringo Heinze
+Andrés D'Alessandro | D'Alessandro
+Cristian Kily González | Kily González
+Juan Manuel Vivaldi
+Gonzalo Peillat
+Lucas Vila
+
+[60]
+Alejandro Montecchia | Puntero Montecchia
+Juan Ignacio Sánchez | Pepe Sánchez
+Rubén Wolkowyski | Colo Wolkowyski
+Walter Herrmann
+Leonardo Gutiérrez | Leo Gutiérrez
+Gabriel Fernández
+Hugo Sconochini
+Ezequiel Garay
+Federico Fazio
+Éver Banega
+José Sosa | Principito Sosa
+Lautaro Acosta
+Diego Buonanotte
+Nicolás Pareja
+Luciano Monzón
+Oscar Ustari
+Nicolás Navarro
+Fabricio Coloccini
+Mauro Rosales
+Germán Lux
+Wilfredo Caballero | Willy Caballero
+César Delgado | Chelito Delgado
+Nicolás Medina
+Clemente Rodríguez
+Luciano Figueroa
+Nicolás Burdisso
+Matías Paredes
+Pedro Ibarra
+Agustín Mazzilli
+Joaquín Menini
+Facundo Callioni
+Lucas Rey
+Matías Rey
+Manuel Brunet
+Juan Gilardi
+Ignacio Ortiz
+Isidoro Ibarra
+Juan Martín López
+Guido Barreiros
+
+[100]
+Alberto Zorrilla
+Víctor Avendaño
+Arturo Rodríguez Jurado
+Santiago Lovell
+Carmelo Robledo
+Oscar Casanovas
+Rafael Iglesias
+Tranquilo Cappozzo
+Eduardo Guerrero
+Arturo Kenny
+Juan Miles
+Guillermo Naylor
+Juan Nelson
+Enrique Padilla
+Luis Duggan
+Roberto Cavanagh
+Andrés Gazzotti
+Manuel Andrada

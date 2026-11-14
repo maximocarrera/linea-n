@@ -1,0 +1,41 @@
+# Línea N · una pregunta por archivo. Después de editar: npm run db:import
+# Un nombre por renglón. Variantes con |
+# Niveles: [10] común · [30] poco común · [60] rara · [100] de nicho
+# Las 23 capitales provinciales (CABA es la capital del país, no de una provincia).
+# Cuando la capital lleva el nombre de la provincia, vale el nombre corto (Tucumán, Jujuy, Catamarca).
+
+categoria: Argentina
+consigna: Nombrá una de las capitales de las provincias argentinas
+activa: si
+apellidos: no
+
+[10]
+La Plata
+Córdoba
+Mendoza
+Santa Fe
+Salta
+
+[30]
+San Miguel de Tucumán | Tucumán
+Neuquén
+Ushuaia
+Corrientes
+Paraná
+San Juan
+San Luis
+Posadas
+
+[60]
+Resistencia
+San Salvador de Jujuy | Jujuy
+Santiago del Estero
+La Rioja
+Río Gallegos
+Santa Rosa
+Formosa
+San Fernando del Valle de Catamarca | Catamarca
+
+[100]
+Viedma
+Rawson

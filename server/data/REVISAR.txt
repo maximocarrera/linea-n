@@ -1,0 +1,149 @@
+LÍNEA N · DATOS PARA REVISAR A MANO
+====================================
+Listados que armó Claude y de los que no está del todo seguro. Este archivo NO se importa
+(está fuera de preguntas/). Si algo está mal, corregí el .txt de la pregunta y corré npm run db:import.
+
+Cómo leerlo:
+  [?] dudoso: puede que no corresponda o que el dato esté mal → confirmá o borralo
+  [+] incompleto: seguro faltan respuestas → sumá las que conozcas
+  [!] cambia con el tiempo → revisalo cada tanto
+
+
+CONFIABLES (no hace falta revisar)
+----------------------------------
+pais-de-america, pais-de-europa, pais-de-africa, pais-de-asia, pais-limitrofe-con-brasil,
+estado-de-estados-unidos, pais-sin-salida-al-mar, pais-isla, capitales-provincias-argentinas,
+dioses-del-olimpo, generacion-dorada (los 12 de Atenas 2004).
+
+
+conductores-tv-argentina.txt   [!] LA MÁS URGENTE
+-------------------------------
+Armada con lo que estaba al aire en 2025-2026; no pude ver la grilla de hoy.
+  [?] Marcelo Tinelli, Susana Giménez, Wanda Nara: programas por temporada, puede que hoy no estén.
+  [?] Georgina Barbarossa, Carmen Barbieri, Mariana Fabbiani, Pamela David, Karina Mazzocco,
+      Mariano Iúdica, Florencia de la V, Lizy Tagliani, Jésica Cirio, Iván de Pineda, Andy Kusnetzoff:
+      no sé en qué canal o programa están ahora.
+  [?] Periodistas de cable (Majul, Feinmann, Viale, Castro, Lapegüe, Pérez, Barili, Lussich,
+      Sylvestre, Duggan, Laje, Trebucq, Bonelli, Leuco, Morales Solá, Pía Shaw): confirmar que siguen.
+  [+] Seguro falta gente nueva de 2026.
+
+
+canales-streaming-argentina.txt / programas-streaming-argentina.txt   [!][+]
+-------------------------------------------------------------------
+Mundo que cambia muy rápido y del que tengo poca info confiable.
+  [?] Canales: República Z, Picnic, La Casa Streaming, Azz, Carajo, Neura (¿siguen activos?).
+  [?] Programas: Industria Nacional, La Cruda, Vuelta y Media, Seguimos, Mi Primo es Así, La Misa
+      (no estoy seguro del canal ni de si siguen al aire).
+  [+] Faltan muchos programas: completá con los de Blender, Gelatina, Bondi, Olga y Vorterix.
+
+
+series-netflix.txt   [+]
+------------------
+Tiene 374. Netflix tiene más de mil series originales en todo el mundo: faltan sobre todo
+realities, docuseries, animé, infantiles y series de India, Corea, Japón y Turquía.
+  [?] Cuentan aunque Netflix no las estrenó desde el principio: Black Mirror (desde la temporada 3),
+      You (desde la 2), Cobra Kai (desde la 3), Lucifer (desde la 4), El marginal (coproducción),
+      Anne con E, Lilyhammer, Borgen (temporada 4), Top Boy (desde la 3). Si querés solo las
+      100% Netflix, borralas.
+  [?] Luis Miguel: la serie y Selena: la serie (coproducciones).
+  [?] Toy Boy (empezó en Antena 3; la temporada 2 es de Netflix).
+  [?] Boca Juniors Confidencial (no estoy seguro de que sea de Netflix).
+  [?] Títulos en español: varios los traduje yo y en Netflix Argentina pueden figurar en inglés.
+      Igual vale el original como variante.
+
+
+telenovelas-argentinas.txt   [?][+]
+--------------------------
+  [?] Simplemente María (hubo versión argentina, pero la más conocida es la peruana).
+  [?] Milagros, Enamorada, Manuela, Grecia, Amándote, Zíngara: confirmar que sean argentinas.
+  [?] Aliados, Las Estrellas, Buenos chicos, Signos, Farsantes, Lobo, Guapas: algunas son más
+      "serie" que telenovela.
+  [+] Faltan clásicos de los 70/80 y tiras de El Nueve y América.
+
+
+canales-tv-argentina.txt   [?]
+------------------------
+  [?] Telemax | Canal 5, Somos, Telesol, Solo Tango, Bravo TV: no estoy seguro del nombre actual o
+      de si siguen.
+  [?] Canal 10 Córdoba, El Doce, El Tres Rosario: canales provinciales. Si querés solo los
+      nacionales, borralos.
+  [+] Faltan canales provinciales (Tucumán, Mendoza, Mar del Plata, Neuquén...).
+
+
+marcas-ropa-argentina.txt   [?][+]
+-------------------------
+  [?] Bensimon (nació en Francia; en Argentina es licencia local).
+  [?] Narrow, Kill, Legacy, Ted Bodin, Tucci, Chocolate, Bolivia, Juanita Jo, AY Not Dead,
+      Kostüme, Simplicita, Lázaro, Doll Fins: confirmar que sean argentinas y que existan.
+  [?] Benito Fernández, Pablo Ramírez, Hermanos Estebecorena, Tramando, Pesqueira: son diseñadores
+      o marcas de autor; si no las querés, borralas.
+  [+] Faltan marcas nuevas y de nicho.
+
+
+oro-olimpico-argentina.txt   [?]
+--------------------------
+Los individuales son seguros. Hay que revisar los planteles:
+  [?] Fútbol Atenas 2004: Luciano Figueroa, Nicolás Burdisso, Nicolás Medina, César Delgado,
+      Clemente Rodríguez, Mauro Rosales (confirmar que estaban en los 18).
+  [?] Fútbol Pekín 2008: Federico Fazio, Nicolás Navarro, Lautaro Acosta, Diego Buonanotte,
+      Nicolás Pareja, Luciano Monzón, Oscar Ustari (confirmar).
+  [?] Hockey Río 2016 (Los Leones): Guido Barreiros, Ignacio Ortiz, Juan Gilardi, Manuel Brunet,
+      Isidoro Ibarra, Matías Rey (confirmar plantel completo; puede faltar alguno).
+  [?] Polo 1924 y 1936: confirmar los nombres; en 1936 puede faltar algún suplente.
+
+
+limitrofes-capital-federal.txt   [?]
+------------------------------
+Los 7 partidos son seguros. Las localidades las armé de memoria:
+  [?] Florida, San Andrés, Villa Maipú, José Ingenieros, Gerli, Villa Madero, Aldo Bonzi,
+      Villa Diamante, Villa Raffo: confirmar que de verdad toquen la General Paz o el Riachuelo.
+
+
+avenidas-capital-federal.txt   [?]
+----------------------------
+  [?] Olivera, Garmendia, Iraola, Tornquist, Chiclana, Lope de Vega, Ramos Mejía: confirmar que
+      sean "avenida" y no calle.
+  [+] Seguro faltan avenidas de barrios del sur y del oeste.
+
+
+playas-costa-argentina.txt   [?]
+--------------------------
+  [?] Las Grutas del Sur, Mar de Cobo Sur, Mar Azul Norte, Costa Chica, Las Gaviotas, Montecarlo,
+      Balneario Los Ángeles, Playa Magagna, Cabo Raso, Punta Alta: algunas pueden no existir con ese
+      nombre o no tener playa. Borrá las que no reconozcas.
+
+
+sub-barrios-palermo.txt   [?]
+-----------------------
+  [?] Palermo Pacífico, Palermo Bajo, Palermo Zoo: nombres informales, poco usados.
+
+
+peliculas-mil-millones.txt   [!]
+--------------------------
+  [!] Faltan los estrenos de 2026 que hayan pasado los 1.000 millones (Super Mario Galaxy,
+      Toy Story 5, Spider-Man: Brand New Day...).
+  [?] Zootopia 2 y Avatar: Fuego y cenizas: las puse porque, hasta donde sé, pasaron la marca.
+  OJO: con la tolerancia a typos, "Toy Story 2" cuenta como Toy Story 4, "Iron Man 2" como
+  Iron Man 3, etc. Eso no se arregla desde el .txt (ver matchAnswer en shared/src/scoring.js).
+
+
+peliculas-stephen-king.txt / peliculas-dicaprio.txt   [?]
+----------------------------------------------------
+  [?] Títulos en Argentina: los de los 80 y 90 (El sobreviviente, Maleficio, Turno de noche, La
+      mitad oscura, Vida de este chico, Rápida y mortal) pueden haberse estrenado con otro nombre.
+      Igual vale el original como variante.
+
+
+personajes-simpsons.txt   [+]
+-----------------------
+Tiene 155. Hay cientos de personajes secundarios de una sola aparición: sumá los que conozcas.
+  [?] Nombres del doblaje latino que no sé si son los oficiales: Hombre abeja, Señor Chispas,
+      Niñera bandida, Señor Quitanieves, Base de datos.
+
+
+selva.txt / mar.txt / moneda-oficial.txt   [?]
+------------------------------------------
+  [?] Selva: Selva de Oza, Selva de Irati, Selva de Bohemia, Selva de Turingia y Bialowieza son
+      bosques europeos que se llaman "selva". Si solo querés selvas tropicales, borralos.
+  [?] Moneda: Oro de Zimbabue (ZiG) y Leone; las monedas africanas cambian seguido.
+  [?] Mar: Mar de Grau, Mar Chileno y Mar Argentino son nombres nacionales de partes del océano.

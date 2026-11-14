@@ -1,0 +1,130 @@
+# Línea N · una pregunta por archivo. Después de editar: npm run db:import
+# Un nombre por renglón. Variantes con |
+# Niveles: [10] común · [30] poco común · [60] rara · [100] de nicho
+# Avenidas de la Ciudad de Buenos Aires. Vale con o sin "Avenida" adelante.
+
+categoria: Argentina
+consigna: Nombrá una avenida de Capital Federal
+activa: si
+apellidos: no
+
+[10]
+9 de Julio | Nueve de Julio | Avenida 9 de Julio
+Corrientes | Avenida Corrientes
+Santa Fe | Avenida Santa Fe
+Rivadavia | Avenida Rivadavia
+Del Libertador | Libertador | Avenida del Libertador
+Córdoba | Avenida Córdoba
+Cabildo | Avenida Cabildo
+Callao | Avenida Callao
+De Mayo | Avenida de Mayo
+
+[30]
+Belgrano | Avenida Belgrano
+Pueyrredón | Avenida Pueyrredón
+Las Heras | Avenida Las Heras
+Figueroa Alcorta | Avenida Figueroa Alcorta
+Juan B. Justo | Juan Bautista Justo
+General Paz | Avenida General Paz
+Leandro N. Alem | Alem | Leandro Alem
+Independencia | Avenida Independencia
+San Juan | Avenida San Juan
+Scalabrini Ortiz | Raúl Scalabrini Ortiz
+Coronel Díaz
+Paseo Colón
+Entre Ríos
+Juan de Garay | Garay
+Dorrego
+Gaona
+Nazca
+Directorio
+Eva Perón
+Juan Bautista Alberdi | Alberdi
+Álvarez Thomas
+Federico Lacroze | Lacroze
+Triunvirato
+Monroe
+Congreso
+Costanera Norte | Costanera Rafael Obligado | Rafael Obligado
+Costanera Sur | Tristán Achával Rodríguez
+Alicia Moreau de Justo
+Sarmiento
+Medrano
+Ángel Gallardo
+Díaz Vélez
+Warnes
+Caseros
+Almirante Brown
+Montes de Oca
+Jujuy
+La Plata
+Boedo
+Avellaneda
+San Martín
+Acoyte
+Elcano
+Forest
+
+[60]
+Ricardo Balbín | Balbín
+De los Constituyentes | Constituyentes
+De los Incas | Los Incas
+Lugones | Leopoldo Lugones
+Cantilo | Intendente Cantilo
+Bullrich | Intendente Bullrich
+Luis María Campos
+Alvear
+Quintana
+Huergo | Ingeniero Huergo
+Eduardo Madero | Madero
+Antártida Argentina
+Ramos Mejía
+Pedro de Mendoza
+Patricios | Regimiento de Patricios
+Martín García
+Iriarte
+Vélez Sarsfield
+Amancio Alcorta
+Sáenz
+Perito Moreno
+Cruz | Fernández de la Cruz | Francisco Fernández de la Cruz
+Roca | Coronel Roca
+27 de Febrero | Veintisiete de Febrero
+Dellepiane | Teniente General Dellepiane
+Escalada
+Lacarra
+Varela
+Mariano Acosta
+Castañares
+Asamblea
+Pedro Goyena
+José María Moreno
+Carabobo
+Cobo
+Chiclana
+Rabanal | Francisco Rabanal
+Riestra
+Larrazábal
+Lisandro de la Torre
+Emilio Castro
+Francisco Beiró | Beiró
+Salvador María del Carril
+Álvarez Jonte | Jonte
+Segurola
+Mosconi | General Mosconi
+Olivera
+Donato Álvarez
+Honorio Pueyrredón
+Patricias Argentinas
+Estado de Israel
+Chorroarín
+Combatientes de Malvinas
+Crisólogo Larralde | Larralde
+Ruiz Huidobro
+Garmendia
+Infanta Isabel
+Adolfo Berro | Berro
+Tornquist
+Iraola
+Valentín Alsina
+Lope de Vega
