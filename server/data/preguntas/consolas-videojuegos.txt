@@ -37,7 +37,6 @@ Nintendo 3DS | 3DS
 PSP | PlayStation Portable
 Sega Genesis | Mega Drive | Sega Mega Drive
 Atari 2600 | Atari
-Polystation
 
 [60]
 PS Vita | PlayStation Vita
@@ -54,6 +53,9 @@ Atari Lynx | Lynx
 Atari Jaguar | Jaguar
 Atari 7800
 Atari 5200
+
+[67]
+Polystation
 
 [100]
 TurboGrafx-16 | PC Engine | TurboGrafx

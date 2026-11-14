@@ -9,20 +9,19 @@ apellidos: no
 
 [10]
 Madrid
-París
+París | Paris
 Roma
 Londres
-Berlín
-
-[30]
+Berlín | Berlin
 Lisboa
 Atenas
-Viena
 Ámsterdam | Amsterdam
-Bruselas
-Dublín
+Moscú | Moscu
 
-[60]
+[30]
+Viena
+Bruselas | Ciudad de Bruselas
+Dublín | Dublin
 Praga
 Varsovia
 Budapest
@@ -31,14 +30,42 @@ Oslo
 Copenhague
 Helsinki
 Berna
+Kiev | Kyiv
+Bucarest
+Sofía | Sofia
+
+[60]
+Belgrado
+Zagreb
+Bratislava
+Liubliana | Ljubljana
+Ankara
+Minsk
+Reikiavik | Reykjavik
+Luxemburgo | Ciudad de Luxemburgo
+Mónaco | Monaco
+Ciudad del Vaticano | Vaticano
+Sarajevo
+Tirana
+Riga
+Tallin | Tallinn
+Vilna | Vilnius
 
 [100]
-Liubliana | Ljubljana
+Andorra la Vieja | Andorra la Vella
 Vaduz
 La Valeta | Valeta | Valletta
+San Marino | Ciudad de San Marino
 Chisináu | Chisinau
 Skopie | Skopje
-Tirana
 Podgorica
-Reikiavik | Reykjavik
-Andorra la Vieja
+Pristina
+Tiflis | Tbilisi
+Bakú | Baku
+Ereván | Erevan
+Astaná | Astana | Nursultán
+Edimburgo
+Cardiff
+Belfast
+Tórshavn | Torshavn
+Sujumi | Sukhumi

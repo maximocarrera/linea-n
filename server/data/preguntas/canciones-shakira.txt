@@ -1,122 +1,236 @@
-# Línea N · una pregunta por archivo. Después de editar: npm run db:import
-# Un nombre por renglón. Variantes con |
-# Niveles: [10] común · [30] poco común · [60] rara · [100] de nicho
-# Canciones de Shakira (solista y colaboraciones donde es artista principal o invitada).
-
-categoria: Música
-consigna: Nombrá una canción de Shakira
+categoria: Musica
+consigna: Nombra una canción de Shakira
 activa: si
 apellidos: no
 
 [10]
-Hips Don't Lie | Hips dont lie
-Waka Waka | Waka Waka (Esto es África)
-La tortura
-Ojos así
-Whenever, Wherever | Whenever Wherever
-Suerte
-Bzrp Music Session 53 | Session 53 | Music Session 53 | Shakira Bzrp
-TQG
+Waka Waka | Waka Waka (Esto Es África) | Waka Waka (This Time For Africa)
+Hips Don't Lie | Sera, Sera | Será, Será
+La Tortura
+Suerte | Whenever, Wherever
+Antología | Antologia
+Ciega, Sordomuda
+Loba | She Wolf
+Bzrp Music Sessions, Vol. 53 | SHAKIRA (BZRP Music Sessions #53/66) | Session 53 | Pa tipos como tu
 Chantaje
-Loca
-Estoy aquí
-La bicicleta
-She Wolf | Loba
+La Bicicleta
 
-[30]
-Pies descalzos, sueños blancos | Pies descalzos
-Antología
-Ciega, sordomuda | Ciega sordomuda
+[25]
+Ojos Así | Eyes Like Yours | Ojos Asi
 Inevitable
-Moscas en la casa
-Te dejo Madrid
-Objection | Objection (Tango) | Te aviso, te anuncio
+Estoy Aquí | Estoy Aqui | Estou Aqui
+Pies Descalzos, Sueños Blancos | Pies Descalzos
+Te Felicito
+TQG
+Monotonía | Monotonia
+Las de La Intuición | Las de la Intuicion
+Loca
+Día de Enero | Dia de Enero
 Underneath Your Clothes
-Beautiful Liar
-Can't Remember to Forget You | Nunca me acuerdo de olvidarte
+Te Aviso, Te Anuncio | Objection | Te Aviso, Te Anuncio (Tango)
+Sale El Sol
 Rabiosa
-Sale el sol
-Antes de las seis
-Me enamoré
+Me Enamoré | Me Enamore
+
+[45]
+Acróstico | Acrostico
+La La La | Dare | Dare (La La La) | La La La (Brasil 2014)
+Gitana | Gypsy
+Moscas En La Casa
+Dónde Están Los Ladrones | Donde Estan Los Ladrones
+Donde Estás Corazón | Donde Estas Corazon
+Si Te Vas
+Tú | Tu
+No
+La Pared
+Que Me Quedes Tú | Que Me Quedes Tu
+Te Dejo Madrid
+Perro Fiel
 Clandestino
-Perro fiel
-Copa vacía
-Te felicito
-Monotonía
-El jefe
-Puntería
-Acróstico
+Can't Remember To Forget You
+Beautiful Liar
+Addicted To You
 Soltera
-Dai Dai
-La La La | La La La (Brazil 2014) | Dare (La La La)
-Día de enero
-Si te vas
-Tú
-No creo
-Gitana
-Did It Again | Lo hecho está hecho
-Las de la intuición
-Illegal
-Empire
-Trap
-Me gusta
+Puntería | Punteria
+Copa Vacía | Copa Vacia
+
+[65]
+El Jefe
+(Entre Paréntesis) | Entre Parentesis
+La Fuerte
 Girl Like Me
 Don't You Worry
-Deja vu
-Addicted to You
-Nada
-Don't Bother | No
-Que me quedes tú | The One
-Un poco de amor
+Don't Bother
+Empire
+Nunca Me Acuerdo de Olvidarte
+Try Everything
+Lo Hecho Está Hecho | Lo Hecho Esta Hecho
+Antes de Las Seis
 Gordita
+Deja Vu
+Me Gusta
+Mi Verdad
 
-[60]
-Sombra de ti
-Octavo día
-Pienso en ti
-Que vuelvas
+[77]
+Get It Started
+La Despedida
+Te Lo Agradezco, Pero No
+Un Poco de Amor
+¿Dónde Estás Corazón? | Donde Estas Corazon
+
+[85]
+Octavo Día | Octavo Dia
+Sombra de Ti
+No Creo
+Se Quiere, Se Mata
+Pienso En Ti
 Quiero
-Dónde estás corazón
-Se quiere, se mata
-Te espero sentada
-Eres
-Rules
+Te Necesito
+Te Espero Sentada
+Vuelve
 Fool
-Poem to a Horse
-Ready for the Good Times
+Rules
+Poem To A Horse
+Ready For The Good Times
+The One
+Illegal
+How Do You Do
+Animal City
+Dreams For Plans
 Hey You
-Hay amores
-Día especial
-Escondite inglés
-Obtener un sí
-En tus pupilas
-Lo que más
-Devoción
-Islands
+Men In This Town
+Devoción | Devocion
+Lo Que Más | Lo Que Mas
 Mariposas
-Chasing Shadows
+23
+Spotlight
 Medicine
-Comme moi
+Broken Record
+Chasing Shadows
+Cut Me Deep
+Comme Moi
+Trap
 Amarillo
+Toneladas
+Nada
 Coconut Tree
 When a Woman
-Toneladas
-(Entre paréntesis) | Entre paréntesis
-Cómo dónde y cuándo
+What We Said
+Don't Wait Up
 Nassau
-Última
+Tiempo Sin Verte
 Cohete
-Te necesito
-Vuelve
-Spy
+Última | Ultima
+Cómo, Dónde y Cuándo | Como, Donde y Cuand
+
+[90]
+1968
+AGUA
+Alfonsina y El Mar
+ALGO TÚ | Algo Tu
+Always On My Mind
+Amor
+Años Luz | Anos Luz
+Ask For More
+Ay Haití | Ay Haiti
+Back In Black
+Bésame | Besame
+Blanca Mujer
+Boig Per Tu
+Bright Side Of The Road
+Brujería | Brujeria
+
+[95]
+Cazador de Amor
+Chica Material | Material Girl
+Choka Choka
+Come Down Love
+Confection
+Controlas Mi Destino
+Corazón Partío | Corazon Partio
+Costume Makes The Clown
+Cuentas Conmigo
+Dai Dai
+Dançando | Dancando
+De Música Ligera | De Musica Ligera
+Día Especial | Dia Especial
+Did It Again
+Dude Looks Like a Lady
+El Oasis
+El Último Adiós | El Ultimo Adios
+El Vendedor
+En Tus Pupilas
+Eres
+Escondite Inglés | Escondite Ingles
+Esta Noche Voy Contigo
+Este Amor Es Lo Más Bello Del Mundo
+Eterno Amor
+Eurosummer | Eurosummer (Girls Trip)
+Gafas Oscuras
+Give It Up To Me
 Good Stuff
-Long Time
-Men in This Town
-Why Wait
+Gracias a La Vida
+Hay Amores
+Hey Big Spender!
+Higher Ground
 
 [100]
+Hot Love
+I Am Here
+I'll Stand By You
+Islands
+King And Queen
+Knock On My Door
+La Ciudad de La Furia
+La Gota Fría | La Gota Fria
+La Isla Bonita
+La Maza
+La Quiero a Morir | Je L'aime À Mourir
+Lejos de Tu Amor
+Lo Imprescindible
+Loca Por Ti
+Long Time
 Magia
+Mon Amour
+Necesito de Ti
+No Joke
+Nothing Else Matters
+O Leãozinho | O Leaozinho
+O Que É o Que É?
+Obtener Un Si | Obtener Un Sí
+País Tropical | Pais Tropical
 Peligro
-Tus gafas oscuras | Gafas oscuras
-Sueños
-Controlas mi destino
+Pide Más | Pide Mas
+Pideme El Sol | Pídeme El Sol
+Por Un Bello Embustero
+Pure Intuition
+Que Vuelvas
+Quiero Más | Quiero Mas
+Quince Años | Quince Anos
+Recuerdos
+Santa Baby
+Será El Ángel | Sera El Angel
+Si Tú No Vuelves | Si Tu No Vuelves
+So Much Trouble In The World
+Sólo Le Pido A Dios | Solo Le Pido A Dios
+Something
+Somos El Mundo
+Spy
+Sueños | Suenos
+Te Olvidé | Te Olvide
+Te Sigo
+That Way
+The Border
+The Day And The Time
+The One Thing
+Timor
+Todo Para Ti
+Todos Juntos
+Tu Boca
+Tu Serás La Historia de Mi Vida | Tu Seras La Historia de Mi Vida
+Tutu
+Último Momento | Ultimo Momento
+Why Wait
+You Don't Care About Me
+Your Embrace
+Zoo

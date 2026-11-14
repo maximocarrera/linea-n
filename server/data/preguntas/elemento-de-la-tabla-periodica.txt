@@ -8,23 +8,21 @@ activa: si
 apellidos: no
 
 [10]
-Oxígeno
-Hidrógeno
+Oxígeno | Oxigeno
+Hidrógeno | Hidrogeno
 Carbono
 Hierro
 Oro
-
-[30]
 Plata
 Cobre
 Helio
-Nitrógeno
+Nitrógeno | Nitrogeno
 Sodio
 Calcio
 
-[60]
+[30]
 Litio
-Neón
+Neón | Neon
 Potasio
 Zinc | Cinc
 Mercurio
@@ -32,26 +30,105 @@ Plomo
 Uranio
 Aluminio
 Cloro
-Flúor
+Flúor | Fluor
 Azufre
-Fósforo
+Fósforo | Fosforo
 Silicio
 Magnesio
+Titanio
+Níquel | Niquel
+Estaño | Estano
+Platino
+Yodo | Iodo
+Argón | Argon
+Plutonio
 
-[100]
-Tecnecio
-Itrio
-Rutenio
-Praseodimio
-Disprosio
-Holmio
-Lutecio
-Hafnio
-Osmio
+[60]
+Boro
+Berilio
+Escandio
+Vanadio
+Cromo
+Manganeso
+Cobalto
 Galio
 Germanio
-Vanadio
-Escandio
-Telurio
+Arsénico | Arsenico
+Selenio
+Bromo
+Kriptón | Kripton
+Rubidio
+Estroncio
+Circonio | Zirconio
+Molibdeno
+Paladio
+Cadmio
+Antimonio
+Xenón | Xenon
+Cesio
+Bario
+Wolframio | Tungsteno
+Iridio
 Bismuto
+Polonio
+Radón | Radon
+Francio
+Radio
+Torio
+Neptunio
+Americio
+Curio
+Californio
+Einstenio
+
+[100]
+Itrio
+Niobio
+Tecnecio
+Rutenio
+Rodio
+Indio
+Telurio
+Lantano
 Cerio
+Praseodimio
+Neodimio
+Prometio
+Samario
+Europio
+Gadolinio
+Terbio
+Disprosio
+Holmio
+Erbio
+Tulio
+Iterbio
+Lutecio
+Hafnio
+Tántalo | Tantalo
+Renio
+Osmio
+Talio
+Astato
+Actinio
+Protactinio
+Berkelio
+Fermio
+Mendelevio
+Nobelio
+Lawrencio
+Rutherfordio
+Dubnio
+Seaborgio
+Bohrio
+Hasio
+Meitnerio
+Darmstadtio
+Roentgenio
+Copernicio
+Nihonio
+Flerovio
+Moscovio
+Livermorio
+Teneso
+Oganesón | Oganeson

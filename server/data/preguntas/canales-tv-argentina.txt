@@ -21,6 +21,8 @@ C5N
 A24 | América 24
 Crónica TV | Crónica
 TyC Sports | TyC
+
+[45]
 Canal 26
 LN+ | La Nación+ | La Nación Más
 Net TV | Net
@@ -34,6 +36,8 @@ Volver
 Quiero | Quiero Música en mi Idioma | Quiero TV
 Ciudad Magazine | Magazine
 Metro | Canal Metro
+
+[67]
 IP Noticias | IP | Información Periodística
 Canal de la Ciudad
 El Gourmet | Elgourmet
@@ -42,10 +46,12 @@ Utilísima
 Canal (á) | Canal A
 Telemax | Canal 5
 
-[100]
+[93]
 Garage TV
 KZO
 Cablín
+
+[100]
 CN23
 360 TV | Canal 360
 Construir TV

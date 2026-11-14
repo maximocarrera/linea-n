@@ -29,6 +29,8 @@ São Paulo | Sao Paulo
 Grêmio | Gremio
 Internacional | Inter de Porto Alegre
 Corinthians
+
+[45]
 Olimpia
 Colo-Colo | Colo Colo
 Atlético Nacional | Nacional de Medellín
@@ -38,6 +40,10 @@ Cruzeiro
 Atlético Mineiro
 Fluminense
 Botafogo
+
+[78]
 Vasco da Gama | Vasco
+
+[100]
 LDU Quito | Liga de Quito | LDU
 Once Caldas

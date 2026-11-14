@@ -1,8 +1,6 @@
 # Línea N · una pregunta por archivo. Después de editar: npm run db:import
 # Un nombre por renglón. Variantes con |
 # Niveles: [10] común · [30] poco común · [60] rara · [100] de nicho
-# Artistas invitados en los Crossover de Big One. Confirmados: #1 al #8, #12 y #13.
-# FALTAN: Crossover #9, #10, #11 y #14 en adelante, y la serie ¡FA! (no encontré info): ver REVISAR.txt.
 
 categoria: Música
 consigna: Nombrá un artista que haya participado en un Crossover de Big One o en ¡FA!
@@ -12,25 +10,117 @@ apellidos: no
 [10]
 Emilia | Emilia Mernes
 Tini | Tini Stoessel
-María Becerra
+María Becerra | Maria Becerra
 Trueno
-Miranda! | Miranda
+Paulo Londra
+Duki
+Miranda! | Miranda | Ale Sergi | Juliana Gattas
 La Joaqui
 Tiago PZK
+Lali | Lali Espósito | Lali Esposito
+Abel Pintos
+Luciano Pereyra
+Soledad Pastorutti | La Sole | Soledad
+Wos | WOS
+Milo J
+Cazzu
+Luck Ra
+Airbag
+Ciro | Ciro y los Persas | Andrés Ciro Martínez
+Los Auténticos Decadentes | Autenticos Decadentes
+Ke Personajes | Emanuel Noir
+Cristian Castro
+León Gieco | Leon Gieco
+Callejero Fino
+Lit Killah | LIT killah
+YSY A | Ysy A
+Nathy Peluso
 
 [30]
-Callejero Fino
 FMK
-Ke Personajes
 Rusherking
 Ulises Bueno
 BM
-Ciro | Ciro y los Persas
 Emanero
 Valentino Merlo
-Lit Killah
 Yami Safdie
+Wisin
+Dillom
+Ca7riel | Catriel
+El Chaqueño Palavecino | Chaqueño Palavecino
+Karina | Karina La Princesita | La Princesita
+La T y La M
+Q' Lokura | Q Lokura
+Los Caligaris
+No Te Va Gustar | NTVG | Emiliano Brancciari
+El Cuarteto de Nos | Cuarteto de Nos | Roberto Musso
+Los Tipitos
+Rei
+Bhavi
+Ángela Torres | Angela Torres
+Eugenia Quevedo | Euge Quevedo
+Patricia Sosa
+Marcela Morelo
+Sandra Mihanovich
+Juanse | Ratones Paranoicos
+Joaquín Levinton | Turf
+El Mono de Kapanga | Kapanga | Mono de Kapanga
+Emmanuel Horvilleur | Illya Kuryaki
+Migue Granados
+Pablo Granados
+Nacha Guevara
+Rubén Rada | Ruben Rada
+Los Manseros Santiagueños | Manseros Santiagueños
 
 [60]
+Roze | Roze Oficial
 Katteyes
-Doble P
+Doble P | DobleP
+El Plan de la Mariposa | Plan de la Mariposa
+Santiago Motorizado | Él Mató a un Policía Motorizado
+Zoe Gotusso
+Juan Ingaramo
+Natalie Pérez | Natalie Perez
+Nahuel Pennisi
+Agustín Bernasconi | MYA
+Ruggero
+Teresa Parodi
+Peteco Carabajal
+Cuti y Roberto Carabajal | Cuti Carabajal | Roberto Carabajal
+Chango Spasiuk
+Sergio Galleguillo
+Lázaro Caballero | Lazaro Caballero
+Sele Vera
+Uriel Lozano
+La Bomba Tucumana
+Juan Carlos Baglietto | Baglietto
+Nito Mestre | Sui Generis
+Hilda Lizarazu
+Paz Martínez | Paz Martinez
+Julia Zenko
+Mike Amigorena
+Lula Bertoldi | Eruca Sativa
+Piti Fernández | Las Pastillas del Abuelo
+Walas | Massacre
+Juanchi Baleirón | Los Pericos
+Julián Kartún | El Kuelgue
+Agarrate Catalina
+Taichu
+G Sony
+Ivonne Guzmán | Bandana
+Yamila Cafrune
+
+[100]
+Campedrinos
+Candu Domínguez | Candu Dominguez
+Carafea
+Claudia Brant
+Emme
+Flor Paz
+Franco Luciani
+Juan Quintero | Aca Seca Trío
+La Ferni
+Maggie Cullen
+Mía Folino | Mia Folino
+Néstor Garnica | Nestor Garnica
+Radamel

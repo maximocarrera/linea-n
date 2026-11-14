@@ -21,6 +21,7 @@ Ozuna
 Rauw Alejandro
 
 [30]
+Grupo Frontera
 Manuel Turizo
 Fuerza Regida
 Cardi B
@@ -30,15 +31,21 @@ Anuel AA | Anuel
 Black Eyed Peas | The Black Eyed Peas
 David Guetta
 Pitbull
+
+[50]
 Freshlyground
 Burna Boy
-Grupo Frontera
+Wyclef Jean
+
+[80]
 El Cata
+Lil Wayne
+
+[100]
 Gustavo Cerati | Cerati
 Miguel Bosé
 Carlos Santana | Santana
 Blake Shelton
 Carlinhos Brown
-Lil Wayne
 Kid Cudi
 Dizzee Rascal
