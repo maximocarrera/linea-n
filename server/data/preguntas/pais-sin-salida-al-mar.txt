@@ -1,0 +1,63 @@
+# Línea N · una pregunta por archivo. Después de editar: npm run db:import
+# Un nombre por renglón. Variantes con |
+# Niveles: [10] común · [30] poco común · [60] rara · [100] de nicho
+# Los 44 países sin salida al mar + Kosovo. Los que dan al Caspio (Kazajistán,
+# Turkmenistán, Azerbaiyán) cuentan como sin salida, como en cualquier atlas.
+
+categoria: Mundo
+consigna: Nombrá un país sin salida al mar
+activa: si
+apellidos: no
+
+[10]
+Bolivia
+Paraguay
+Suiza
+
+[30]
+Austria
+Hungría
+República Checa | Chequia
+Mongolia
+Nepal
+Afganistán
+Luxemburgo
+Ciudad del Vaticano | Vaticano | Santa Sede
+Etiopía
+
+[60]
+Eslovaquia
+Serbia
+Bielorrusia | Belarús | Belarus
+Andorra
+Liechtenstein
+San Marino
+Macedonia del Norte | Macedonia
+Moldavia | Moldova
+Kazajistán | Kazajstán | Kazakhstan
+Laos
+Bután
+Uganda
+Zimbabue | Zimbabwe
+Zambia
+Malí | Mali
+Níger
+Chad
+Ruanda | Rwanda
+Botsuana | Botswana
+
+[100]
+Kosovo
+Armenia
+Azerbaiyán | Azerbaiján
+Kirguistán | Kirguizistán
+Tayikistán
+Turkmenistán
+Uzbekistán
+Burkina Faso
+Burundi
+República Centroafricana | Centroáfrica
+Esuatini | Suazilandia | Eswatini
+Lesoto | Lesotho
+Malaui | Malawi
+Sudán del Sur

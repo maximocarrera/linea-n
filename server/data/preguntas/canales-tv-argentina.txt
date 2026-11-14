@@ -1,0 +1,59 @@
+# Línea N · una pregunta por archivo. Después de editar: npm run db:import
+# Un nombre por renglón. Variantes con |
+# Niveles: [10] común · [30] poco común · [60] rara · [100] de nicho
+# Canales argentinos de aire, cable y provinciales (incluye algunos que ya cerraron).
+
+categoria: Televisión
+consigna: Nombrá un canal de la televisión argentina
+activa: si
+apellidos: no
+
+[10]
+Telefe | Canal 11 | Teleonce
+El Trece | Canal 13 | Trece
+América | América TV | Canal 2
+TV Pública | Televisión Pública | Canal 7 | ATC | Argentina Televisora Color
+El Nueve | Canal 9 | Nueve
+
+[30]
+TN | Todo Noticias
+C5N
+A24 | América 24
+Crónica TV | Crónica
+TyC Sports | TyC
+Canal 26
+LN+ | La Nación+ | La Nación Más
+Net TV | Net
+
+[60]
+Encuentro | Canal Encuentro
+Pakapaka
+DeporTV
+TNT Sports
+Volver
+Quiero | Quiero Música en mi Idioma | Quiero TV
+Ciudad Magazine | Magazine
+Metro | Canal Metro
+IP Noticias | IP | Información Periodística
+Canal de la Ciudad
+El Gourmet | Elgourmet
+Magic Kids
+Utilísima
+Canal (á) | Canal A
+Telemax | Canal 5
+
+[100]
+Garage TV
+KZO
+Cablín
+CN23
+360 TV | Canal 360
+Construir TV
+Canal Rural
+El Doce | Canal 12 | El Doce Córdoba
+Canal 10 Córdoba | Canal 10
+El Tres Rosario | Canal 3 Rosario | El Tres
+Bravo TV
+Solo Tango
+Telesol
+Somos

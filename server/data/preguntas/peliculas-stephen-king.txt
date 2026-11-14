@@ -1,0 +1,68 @@
+# Línea N · una pregunta por archivo. Después de editar: npm run db:import
+# Un nombre por renglón. Variantes con |   (título en Argentina | original | España)
+# Niveles: [10] común · [30] poco común · [60] rara · [100] de nicho
+# Películas basadas en novelas o cuentos de Stephen King. Las remakes con el mismo
+# título cuentan como una sola (Carrie, It, Cementerio de animales, El sobreviviente...).
+
+categoria: Cine
+consigna: Nombrá una película basada en un relato de Stephen King
+activa: si
+apellidos: no
+
+[10]
+It | Eso
+El resplandor | The Shining
+Carrie
+Cementerio de animales | Pet Sematary | Cementerio maldito
+
+[30]
+Sueños de libertad | The Shawshank Redemption | Cadena perpetua | Sueño de fuga
+Milagros inesperados | The Green Mile | La milla verde
+Misery | Miseria
+Cuenta conmigo | Stand by Me
+La niebla | The Mist
+It: Capítulo 2 | It Chapter Two | It 2 | Eso 2
+Doctor Sueño | Doctor Sleep
+Christine
+Cujo
+
+[60]
+1408 | Habitación 1408
+La torre oscura | The Dark Tower
+El juego de Gerald | Gerald's Game
+La zona muerta | The Dead Zone
+Ojos de fuego | Firestarter | Llamas de venganza
+Los chicos del maíz | Children of the Corn | Los niños del maíz
+El sobreviviente | The Running Man | Perseguido
+La ventana secreta | Secret Window
+El cazador de sueños | Dreamcatcher
+Creepshow
+El celular | Cell
+La larga marcha | The Long Walk
+El mono | The Monkey
+La vida de Chuck | The Life of Chuck
+Boogeyman | The Boogeyman | El Boogeyman
+Dolores Claiborne | Eclipse total
+1922
+
+[100]
+La mitad oscura | The Dark Half | La mitad siniestra
+Cosas necesarias | Needful Things | La tienda
+El aprendiz | Apt Pupil | Verano de corrupción
+Corazones en Atlántida | Hearts in Atlantis
+Maleficio | Thinner
+Los ojos del gato | Cat's Eye
+Bala de plata | Silver Bullet
+La rebelión de las máquinas | Maximum Overdrive
+Sonámbulos | Sleepwalkers
+El hombre del jardín | The Lawnmower Man | El cortador de césped
+Turno de noche | Graveyard Shift
+La máquina infernal | The Mangler
+Creepshow 2
+En la hierba alta | In the Tall Grass
+El teléfono del señor Harrigan | Mr. Harrigan's Phone
+Un buen matrimonio | A Good Marriage
+Montado en la bala | Riding the Bullet
+El misterio de Salem's Lot | Salem's Lot | La noche del vampiro
+Cementerio de animales: El origen | Pet Sematary: Bloodlines
+El vuelo nocturno | The Night Flier

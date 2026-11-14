@@ -1,0 +1,123 @@
+# Línea N · una pregunta por archivo. Después de editar: npm run db:import
+# Un nombre por renglón. Variantes con |
+# Niveles: [10] común · [30] poco común · [60] rara · [100] de nicho
+# Telenovelas y tiras diarias argentinas (incluye las juveniles).
+
+categoria: Televisión
+consigna: Nombrá una telenovela argentina
+activa: si
+apellidos: no
+
+[10]
+Floricienta
+Rebelde Way
+Casi Ángeles
+Chiquititas
+Muñeca Brava
+Patito Feo
+Violetta
+Los Roldán
+Graduados
+Montecristo
+
+[30]
+Soy Luna
+Resistiré
+Padre Coraje
+Lalola
+Valientes
+Son amores
+Dulce amor
+Los exitosos Pells | Los Pells
+Argentina, tierra de amor y venganza | ATAV | Tierra de amor y venganza
+Esperanza mía
+Educando a Nina
+Pequeña Victoria
+Grande Pa | Grande pá
+Gasoleros
+Campeones de la vida | Campeones
+Sos mi vida
+Los ricos no piden permiso
+Herederos de una venganza
+Separadas
+Verano del 98 | Verano del '98
+Botineras
+Malparida
+Rincón de luz
+Amor en custodia
+
+[60]
+Son de Fierro
+Mujeres de nadie
+Sos mi hombre
+Somos familia
+Mis amigos de siempre
+El elegido
+Los únicos
+Para vestir santos
+Ciega a citas
+Cuando me sonreís
+Aliados
+Las Estrellas
+Fanny la fan
+Simona
+Golpe al corazón
+Mi hermano es un clon
+La leona
+Quiero vivir a tu lado
+100 días para enamorarse | Cien días para enamorarse
+Señores papis
+Camino al amor
+Viudas e hijos del rock and roll | Viudas e hijos del rock & roll
+Guapas
+Farsantes
+Lobo
+Signos
+La dueña
+Solamente vos
+Por amor a vos
+Herencia de amor
+Alma pirata
+Collar de esmeraldas
+Amor mío
+Hombres de honor
+Kachorra
+Frecuencia 04
+Máximo corazón
+Franco Buenaventura | Franco Buenaventura, el profe
+El sodero de mi vida
+Yago, pasión morena | Yago
+Soy gitano
+Jesús, el heredero | Jesús el heredero
+Primicias
+Amor latino
+Buenos chicos
+Celeste
+Celeste, siempre Celeste | Celeste siempre celeste
+Antonella
+Perla negra
+Nano
+Dulce Ana
+Ricos y famosos
+
+[100]
+Rolando Rivas, taxista | Rolando Rivas
+Nino, las cosas simples de la vida | Nino
+Simplemente María
+Andrea Celeste
+Rosa de lejos
+Amo y señor
+Venganza de mujer
+Estrellita mía
+Mi nombre es Coraje
+La extraña dama
+Cosecharás tu siembra
+Una voz en el teléfono
+Más allá del horizonte
+Zíngara
+Alén, luz de luna | Alén luz de luna
+Manuela
+Grecia
+Amándote
+Milagros
+Enamorada

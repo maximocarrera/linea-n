@@ -1,0 +1,54 @@
+# Línea N · una pregunta por archivo. Después de editar: npm run db:import
+# Un nombre por renglón. Variantes con |
+# Niveles: [10] común · [30] poco común · [60] rara · [100] de nicho
+# Países que combatieron o declararon la guerra (1914-1918). Los que solo rompieron
+# relaciones (Bolivia, Perú, Uruguay, Ecuador) y los neutrales no cuentan.
+
+categoria: Mundo
+consigna: Nombrá un país que haya participado de la Primera Guerra Mundial
+activa: si
+apellidos: no
+
+[10]
+Alemania | Imperio alemán
+Francia
+Reino Unido | Inglaterra | Gran Bretaña | Imperio británico
+Rusia | Imperio ruso
+Estados Unidos | EEUU | EE UU | EE.UU. | USA
+
+[30]
+Austria-Hungría | Imperio austrohúngaro | Austrohungría
+Austria
+Italia
+Imperio otomano | Turquía | Imperio turco | Otomanos
+Serbia
+Bélgica
+Japón
+
+[60]
+Hungría
+Bulgaria
+Rumania | Rumanía
+Portugal
+Grecia
+Brasil
+Canadá
+Australia
+Nueva Zelanda
+Montenegro
+China
+India
+Sudáfrica
+
+[100]
+Tailandia | Siam
+Cuba
+Panamá
+Guatemala
+Nicaragua
+Costa Rica
+Haití
+Honduras
+Liberia
+San Marino
+Hiyaz | Reino del Hiyaz | Hejaz

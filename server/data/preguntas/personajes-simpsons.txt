@@ -1,0 +1,131 @@
+# Línea N · una pregunta por archivo. Después de editar: npm run db:import
+# Un nombre por renglón. Variantes con |   (nombre en el doblaje latino | original)
+# Niveles: [10] común · [30] poco común · [60] rara · [100] de nicho
+
+categoria: Televisión
+consigna: Nombrá un personaje de Los Simpson
+activa: si
+apellidos: no
+
+[10]
+Homero Simpson | Homero | Homer | Homer Simpson
+Marge Simpson | Marge
+Bart Simpson | Bart
+Lisa Simpson | Lisa
+Maggie Simpson | Maggie
+Señor Burns | Sr. Burns | Burns | Montgomery Burns
+Ned Flanders | Flanders | Ned
+Moe | Moe Szyslak
+Milhouse | Milhouse Van Houten
+Krusty | Krusty el payaso
+
+[30]
+Abuelo Simpson | Abraham Simpson | Abe Simpson | Abuelo | Abe
+Smithers | Waylon Smithers
+Barney Gómez | Barney | Barney Gumble
+Apu | Apu Nahasapeemapetilon
+Nelson | Nelson Muntz
+Ralph | Ralph Gorgory | Ralph Wiggum
+Jefe Gorgory | Clancy Gorgory | Jefe Wiggum | Gorgory | Wiggum
+Director Skinner | Skinner | Seymour Skinner
+Edna Krabappel | Edna | Krabappel
+Bob Patiño | Sideshow Bob | Actor secundario Bob
+Patty | Patty Bouvier
+Selma | Selma Bouvier
+Lenny | Lenny Leonard
+Carl | Carl Carlson
+Willie | Jardinero Willie | Groundskeeper Willie
+Otto | Otto Mann
+Profesor Frink | Frink
+Ayudante de Santa | Santa's Little Helper | Pequeño ayudante de Santa
+Bola de Nieve | Snowball
+Martin | Martin Prince
+Tomy | Itchy
+Daly | Scratchy
+Hombre abeja | Bumblebee Man | Hombre abejorro
+Kang
+Kodos
+
+[60]
+Rod Flanders | Rod
+Todd Flanders | Todd
+Maude Flanders | Maude
+Mona Simpson | Mona
+Herb Powell | Herb | Hermano de Homero
+Reverendo Alegría | Alegría | Reverendo Lovejoy | Lovejoy
+Helena Alegría | Helen Lovejoy
+Jessica Alegría | Jessica Lovejoy
+Alcalde Diamante | Diamante | Alcalde Quimby | Quimby | Joe Quimby
+Gordo Tony | Fat Tony
+Serpiente | Snake
+Cletus
+Brandine
+Dr. Hibbert | Hibbert | Doctor Hibbert
+Dr. Nick | Nick Riviera | Doctor Nick
+Kent Brockman | Brockman
+Troy McClure
+Lionel Hutz
+Hans Topo | Hans Moleman
+Sujeto de las historietas | Comic Book Guy | Tipo de las historietas | Jeff Albertson
+Superintendente Chalmers | Chalmers
+Agnes Skinner | Agnes
+Doris | Lunchlady Doris | Doris la cocinera
+Actor secundario Mel | Mel | Sideshow Mel
+Jimbo | Jimbo Jones
+Kearney
+Dolph
+Sherri
+Terri
+Uter
+Kirk Van Houten | Kirk
+Luann Van Houten | Luann
+Manjula
+Disco Stu
+Hombre Duff | Duffman
+Capitán McCallister | Capitán | Sea Captain
+Gil
+Rainier Wolfcastle | McBain
+Hombre Radioactivo | Radioactive Man
+Lou
+Eddie
+Sr. Largo | Señor Largo | Dewey Largo
+Encías Sangrantes Murphy | Bleeding Gums Murphy
+Frank Grimes | Grimes | Grimey
+Puerco araña | Plopper | Spider-Pig | Cerdo araña
+Ling | Ling Bouvier
+Jacqueline Bouvier | Jacqueline
+
+[100]
+Wendell
+Lewis
+Janey
+Allison Taylor | Allison
+Sarah Gorgory | Sarah Wiggum
+Elizabeth Hoover | Señorita Hoover
+Jasper
+Loca de los gatos | Crazy Cat Lady | Eleanor Abernathy
+Texano rico | Rich Texan
+Adolescente de voz chillona | Squeaky-Voiced Teen
+Johnny Tightlips
+Legs
+Louie
+Arnie Pye
+Bill y Marty | Bill | Marty
+Lurleen | Lurleen Lumpkin
+Mindy Simmons | Mindy
+Hank Scorpio | Scorpio
+Artie Ziff
+Jebediah Springfield
+Lindsey Naegle
+Drederick Tatum
+Cookie Kwan
+Dr. Marvin Monroe | Marvin Monroe
+Sanjay
+Laura Powers
+Poochie
+Lyle Lanley
+Bobo
+Fallout Boy
+Blinky
+Señor Teeny | Mr. Teeny
+Akira

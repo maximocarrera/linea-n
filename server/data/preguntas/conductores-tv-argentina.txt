@@ -1,0 +1,57 @@
+# Línea N · una pregunta por archivo. Después de editar: npm run db:import
+# Un nombre por renglón. Variantes con |
+# Niveles: [10] común · [30] poco común · [60] rara · [100] de nicho
+# OJO: esta lista cambia con cada temporada. Armada con lo que estaba al aire en 2025-2026:
+# revisala y sacá a quien ya no tenga programa (o sumá a quien falte).
+
+categoria: Televisión
+consigna: Nombrá un conductor que tenga un programa al aire actualmente en la televisión argentina
+activa: si
+apellidos: si
+
+[10]
+Mirtha Legrand | Mirtha
+Guido Kaczka | Guido
+Santiago del Moro | Del Moro
+Marley | Alejandro Wiebe
+Ángel de Brito
+
+[30]
+Juana Viale | Juana
+Beto Casella
+Verónica Lozano | Vero Lozano
+Darío Barassi
+Wanda Nara | Wanda
+Andy Kusnetzoff | Andy
+Susana Giménez | Susana
+Marcelo Tinelli | Tinelli
+
+[60]
+Iván de Pineda
+Lizy Tagliani | Lizy
+Jésica Cirio
+Mariana Fabbiani
+Georgina Barbarossa
+Carmen Barbieri
+Pamela David
+Karina Mazzocco
+Mariano Iúdica
+Florencia de la V | Flor de la V
+Luis Majul
+Eduardo Feinmann
+Jonatan Viale
+Nelson Castro
+Sergio Lapegüe
+Cristina Pérez
+Rodolfo Barili
+
+[100]
+Rodrigo Lussich
+Gustavo Sylvestre
+Pablo Duggan
+Antonio Laje
+Esteban Trebucq
+Marcelo Bonelli
+Alfredo Leuco
+Joaquín Morales Solá
+Pía Shaw

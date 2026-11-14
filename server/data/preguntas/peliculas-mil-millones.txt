@@ -1,0 +1,79 @@
+# Línea N · una pregunta por archivo. Después de editar: npm run db:import
+# Un nombre por renglón. Variantes con |   (título en Argentina | original | España)
+# Niveles: [10] común · [30] poco común · [60] rara · [100] de nicho
+# Películas que superaron los 1.000 millones de dólares de recaudación mundial
+# (contando reestrenos). Revisado hasta mediados de 2026: si un estreno de 2026
+# pasa la marca (Super Mario Galaxy, Toy Story 5, Spider-Man: Brand New Day...), agregalo.
+
+categoria: Cine
+consigna: Nombrá una película que haya superado los 1.000 millones de dólares en taquilla
+activa: si
+apellidos: no
+
+[10]
+Avatar
+Avengers: Endgame | Endgame | Avengers 4 | Vengadores: Endgame
+Titanic
+Star Wars: El despertar de la fuerza | Star Wars: The Force Awakens | Star Wars Episodio VII | El despertar de la fuerza
+Frozen | Frozen: Una aventura congelada | Frozen: El reino del hielo
+Barbie
+Spider-Man: Sin camino a casa | Spider-Man: No Way Home | No Way Home
+
+[30]
+Avatar: El camino del agua | Avatar: The Way of Water | Avatar 2 | Avatar: El sentido del agua
+Avengers: Infinity War | Infinity War | Avengers: Guerra del Infinito
+IntensaMente 2 | Inside Out 2 | Del revés 2
+Jurassic World | Jurassic World: Mundo jurásico
+El rey león | The Lion King
+Los Vengadores | The Avengers | Avengers | Vengadores
+Top Gun: Maverick | Top Gun Maverick
+Frozen 2 | Frozen II
+Super Mario Bros: La película | The Super Mario Bros. Movie | Super Mario Bros
+Pantera Negra | Black Panther
+Harry Potter y las reliquias de la muerte parte 2 | Harry Potter and the Deathly Hallows Part 2 | Harry Potter 8
+Joker | Guasón
+Toy Story 4
+Toy Story 3
+Minions
+Deadpool & Wolverine | Deadpool y Wolverine | Deadpool 3
+Avengers: Era de Ultrón | Avengers: Age of Ultron | Age of Ultron
+Rápidos y furiosos 7 | Furious 7 | Rápido y furioso 7 | Fast & Furious 7
+Moana 2 | Vaiana 2
+Lilo & Stitch | Lilo y Stitch
+La bella y la bestia | Beauty and the Beast
+Aladdín | Aladdin
+Mi villano favorito 3 | Despicable Me 3 | Gru 3
+Zootopia | Zootrópolis
+Zootopia 2 | Zootrópolis 2
+Avatar: Fuego y cenizas | Avatar: Fire and Ash | Avatar 3
+
+[60]
+Star Wars: Los últimos Jedi | Star Wars: The Last Jedi | Los últimos Jedi | Star Wars Episodio VIII
+Star Wars: El ascenso de Skywalker | Star Wars: The Rise of Skywalker | El ascenso de Skywalker | Star Wars Episodio IX
+Jurassic World: El reino caído | Jurassic World: Fallen Kingdom | Jurassic World 2
+Jurassic World: Dominio | Jurassic World Dominion | Jurassic World 3
+Los increíbles 2 | Incredibles 2 | Increíbles 2
+Rápidos y furiosos 8 | The Fate of the Furious | Rápido y furioso 8 | Fast & Furious 8
+Iron Man 3
+Capitán América: Civil War | Captain America: Civil War | Civil War
+Aquaman
+El señor de los anillos: El retorno del rey | The Lord of the Rings: The Return of the King | El retorno del rey
+Spider-Man: Lejos de casa | Spider-Man: Far From Home | Far From Home
+Capitana Marvel | Captain Marvel
+Batman: El caballero de la noche asciende | The Dark Knight Rises | El caballero oscuro: La leyenda renace
+Batman: El caballero de la noche | The Dark Knight | El caballero oscuro
+Skyfall | 007: Operación Skyfall | 007 Skyfall
+Transformers: El lado oscuro de la luna | Transformers: Dark of the Moon | Transformers 3
+Transformers: La era de la extinción | Transformers: Age of Extinction | Transformers 4
+Piratas del Caribe: El cofre de la muerte | Pirates of the Caribbean: Dead Man's Chest | Piratas del Caribe 2
+Piratas del Caribe: Navegando aguas misteriosas | Pirates of the Caribbean: On Stranger Tides | Piratas del Caribe 4 | Piratas del Caribe: En mareas misteriosas
+Rogue One: Una historia de Star Wars | Rogue One
+Jurassic Park | Parque jurásico
+Buscando a Dory | Finding Dory
+Alicia en el país de las maravillas | Alice in Wonderland
+El hobbit: Un viaje inesperado | The Hobbit: An Unexpected Journey | El hobbit
+Harry Potter y la piedra filosofal | Harry Potter and the Philosopher's Stone | Harry Potter 1
+
+[100]
+Ne Zha 2 | Nezha 2
+Star Wars: La amenaza fantasma | Star Wars: The Phantom Menace | La amenaza fantasma | Star Wars Episodio I

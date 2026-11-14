@@ -1,0 +1,87 @@
+# Línea N · una pregunta por archivo. Después de editar: npm run db:import
+# Un nombre por renglón. Variantes con |
+# Niveles: [10] común · [30] poco común · [60] rara · [100] de nicho
+# Países que combatieron, declararon la guerra o fueron invadidos/ocupados (1939-1945).
+# Los neutrales (Suiza, Suecia, España, Portugal, Irlanda...) no cuentan.
+
+categoria: Mundo
+consigna: Nombrá un país que haya participado de la Segunda Guerra Mundial
+activa: si
+apellidos: no
+
+[10]
+Alemania | Alemania nazi | Tercer Reich
+Estados Unidos | EEUU | EE UU | EE.UU. | USA
+Reino Unido | Inglaterra | Gran Bretaña
+Francia
+Japón
+Italia
+Unión Soviética | URSS | Rusia
+
+[30]
+Polonia
+China
+Canadá
+Australia
+Brasil
+Países Bajos | Holanda
+Bélgica
+Grecia
+Hungría
+Rumania | Rumanía
+Finlandia
+Yugoslavia | Serbia
+Checoslovaquia | República Checa | Chequia
+Noruega
+Dinamarca
+Nueva Zelanda
+India
+México | Méjico
+
+[60]
+Bulgaria
+Sudáfrica
+Filipinas
+Tailandia | Siam
+Eslovaquia
+Croacia
+Etiopía
+Egipto
+Irán | Persia
+Irak | Iraq
+Turquía
+Mongolia
+Cuba
+Argentina
+Uruguay
+Chile
+Perú
+Colombia
+Venezuela
+Ecuador
+Bolivia
+Paraguay
+Luxemburgo
+Albania
+Ucrania
+Bielorrusia | Belarús
+Estonia
+Letonia
+Lituania
+Austria
+
+[100]
+República Dominicana | Dominicana
+Haití
+Guatemala
+Honduras
+El Salvador | Salvador
+Nicaragua
+Costa Rica
+Panamá
+Arabia Saudita | Arabia Saudí
+Siria
+Líbano
+Liberia
+Nepal
+San Marino

@@ -1,0 +1,65 @@
+# Línea N · una pregunta por archivo. Después de editar: npm run db:import
+# Un nombre por renglón. Variantes con |
+# Niveles: [10] común · [30] poco común · [60] rara · [100] de nicho
+# Países independientes que son una isla o un archipiélago (incluye los que comparten
+# isla, como Haití o Timor Oriental, y Australia). Sin territorios: Groenlandia o Puerto Rico no cuentan.
+
+categoria: Mundo
+consigna: Nombrá un país que sea una isla
+activa: si
+apellidos: no
+
+[10]
+Cuba
+Japón
+Islandia
+Madagascar
+Nueva Zelanda
+Jamaica
+
+[30]
+Reino Unido | Inglaterra | Gran Bretaña
+Irlanda
+Filipinas
+Indonesia
+Australia
+Malta
+Chipre
+Sri Lanka | Ceilán
+Taiwán
+Bahamas | Las Bahamas
+República Dominicana | Dominicana
+Haití
+Maldivas
+Singapur
+Fiyi | Fiji
+
+[60]
+Barbados
+Trinidad y Tobago | Trinidad
+Cabo Verde
+Mauricio
+Seychelles
+Papúa Nueva Guinea
+Samoa
+Tonga
+Baréin | Bahréin | Bahrein
+Timor Oriental | Timor Leste
+
+[100]
+Granada | Grenada
+Dominica
+Santa Lucía | Saint Lucia
+San Vicente y las Granadinas | San Vicente
+San Cristóbal y Nieves | Saint Kitts y Nevis | Saint Kitts and Nevis
+Antigua y Barbuda | Antigua
+Comoras
+Santo Tomé y Príncipe
+Vanuatu
+Islas Salomón
+Kiribati
+Tuvalu
+Nauru
+Palaos | Palau
+Micronesia
+Islas Marshall

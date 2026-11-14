@@ -1,0 +1,51 @@
+# Línea N · una pregunta por archivo. Después de editar: npm run db:import
+# Un nombre por renglón. Variantes con |   (título en Argentina | original | España)
+# Niveles: [10] común · [30] poco común · [60] rara · [100] de nicho
+# Películas con Leonardo DiCaprio como actor (incluye los documentales que protagoniza).
+
+categoria: Cine
+consigna: Nombrá una película de DiCaprio
+activa: si
+apellidos: no
+
+[10]
+Titanic
+El lobo de Wall Street | The Wolf of Wall Street
+El origen | Inception | Origen
+El renacido | The Revenant
+
+[30]
+La isla siniestra | Shutter Island
+Los infiltrados | The Departed
+Atrápame si puedes | Catch Me If You Can | Atrápame si podés
+El gran Gatsby | The Great Gatsby
+Django sin cadenas | Django Unchained | Django desencadenado | Django
+Romeo y Julieta | Romeo + Julieta | Romeo + Juliet
+Había una vez en Hollywood | Once Upon a Time in Hollywood | Érase una vez en Hollywood
+El aviador | The Aviator
+Diamante de sangre | Blood Diamond
+No mires arriba | Don't Look Up
+
+[60]
+Pandillas de Nueva York | Gangs of New York
+Los asesinos de la luna | Killers of the Flower Moon
+Una batalla tras otra | One Battle After Another
+La playa | The Beach
+El hombre de la máscara de hierro | The Man in the Iron Mask
+Red de mentiras | Body of Lies
+Sólo un sueño | Revolutionary Road | Revolutionary Road: Solo un sueño
+Diario de un rebelde | The Basketball Diaries
+¿A quién ama Gilbert Grape? | What's Eating Gilbert Grape | Gilbert Grape
+J. Edgar | J Edgar
+
+[100]
+Critters 3
+Poison Ivy | Hiedra venenosa
+Vida de este chico | This Boy's Life
+Rápida y mortal | The Quick and the Dead
+Vidas al límite | Total Eclipse | Eclipse total
+La habitación de Marvin | Marvin's Room
+Celebrity
+Don's Plum
+La hora 11 | The 11th Hour | La última hora
+Antes que sea tarde | Before the Flood | Antes de la inundación
