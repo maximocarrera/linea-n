@@ -1,0 +1,80 @@
+# Línea N · una pregunta por archivo. Después de editar: npm run db:import
+# Un nombre por renglón. Variantes con |
+# Niveles: [10] común · [30] poco común · [60] rara · [100] de nicho
+
+categoria: Deporte
+consigna: Nombrá un deporte de combate o arte marcial
+activa: si
+apellidos: no
+
+[10]
+Boxeo | Box
+Karate | Karate-do | Kárate
+Judo
+Taekwondo | Tae kwon do
+Kung fu
+MMA | Artes marciales mixtas | UFC
+
+[30]
+Jiu-jitsu brasileño | BJJ | Jiu jitsu
+Muay thai | Boxeo tailandés | Box thai
+Kickboxing | Kick boxing
+Lucha libre
+Lucha grecorromana
+Lucha olímpica | Lucha | Lucha libre olímpica
+Sumo
+Aikido
+Capoeira
+Krav maga
+Esgrima
+Kendo
+Tai chi | Tai chi chuan
+
+[60]
+Sambo
+Wing chun
+Jujutsu | Jiu-jitsu japonés | Ju-jitsu
+Hapkido
+Kyokushin
+Savate | Boxeo francés
+Sanda | Sanshou | Boxeo chino
+Wushu
+Kali | Eskrima | Arnis
+Pencak silat | Silat
+Lethwei | Boxeo birmano
+Vale tudo
+Jeet kune do
+Ninjutsu
+Kenpo | Kempo
+Systema
+Grappling
+Full contact
+K-1
+Lucha libre profesional | Catch | Pressing catch | Wrestling
+Defensa personal
+
+[100]
+Iaido
+Kyudo
+Shotokan
+Glima
+Bokator
+Kalaripayattu
+Bartitsu
+Kudo
+Luta livre
+Shootfighting
+Pankration
+Kurash
+Bando
+Hwa rang do
+Tang soo do
+Shorinji kempo
+Naginata | Naginatajutsu
+Jukendo
+Lucha canaria
+Taekkyon
+Ssireum
+Bökh | Lucha mongola
+Yağlı güreş | Lucha en aceite
+Yoseikan budo

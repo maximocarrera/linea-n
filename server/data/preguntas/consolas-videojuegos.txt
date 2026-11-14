@@ -1,0 +1,75 @@
+# Línea N · una pregunta por archivo. Después de editar: npm run db:import
+# Un nombre por renglón. Variantes con |
+# Niveles: [10] común · [30] poco común · [60] rara · [100] de nicho
+# Consolas de sobremesa y portátiles (incluye los clones que se vendieron en Argentina).
+
+categoria: Deporte
+consigna: Nombrá una consola de videojuegos
+activa: si
+apellidos: no
+
+[10]
+PlayStation | PlayStation 1 | PS1 | PSX | PS One
+PlayStation 2 | PS2 | Play 2
+PlayStation 3 | PS3 | Play 3
+PlayStation 4 | PS4 | Play 4
+PlayStation 5 | PS5 | Play 5
+Xbox
+Xbox 360
+Nintendo Switch | Switch
+Wii
+Family Game | Family
+
+[30]
+Xbox One
+Xbox Series X | Xbox Series S | Xbox Series
+Nintendo Switch 2 | Switch 2
+Super Nintendo | SNES | Super Famicom
+Nintendo | NES | Famicom | Nintendo Entertainment System
+Nintendo 64 | N64
+GameCube | Nintendo GameCube
+Wii U
+Game Boy
+Game Boy Color
+Game Boy Advance | GBA
+Nintendo DS | DS
+Nintendo 3DS | 3DS
+PSP | PlayStation Portable
+Sega Genesis | Mega Drive | Sega Mega Drive
+Atari 2600 | Atari
+Polystation
+
+[60]
+PS Vita | PlayStation Vita
+Sega Master System | Master System
+Sega Saturn | Saturn
+Dreamcast | Sega Dreamcast
+Game Gear | Sega Game Gear
+Steam Deck
+Neo Geo
+Nintendo DSi | DSi
+Game & Watch | Game and Watch
+Virtual Boy
+Atari Lynx | Lynx
+Atari Jaguar | Jaguar
+Atari 7800
+Atari 5200
+
+[100]
+TurboGrafx-16 | PC Engine | TurboGrafx
+Magnavox Odyssey | Odyssey
+ColecoVision | Coleco
+Intellivision
+3DO
+N-Gage
+Ouya
+Sega CD | Mega CD
+Sega 32X | 32X
+Neo Geo Pocket
+WonderSwan
+Atari VCS
+Philips CD-i | CD-i
+Pippin | Apple Pippin
+Nintendo 2DS | 2DS
+New Nintendo 3DS
+PlayStation Portal

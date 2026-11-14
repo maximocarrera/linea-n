@@ -1,0 +1,63 @@
+# Línea N · una pregunta por archivo. Después de editar: npm run db:import
+# Un nombre por renglón. Variantes con |
+# Niveles: [10] común · [30] poco común · [60] rara · [100] de nicho
+
+categoria: Comida
+consigna: Nombrá una salsa para pasta
+activa: si
+apellidos: no
+
+[10]
+Bolognesa | Boloñesa | Salsa bolognesa
+Fileto | Salsa de tomate | Pomodoro
+Mixta | Rosa | Salsa rosa
+Blanca | Bechamel | Salsa blanca
+Pesto | Pesto genovés
+Carbonara
+Cuatro quesos | 4 quesos
+
+[30]
+Crema | Salsa de crema
+Estofado
+Tuco
+Scarparo
+Puttanesca | Putanesca
+Arrabbiata | Arrabiata
+Amatriciana
+Alfredo
+Aglio e olio | Ajo y aceite | Ajo y aceite de oliva
+Manteca y queso | Manteca | Al burro
+Caruso | Salsa Caruso
+Hongos | Crema de hongos | Funghi | Champiñones
+Napolitana
+Ragú | Ragù
+
+[60]
+Marinara
+Pesto rosso | Pesto rojo
+Alla vodka | Salsa vodka | Vodka
+Cacio e pepe
+Gricia
+Frutti di mare | Mariscos | Salsa de mariscos | Pescatora
+Vongole | Almejas
+Salsa de queso | Queso
+Salsa de nuez | Salsa de nueces | Nueces
+Boscaiola
+Primavera
+Parisienne | Parisien
+Pesto de albahaca
+
+[100]
+Alla Norma | Norma
+Genovese | Genovesa
+Salsa de calabaza | Calabaza
+Salsa de espinaca | Espinaca
+Pesto de rúcula
+Salsa verde
+Salsa de atún | Atún
+Salsa de pimientos | Pimientos
+Salsa de anchoas | Anchoas
+Salsa de limón | Limón
+Crema de puerros | Puerro
+Tetrazzini
+Salsa de cebolla | Cebolla

@@ -1,0 +1,97 @@
+# Línea N · una pregunta por archivo. Después de editar: npm run db:import
+# Un nombre por renglón. Variantes con |
+# Niveles: [10] común · [30] poco común · [60] rara · [100] de nicho
+# Gustos de heladería argentina.
+
+categoria: Comida
+consigna: Nombrá un gusto de helado
+activa: si
+apellidos: no
+
+[10]
+Dulce de leche
+Chocolate
+Frutilla | Frutilla a la crema | Fresa
+Vainilla
+Limón | Limón al agua
+Sambayón | Sabayón
+Crema americana | Americana
+
+[30]
+Granizado | Stracciatella | Chocolate granizado
+Menta granizada | Menta
+Chocolate amargo
+Chocolate suizo
+Chocolate con almendras
+Dulce de leche granizado
+Super dulce de leche | Súper dulce de leche
+Banana split
+Tramontana
+Mascarpone
+Tiramisú
+Pistacho
+Frambuesa
+Durazno
+Ananá | Piña
+Maracuyá
+Mango
+Frutos del bosque | Frutos rojos
+Cereza
+Kinotos al whisky | Quinotos al whisky
+Crema del cielo
+Crema rusa
+Café
+Coco
+Chocolate blanco
+Flan | Flan con dulce de leche
+Cookies | Cookies and cream | Oreo
+Bon o Bon | Bonobon
+Mantecol
+Chocotorta
+
+[60]
+Almendrado | Crema de almendras
+Avellana | Nutella | Gianduia
+Marroc
+Dulce de leche con nuez | Nuez
+Chocolate rocher | Rocher | Ferrero
+Dulce de leche con brownie | Brownie
+Arroz con leche
+Yogur | Yogurt
+Yogur con frutos rojos
+Banana
+Naranja
+Mandarina
+Melón
+Frutilla al agua
+Ron con pasas | Rhum con pasas | Rum con pasas
+Chicle
+Lemon pie
+Moka | Mocca
+Capuchino
+Caramelo
+Caramelo salado
+Cheesecake
+Kiwi
+Sandía
+Manzana verde
+Uva
+Pomelo
+Sambayón con almendras
+
+[100]
+Té verde | Matcha
+Higo
+Dulce de batata
+Algarroba
+Chocolate con naranja
+Chocolate con pimienta
+Maple
+Malvavisco
+Mascarpone con frutos rojos
+Torta de chocolate
+Cabsha
+Kit Kat
+Dulce de leche bombón
+Chocolate con maní | Maní
+Crema de limón

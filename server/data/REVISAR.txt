@@ -250,3 +250,34 @@ tipos-de-calzado / tipos-de-abrigo / cortes-de-pantalon   [?]
 --------------------------------------------------------
   Mezclan nombres argentinos e ingleses (chupín | skinny, piloto | impermeable). Agregá los
   nombres que se usen en tu zona y no estén.
+
+
+BLOQUE 66-76
+============
+
+CONFIABLES
+  consolas-videojuegos, deportes-sobre-hielo, deportes-de-combate, tipos-de-cafe,
+  salsas-para-pasta, huesos-cuerpo-humano, gustos-de-helado.
+
+marcas-agua-argentina.txt   [?][+]
+-------------------------
+  [?] Bonaqua, Manaos, Baggio Fresh, Cunnington, Benedictino: no estoy seguro de que tengan agua
+      a la venta en Argentina hoy. Borralas si no las conocés.
+  [+] Faltan aguas regionales y de dispenser (de cada provincia).
+
+gaseosas-cola-argentina.txt   [?]
+---------------------------
+  [?] Torasso, Mocoretá, Saldán, Cabalgata, Néctar Cola, Doble Cola: marcas regionales o
+      viejas; confirmar que tengan (o hayan tenido) cola.
+  [?] Coca-Cola Life y Pepsi Light ya no se venden; las dejé porque "se vendieron".
+
+marcas-papas-fritas.txt   [?]
+-----------------------
+  [?] Kesbun, Quento y Granja del Sol: confirmar que tengan papas fritas (Granja del Sol son
+      congeladas). Margarita, Kryzpo y Sabritas son de otros países (Colombia, Chile, México).
+
+deportes-con-paleta.txt   [?]
+-----------------------
+  Dejé afuera los de raqueta (tenis, squash, bádminton, frontenis). Si querés aceptarlos,
+  agregalos.
+  [?] Xare se juega con una raqueta especial; Frontball, con la mano o con pala. Borralos si no.

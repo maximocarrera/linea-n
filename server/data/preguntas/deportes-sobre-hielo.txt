@@ -1,0 +1,40 @@
+# Línea N · una pregunta por archivo. Después de editar: npm run db:import
+# Un nombre por renglón. Variantes con |
+# Niveles: [10] común · [30] poco común · [60] rara · [100] de nicho
+
+categoria: Deporte
+consigna: Nombrá un deporte que se juegue sobre hielo
+activa: si
+apellidos: no
+
+[10]
+Hockey sobre hielo | Hockey hielo | Hockey
+Patinaje artístico | Patinaje artístico sobre hielo | Patinaje sobre hielo | Patinaje
+Curling
+
+[30]
+Patinaje de velocidad | Patinaje de velocidad sobre hielo
+Bobsleigh | Bobsled | Bobsled
+Luge
+Skeleton
+Danza sobre hielo | Danza en hielo
+Short track | Pista corta | Patinaje en pista corta
+
+[60]
+Ringette
+Bandy
+Broomball
+Ice cross | Crashed Ice | Ice cross downhill
+Escalada en hielo | Ice climbing
+Para hockey sobre hielo | Sledge hockey | Hockey en trineo
+Patinaje sincronizado
+Speedway sobre hielo | Motociclismo sobre hielo | Ice speedway | Ice racing
+
+[100]
+Stock sport | Eisstockschießen | Curling bávaro
+Vela sobre hielo | Ice yachting | Iceboating
+Carreras de autos sobre hielo
+Golf sobre hielo
+Polo sobre hielo
+Fútbol sobre hielo
+Patinaje de travesía | Patinaje de larga distancia

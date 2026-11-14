@@ -1,0 +1,74 @@
+# Línea N · una pregunta por archivo. Después de editar: npm run db:import
+# Un nombre por renglón. Variantes con |   (nombre actual | nombre clásico | singular/plural)
+# Niveles: [10] común · [30] poco común · [60] rara · [100] de nicho
+
+categoria: General
+consigna: Nombrá un hueso del cuerpo humano
+activa: si
+apellidos: no
+
+[10]
+Fémur
+Tibia
+Peroné | Fíbula
+Húmero
+Radio
+Cúbito | Ulna
+Cráneo
+Costilla | Costillas
+Columna | Columna vertebral | Vértebra | Vértebras
+Clavícula
+Rótula | Patela
+
+[30]
+Esternón
+Escápula | Omóplato
+Mandíbula | Maxilar inferior
+Maxilar | Maxilar superior
+Coxis | Cóccix
+Sacro
+Pelvis | Hueso coxal | Coxal | Ilíaco | Hueso de la cadera | Cadera
+Falange | Falanges
+Metacarpo | Metacarpiano | Metacarpianos
+Metatarso | Metatarsiano | Metatarsianos
+Calcáneo | Talón
+Martillo
+Yunque
+Estribo
+Frontal
+
+[60]
+Parietal
+Temporal
+Occipital
+Esfenoides
+Etmoides
+Nasal | Huesos nasales | Huesos propios de la nariz
+Cigomático | Malar | Pómulo
+Hioides
+Atlas
+Axis
+Astrágalo | Talus
+Escafoides
+Isquion
+Ilion
+Pubis
+Carpo | Carpianos
+Tarso | Tarsianos
+
+[100]
+Lagrimal
+Palatino
+Vómer
+Cornete inferior | Cornete
+Semilunar
+Piramidal
+Pisiforme
+Trapecio
+Trapezoide
+Hueso grande | Grande | Capitate
+Ganchoso | Hamato
+Navicular
+Cuboides
+Cuneiforme | Cuneiformes | Cuña
+Sesamoideo | Sesamoideos

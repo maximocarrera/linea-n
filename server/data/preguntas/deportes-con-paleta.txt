@@ -1,0 +1,31 @@
+# Línea N · una pregunta por archivo. Después de editar: npm run db:import
+# Un nombre por renglón. Variantes con |
+# Niveles: [10] común · [30] poco común · [60] rara · [100] de nicho
+# Deportes que se juegan con paleta (no con raqueta: tenis, squash y bádminton no cuentan).
+
+categoria: Deporte
+consigna: Nombrá un deporte que se juegue con paleta
+activa: si
+apellidos: no
+
+[10]
+Pádel | Padel | Paddle
+Ping pong | Tenis de mesa
+
+[30]
+Paleta | Pelota paleta | Paleta frontón | Frontón
+Beach tennis | Tenis playa | Beach tenis
+Pickleball
+Paletas de playa | Paleta playera | Matkot | Paletas
+Pelota vasca
+
+[60]
+Paleta goma
+Paleta cuero
+Paddle tennis | Pop tennis
+Platform tennis
+Paleta argentina
+
+[100]
+Xare
+Frontball

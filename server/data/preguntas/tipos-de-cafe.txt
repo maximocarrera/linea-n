@@ -1,0 +1,81 @@
+# Línea N · una pregunta por archivo. Después de editar: npm run db:import
+# Un nombre por renglón. Variantes con |
+# Niveles: [10] común · [30] poco común · [60] rara · [100] de nicho
+# Preparaciones de café, métodos y variedades de grano.
+
+categoria: Comida
+consigna: Nombrá un tipo de café
+activa: si
+apellidos: no
+
+[10]
+Espresso | Expreso | Café expreso
+Cortado | Café cortado
+Café con leche
+Capuchino | Cappuccino
+Latte | Café latte
+Lágrima
+Americano | Café americano
+
+[30]
+Ristretto
+Lungo | Café largo
+Macchiato | Manchado | Espresso macchiato
+Latte macchiato
+Mocha | Moka | Mocaccino | Mochaccino
+Flat white
+Café irlandés | Irish coffee
+Café vienés | Vienés
+Frappé | Frappuccino | Café frappé
+Cold brew
+Café helado | Iced coffee | Café con hielo
+Affogato
+Doppio | Doble | Café doble
+Carajillo
+Café bombón
+Descafeinado | Café descafeinado
+Café instantáneo | Café soluble | Nescafé
+Café turco
+Café filtrado | Filtrado | Café de filtro | Drip
+
+[60]
+Café de olla
+Cortado en jarrito | Jarrito
+Café negro | Café solo | Solo
+Café de prensa francesa | Prensa francesa
+Café de cafetera italiana | Moka italiana | Cafetera italiana
+Cortadito | Cortadito cubano
+Café cubano | Cafecito
+Red eye
+Café crema | Café con crema
+Breve
+Dalgona
+Café vietnamita
+Espresso tonic
+Corretto | Espresso corretto
+Café au lait
+Long black
+Piccolo
+Arábica | Arabica
+Robusta
+Colombiano | Café colombiano
+Torrado | Café torrado
+
+[100]
+Galão
+Liberica
+Excelsa
+Kopi luwak
+Chemex
+V60 | Pour over
+Aeropress
+Café de Etiopía | Etíope
+Café de Brasil | Brasileño
+Café de especialidad | Especialidad
+Café verde
+Café tostado natural | Tostado natural
+Bulletproof | Café bulletproof
+Café con canela
+Marocchino
+Cortado condensado | Bombón
+Café de máquina

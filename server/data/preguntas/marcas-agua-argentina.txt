@@ -1,0 +1,33 @@
+# Línea N · una pregunta por archivo. Después de editar: npm run db:import
+# Un nombre por renglón. Variantes con |
+# Niveles: [10] común · [30] poco común · [60] rara · [100] de nicho
+# Aguas minerales, de mesa y saborizadas que se venden en Argentina.
+
+categoria: Comida
+consigna: Nombrá una marca de agua argentina
+activa: si
+apellidos: no
+
+[10]
+Villavicencio | Termas de Villavicencio
+Villa del Sur
+Eco de los Andes | Eco
+Glaciar
+Levité | Levite | Villa del Sur Levité
+
+[30]
+Nestlé Pureza Vital | Pureza Vital | Nestlé
+Ser | Ser saborizada
+Kin
+Cimes
+Aquarius
+H2OH | H2Oh!
+Ivess
+Sierra de los Padres
+
+[60]
+Bonaqua
+Manaos
+Baggio Fresh | Baggio
+Cunnington
+Benedictino

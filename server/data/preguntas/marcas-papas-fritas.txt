@@ -1,0 +1,44 @@
+# Línea N · una pregunta por archivo. Después de editar: npm run db:import
+# Un nombre por renglón. Variantes con |
+# Niveles: [10] común · [30] poco común · [60] rara · [100] de nicho
+# Marcas de papas fritas de paquete y congeladas (argentinas e internacionales).
+
+categoria: Comida
+consigna: Nombrá una marca de papas fritas
+activa: si
+apellidos: no
+
+[10]
+Lay's | Lays
+Pringles
+Pehuamar
+
+[30]
+Krachitos
+Ruffles
+McCain
+Quento
+Kesbun
+Granja del Sol
+
+[60]
+Kettle | Kettle Brand
+Walkers
+Sabritas
+Margarita
+Kryzpo
+Pay | Papas pay
+Frito-Lay | Frito Lay
+
+[100]
+Cape Cod
+Utz
+Herr's
+Wise
+Calbee
+Tyrrell's
+Smiths
+Lay's Stax | Stax
+Farm Frites
+Simplot
+Lamb Weston
