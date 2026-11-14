@@ -1,0 +1,81 @@
+# Línea N · una pregunta por archivo. Después de editar: npm run db:import
+# Un nombre por renglón. Variantes con |
+# Niveles: [10] común · [30] poco común · [60] rara · [100] de nicho
+# Artistas principales de los álbumes ganadores del Grammy a Álbum del Año (1959-2026; 2026: Bad Bunny).
+
+categoria: Música
+consigna: Nombrá un artista que haya ganado el Grammy a Álbum del Año
+activa: si
+apellidos: no
+
+[10]
+Taylor Swift
+Bad Bunny
+Michael Jackson
+Adele
+Billie Eilish
+Bruno Mars
+Beyoncé
+Harry Styles
+The Beatles | Beatles | Los Beatles
+U2
+Daft Punk
+
+[30]
+Stevie Wonder
+Frank Sinatra
+Fleetwood Mac
+Paul Simon
+Simon & Garfunkel | Simon y Garfunkel
+Phil Collins
+Eric Clapton
+Whitney Houston
+Celine Dion | Céline Dion
+Santana | Carlos Santana
+Norah Jones
+OutKast
+Ray Charles
+Alanis Morissette
+Lauryn Hill
+Bob Dylan
+Kacey Musgraves
+Jon Batiste
+Arcade Fire
+Mumford & Sons | Mumford and Sons
+Beck
+George Michael
+Lionel Richie
+Billy Joel
+Bee Gees
+Tony Bennett
+Dixie Chicks | The Chicks
+John Lennon
+Yoko Ono
+Carole King
+Barbra Streisand
+George Harrison
+
+[60]
+Herbie Hancock
+Robert Plant
+Alison Krauss
+Steely Dan
+Bonnie Raitt
+Natalie Cole
+Quincy Jones
+Toto
+Christopher Cross
+Glen Campbell
+Blood, Sweat & Tears | Blood Sweat and Tears
+Stan Getz
+João Gilberto
+Judy Garland
+Henry Mancini
+Ravi Shankar
+Ringo Starr
+
+[100]
+Bob Newhart
+Vaughn Meader
+Astrud Gilberto
+Finneas

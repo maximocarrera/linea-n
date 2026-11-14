@@ -1,0 +1,111 @@
+# Línea N · una pregunta por archivo. Después de editar: npm run db:import
+# Un nombre por renglón. Variantes con |
+# Niveles: [10] común · [30] poco común · [60] rara · [100] de nicho
+# Último Quilmes Rock: edición 2025 (5, 6, 12 y 13 de abril, Tecnópolis). En 2026 no hubo;
+# el próximo es abril de 2027. Fuentes: Mercado, Río Negro, La Nación. Ver REVISAR.txt.
+# OJO: después de abril de 2027, reemplazar con ese lineup.
+
+categoria: Música
+consigna: Nombrá un artista que haya tocado en el último Quilmes Rock
+activa: si
+apellidos: no
+
+[10]
+Andrés Calamaro | Calamaro
+Los Fabulosos Cadillacs | Fabulosos Cadillacs | Los Cadillacs
+Miranda! | Miranda
+Los Piojos
+Babasónicos
+No Te Va Gustar | NTVG
+Serú Girán | Serú Girán y amigos
+
+[30]
+Las Pelotas
+Las Pastillas del Abuelo
+Los Auténticos Decadentes
+Dillom
+El Mató a un Policía Motorizado | El Mató
+Rata Blanca
+La Vela Puerca
+Zoe Gotusso
+Conociendo Rusia
+Los Tipitos
+El Kuelgue
+Los Pericos
+Virus
+Vilma Palma e Vampiros | Vilma Palma
+Eruca Sativa
+Estelares
+Los Cafres
+Indios
+Kchiporros
+La Chancha Muda
+Juana Molina
+Benito Cerati
+Dante Spinetta
+Hilda Lizarazu
+Juan Ingaramo
+
+[60]
+Hipnótica
+Rayos Láser
+Los Tabaleros
+Sueter
+Mr. Kilombo
+El Zar
+Meme del Real
+Fantasmagoria
+Don Adams
+1915
+2 Minutos | Dos Minutos
+Barco
+Bicicletas3000
+Bruno Albano
+Chechi de Marcos
+Clara Cava
+Coral
+Diosque
+Ella Es Tan Cargosa
+Francisca y los Exploradores
+Feli Colina
+Fede Cabral
+Fonso y Las Paritarias
+Ibiza Pareo
+Jacinta Fischer
+Javiera Mena
+Joystick
+Juliana Gattas
+Jimena Gonik
+La Burrita Cumbión
+La Portuaria
+La Valenti
+Las Ligas Menores
+Lisa Scha
+Lobel
+Los Brujos
+Los Látigos
+Mamá Pulpa
+Mano
+Manu Torres
+Manu Martínez
+María Ezquiaga
+Mi Amigo Invencible
+Mike Amigorena
+Onoff
+Pacífica
+Paul Higgs & Las Avispas | Paul Higgs
+Pels
+Pilar Gough
+Potra
+Richard Coleman
+Ryan
+Santi Celli
+Sakatumba
+Sr. Flavio | Señor Flavio
+Sonic B
+Turf
+Uma
+Un Brujo Lee-Chi
+Viva Elástico
+Walter Domínguez
+Zuker XP Nacional

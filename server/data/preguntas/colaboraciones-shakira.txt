@@ -1,0 +1,44 @@
+# Línea N · una pregunta por archivo. Después de editar: npm run db:import
+# Un nombre por renglón. Variantes con |
+# Niveles: [10] común · [30] poco común · [60] rara · [100] de nicho
+# Artistas con canciones junto a Shakira (feat., duetos y remixes oficiales).
+
+categoria: Música
+consigna: Nombrá un artista que haya colaborado con Shakira
+activa: si
+apellidos: no
+
+[10]
+Bizarrap
+Karol G
+Maluma
+Alejandro Sanz
+Beyoncé
+Wyclef Jean
+Rihanna
+Carlos Vives
+Ozuna
+Rauw Alejandro
+
+[30]
+Manuel Turizo
+Fuerza Regida
+Cardi B
+Nicky Jam
+Prince Royce
+Anuel AA | Anuel
+Black Eyed Peas | The Black Eyed Peas
+David Guetta
+Pitbull
+Freshlyground
+Burna Boy
+Grupo Frontera
+El Cata
+Gustavo Cerati | Cerati
+Miguel Bosé
+Carlos Santana | Santana
+Blake Shelton
+Carlinhos Brown
+Lil Wayne
+Kid Cudi
+Dizzee Rascal

@@ -1,0 +1,54 @@
+# Línea N · una pregunta por archivo. Después de editar: npm run db:import
+# Un nombre por renglón. Variantes con |
+# Niveles: [10] común · [30] poco común · [60] rara · [100] de nicho
+# Artistas argentinos que ganaron al menos un Latin Grammy en cualquier categoría
+# (incluye Premio a la Excelencia). Ver REVISAR.txt: la de [60] y [100] hay que confirmarla.
+
+categoria: Música
+consigna: Nombrá un artista argentino que haya ganado un Grammy Latino
+activa: si
+apellidos: no
+
+[10]
+Fito Páez
+Gustavo Cerati | Cerati
+Bizarrap
+Mercedes Sosa
+Andrés Calamaro | Calamaro
+Ca7riel y Paco Amoroso | Ca7riel | Paco Amoroso
+Milo J
+Nathy Peluso
+
+[30]
+Gustavo Santaolalla | Santaolalla
+Bajofondo
+Diego Torres
+Pedro Aznar
+Los Fabulosos Cadillacs | Fabulosos Cadillacs
+Vicentico
+Charly García
+Luis Alberto Spinetta | Spinetta
+Soda Stereo
+Divididos
+Babasónicos
+Los Auténticos Decadentes
+Kevin Johansen
+Ricardo Montaner
+Abel Pintos
+Soledad | Soledad Pastorutti
+León Gieco
+
+[60]
+Wos
+Coti
+Alejandro Lerner
+Leopoldo Federico
+Escalandrum
+Pablo Ziegler
+Chango Spasiuk
+Lisandro Aristimuño
+Liliana Herrero
+Raúl Barboza
+Los Nocheros
+Chaqueño Palavecino
+Duki

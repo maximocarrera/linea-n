@@ -316,3 +316,58 @@ huesos-cuerpo-humano.txt
 ------------------------
   75 nombres distintos. El cuerpo tiene 206 huesos, pero casi todos están repetidos
   (izquierdo/derecho, 33 vértebras, 24 costillas, 56 falanges...).
+
+
+BLOQUE 88-100 (MÚSICA)
+======================
+
+VERIFICADAS EN INTERNET (14/11/2026)
+  grammy-album-del-ano: 2026 = Bad Bunny (DeBÍ TiRAR MáS FOToS).
+  grammy-latino-album-del-ano: 2026 = Rosalía (Lux), gala del 12/11/2026.
+  bzrp-sessions: Vol. 0 (Daddy Yankee) a Vol. 62 (J Balvin) + Myke Towers (Wikipedia).
+      [?] Falta el Vol. 42 (Wikipedia no lo nombraba). [!] Sumar las sesiones nuevas.
+  lollapalooza-argentina-2026: lineup día por día de Billboard Argentina (13-15/3/2026).
+      [!] Reemplazar después del Lolla 2027.
+  super-bowl-medio-tiempo: 2026 = Bad Bunny con Lady Gaga y Ricky Martin.
+      [?] Karol G, Cardi B, Young Miko y Tini estuvieron en "La Casita" (cameo, no cantaron):
+      están en [100], borralos si no te parecen válidos.
+  canciones-mundial: incluye el álbum oficial 2026 (18 temas) y "Dai Dai" (Shakira y Burna Boy).
+
+crossover-big-one.txt   [+] INCOMPLETA
+---------------------
+  Confirmados: Crossover #1 al #8, #12 (Katteyes y Doble P) y #13 (Lit Killah y Yami Safdie).
+  [+] Faltan los artistas del #9, #10, #11 y #14 en adelante.
+  [+] No encontré nada sobre "¡FA!": pasame quiénes participaron y lo sumo.
+
+quilmes-rock-ultimo.txt   [!]
+-----------------------
+  En 2026 no hubo Quilmes Rock: el último es el de 2025 (abril, Tecnópolis) y el próximo es en
+  abril de 2027. Lista armada con el primer anuncio + grillas parciales; pueden faltar nombres.
+
+movistar-arena-2026.txt   [?]
+-----------------------
+  Sin calendario oficial: armada con agendas (Setlist.fm, Concert Archives, Rio Times).
+  [?] Rosalía, Robbie Williams, Zayn, Morat, Pimpinela, Bunbury, Jesse & Joy, Arcángel,
+      Rawayana: aparecen "listados para 2026" sin fecha exacta.
+  [?] Todavía no tocaron: Las Pastillas del Abuelo (20-21/11), Eros Ramazzotti (28/11),
+      Omar Courtz, Babymetal (1/12), Kreator (14/12).
+
+tiny-desk-espanol.txt   [?]
+---------------------
+  Confirmados: El Tiny 2024 (Ca7riel y Paco Amoroso, Juanes, Danny Ocean, Eladio Carrión, Rita
+  Payés, Fabiola Méndez), 2025 (Carlos Vives, Silvana Estrada, Fito Páez, Bad Bunny) y 2026
+  (Mon Laferte, Los Tigres del Norte, Draco Rosa, Yendry, Alex Ferreira, Panteón Rococó,
+  Los Mirlos, Los Texmaniacs, Melissa Aldana y Gonzalo Rubalcaba).
+  [?] El resto es de memoria: confirmar en npr.org/series/tiny-desk-concerts.
+
+argentinos-grammy-latino.txt   [?]
+----------------------------
+  [10] y [30] son bastante seguros. [?] Los de [60] (Wos, Coti, Alejandro Lerner, Leopoldo
+  Federico, Escalandrum, Pablo Ziegler, Chango Spasiuk, Aristimuño, Liliana Herrero, Raúl
+  Barboza, Los Nocheros, Chaqueño Palavecino, Duki): no sé si ganaron o solo fueron nominados.
+  Ricardo Montaner nació en Argentina pero se lo asocia a Venezuela.
+
+colaboraciones-shakira.txt / canciones-shakira.txt
+--------------------------------------------------
+  [?] Canciones de [100] (Magia, Peligro, Tus gafas oscuras, Sueños, Controlas mi destino) son de
+      sus dos primeros discos, que ella no reconoce. Borralas si querés.

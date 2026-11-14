@@ -1,0 +1,122 @@
+# Línea N · una pregunta por archivo. Después de editar: npm run db:import
+# Un nombre por renglón. Variantes con |
+# Niveles: [10] común · [30] poco común · [60] rara · [100] de nicho
+# Canciones de Shakira (solista y colaboraciones donde es artista principal o invitada).
+
+categoria: Música
+consigna: Nombrá una canción de Shakira
+activa: si
+apellidos: no
+
+[10]
+Hips Don't Lie | Hips dont lie
+Waka Waka | Waka Waka (Esto es África)
+La tortura
+Ojos así
+Whenever, Wherever | Whenever Wherever
+Suerte
+Bzrp Music Session 53 | Session 53 | Music Session 53 | Shakira Bzrp
+TQG
+Chantaje
+Loca
+Estoy aquí
+La bicicleta
+She Wolf | Loba
+
+[30]
+Pies descalzos, sueños blancos | Pies descalzos
+Antología
+Ciega, sordomuda | Ciega sordomuda
+Inevitable
+Moscas en la casa
+Te dejo Madrid
+Objection | Objection (Tango) | Te aviso, te anuncio
+Underneath Your Clothes
+Beautiful Liar
+Can't Remember to Forget You | Nunca me acuerdo de olvidarte
+Rabiosa
+Sale el sol
+Antes de las seis
+Me enamoré
+Clandestino
+Perro fiel
+Copa vacía
+Te felicito
+Monotonía
+El jefe
+Puntería
+Acróstico
+Soltera
+Dai Dai
+La La La | La La La (Brazil 2014) | Dare (La La La)
+Día de enero
+Si te vas
+Tú
+No creo
+Gitana
+Did It Again | Lo hecho está hecho
+Las de la intuición
+Illegal
+Empire
+Trap
+Me gusta
+Girl Like Me
+Don't You Worry
+Deja vu
+Addicted to You
+Nada
+Don't Bother | No
+Que me quedes tú | The One
+Un poco de amor
+Gordita
+
+[60]
+Sombra de ti
+Octavo día
+Pienso en ti
+Que vuelvas
+Quiero
+Dónde estás corazón
+Se quiere, se mata
+Te espero sentada
+Eres
+Rules
+Fool
+Poem to a Horse
+Ready for the Good Times
+Hey You
+Hay amores
+Día especial
+Escondite inglés
+Obtener un sí
+En tus pupilas
+Lo que más
+Devoción
+Islands
+Mariposas
+Chasing Shadows
+Medicine
+Comme moi
+Amarillo
+Coconut Tree
+When a Woman
+Toneladas
+(Entre paréntesis) | Entre paréntesis
+Cómo dónde y cuándo
+Nassau
+Última
+Cohete
+Te necesito
+Vuelve
+Spy
+Good Stuff
+Long Time
+Men in This Town
+Why Wait
+
+[100]
+Magia
+Peligro
+Tus gafas oscuras | Gafas oscuras
+Sueños
+Controlas mi destino

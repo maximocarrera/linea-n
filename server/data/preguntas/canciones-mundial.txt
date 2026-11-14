@@ -1,0 +1,98 @@
+# Línea N · una pregunta por archivo. Después de editar: npm run db:import
+# Un nombre por renglón. Variantes con |
+# Niveles: [10] común · [30] poco común · [60] rara · [100] de nicho
+# Intérpretes de canciones oficiales de los Mundiales (himnos y álbumes oficiales de FIFA).
+# 2026: "Dai Dai" (himno) y el álbum oficial de 18 temas (N+, junio 2026).
+
+categoria: Música
+consigna: Nombrá un artista que haya cantado en una canción oficial de un Mundial
+activa: si
+apellidos: no
+
+[10]
+Shakira
+Ricky Martin
+Pitbull
+Jennifer Lopez | JLo
+Nicky Jam
+Maluma
+Jung Kook | Jungkook
+Burna Boy
+
+[30]
+Freshlyground
+K'naan | Knaan
+Jason Derulo
+Era Istrefi
+Claudia Leitte
+Ozuna
+Gims | Maître Gims
+Nicki Minaj
+Davido
+Anastacia
+Il Divo
+Toni Braxton
+Gianna Nannini
+Edoardo Bennato
+Youssou N'Dour
+Axelle Red
+Plácido Domingo
+Daddy Yankee
+Anitta
+Lisa | LISA
+Carín León
+Jelly Roll
+Andrea Bocelli
+Megan Thee Stallion
+Danny Ocean
+Alejandro Fernández
+The Rolling Stones | Rolling Stones
+Los Ángeles Azules
+Belinda
+Robbie Williams
+Laura Pausini
+
+[60]
+Daryl Hall
+Sounds of Blackness
+Herbert Grönemeyer
+R. Kelly
+Myriam Fares
+Fahad Al Kubaisi
+Trinidad Cardona
+Aisha
+Rema
+Future
+Tyla
+Jessie Reyez
+Elyanna
+Shenseea
+21 Savage
+French Montana
+Major Lazer
+Nelly Furtado
+Ayra Starr
+Latto
+Stormzy
+Fridayy
+Ava Max
+Nora Fatehi
+Vegedream
+Shaggy
+Cimafunk
+IShowSpeed
+EJAE
+David Guetta
+Cirkut
+
+[100]
+Stephanie Lawrence
+Maryla Rodowicz
+Los Ramblers
+Lonnie Donegan
+Vangelis
+Nata Cano
+Angel
+BIA
+Sanjoy
+Zema

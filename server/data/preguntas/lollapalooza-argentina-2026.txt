@@ -1,0 +1,86 @@
+# Línea N · una pregunta por archivo. Después de editar: npm run db:import
+# Un nombre por renglón. Variantes con |
+# Niveles: [10] común · [30] poco común · [60] rara · [100] de nicho
+# Lineup del último Lollapalooza Argentina (13 al 15 de marzo de 2026, Billboard Argentina).
+# OJO: actualizar con el lineup de 2027 cuando pase la edición.
+
+categoria: Música
+consigna: Nombrá un artista que haya tocado en el último Lollapalooza Argentina
+activa: si
+apellidos: no
+
+[10]
+Sabrina Carpenter
+Tyler, The Creator | Tyler the Creator
+Chappell Roan
+Lorde
+Skrillex
+Paulo Londra
+Deftones
+Doechii
+Kygo
+
+[30]
+Lewis Capaldi
+Turnstile
+Addison Rae
+Katseye
+Danny Ocean
+Interpol
+Ratones Paranoicos
+Ángela Torres
+Soledad | Soledad Pastorutti
+Peggy Gou
+Judeline
+Royel Otis
+Lany
+TV Girl
+Marina | Marina and the Diamonds
+Blood Orange
+Viagra Boys
+The Warning
+Men I Trust
+Yami Safdie
+Guitarricadelafuente
+Militantes del Clímax
+Massacre
+RIIZE
+Ruel
+DJO
+Gordo
+
+[60]
+Brutalismus 3000
+Amigo de Artistas
+SIX SEX
+Hamdi
+2hollis
+Ben Böhmer
+horsegiirL
+Ezequiel Arias
+Reybruja
+Ludmila di Pasquale
+143leti
+RYAN
+Félix Vestre
+Cerounno
+Saramalacara
+BUNT.
+Balu Brigada
+Little Boogie
+Zeil
+Turf
+RØZ | ROZ
+Mora Fisz
+Jero Jones
+Tiger Mood
+Spaghetti Western
+Victoria Whynot
+Tobika
+Paula Os
+Marttein
+TERRA
+Nasa Histoires
+TIMØ | TIMO
+Imbermind
+Romullas

@@ -1,0 +1,121 @@
+# Línea N · una pregunta por archivo. Después de editar: npm run db:import
+# Un nombre por renglón. Variantes con |
+# Niveles: [10] común · [30] poco común · [60] rara · [100] de nicho
+# Artistas que actuaron en un show de medio tiempo del Super Bowl (hasta 2026: Bad Bunny,
+# con Lady Gaga y Ricky Martin). Incluye invitados.
+
+categoria: Música
+consigna: Nombrá un artista o banda que haya participado en un show de medio tiempo del Super Bowl
+activa: si
+apellidos: no
+
+[10]
+Shakira
+Jennifer Lopez | JLo
+Bad Bunny
+Rihanna
+Michael Jackson
+Beyoncé
+Bruno Mars
+Lady Gaga
+Katy Perry
+The Weeknd
+Kendrick Lamar
+Coldplay
+Madonna
+Justin Timberlake
+Usher
+Eminem
+
+[30]
+J Balvin
+Ricky Martin
+Dr. Dre
+Snoop Dogg
+50 Cent
+Mary J. Blige
+SZA
+Alicia Keys
+Maroon 5
+Travis Scott
+Prince
+Paul McCartney
+The Rolling Stones | Rolling Stones | Los Rolling Stones
+U2
+Bruce Springsteen
+The Who
+Tom Petty
+Black Eyed Peas
+Red Hot Chili Peppers
+Janet Jackson
+Britney Spears
+NSYNC | N Sync
+Aerosmith
+Christina Aguilera
+Enrique Iglesias
+Gloria Estefan
+Stevie Wonder
+Phil Collins
+Missy Elliott
+Lenny Kravitz
+Nicki Minaj
+Destiny's Child
+Shania Twain
+No Doubt
+Sting
+Diana Ross
+James Brown
+Ludacris
+Lil Jon
+
+[60]
+Emme | Emme Muñiz
+Anderson .Paak
+H.E.R.
+Jermaine Dupri
+will.i.am
+Mustard
+Big Boi
+Mark Ronson
+Slash
+LMFAO
+M.I.A.
+CeeLo Green
+Kelly Rowland
+Michelle Williams
+P. Diddy | Diddy | Puff Daddy
+Nelly
+Kid Rock
+Jessica Simpson
+Toni Braxton
+Boyz II Men
+Smokey Robinson
+The Temptations
+Queen Latifah
+ZZ Top
+The Blues Brothers | Blues Brothers
+Patti LaBelle
+Tony Bennett
+Arturo Sandoval
+Miami Sound Machine
+Clint Black
+Tanya Tucker
+Travis Tritt
+The Judds | Wynonna Judd
+Big Bad Voodoo Daddy
+Savion Glover
+New Kids on the Block
+Chubby Checker
+Serena Williams
+
+[100]
+Karol G
+Cardi B
+Young Miko
+Tini
+Martha Reeves
+Dan Aykroyd
+John Goodman
+Jim Belushi
+Carol Channing
+Up with People

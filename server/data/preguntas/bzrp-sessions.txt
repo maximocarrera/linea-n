@@ -1,0 +1,79 @@
+# Línea N · una pregunta por archivo. Después de editar: npm run db:import
+# Un nombre por renglón. Variantes con |
+# Niveles: [10] común · [30] poco común · [60] rara · [100] de nicho
+# Artistas con una Bzrp Music Session (Vol. 0 a 62 y la de Myke Towers, según Wikipedia, nov. 2026).
+# OJO: sumar las sesiones nuevas cuando salgan.
+
+categoria: Música
+consigna: Nombrá un artista que tenga una BZRP Session
+activa: si
+apellidos: no
+
+[10]
+Shakira
+Quevedo
+Duki
+Nicki Nicole
+Paulo Londra
+Peso Pluma
+Residente
+Nathy Peluso
+Milo J
+Trueno
+L-Gante
+
+[30]
+Villano Antillano
+Young Miko
+Rauw Alejandro
+Arcángel
+Anuel AA | Anuel
+Nicky Jam
+Tiago PZK
+Morad
+Eladio Carrión
+Cazzu
+Khea
+Ysy A
+Ca7riel
+Paco Amoroso
+Dillom
+J Balvin
+Daddy Yankee
+Myke Towers
+Luck Ra
+Bhavi
+Snow Tha Product
+Natanael Cano
+Louta
+Lismar
+
+[60]
+Ecko
+Blunted Vato
+Pekeño 77
+Kódigo
+DrefQuila
+Zanto
+Frijo
+Kiddo Toto
+Mesita
+Alemán
+Kinder Malo
+John C
+Polimá Westcoast
+Neutro Shorty
+Lalo Ebratt
+Dani Ribba
+Don Patricio
+Lucho SSJ
+Bejo
+Big Soto
+C.R.O | CRO
+Homer el Mero Mero
+Zaramay
+Seven Kayne
+Asan
+Chucky73
+MHD
+Ptazeta
