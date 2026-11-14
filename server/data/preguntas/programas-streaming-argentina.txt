@@ -4,7 +4,7 @@
 # Programas de los canales de streaming argentinos.
 
 categoria: Streaming
-consigna: Nombrá un programa de streaming argentino
+consigna: Nombrá un programa que este en un Streaming Argentino
 activa: si
 apellidos: no
 
@@ -30,5 +30,44 @@ Vuelta y Media
 Seguimos
 Mi Primo es Así
 Un Poco de Ruido
-BZRP Music Sessions | Bizarrap Music Sessions | Bzrp Sessions
 La Misa
+Se extraña a la nona 
+Rumis
+
+[67]
+Tapados de laburo
+
+[70]
+Desde el respeto
+La Gambeta
+Todo lo Contrario
+
+[100]
+No preguntes por Rusia
+¿Y qué? | y que 
+No se pudo
+Se nota mucho 
+Esto no sucedió
+Gol gana
+Por favor rebobinar | Porfavor rebobinar
+Luzu Te Activa
+Un Mediodía Mejor
+La Novela
+Los del Fondo
+Los No Talentos
+Anda Pa Allá | Anda Pa Alla 
+El After
+La Jugada
+¿Cómo caímos? | Como caimos
+Tarde de Rosca
+Que alguien le avise
+Despierta la Casa
+Que Día! | Que dia 
+Ultimo Aviso
+Blender at Night
+La Trinchera
+La Fuerza
+Línea Roja
+Un Café con Ruckauf | Un Cafe con Ruckauf
+Las Tres Anclas
+La Otra Cara
