@@ -212,3 +212,41 @@ argentinos-campeones-champions.txt   [?]
 
 CONFIABLES
   paises-copa-america (los 19), paises-eurocopa (los 37), campeones-mundial-86 (los 22).
+
+
+BLOQUE 55-65
+============
+
+VERIFICADAS EN INTERNET (14/11/2026)   [!] vencen cada temporada
+  equipos-libertadores-2026: los 47 de la edición 2026, fases previas incluidas (Wikipedia).
+      Actualizar en febrero de 2027.
+  equipos-champions-2026-27: los 36 de la fase liga (Wikipedia). Actualizar a fines de agosto.
+
+jugadores-nba-actuales.txt   [?][!]
+--------------------------
+  Novatos: la primera ronda del draft 2026 está verificada (Wikipedia).
+  [?] Veteranos: salen de lo que jugaba en 2025-26 y no pude confirmar los retiros del verano de
+      2026. Revisar sobre todo LeBron James, Al Horford, Mike Conley, Kevin Love, Kyle Anderson,
+      Russell Westbrook, DeMar DeRozan, Klay Thompson, Ben Simmons, Mason Plumlee.
+      (Chris Paul quedó afuera porque anunció que 2025-26 era su última temporada.)
+  [+] Faltan suplentes de rotación: la NBA tiene unos 450 jugadores y la lista tiene 272.
+
+escuderias-f1.txt   [?]
+-----------------
+  [?] Algunos de [100] son equipos de los 50 a los 80 de los que no estoy 100% seguro del nombre
+      exacto (Kauhsen, Merzario, Theodore, Connaught, Talbot-Lago).
+  [?] Lotus: hay 3 Lotus distintos (Team Lotus clásico, Lotus Racing 2010-11 y Lotus F1 2012-15);
+      acá cuentan como 2 respuestas.
+
+marcas-de-relojes / marcas-de-lujo / marcas-ropa-deportiva   [?]
+-----------------------------------------------------------
+  [?] Relojes: Mistral, Welder, Viceroy, Q&Q, Swiss Legend son marcas de gama baja/media; si
+      solo querés relojería "seria", borralas.
+  [?] Lujo: Calvin Klein, Tommy Hilfiger, Lacoste, Diesel, Michael Kors, Coach, Kate Spade son
+      "premium" más que lujo. Tiffany, Cartier, Bulgari y Rimowa no son de ropa.
+  [?] Deportiva: Decathlon (y sus marcas Kipsta, Kalenji, Quechua) es una cadena de tiendas.
+
+tipos-de-calzado / tipos-de-abrigo / cortes-de-pantalon   [?]
+--------------------------------------------------------
+  Mezclan nombres argentinos e ingleses (chupín | skinny, piloto | impermeable). Agregá los
+  nombres que se usen en tu zona y no estén.

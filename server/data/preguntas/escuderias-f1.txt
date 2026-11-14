@@ -1,0 +1,105 @@
+# Línea N · una pregunta por archivo. Después de editar: npm run db:import
+# Un nombre por renglón. Variantes con |
+# Niveles: [10] común · [30] poco común · [60] rara · [100] de nicho
+# Escuderías (constructores) que corrieron en la Fórmula 1, de 1950 a 2026.
+# Los nombres comerciales de un mismo equipo valen como variantes.
+
+categoria: Deporte
+consigna: Nombrá una escudería que haya competido en la F1
+activa: si
+apellidos: no
+
+[10]
+Ferrari | Scuderia Ferrari
+Mercedes | Mercedes AMG | Mercedes-Benz
+Red Bull | Red Bull Racing
+McLaren
+Williams
+Alpine
+
+[30]
+Aston Martin
+Renault
+Haas
+Sauber | Kick Sauber | Stake
+Audi
+Alfa Romeo
+Racing Bulls | RB | Visa Cash App RB
+AlphaTauri | Alpha Tauri
+Toro Rosso
+Lotus | Team Lotus
+Cadillac
+Brabham
+Benetton
+Jordan
+Minardi
+Honda
+Toyota
+Force India
+Racing Point
+Tyrrell
+
+[60]
+BAR | British American Racing
+Jaguar
+Stewart | Stewart Grand Prix
+Ligier
+Prost | Prost Grand Prix
+Arrows
+Footwork
+March
+BRM
+Cooper
+Maserati
+Vanwall
+Matra
+BMW Sauber | BMW
+Super Aguri
+Spyker
+Midland
+Caterham
+Marussia
+Manor
+Virgin | Virgin Racing
+HRT | Hispania
+Lola
+Toleman
+Hesketh
+Shadow
+Lancia
+Porsche
+Wolf
+Fittipaldi | Copersucar
+Surtees
+Brawn GP | Brawn
+
+[100]
+Simtek
+Pacific
+Forti
+Larrousse
+Dallara | BMS Scuderia Italia
+Osella
+Zakspeed
+AGS
+Coloni
+EuroBrun
+Life
+Andrea Moda
+Onyx
+Rial
+Leyton House
+Penske
+Parnelli
+Ensign
+ATS
+Theodore
+Gordini
+Talbot | Talbot-Lago
+Connaught
+Eagle
+Spirit
+RAM
+Kauhsen
+Merzario
+Lotus Renault | Lotus F1

@@ -1,0 +1,112 @@
+# Línea N · una pregunta por archivo. Después de editar: npm run db:import
+# Un nombre por renglón. Variantes con |
+# Niveles: [10] común · [30] poco común · [60] rara · [100] de nicho
+
+categoria: Ropa
+consigna: Nombrá una marca de relojes
+activa: si
+apellidos: no
+
+[10]
+Rolex
+Casio
+Swatch
+Omega
+Tissot
+Apple Watch | Apple
+
+[30]
+Tag Heuer | TAG Heuer | Heuer
+Seiko
+Citizen
+Patek Philippe | Patek
+Audemars Piguet | AP
+Cartier
+Fossil
+Garmin
+Samsung | Galaxy Watch
+Hublot
+Breitling
+Longines
+Festina
+Timex
+Guess
+Michael Kors
+Diesel
+Mistral
+Tommy Hilfiger
+Daniel Wellington
+
+[60]
+Richard Mille
+Vacheron Constantin
+IWC | IWC Schaffhausen
+Jaeger-LeCoultre | Jaeger LeCoultre
+Panerai | Officine Panerai
+Tudor
+Zenith
+Montblanc | Mont Blanc
+Bulgari | Bvlgari
+Chopard
+Breguet
+Blancpain
+Oris
+Rado
+Hamilton
+Movado
+Raymond Weil
+Maurice Lacroix
+Frederique Constant
+Certina
+Mido
+Victorinox | Swiss Army
+Orient
+Bulova
+G-Shock
+Polar
+Suunto
+Fitbit
+Xiaomi | Mi Band
+Huawei
+Amazfit
+Armani | Emporio Armani
+Calvin Klein
+Lacoste
+Nixon
+Swiss Military
+Q&Q
+
+[100]
+A. Lange & Söhne | Lange & Söhne | A Lange
+Glashütte Original | Glashutte
+Nomos
+Ulysse Nardin
+Girard-Perregaux | Girard Perregaux
+Piaget
+Jaquet Droz
+Grand Seiko
+Baume & Mercier | Baume et Mercier
+Corum
+Franck Muller
+Roger Dubuis
+H. Moser & Cie | Moser
+F.P. Journe | FP Journe
+MB&F
+Greubel Forsey
+Bell & Ross
+Sinn
+Junghans
+Edox
+Alpina
+Ball
+Luminox
+Invicta
+Skagen
+Police
+Lotus
+Viceroy
+Swiss Legend
+Welder
+Paul Hewitt
+Mondaine
+Doxa

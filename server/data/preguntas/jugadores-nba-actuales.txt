@@ -1,0 +1,291 @@
+# Línea N · una pregunta por archivo. Después de editar: npm run db:import
+# Un nombre por renglón. Variantes con |
+# Niveles: [10] común · [30] poco común · [60] rara · [100] de nicho
+# Jugadores en planteles NBA para la temporada 2026-27. Los veteranos salen de lo que jugaba en
+# 2025-26; los novatos son la primera ronda del draft 2026 (Wikipedia). Ver REVISAR.txt.
+# OJO: actualizar cada temporada (retiros, draft).
+
+categoria: Deporte
+consigna: Nombrá un jugador actual de la NBA
+activa: si
+apellidos: si
+
+[10]
+LeBron James | LeBron | King James
+Stephen Curry | Steph Curry | Curry
+Kevin Durant | KD
+Giannis Antetokounmpo | Giannis
+Luka Dončić | Luka Doncic | Luka
+Nikola Jokić | Nikola Jokic | Jokic
+Victor Wembanyama | Wemby
+Shai Gilgeous-Alexander | SGA
+Jayson Tatum
+Anthony Edwards | Ant
+Joel Embiid
+Anthony Davis | AD
+Ja Morant
+Kawhi Leonard
+Jimmy Butler
+Kyrie Irving
+James Harden
+Devin Booker
+
+[30]
+Damian Lillard | Dame
+Paul George
+Donovan Mitchell
+Jaylen Brown
+Jalen Brunson
+Trae Young
+Zion Williamson | Zion
+Karl-Anthony Towns | KAT
+Bam Adebayo
+De'Aaron Fox
+Tyrese Haliburton
+Paolo Banchero
+Cade Cunningham
+LaMelo Ball
+Domantas Sabonis
+Pascal Siakam
+Jamal Murray
+Klay Thompson
+Draymond Green
+Rudy Gobert
+Chet Holmgren
+Jalen Williams
+Tyrese Maxey
+Zach LaVine
+DeMar DeRozan
+Bradley Beal
+Russell Westbrook
+Kristaps Porziņģis | Porzingis
+Jrue Holiday
+Evan Mobley
+Darius Garland
+Alperen Şengün | Sengun
+Scottie Barnes
+Franz Wagner
+Lauri Markkanen
+Brandon Ingram
+Julius Randle
+Mikal Bridges
+OG Anunoby
+Fred VanVleet
+Jaren Jackson Jr. | Jaren Jackson
+Desmond Bane
+Cooper Flagg
+Dylan Harper
+Ace Bailey
+AJ Dybantsa
+Darryn Peterson
+Cameron Boozer
+Amen Thompson
+Ausar Thompson
+Stephon Castle
+Zaccharie Risacher
+Alex Sarr
+Reed Sheppard
+Brandon Miller
+Scoot Henderson
+Austin Reaves
+
+[60]
+Derrick White
+Al Horford
+Mike Conley
+Kyle Kuzma
+Tobias Harris
+Khris Middleton
+Brook Lopez
+Myles Turner
+Andrew Wiggins
+Jonathan Kuminga
+Jordan Poole
+CJ McCollum
+Anfernee Simons
+Jerami Grant
+Deandre Ayton
+Jusuf Nurkić | Nurkic
+Clint Capela
+Nikola Vučević | Vucevic
+Josh Giddey
+Coby White
+Dejounte Murray
+Jalen Johnson
+Jalen Green
+Dillon Brooks
+Tyler Herro
+Terry Rozier
+Norman Powell
+Ivica Zubac
+Aaron Gordon
+Michael Porter Jr. | Michael Porter
+Christian Braun
+Jalen Duren
+Jaden Ivey
+Isaiah Stewart
+Keegan Murray
+Malik Monk
+Zach Edey
+Jabari Smith Jr. | Jabari Smith
+Tari Eason
+Walker Kessler
+Collin Sexton
+Keyonte George
+Jarrett Allen
+Max Strus
+Josh Hart
+Mitchell Robinson
+Immanuel Quickley
+RJ Barrett
+Gradey Dick
+Jakob Poeltl
+Kelly Oubre Jr. | Kelly Oubre
+Paul Reed
+Herbert Jones
+Trey Murphy III | Trey Murphy
+Dyson Daniels
+Onyeka Okongwu
+Bogdan Bogdanović | Bogdanovic
+Bennedict Mathurin
+Andrew Nembhard
+Aaron Nesmith
+Obi Toppin
+T.J. McConnell | TJ McConnell
+Naz Reid
+Donte DiVincenzo
+Jaden McDaniels
+Rui Hachimura
+Gabe Vincent
+Deni Avdija
+Shaedon Sharpe
+Toumani Camara
+Jaime Jaquez Jr. | Jaime Jaquez
+Nikola Jović | Nikola Jovic
+Duncan Robinson
+Kevin Huerter
+Harrison Barnes
+Devin Vassell
+Keldon Johnson
+Jeremy Sochan
+Grayson Allen
+Royce O'Neale
+Isaac Okoro
+De'Andre Hunter
+Daniel Gafford
+Dereck Lively II | Dereck Lively
+P.J. Washington | PJ Washington
+Marcus Smart
+Kentavious Caldwell-Pope | KCP
+Cole Anthony
+Wendell Carter Jr.
+Jalen Suggs
+Goga Bitadze
+Mark Williams
+Miles Bridges
+Nick Richards
+Josh Green
+Kel'el Ware
+Bilal Coulibaly
+Corey Kispert
+Jordan Clarkson
+John Collins
+Kris Dunn
+Alex Caruso
+Luguentz Dort | Lu Dort
+Isaiah Hartenstein
+Cason Wallace
+Aaron Wiggins
+Payton Pritchard
+Sam Hauser
+Neemias Queta
+Jordan Walsh
+Cameron Johnson
+Nic Claxton
+Ben Simmons
+Spencer Dinwiddie
+Kyle Anderson
+Dennis Schröder | Schroder
+Bobby Portis
+Gary Trent Jr.
+Moussa Diabaté
+Zach Collins
+Jonas Valančiūnas | Valanciunas
+Mason Plumlee
+Kevin Love
+Gary Payton II
+Buddy Hield
+Brandin Podziemski
+Moses Moody
+Trayce Jackson-Davis
+Quentin Grimes
+Kelly Olynyk
+Matas Buzelis
+Ron Holland
+Tidjane Salaün
+Donovan Clingan
+Rob Dillingham
+Cody Williams
+Kon Knueppel
+VJ Edgecombe
+Tre Johnson
+Jeremiah Fears
+Egor Dëmin | Egor Demin
+Khaman Maluach
+Collin Murray-Boyles
+Derik Queen
+Noa Essengue
+Carter Bryant
+Thomas Sorber
+
+[100]
+Caleb Wilson
+Keaton Wagler
+Mikel Brown Jr. | Mikel Brown
+Darius Acuff Jr. | Darius Acuff
+Kingston Flemings
+Morez Johnson Jr. | Morez Johnson
+Brayden Burries
+Yaxel Lendeborg
+Aday Mara
+Nate Ament
+Hannes Steinbach
+Dailyn Swain
+Bennett Stirtz
+Ebuka Okorie
+Christian Anderson Jr. | Christian Anderson
+Allen Graves
+Jayden Quaintance
+Karim López
+Labaron Philon Jr. | Labaron Philon
+Zuby Ejiofor
+Cameron Carr
+Sergio de Larrea
+Tarris Reed Jr. | Tarris Reed
+Chris Cenac Jr. | Chris Cenac
+Joshua Jefferson
+Alex Karaban
+Koa Peat
+Yang Hansen
+Asa Newell
+Nique Clifford
+Walter Clayton Jr.
+Kasparas Jakučionis | Jakucionis
+Will Riley
+Danny Wolf
+Hugo González
+Liam McNeeley
+Ben Saraf
+Joan Beringer
+Rasheer Fleming
+Nolan Traoré | Nolan Traore
+Drake Powell
+Ryan Kalkbrenner
+Bub Carrington
+Kyle Filipowski
+Jaylen Wells
+Ajay Mitchell
+Kyshawn George
+Jared McCain
+Yves Missi
+Isaiah Collier

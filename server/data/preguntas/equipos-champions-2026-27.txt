@@ -1,0 +1,54 @@
+# Línea N · una pregunta por archivo. Después de editar: npm run db:import
+# Un nombre por renglón. Variantes con |
+# Niveles: [10] común · [30] poco común · [60] rara · [100] de nicho
+# Los 36 equipos de la fase liga de la Champions League 2026-27 (Wikipedia).
+# OJO: actualizar cada temporada (a fines de agosto, después del sorteo).
+
+categoria: Fútbol
+consigna: Nombrá un equipo que esté jugando la Champions League de este año
+activa: si
+apellidos: no
+
+[10]
+Real Madrid
+Barcelona | Barça
+Paris Saint-Germain | PSG
+Bayern Múnich | Bayern Munich | Bayern
+Manchester City | Man City
+Liverpool
+Arsenal
+Inter de Milán | Inter | Internazionale
+
+[30]
+Atlético de Madrid | Atlético Madrid | Atleti
+Manchester United | Man United
+Borussia Dortmund | Dortmund
+Napoli | Nápoles
+Roma | AS Roma
+Porto | FC Porto
+Sporting de Lisboa | Sporting | Sporting CP
+Galatasaray
+Fenerbahçe | Fenerbahce
+Aston Villa
+Villarreal
+Real Betis | Betis
+PSV Eindhoven | PSV
+Feyenoord
+
+[60]
+RB Leipzig | Leipzig
+Stuttgart | VfB Stuttgart
+Lille
+Lens
+Club Brujas | Club Brugge | Brujas
+Shakhtar Donetsk | Shakhtar
+Como
+Slavia Praga | Slavia Prague
+AEK Atenas | AEK Athens | AEK
+
+[100]
+Bodø/Glimt | Bodo Glimt | Bodo/Glimt
+Viking
+LASK | LASK Linz
+Sabah
+Slovan Bratislava

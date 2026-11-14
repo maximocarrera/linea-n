@@ -1,0 +1,120 @@
+# Línea N · una pregunta por archivo. Después de editar: npm run db:import
+# Un nombre por renglón. Variantes con |
+# Niveles: [10] común · [30] poco común · [60] rara · [100] de nicho
+
+categoria: Ropa
+consigna: Nombrá una marca de ropa de lujo
+activa: si
+apellidos: no
+
+[10]
+Gucci
+Louis Vuitton | LV
+Chanel
+Prada
+Versace
+Dior | Christian Dior
+
+[30]
+Balenciaga
+Armani | Giorgio Armani
+Dolce & Gabbana | Dolce y Gabbana | D&G
+Hermès | Hermes
+Burberry
+Givenchy
+Yves Saint Laurent | Saint Laurent | YSL
+Fendi
+Valentino
+Calvin Klein
+Ralph Lauren | Polo Ralph Lauren
+Tommy Hilfiger
+Moncler
+Off-White | Off White
+Hugo Boss | Boss
+Lacoste
+
+[60]
+Bottega Veneta
+Celine | Céline
+Loewe
+Miu Miu
+Alexander McQueen | McQueen
+Balmain
+Kenzo
+Moschino
+Salvatore Ferragamo | Ferragamo
+Tom Ford
+Michael Kors
+Marc Jacobs
+Stella McCartney
+Vivienne Westwood
+Jacquemus
+Stone Island
+Palm Angels
+Fear of God
+Amiri
+Brunello Cucinelli
+Loro Piana
+Zegna | Ermenegildo Zegna
+Max Mara
+Carolina Herrera
+Oscar de la Renta
+Emporio Armani
+Kate Spade
+Coach
+Jimmy Choo
+Christian Louboutin | Louboutin
+Manolo Blahnik
+Supreme
+Lanvin
+Chloé | Chloe
+Jean Paul Gaultier | Gaultier
+Roberto Cavalli | Cavalli
+Missoni
+Etro
+Pucci | Emilio Pucci
+
+[100]
+Rick Owens
+Maison Margiela | Margiela
+Comme des Garçons
+Yohji Yamamoto
+Issey Miyake
+Thom Browne
+Dsquared2 | Dsquared
+Philipp Plein
+Diesel
+Acne Studios | Acne
+Isabel Marant
+Sonia Rykiel
+Paco Rabanne | Rabanne
+Mugler | Thierry Mugler
+Schiaparelli
+Brioni
+Kiton
+Canali
+Tod's
+Bally
+Goyard
+Moynat
+Berluti
+Golden Goose
+Rimowa
+Tiffany
+Cartier
+Bulgari | Bvlgari
+Mulberry
+Alaïa | Alaia
+Courrèges | Courreges
+Ami Paris | AMI
+Casablanca
+Jil Sander
+Marni
+Proenza Schouler
+Alexander Wang
+Diane von Furstenberg | DVF
+Elie Saab
+Zuhair Murad
+Bape | A Bathing Ape
+Kith
+Sacai

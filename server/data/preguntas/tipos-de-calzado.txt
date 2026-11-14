@@ -1,0 +1,76 @@
+# Línea N · una pregunta por archivo. Después de editar: npm run db:import
+# Un nombre por renglón. Variantes con |
+# Niveles: [10] común · [30] poco común · [60] rara · [100] de nicho
+
+categoria: Ropa
+consigna: Nombrá un tipo de calzado
+activa: si
+apellidos: no
+
+[10]
+Zapatilla | Zapatillas | Tenis
+Zapato | Zapatos
+Ojota | Ojotas | Chancla | Chanclas | Chinela
+Sandalia | Sandalias
+Bota | Botas
+Pantufla | Pantuflas
+
+[30]
+Botín | Botines
+Borcego | Borcegos | Borceguí
+Alpargata | Alpargatas
+Mocasín | Mocasines
+Taco | Tacos | Zapato de taco | Tacón
+Stiletto | Stilettos
+Chatita | Chatitas | Bailarina | Bailarinas
+Crocs | Croc
+Zueco | Zuecos
+Botineta | Botinetas
+Botas de lluvia | Bota de lluvia | Galocha | Galochas
+Plataforma | Plataformas
+Guillermina | Guillerminas
+
+[60]
+Náutico | Náuticos | Zapato náutico | Boat shoe
+Oxford | Zapato Oxford
+Derby | Zapato Derby
+Brogue | Brogues
+Loafer | Loafers
+Chelsea | Bota Chelsea | Chelsea boots
+Texana | Texanas | Bota texana | Bota vaquera
+Mule | Mules | Sueco
+Slip-on | Slip on | Panchas
+Espadrilla | Espadrillas | Espadrille
+Cuña | Cuñas | Zapato de cuña
+Peep toe
+Zapatilla de running | Running
+Botín de fútbol | Botines de fútbol | Chimpunes
+Zapatilla de básquet
+Zapato de seguridad | Botín de seguridad | Calzado de seguridad
+Bota de trekking | Trekking
+Pantubota | Pantubotas
+Slide | Slides
+Sneaker | Sneakers
+Mary Jane | Merceditas
+
+[100]
+Bota de montar
+Bota de esquí
+Bota de nieve | Botas de nieve
+Patín | Patines
+Zapatilla de ballet | Media punta | Punta
+Zapato de tap | Tap
+Zapato de golf
+Zapatilla de ciclismo
+Gladiadora | Gladiadoras | Sandalia gladiadora
+Huarache | Huaraches
+Babucha | Babuchas
+Getas | Geta
+Kitten heel
+Over the knee | Bota bucanera | Bucanera
+Bota de caña alta
+Monk | Zapato monk
+Desert boot | Desert boots
+Zapatilla de skate
+Ugg | Uggs | Pantubota Ugg
+Birkenstock | Birkenstocks

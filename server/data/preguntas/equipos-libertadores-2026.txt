@@ -1,0 +1,63 @@
+# Línea N · una pregunta por archivo. Después de editar: npm run db:import
+# Un nombre por renglón. Variantes con |
+# Niveles: [10] común · [30] poco común · [60] rara · [100] de nicho
+# Los 47 equipos de la Copa Libertadores 2026, fases previas incluidas (Wikipedia).
+# OJO: actualizar cada año (en febrero, cuando arranca la nueva edición).
+
+categoria: Fútbol
+consigna: Nombrá un equipo que haya jugado la Copa Libertadores de este año
+activa: si
+apellidos: no
+
+[10]
+Boca Juniors | Boca
+Estudiantes de La Plata | Estudiantes
+Flamengo
+Palmeiras
+Peñarol
+Nacional | Nacional de Montevideo
+
+[30]
+Lanús
+Rosario Central | Central
+Argentinos Juniors | Argentinos
+Platense
+Independiente Rivadavia
+Botafogo
+Corinthians
+Fluminense
+Cruzeiro
+Bahia
+LDU Quito | Liga de Quito | LDU
+Independiente del Valle
+Barcelona de Guayaquil | Barcelona SC
+Cerro Porteño
+Libertad
+Universitario | Universitario de Deportes
+Alianza Lima
+Sporting Cristal
+Bolívar
+The Strongest
+Universidad Católica | Universidad Católica de Chile
+
+[60]
+Mirassol
+Coquimbo Unido | Coquimbo
+Huachipato
+O'Higgins
+Independiente Medellín | DIM
+Junior | Junior de Barranquilla
+Santa Fe | Independiente Santa Fe
+Deportes Tolima | Tolima
+Universidad Católica de Ecuador | Católica de Quito
+Guaraní
+2 de Mayo | Sportivo 2 de Mayo
+Cusco | Cusco FC
+Liverpool de Montevideo | Liverpool
+Juventud de Las Piedras | Juventud
+Always Ready
+Nacional Potosí
+Carabobo
+Deportivo La Guaira | La Guaira
+Deportivo Táchira | Táchira
+Universidad Central | Universidad Central de Venezuela

@@ -1,0 +1,76 @@
+# Línea N · una pregunta por archivo. Después de editar: npm run db:import
+# Un nombre por renglón. Variantes con |
+# Niveles: [10] común · [30] poco común · [60] rara · [100] de nicho
+
+categoria: Ropa
+consigna: Nombrá un tipo de abrigo o campera
+activa: si
+apellidos: no
+
+[10]
+Campera de cuero | Campera de cuero negra
+Campera de jean | Campera de jean | Jean | Campera de mezclilla
+Buzo | Buzos | Buzo con capucha | Hoodie
+Sweater | Suéter | Pulóver | Pullover
+Tapado | Tapados
+Campera inflable | Inflable | Puffer | Camperón inflable
+Piloto | Impermeable
+
+[30]
+Parka | Parkas
+Rompeviento | Rompevientos | Cortaviento
+Polar | Campera polar | Fleece
+Saco | Sacos | Blazer
+Cárdigan | Cardigan | Saquito
+Chaleco | Chalecos | Chaleco inflable
+Gamulán | Gamulan
+Trench | Trench coat | Gabardina
+Bomber | Campera bomber
+Poncho | Ponchos
+Montgomery | Duffle coat | Duffle
+Chaqueta | Chaquetas
+Anorak
+Canguro | Buzo canguro
+Camperón | Camperones
+Capa | Capas
+
+[60]
+Abrigo de piel | Tapado de piel | Piel
+Campera de gamuza | Gamuza
+Varsity | Campera universitaria | Letterman
+Biker | Campera biker | Motoquera | Campera de moto | Perfecto
+Sobretodo | Sobretodos | Sobretodo de paño
+Caban | Chaquetón marinero | Peacoat
+Chaqueta de esquí | Campera de esquí | Campera de nieve
+Plumífero | Campera de pluma | Campera de plumas
+Rompevientos impermeable | Campera impermeable
+Chal | Chales | Pashmina
+Ruana | Ruanas
+Kimono
+Overshirt | Sobrecamisa | Camisaco
+Campera de corderoy | Corderoy
+Chaqueta militar | Campera militar | Campera de combate
+Campera de algodón
+Saco de lana
+Tapado de paño | Paño
+Campera rompeviento deportiva | Campera deportiva | Campera de equipo
+
+[100]
+Chaqueta Harrington | Harrington
+Chaqueta Nehru | Nehru
+Levita
+Frac
+Esmoquin | Smoking
+Chaqueta de aviador | Campera de aviador | Aviador
+Shacket
+Teddy | Campera teddy | Corderito | Campera de corderito
+Capote
+Mañanita
+Pelliza
+Bolero
+Torera
+Chaqueta safari | Safari
+Field jacket
+Chaqueta de caza | Barbour | Chaqueta encerada
+Softshell | Campera softshell
+Gilet

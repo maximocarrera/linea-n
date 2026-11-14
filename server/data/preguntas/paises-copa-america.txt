@@ -25,7 +25,6 @@ México | Méjico
 Estados Unidos | EEUU | USA
 
 [60]
-Japón
 Costa Rica
 Canadá
 Jamaica
@@ -34,3 +33,4 @@ Panamá
 [100]
 Qatar | Catar
 Honduras
+Japón

@@ -1,0 +1,75 @@
+# Línea N · una pregunta por archivo. Después de editar: npm run db:import
+# Un nombre por renglón. Variantes con |
+# Niveles: [10] común · [30] poco común · [60] rara · [100] de nicho
+
+categoria: Ropa
+consigna: Nombrá un corte o estilo de pantalón
+activa: si
+apellidos: no
+
+[10]
+Chupín | Skinny | Pitillo
+Oxford | Pata de elefante | Acampanado | Bootcut
+Recto | Straight
+Cargo | Pantalón cargo
+Jogger | Joggers
+Palazzo | Pantalón palazzo
+
+[30]
+Mom jeans | Mom | Mom fit
+Baggy
+Wide leg | Pierna ancha | Ancho
+Slim | Slim fit
+Chino | Chinos
+Babucha | Babuchas
+Bermuda | Bermudas
+Capri | Pescador
+Calza | Calzas | Leggings
+Short | Shorts
+Tiro alto | High waist
+Tiro bajo | Low rise | Tiro corto
+Jean | Jeans | Vaquero
+Pinzado | Con pinzas
+
+[60]
+Boyfriend | Boyfriend jeans
+Flare
+Culotte | Culottes
+Sastrero | Pantalón sastrero | De vestir
+Relaxed | Relaxed fit
+Tapered | Zanahoria | Carrot
+Regular | Regular fit
+Cropped
+Barrel | Barrel leg
+Parachute | Paracaídas
+Carpenter | Carpintero
+Jodhpur | Pantalón de montar | Breeches
+Harem | Harén | Sarouel
+Pijama | Pantalón pijama
+Jumpsuit | Mono | Enterito
+Overol | Jardinero
+Palazzo largo
+Gaucho | Bombacha de campo | Bombacha
+Rústico | Pantalón rústico | De gimnasia
+
+[100]
+Bell bottom
+Straight leg
+Kick flare
+Bootleg
+Hipster
+Pedal pusher | Pedal pushers
+Clam diggers
+Marinero | Pantalón marinero
+Plisado
+Biker short | Bike short | Calza ciclista
+Skort | Pollera pantalón | Short pollera
+Track pants
+Sweatpants
+Pantalón de vestir
+Pantalón militar | Militar
+Pantalón de corderoy | Corderoy
+Pantalón de cuero | Cuero
+Engomado | Encerado | Coated
+Tiro medio | Mid rise
+Loose | Loose fit

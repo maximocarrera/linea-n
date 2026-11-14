@@ -1,0 +1,110 @@
+# Línea N · una pregunta por archivo. Después de editar: npm run db:import
+# Un nombre por renglón. Variantes con |
+# Niveles: [10] común · [30] poco común · [60] rara · [100] de nicho
+
+categoria: Ropa
+consigna: Nombrá una marca de ropa deportiva
+activa: si
+apellidos: no
+
+[10]
+Nike
+Adidas
+Puma
+Reebok
+Under Armour
+Topper
+Fila
+
+[30]
+New Balance
+Umbro
+Kappa
+Le Coq Sportif
+Asics
+Converse
+Vans
+Lotto
+Diadora
+Penalty
+Joma
+Mizuno
+The North Face | North Face
+Columbia
+Champion
+Jordan | Air Jordan
+
+[60]
+Lululemon
+Gymshark
+Saucony
+Brooks
+Hoka | Hoka One One
+On | On Running
+Salomon
+Merrell
+Patagonia
+Arc'teryx | Arcteryx
+Kelme
+Macron
+Erreà | Errea
+Hummel
+Athix
+Montagne
+Ellesse
+Sergio Tacchini
+Kswiss | K-Swiss
+Starter
+Russell Athletic
+Head
+Wilson
+Babolat
+Speedo
+Arena
+Quiksilver
+Billabong
+Rip Curl
+Oakley
+Everlast
+Venum
+Castore
+Olympikus
+
+[100]
+Uhlsport
+Jako
+Hi-Tec
+Spalding
+Prince
+Yonex
+Lacoste Sport
+Fred Perry
+Asics Tiger | Onitsuka Tiger
+Alo Yoga | Alo
+Vuori
+Outdoor Voices
+Anta
+Li-Ning
+Xtep
+Peak
+Decathlon
+Kipsta
+Kalenji
+Quechua
+Doite
+Ansilta
+Pampero
+Marathon
+Charly
+Pirma
+Saeta
+Mitre
+Admiral
+Le Tigre
+Gola
+Karhu
+Salming
+Craft
+Rapha
+Castelli
+Assos
