@@ -72,3 +72,20 @@ Navicular
 Cuboides
 Cuneiforme | Cuneiformes | Cuña
 Sesamoideo | Sesamoideos
+Vértebra cervical | Vértebras cervicales | Cervicales
+Vértebra torácica | Vértebra dorsal | Vértebras dorsales | Dorsales
+Vértebra lumbar | Vértebras lumbares | Lumbares
+Vértebra prominente | C7
+Costilla verdadera | Costillas verdaderas
+Costilla falsa | Costillas falsas
+Costilla flotante | Costillas flotantes
+Falange proximal | Primera falange
+Falange media | Falangina | Segunda falange
+Falange distal | Falangeta | Tercera falange
+Manubrio | Manubrio del esternón
+Apófisis xifoides | Xifoides
+Hueso wormiano | Huesos wormianos | Hueso sutural
+Cuneiforme medial | Primer cuneiforme
+Cuneiforme intermedio | Segundo cuneiforme
+Cuneiforme lateral | Tercer cuneiforme
+Huesecillos del oído | Huesecillos

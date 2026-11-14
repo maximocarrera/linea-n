@@ -1,0 +1,38 @@
+# Línea N · una pregunta por archivo. Después de editar: npm run db:import
+# Un nombre por renglón. Variantes con |
+# Niveles: [10] común · [30] poco común · [60] rara · [100] de nicho
+# Aves que no pueden volar (incluye extintas). La gallina no cuenta: vuela distancias cortas.
+
+categoria: Animales
+consigna: Nombrá un ave que no pueda volar
+activa: si
+apellidos: no
+
+[10]
+Pingüino
+Avestruz
+Ñandú | Rhea
+Emú
+Kiwi
+
+[30]
+Casuario
+Dodo
+Kakapo | Kākāpō | Loro búho
+Ñandú petiso | Choique | Suri
+
+[60]
+Takahe
+Moa
+Ave elefante | Aepyornis
+Cormorán de las Galápagos | Cormorán no volador
+Pato vapor | Quetro | Pato vapor no volador
+Weka | Rascón weka
+Alca gigante | Gran alca
+Ave del terror | Forusracos | Fororraco
+
+[100]
+Rascón de Inaccesible
+Zambullidor del Titicaca | Somormujo del Titicaca | Keñola
+Cerceta de Auckland | Pato de Auckland
+Solitario de Rodrigues

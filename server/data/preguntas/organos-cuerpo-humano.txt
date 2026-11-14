@@ -1,0 +1,94 @@
+# Línea N · una pregunta por archivo. Después de editar: npm run db:import
+# Un nombre por renglón. Variantes con |
+# Niveles: [10] común · [30] poco común · [60] rara · [100] de nicho
+# Órganos y glándulas del cuerpo humano.
+
+categoria: General
+consigna: Nombrá un órgano del cuerpo humano
+activa: si
+apellidos: no
+
+[10]
+Corazón
+Pulmón | Pulmones
+Hígado
+Riñón | Riñones
+Estómago
+Cerebro
+Intestino | Intestinos
+Piel
+Páncreas
+Bazo
+
+[30]
+Intestino delgado
+Intestino grueso | Colon
+Vejiga | Vejiga urinaria
+Vesícula | Vesícula biliar
+Esófago
+Tiroides | Glándula tiroides
+Útero | Matriz
+Ovario | Ovarios
+Testículo | Testículos
+Próstata
+Apéndice
+Laringe
+Tráquea
+Faringe
+Lengua
+Ojo | Ojos
+Oído | Oídos | Oreja
+Nariz
+Cerebelo
+Médula espinal
+Pene
+Vagina
+Mama | Mamas | Glándula mamaria
+Diente | Dientes
+
+[60]
+Glándulas suprarrenales | Suprarrenales | Glándula suprarrenal
+Hipófisis | Pituitaria
+Timo
+Duodeno
+Recto
+Ano
+Uretra
+Uréter | Uréteres
+Placenta
+Amígdalas | Amígdala
+Glándulas salivales | Glándula salival
+Glándula pineal | Epífisis
+Hipotálamo
+Paratiroides
+Ganglios linfáticos | Ganglio linfático | Ganglios
+Médula ósea
+Trompas de Falopio | Trompa de Falopio
+Bronquios | Bronquio
+Encías
+Tronco encefálico | Tronco cerebral
+Vulva
+Clítoris
+Cuerdas vocales
+
+[100]
+Epidídimo
+Vesículas seminales | Vesícula seminal
+Mesenterio
+Ciego
+Yeyuno
+Íleon
+Tálamo
+Bulbo raquídeo
+Hipocampo
+Amígdala cerebral
+Glándula lagrimal
+Adenoides | Vegetaciones
+Peritoneo
+Pleura
+Pericardio
+Retina
+Cóclea | Caracol
+Bronquiolos
+Alvéolos
+Glándulas sudoríparas

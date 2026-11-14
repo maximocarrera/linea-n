@@ -1,0 +1,103 @@
+# Línea N · una pregunta por archivo. Después de editar: npm run db:import
+# Un nombre por renglón. Variantes con |
+# Niveles: [10] común · [30] poco común · [60] rara · [100] de nicho
+# Animales cuyo nombre común empieza con C.
+
+categoria: Animales
+consigna: Nombrá un animal que empiece con C
+activa: si
+apellidos: no
+
+[10]
+Caballo
+Cerdo | Chancho
+Conejo
+Cocodrilo
+Camello
+Cebra
+Canguro
+Cabra
+
+[30]
+Castor
+Cóndor
+Cucaracha
+Cisne
+Colibrí
+Cuervo
+Chimpancé
+Caimán
+Calamar
+Cangrejo
+Caracol
+Camaleón
+Carpincho | Capibara
+Chinchilla
+Cobayo | Conejillo de indias | Cuy
+Coatí
+Cuis
+Cigüeña
+Codorniz
+Cotorra
+Comadreja
+Coyote
+Chita
+Cachalote
+Camarón
+Caballito de mar
+Ciervo
+Chivo
+Cordero
+Canario
+Cacatúa
+Cobra
+Culebra
+Chajá
+Ciempiés
+Cigarra
+
+[60]
+Carpa
+Corvina
+Chinche
+Cardenal
+Carancho | Caracara
+Chimango
+Chorlito
+Corzuela
+Coipo
+Chinchillón
+Coral
+Caribú
+Casuario
+Chacal
+Crótalo
+Cascarudo
+Cormorán
+Calandria
+Cocodrilo del Nilo
+Cerdo hormiguero
+Chorlo
+Camello bactriano
+Caimán yacaré
+
+[100]
+Celacanto
+Cálao
+Caracal
+Civeta
+Colobo
+Coendú
+Cuatí
+Cabracho
+Congrio
+Cazón
+Cucarachero
+Curruca
+Cernícalo
+Chingolo
+Cacholote
+Carpintero
+Charrán
+Chuña
+Chuncho

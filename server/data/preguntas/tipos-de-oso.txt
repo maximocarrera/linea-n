@@ -1,0 +1,44 @@
+# Línea N · una pregunta por archivo. Después de editar: npm run db:import
+# Un nombre por renglón. Variantes con |
+# Niveles: [10] común · [30] poco común · [60] rara · [100] de nicho
+# Las 8 especies de oso, sus subespecies conocidas y algunos extintos.
+# Oso hormiguero, koala y panda rojo NO son osos.
+
+categoria: Animales
+consigna: Nombrá un tipo de oso
+activa: si
+apellidos: no
+
+[10]
+Oso polar | Oso blanco
+Oso pardo | Oso marrón
+Panda | Oso panda | Panda gigante
+Grizzly | Oso grizzly | Oso gris
+
+[30]
+Oso negro | Oso negro americano | Baribal
+Oso de anteojos | Oso andino | Oso frontino
+Oso Kodiak | Kodiak
+Oso malayo | Oso sol
+Oso negro asiático | Oso tibetano | Oso del Himalaya | Oso luna
+
+[60]
+Oso perezoso | Oso bezudo
+Oso cavernario | Oso de las cavernas
+Oso pardo europeo | Oso cantábrico | Oso pardo eurasiático
+Oso Kermode | Oso espíritu
+Oso de Gobi | Mazaalai
+Oso sirio
+Oso marsicano
+Oso glaciar | Oso azul
+
+[100]
+Oso pardo de Kamchatka
+Oso pardo de Ussuri | Oso de Hokkaido
+Oso azul tibetano | Oso pardo tibetano
+Oso del Atlas
+Oso de cara corta
+Oso pizzly | Grolar
+Oso negro de Formosa | Oso de Formosa
+Oso de Mexico | Oso pardo mexicano
+Oso de California | Oso dorado

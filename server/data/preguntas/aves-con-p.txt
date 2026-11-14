@@ -1,0 +1,89 @@
+# Línea N · una pregunta por archivo. Después de editar: npm run db:import
+# Un nombre por renglón. Variantes con |
+# Niveles: [10] común · [30] poco común · [60] rara · [100] de nicho
+# Aves cuyo nombre común empieza con P.
+
+categoria: Animales
+consigna: Nombrá un ave que empiece con P
+activa: si
+apellidos: no
+
+[10]
+Paloma | Palomas
+Pato | Patos
+Pavo
+Pavo real | Pavorreal
+Pingüino
+Perdiz
+Pelícano
+Picaflor
+
+[30]
+Petirrojo
+Pájaro carpintero
+Periquito
+Perico
+Papagayo
+Pinzón
+Petrel
+Pollo | Pollito
+Pato real
+Pirincho
+Piquero
+Pava de monte | Pava
+Pecho colorado
+Paloma torcaza
+Paloma mensajera
+
+[60]
+Pájaro campana
+Pitogüé
+Pepitero
+Picabuey
+Pardela
+Pato criollo
+Pato barcino
+Pato picazo
+Pato vapor
+Pato cuchara
+Pato mandarín
+Petrel gigante
+Pájaro secretario
+Pájaro lira
+Pájaro bobo
+Picaflor gigante
+Paloma picazuró | Picazuró
+Polla de agua
+Pecho amarillo
+Pijuí
+Pato silbón
+Pato de collar
+Perdiz chica
+Papamoscas
+Pardillo
+Paují | Paujil
+
+[100]
+Pito real
+Pollona
+Picahueso
+Pavón
+Playero
+Pato zambullidor
+Pato overo
+Pato maicero
+Pato serrucho
+Paíño
+Pájaro gato
+Pájaro moscón
+Pájaro jardinero
+Pájaro paraguas
+Pájaro sastre
+Picogrueso
+Pico de plata
+Pitajo
+Piquituerto
+Pelícano pardo
+Perdiz colorada
+Pava de monte común
+Papamoscas gris

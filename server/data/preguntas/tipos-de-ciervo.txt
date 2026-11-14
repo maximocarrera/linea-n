@@ -1,0 +1,52 @@
+# Línea N · una pregunta por archivo. Después de editar: npm run db:import
+# Un nombre por renglón. Variantes con |
+# Niveles: [10] común · [30] poco común · [60] rara · [100] de nicho
+# Cérvidos (ciervos, venados, corzuelas, alces y renos) y el ciervo almizclero.
+
+categoria: Animales
+consigna: Nombrá un tipo de ciervo o venado
+activa: si
+apellidos: no
+
+[10]
+Reno | Caribú
+Alce
+Ciervo rojo | Ciervo común | Ciervo colorado
+Huemul
+Pudú
+
+[30]
+Ciervo de cola blanca | Venado de cola blanca | Venado de Virginia | Ciervo de Virginia
+Gamo
+Corzo
+Ciervo de los pantanos
+Venado de las pampas | Venado pampeano | Venado
+Ciervo axis | Axis | Chital | Ciervo moteado
+Wapití | Uapití | Elk
+Corzuela | Mazama | Corzuela roja
+
+[60]
+Muntíaco | Muntjac | Ciervo ladrador
+Ciervo sika | Sika
+Ciervo mulo | Venado bura | Ciervo de cola negra
+Ciervo del padre David | Milú
+Ciervo almizclero
+Sambar
+Barasinga
+Taruca | Huemul del norte
+Corzuela parda
+Ciervo gigante irlandés | Megaloceros | Alce irlandés
+
+[100]
+Ciervo porcino
+Ciervo de Eld | Thamin
+Ciervo de Timor | Rusa
+Ciervo acuático chino
+Ciervo de Berbería
+Ciervo de Bactriana
+Ciervo moteado de Filipinas
+Venado de Calamian
+Ciervo de Thorold | Ciervo de labios blancos
+Corzo siberiano
+Pudú del norte
+Mazama enana

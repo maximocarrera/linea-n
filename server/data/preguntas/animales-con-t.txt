@@ -1,0 +1,83 @@
+# Línea N · una pregunta por archivo. Después de editar: npm run db:import
+# Un nombre por renglón. Variantes con |
+# Niveles: [10] común · [30] poco común · [60] rara · [100] de nicho
+# Animales cuyo nombre común empieza con T.
+
+categoria: Animales
+consigna: Nombrá un animal que empiece con T
+activa: si
+apellidos: no
+
+[10]
+Tigre
+Tortuga
+Tiburón
+Toro
+Tucán
+Topo
+
+[30]
+Tapir
+Tarántula
+Tejón
+Tero | Teru teru
+Tatú | Tatú carreta
+Tamandúa
+Termita
+Trucha
+Tórtola | Tortolita
+Ternero
+Tiranosaurio | T-Rex | Tiranosaurio rex
+Tábano
+Tijereta
+Tordo
+Tejú
+
+[60]
+Tarsero
+Tritón
+Tilapia
+Tití
+Tigrillo
+Tilacino | Tigre de Tasmania | Lobo de Tasmania
+Tuátara
+Tuco-tuco | Tucutuco
+Taruca
+Tamarino
+Tlacuache
+Tecolote
+Tinamú
+Tenia | Solitaria
+Triceratops
+Tarpón
+Tenca
+Torcaza
+Tetra
+Takin
+Tahr
+Topi
+Tiuque
+
+[100]
+Tero real
+Trilobite | Trilobites
+Tuza
+Tetra neón
+Tigre de Bengala
+Tigre siberiano
+Tigre blanco
+Tiburón blanco
+Tiburón ballena
+Tiburón martillo
+Tortuga marina
+Tortuga laúd
+Tortuga carey
+Tucán toco
+Tarántula goliat
+Tritón crestado
+Tordo músico
+Torito
+Tachurí
+Tacuarita
+Tangara
+Tapaculo

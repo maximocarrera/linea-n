@@ -1,0 +1,135 @@
+# Línea N · una pregunta por archivo. Después de editar: npm run db:import
+# Un nombre por renglón. Variantes con |   (nombre técnico | nombre común | plural)
+# Niveles: [10] común · [30] poco común · [60] rara · [100] de nicho
+
+categoria: General
+consigna: Nombrá un músculo del cuerpo humano
+activa: si
+apellidos: no
+
+[10]
+Bíceps | Bíceps braquial
+Tríceps | Tríceps braquial
+Cuádriceps
+Gemelos | Gastrocnemio | Pantorrilla
+Glúteo | Glúteos | Glúteo mayor
+Abdominales | Recto abdominal | Abdomen
+Pectoral | Pectorales | Pectoral mayor
+Deltoides | Hombro
+Corazón | Miocardio | Músculo cardíaco
+
+[30]
+Trapecio
+Dorsal ancho | Dorsales | Dorsal
+Isquiotibiales | Isquios
+Diafragma
+Sóleo
+Oblicuos | Oblicuo externo | Oblicuo interno | Oblicuo
+Aductores | Aductor
+Abductores | Abductor
+Psoas | Psoas ilíaco | Iliopsoas
+Lengua
+Lumbares | Músculos lumbares
+Antebrazo | Flexores del antebrazo
+Masetero
+Sartorio
+Esternocleidomastoideo
+
+[60]
+Recto femoral | Recto anterior
+Vasto lateral | Vasto externo
+Vasto medial | Vasto interno
+Vasto intermedio
+Bíceps femoral
+Semitendinoso
+Semimembranoso
+Tibial anterior
+Tibial posterior
+Peroneo largo
+Peroneo corto
+Romboides
+Serrato anterior | Serrato
+Infraespinoso
+Supraespinoso
+Redondo mayor
+Redondo menor
+Subescapular
+Manguito rotador
+Braquial | Braquial anterior
+Braquiorradial | Supinador largo
+Pronador redondo
+Temporal
+Escalenos | Escaleno
+Platisma | Cutáneo del cuello
+Orbicular de los ojos | Orbicular de los párpados
+Orbicular de los labios
+Cigomático | Cigomático mayor
+Buccinador
+Frontal | Occipitofrontal
+Glúteo medio
+Glúteo menor
+Piriforme | Piramidal
+Tensor de la fascia lata
+Transverso del abdomen | Transverso
+Cuadrado lumbar
+Erector de la columna | Erectores espinales | Erector espinal
+Pectoral menor
+Elevador de la escápula
+Grácil | Recto interno
+Aductor mayor
+Aductor largo
+Pectíneo
+Coracobraquial
+Esfínter | Esfínteres
+
+[100]
+Multífidos | Multífido
+Poplíteo
+Plantar delgado
+Flexor largo de los dedos
+Extensor largo de los dedos
+Flexor largo del pulgar
+Extensor largo del pulgar
+Ilíaco
+Ancóneo
+Palmar largo
+Flexor cubital del carpo
+Flexor radial del carpo
+Extensor radial del carpo
+Extensor cubital del carpo
+Supinador | Supinador corto
+Pronador cuadrado
+Tenar | Eminencia tenar
+Hipotenar | Eminencia hipotenar
+Lumbricales | Lumbrical
+Interóseos | Interóseo
+Cremáster
+Estapedio | Músculo del estribo
+Pterigoideo | Pterigoideo lateral | Pterigoideo medial
+Risorio
+Nasal | Músculo nasal
+Mentoniano
+Depresor del ángulo de la boca
+Elevador del labio superior
+Corrugador superciliar | Superciliar
+Prócer
+Digástrico
+Milohioideo
+Esternohioideo
+Omohioideo
+Esplenio | Esplenio de la cabeza
+Semiespinoso
+Intercostales | Intercostal
+Serrato posterior
+Piramidal del abdomen
+Obturador interno
+Obturador externo
+Gemelo superior
+Gemelo inferior
+Cuadrado femoral
+Abductor del dedo gordo
+Flexor corto de los dedos
+Recto del ojo | Músculos del ojo
+Músculo ciliar
+Detrusor
+Elevador del ano

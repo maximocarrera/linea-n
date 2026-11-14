@@ -1,0 +1,36 @@
+# Línea N · una pregunta por archivo. Después de editar: npm run db:import
+# Un nombre por renglón. Variantes con |
+# Niveles: [10] común · [30] poco común · [60] rara · [100] de nicho
+# Las 18 especies de pingüino. Vale con o sin la palabra "pingüino" adelante.
+
+categoria: Animales
+consigna: Nombrá un tipo de pingüino
+activa: si
+apellidos: no
+
+[10]
+Pingüino emperador | Emperador
+Pingüino rey | Rey
+Pingüino de Magallanes | Magallanes | Magallánico | Pingüino magallánico
+Pingüino de Humboldt | Humboldt
+
+[30]
+Pingüino de Adelia | Adelia | Adelie
+Pingüino barbijo | Barbijo
+Pingüino papúa | Papúa | Juanito | Pingüino juanito
+Pingüino de penacho amarillo | Penacho amarillo | Saltarrocas | Rockhopper
+Pingüino de Galápagos | Galápagos
+Pingüino africano | Africano | Pingüino del Cabo | Pingüino de anteojos
+Pingüino azul | Pingüino pequeño | Pingüino enano | Little penguin
+
+[60]
+Pingüino macaroni | Macaroni | Macarrones
+Pingüino real | Real | Royal
+Pingüino de ojos amarillos | Ojigualdo | Pingüino ojigualdo
+
+[100]
+Pingüino de Fiordland | Fiordland
+Pingüino de las Snares | Snares
+Pingüino de penacho erguido | Erguido
+Pingüino de penacho amarillo norteño | Penacho amarillo norteño
+Pingüino de alas blancas | Alas blancas

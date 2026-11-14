@@ -1,0 +1,53 @@
+# Línea N · una pregunta por archivo. Después de editar: npm run db:import
+# Un nombre por renglón. Variantes con |
+# Niveles: [10] común · [30] poco común · [60] rara · [100] de nicho
+# Pinnípedos: focas, lobos y leones marinos, lobos finos, elefantes marinos y morsa.
+
+categoria: Animales
+consigna: Nombrá un tipo de foca o lobo marino
+activa: si
+apellidos: no
+
+[10]
+Lobo marino de un pelo | León marino sudamericano | Lobo marino sudamericano | Lobo marino
+Elefante marino | Elefante marino del sur
+Morsa
+Foca leopardo | Leopardo marino
+
+[30]
+Lobo marino de dos pelos | Lobo fino sudamericano | Lobo fino
+León marino de California | Lobo marino de California
+Foca común | Foca de puerto
+Foca de Weddell | Weddell
+Foca cangrejera | Cangrejera
+Foca monje | Foca monje del Mediterráneo
+Foca gris
+Foca arpa | Foca de Groenlandia
+
+[60]
+Elefante marino del norte
+Foca de Ross | Ross
+León marino de Steller | Lobo marino de Steller
+León marino de Galápagos | Lobo marino de Galápagos
+León marino australiano
+León marino de Nueva Zelanda | León marino de Hooker
+Foca monje de Hawái
+Foca anillada | Foca ocelada
+Foca barbuda
+Foca encapuchada | Foca de capucha
+Foca del Baikal
+Foca del Caspio
+Oso marino del norte | Lobo fino del norte
+Lobo fino antártico
+Lobo fino de Galápagos
+
+[100]
+Foca monje del Caribe
+Foca listada
+Foca moteada | Foca larga
+Lobo fino de Guadalupe
+Lobo fino de Juan Fernández
+Lobo fino subantártico
+Lobo fino de Nueva Zelanda
+Lobo marino del Cabo | Lobo fino del Cabo | Lobo marino sudafricano
+León marino japonés

@@ -281,3 +281,38 @@ deportes-con-paleta.txt   [?]
   Dejé afuera los de raqueta (tenis, squash, bádminton, frontenis). Si querés aceptarlos,
   agregalos.
   [?] Xare se juega con una raqueta especial; Frontball, con la mano o con pala. Borralos si no.
+
+
+BLOQUE 77-87
+============
+
+estadios-2026-artistas.txt   [?][!]
+--------------------------
+  Armada con agendas de prensa (noviembre 2026). Pregunta atada a 2026.
+  Confirmados por varias fuentes: Bad Bunny (River, feb), AC/DC (River, mar), My Chemical Romance
+      (Huracán, feb), Chayanne (Vélez, mar), Tan Biónica (Vélez, mar), Alejandro Sanz (Kempes, mar),
+      Tini (Kempes, mar), No Te Va Gustar (Ferro, abr), Lali (River, jun y sep), BTS (Estadio Único
+      La Plata, oct), Fito Páez (Estadio Único, oct), Airbag (River).
+  [?] Todavía no tocaron o la fuente es floja: Maná (River, 10/12), Ed Sheeran (Huracán, 29/11),
+      Maluma (Vélez, 29/11), Don Osvaldo (Huracán, 5/12), Iron Maiden (Huracán, oct),
+      Cuarteto de Nos (Ferro).
+  [+] Seguro faltan shows en estadios del interior (Rosario, Mendoza, Córdoba, Tucumán).
+
+animales-con-t / animales-con-c / aves-con-p   [+]
+---------------------------------------------
+  Preguntas casi infinitas: sumá los que la gente diga y no estén (las sugerencias del
+  final de partida sirven para esto).
+
+aves-no-voladoras.txt   [?]
+---------------------
+  La gallina quedó afuera (vuela distancias cortas). Si la querés aceptar, agregala.
+
+tipos-de-oso.txt   [?]
+----------------
+  Oso hormiguero, koala y panda rojo quedaron afuera porque no son osos. Si querés ser
+  permisivo con los nombres populares, agregalos.
+
+huesos-cuerpo-humano.txt
+------------------------
+  75 nombres distintos. El cuerpo tiene 206 huesos, pero casi todos están repetidos
+  (izquierdo/derecho, 33 vértebras, 24 costillas, 56 falanges...).
