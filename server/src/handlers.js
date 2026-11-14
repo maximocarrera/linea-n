@@ -16,7 +16,7 @@ export function registerSocketHandlers(io, rooms) {
     };
     const identity = (data) => ({
       playerId: clean(data?.playerId, 64),
-      name: clean(data?.name, MAX_NAME) || 'Pasajero',
+      name: clean(data?.name, MAX_NAME), // vacío → la sala le pone "Invitado N"
       recent: parseIds(data?.recent), // preguntas que este navegador jugó hace poco
     });
 

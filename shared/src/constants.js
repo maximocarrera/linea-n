@@ -18,7 +18,7 @@ export const SUGGESTION_MIN = 3;
 export const SUGGESTION_MAX = 500;
 
 // Cuántas preguntas jugadas recuerda cada navegador para no repetirlas pronto.
-export const RECENT_LIMIT = 40;
+export const RECENT_LIMIT = 100;
 
 // Tiers de rareza: cuanto más de nicho la respuesta, más puntos.
 export const TIERS = [

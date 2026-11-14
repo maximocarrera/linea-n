@@ -7,7 +7,8 @@ export default function TicketCard({ name, setName, initialCode, onSolo, onCreat
   const [code, setCode] = useState(initialCode ?? '');
   const [joining, setJoining] = useState(Boolean(initialCode));
   const hasName = name.trim().length > 0;
-  const canJoin = hasName && code.length === 4 && !busy;
+  // Unirse no pide nombre: sin nombre la sala te pone "Invitado N".
+  const canJoin = code.length === 4 && !busy;
 
   return (
     <section aria-labelledby="ticket-title" className="slab relative bg-sign shadow-[8px_8px_0_0_#000]">
@@ -34,7 +35,9 @@ export default function TicketCard({ name, setName, initialCode, onSolo, onCreat
             className="focus-ring mt-2 min-h-12 w-full border-2 border-rail bg-tunnel px-4 py-3 text-lg font-semibold outline-none transition-colors placeholder:text-mute/70 focus:border-signal"
           />
           <p id="name-help" className="mt-2 text-sm text-mute">
-            {hasName ? 'Así te van a ver en la sala.' : 'Para jugar con amigos necesitás un nombre.'}
+            {hasName
+              ? 'Así te van a ver en la sala.'
+              : 'Para crear una sala necesitás un nombre. Si te unís sin nombre, entrás como Invitado.'}
           </p>
         </div>
 

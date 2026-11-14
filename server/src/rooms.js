@@ -3,6 +3,7 @@ import {
   LINE_COLORS,
   MAX_PLAYERS,
   QUESTIONS_PER_GAME,
+  RECENT_LIMIT,
   REVEAL_MS,
   ROUND_SECONDS,
   buildQuestion,
@@ -15,6 +16,25 @@ const ROUND_MS = ROUND_SECONDS * 1000;
 const CODE_ALPHABET = 'ABCDEFGHJKLMNPQRSTUVWXYZ'; // sin I ni O para no confundir
 const LOBBY_DROP_MS = 20_000; // en el lobby, quien se desconecta se va después de este tiempo
 const EMPTY_ROOM_TTL = 2 * 60_000;
+
+/**
+ * Junta varias listas de ids (cada una de más vieja a más nueva) en una sola, también de más
+ * vieja a más nueva. Cada id cuenta por la vez más reciente que lo vio cualquiera de las listas:
+ * así lo que alguien jugó hace un minuto nunca queda como "viejo" por estar en la lista de otro.
+ */
+export function mergeRecent(lists) {
+  const distance = new Map(); // id -> partidas/rondas desde que se jugó (0 = la última)
+  for (const list of lists) {
+    list.forEach((id, i) => {
+      const d = list.length - 1 - i;
+      if (!distance.has(id) || d < distance.get(id)) distance.set(id, d);
+    });
+  }
+  return [...distance.keys()].sort((a, b) => distance.get(b) - distance.get(a));
+}
+
+/** Agrega `id` al final de `list` (sin repetir) y la recorta a RECENT_LIMIT. */
+const pushRecent = (list, id) => [...list.filter((x) => x !== id), id].slice(-RECENT_LIMIT);
 
 /**
  * Estados de una sala:
@@ -35,6 +55,7 @@ export class Room {
     this.answers = new Map(); // playerId -> { input, display, points }
     this.lastReveal = null;
     this.played = []; // por ronda: { question, answers: { playerId: respuesta } }
+    this.history = []; // ids de preguntas que ya salieron en esta sala, de más vieja a más nueva
     this.gameOver = null;
     this.timer = null;
     this.dropTimers = new Map();
@@ -62,10 +83,11 @@ export class Room {
       if (this.players.size >= MAX_PLAYERS) return { error: 'La sala está llena.' };
       const usedColors = new Set([...this.players.values()].map((p) => p.color));
       const color = LINE_COLORS.find((c) => !usedColors.has(c)) ?? LINE_COLORS[this.players.size % LINE_COLORS.length];
-      player = { id: playerId, name, color, score: 0, connected: true, socketId: socket.id, recent };
+      player = { id: playerId, name: name || this.guestName(), color, score: 0, connected: true, socketId: socket.id, recent };
       this.players.set(playerId, player);
     } else {
-      player.recent = recent;
+      // Lo que el server ya sabe que jugó en esta sala se suma a lo que trae el navegador.
+      player.recent = mergeRecent([recent, player.recent ?? []]).slice(-RECENT_LIMIT);
       // Reconexión (p. ej. el celu se bloqueó o perdió señal)
       player.connected = true;
       player.socketId = socket.id;
@@ -82,6 +104,14 @@ export class Room {
     this.broadcast();
     this.syncLateJoiner(socket, playerId);
     return { ok: true, room: this.snapshot() };
+  }
+
+  /** "Invitado N" con el número más chico libre, para quien entra sin nombre. */
+  guestName() {
+    const taken = new Set([...this.players.values()].map((p) => p.name));
+    let n = 1;
+    while (taken.has(`Invitado ${n}`)) n += 1;
+    return `Invitado ${n}`;
   }
 
   leave(playerId) {
@@ -123,8 +153,9 @@ export class Room {
     if (byPlayerId !== this.hostId) return { error: 'Solo quien creó la sala puede arrancar.' };
     if (this.state !== 'lobby') return { error: 'La partida ya está en curso.' };
 
-    // Evitamos las preguntas que cualquiera de los presentes jugó hace poco.
-    const avoid = this.connectedPlayers().flatMap((p) => p.recent ?? []);
+    // Evitamos lo que ya salió en esta sala y lo que cualquiera de los presentes jugó hace poco.
+    // Si no alcanza, se repiten primero las que nadie vio hace más tiempo.
+    const avoid = mergeRecent([this.history, ...this.connectedPlayers().map((p) => p.recent ?? [])]);
     let questions;
     try {
       questions = this.store.pickGame(QUESTIONS_PER_GAME, avoid).map(buildQuestion).filter((q) => q.answers.length > 0);
@@ -165,6 +196,10 @@ export class Room {
     clearTimeout(this.timer);
     this.roundIndex += 1;
     if (this.roundIndex >= this.questions.length) return this.finish();
+
+    const id = this.question.id;
+    this.history = pushRecent(this.history, id);
+    for (const p of this.players.values()) p.recent = pushRecent(p.recent ?? [], id);
 
     this.answers.clear();
     this.state = 'question';
