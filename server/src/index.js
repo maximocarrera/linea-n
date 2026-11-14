@@ -10,6 +10,7 @@ import { QUESTIONS_PER_GAME, buildQuestion, matchAnswer } from '@linean/shared';
 import { SoloTickets, parsePlays, parseSuggestion, rateLimiter } from './community.js';
 import { DB_PATH, QuestionStore, openDb, toWire } from './db.js';
 import { parseIds } from './ids.js';
+import { Catalog, acercaPage, categoriaPage, comoJugarPage, preguntasPage, privacidadPage, robotsTxt, sitemapXml } from './pages.js';
 import { RoomManager } from './rooms.js';
 import { registerSocketHandlers } from './handlers.js';
 
@@ -144,6 +145,20 @@ app.get('/api/network', (_req, res) => {
 app.use('/api', (_req, res) => res.status(404).json({ error: 'No encontrado' }));
 // JSON mal formado u otro error de body-parser: respuesta corta, sin stack.
 app.use('/api', (err, _req, res, _next) => res.status(err.status ?? 400).json({ error: 'Pedido inválido.' }));
+
+// Páginas de contenido en HTML plano (las leen buscadores y la revisión de AdSense sin JavaScript).
+const catalog = new Catalog(store.db);
+const html = (res, body) => res.set('Cache-Control', 'public, max-age=600').type('html').send(body);
+app.get('/como-jugar', (_req, res) => html(res, comoJugarPage()));
+app.get('/preguntas', (_req, res) => html(res, preguntasPage(catalog.get())));
+app.get('/preguntas/:slug', (req, res, next) => {
+  const category = catalog.get().categories.find((c) => c.slug === req.params.slug);
+  return category ? html(res, categoriaPage(category)) : next();
+});
+app.get('/acerca', (_req, res) => html(res, acercaPage(catalog.get())));
+app.get('/privacidad', (_req, res) => html(res, privacidadPage()));
+app.get('/robots.txt', (_req, res) => res.type('text/plain').send(robotsTxt()));
+app.get('/sitemap.xml', (_req, res) => res.type('application/xml').send(sitemapXml(catalog.get())));
 
 // Si existe el build del cliente, lo servimos desde el mismo puerto (deploy en un solo proceso).
 const dist = path.resolve(__dirname, '../../client/dist');

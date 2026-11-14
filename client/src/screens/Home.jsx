@@ -46,6 +46,18 @@ export default function Home(props) {
       <footer className="mt-4 grid gap-8 border-t-2 border-rail pt-8 pb-4">
         <CafecitoPanel />
         <AdSlot slot={AD_SLOTS.footer} minHeight={100} className="mx-auto w-full max-w-3xl" />
+        <nav aria-label="Información" className="flex flex-wrap justify-center gap-x-6 text-sm">
+          {[
+            ['/como-jugar', 'Cómo jugar'],
+            ['/preguntas', 'Todas las preguntas'],
+            ['/acerca', 'Acerca de'],
+            ['/privacidad', 'Privacidad'],
+          ].map(([href, label]) => (
+            <a key={href} href={href} className="focus-ring flex min-h-12 items-center text-mute underline-offset-4 transition-colors hover:text-chalk hover:underline">
+              {label}
+            </a>
+          ))}
+        </nav>
       </footer>
     </>
   );

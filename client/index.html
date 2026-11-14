@@ -7,17 +7,28 @@
     <meta name="apple-mobile-web-app-capable" content="yes" />
     <meta name="mobile-web-app-capable" content="yes" />
     <meta name="apple-mobile-web-app-status-bar-style" content="black-translucent" />
-    <meta name="description" content="Trivia de respuestas raras: cuanto más de nicho, más puntos." />
+    <meta name="description" content="Línea N: trivia gratuita de respuestas raras. Cuanto más de nicho tu respuesta, más puntos. Jugá solo o con amigos desde el celular." />
     <link rel="icon" href="/favicon.svg" type="image/svg+xml" />
     <link rel="preconnect" href="https://fonts.googleapis.com" />
     <link rel="preconnect" href="https://fonts.gstatic.com" crossorigin />
     <link href="https://fonts.googleapis.com/css2?family=Space+Grotesk:wght@400;500;600;700&family=JetBrains+Mono:wght@500;700&display=swap" rel="stylesheet" />
-    <title>Línea N</title>
+    <title>Línea N · trivia de respuestas raras</title>
     <!-- Google AdSense (global: el juego es una sola página, cubre todas las pantallas) -->
     <script async src="https://pagead2.googlesyndication.com/pagead/js/adsbygoogle.js?client=ca-pub-3032830759957402" crossorigin="anonymous"></script>
   </head>
   <body>
-    <div id="root"></div>
+    <div id="root">
+      <!-- Contenido estático para buscadores y para quien no tiene JavaScript. React lo reemplaza al cargar. -->
+      <main style="max-width:860px;margin:0 auto;padding:32px 16px;color:#f4f2ea;background:#0b0d12;font-family:system-ui,sans-serif;line-height:1.6">
+        <h1>Línea N · la trivia de respuestas raras</h1>
+        <p>Línea N es un juego de trivia gratuito y sin registro: cada pregunta tiene decenas de respuestas correctas, y cuanto más rara es la tuya, más puntos sumás. Una respuesta común vale 10 puntos; una de nicho, 100.</p>
+        <h2>Cómo se juega</h2>
+        <p>Cada partida tiene 10 estaciones (preguntas) y 20 segundos para responder cada una. Podés jugar solo, contra el reloj, o crear una sala y jugar con hasta 12 amigos desde el celular. Al final ves qué porcentaje de la gente eligió cada respuesta.</p>
+        <h2>De qué son las preguntas</h2>
+        <p>Geografía, fútbol, música, cine, series, televisión argentina, comida, animales, cuerpo humano, marcas y mucho más: más de 140 preguntas con miles de respuestas válidas.</p>
+        <p><a href="/como-jugar" style="color:#ffd400">Cómo jugar</a> · <a href="/preguntas" style="color:#ffd400">Todas las preguntas</a> · <a href="/acerca" style="color:#ffd400">Acerca de</a> · <a href="/privacidad" style="color:#ffd400">Privacidad</a></p>
+      </main>
+    </div>
     <script type="module" src="/src/main.jsx"></script>
   </body>
 </html>
