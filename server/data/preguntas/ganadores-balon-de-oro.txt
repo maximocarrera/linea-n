@@ -1,0 +1,70 @@
+# Línea N · una pregunta por archivo. Después de editar: npm run db:import
+# Un nombre por renglón. Variantes con |
+# Niveles: [10] común · [30] poco común · [60] rara · [100] de nicho
+# Todos los ganadores del Balón de Oro (1956-2026; el de 2026 fue Harry Kane).
+# También valen las ganadoras del Balón de Oro femenino (desde 2018).
+
+categoria: Fútbol
+consigna: Nombrá un jugador que haya ganado el Balón de Oro
+activa: si
+apellidos: si
+
+[10]
+Lionel Messi | Leo Messi
+Cristiano Ronaldo | CR7
+Ronaldinho
+Ronaldo Nazário | Ronaldo | Fenómeno
+Zinedine Zidane | Zizou
+Kaká
+Luka Modrić
+Karim Benzema
+
+[30]
+Ousmane Dembélé
+Rodri | Rodrigo Hernández
+Harry Kane
+Johan Cruyff
+Franz Beckenbauer | Kaiser
+Michel Platini
+Marco van Basten
+Alfredo Di Stéfano
+Rivaldo
+Luís Figo
+Pavel Nedvěd
+Andriy Shevchenko | Sheva
+Fabio Cannavaro
+George Weah
+Roberto Baggio
+Michael Owen
+Lothar Matthäus
+
+[60]
+Eusébio
+Bobby Charlton
+George Best
+Gerd Müller
+Paolo Rossi
+Ruud Gullit
+Hristo Stoichkov
+Lev Yashin | Yashin | Araña Negra
+Karl-Heinz Rummenigge
+Kevin Keegan
+Jean-Pierre Papin
+Matthias Sammer
+Denis Law
+Gianni Rivera
+Omar Sívori | Enrique Omar Sívori
+Alexia Putellas
+Aitana Bonmatí
+Megan Rapinoe
+Ada Hegerberg
+
+[100]
+Stanley Matthews
+Raymond Kopa
+Luis Suárez Miramontes
+Josef Masopust
+Flórián Albert
+Oleg Blokhin
+Allan Simonsen
+Igor Belanov

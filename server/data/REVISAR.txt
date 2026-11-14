@@ -147,3 +147,43 @@ selva.txt / mar.txt / moneda-oficial.txt   [?]
       bosques europeos que se llaman "selva". Si solo querés selvas tropicales, borralos.
   [?] Moneda: Oro de Zimbabue (ZiG) y Leone; las monedas africanas cambian seguido.
   [?] Mar: Mar de Grau, Mar Chileno y Mar Argentino son nombres nacionales de partes del océano.
+
+
+BLOQUE 33-43
+============
+
+VERIFICADAS EN INTERNET (14/11/2026)
+  nominados-balon-de-oro-2026: los 30 de France Football (Infobae, 18/09/2026). Ganó Harry Kane.
+  ganadores-balon-de-oro: incluye a Kane (2026). También valen las ganadoras del femenino.
+  campeones-champions: PSG ganó 2025 y 2026.
+  selecciones-nike-adidas-mundial-2026: 13 Adidas + 13 Nike según la guía de Excélsior.
+  campeones-libertadores: final 2026 Palmeiras vs. Estudiantes el 28/11; los dos ya están en la lista.
+
+companeros-de-messi.txt   [?][+]
+-----------------------
+  [?] Los de [100] y algunos de [60]: no estoy seguro de que hayan coincidido con Messi en una
+      convocatoria (Schelotto jugó para Italia; Paulo Díaz, Renzo Saravia, Lucas Beltrán,
+      Facundo Buonanotte, Insaurralde, Muñoz, Figueroa, Lux: confirmar).
+  [+] Faltan suplentes de convocatorias sueltas (2005-2026).
+
+equipos-nike-adidas.txt   [?][+]
+-----------------------
+  Pregunta muy abierta: casi cualquier club grande usó Nike o Adidas alguna vez.
+  [?] Confirmar los históricos: Independiente, San Lorenzo, Leeds, Newcastle, Galatasaray,
+      Sevilla, Valencia, Vasco, Alianza Lima, Millonarios, Universidad de Chile, Rangers, West Ham.
+  [+] Faltan clubes argentinos chicos y de ligas menores. Si querés acotarla, cambiá la consigna
+      (ej.: "que use Adidas o Nike en 2026").
+
+facturas-panaderia.txt   [?]
+----------------------
+  [?] Molinete, Cuadradito, Tortita de manteca, Fosforito, Rosquita: confirmar que se vendan
+      como facturas. Churro, Ensaimada y Pan de leche no son facturas en sentido estricto.
+
+universidades-argentinas.txt   [?]
+---------------------------
+  [?] Las de [100]: confirmar nombres exactos y siglas.
+
+argentinos-nba.txt   [?]
+------------------
+  [?] Luca Vildoza, Nicolás Brussino, Nicolás Laprovittola y Patricio Garino jugaron poco;
+      confirmar que tengan partidos oficiales (no solo pretemporada).

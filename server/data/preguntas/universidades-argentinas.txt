@@ -1,0 +1,117 @@
+# Línea N · una pregunta por archivo. Después de editar: npm run db:import
+# Un nombre por renglón. Variantes con |   (nombre | sigla | forma corta)
+# Niveles: [10] común · [30] poco común · [60] rara · [100] de nicho
+# Universidades nacionales, provinciales y privadas de Argentina.
+
+categoria: Argentina
+consigna: Nombrá una universidad argentina
+activa: si
+apellidos: no
+
+[10]
+Universidad de Buenos Aires | UBA
+Universidad Nacional de La Plata | UNLP | Universidad de La Plata
+Universidad Tecnológica Nacional | UTN
+Universidad Nacional de Córdoba | UNC | Universidad de Córdoba
+
+[30]
+Universidad Católica Argentina | UCA
+Universidad Argentina de la Empresa | UADE
+Universidad de Palermo | UP
+Universidad de Belgrano | UB
+Universidad Torcuato Di Tella | UTDT | Di Tella
+Universidad de San Andrés | UdeSA | San Andrés
+Universidad Austral | Austral
+Universidad del Salvador | USAL
+Universidad Nacional de Rosario | UNR | Universidad de Rosario
+Universidad Nacional de Cuyo | UNCuyo | Universidad de Cuyo
+Universidad Nacional de La Matanza | UNLaM | Universidad de La Matanza
+Universidad Nacional de Tucumán | UNT
+Universidad Nacional del Litoral | UNL
+Universidad Nacional de Mar del Plata | UNMdP
+Universidad Nacional de Quilmes | UNQ
+Universidad Nacional de San Martín | UNSAM
+Instituto Tecnológico de Buenos Aires | ITBA
+Universidad Siglo 21 | Siglo 21
+Universidad Abierta Interamericana | UAI
+Universidad Nacional de Lanús | UNLa
+Universidad Nacional de Lomas de Zamora | UNLZ
+Universidad Nacional del Sur | UNS
+
+[60]
+Universidad del CEMA | UCEMA | CEMA
+Universidad Kennedy | Universidad Argentina John F. Kennedy | UK
+Universidad de Morón | UM
+Universidad Maimónides | Maimónides
+Universidad Favaloro | Favaloro
+Universidad de Flores | UFLO
+Universidad del Museo Social Argentino | UMSA
+Universidad Católica de Córdoba | UCC
+Universidad Blas Pascal | UBP
+Universidad Católica de Santa Fe | UCSF
+Universidad de Mendoza | UM Mendoza
+Universidad Nacional del Nordeste | UNNE
+Universidad Nacional de Salta | UNSa
+Universidad Nacional de Jujuy | UNJu
+Universidad Nacional de Santiago del Estero | UNSE
+Universidad Nacional de Catamarca | UNCa
+Universidad Nacional de La Rioja | UNLaR
+Universidad Nacional de San Juan | UNSJ
+Universidad Nacional de San Luis | UNSL
+Universidad Nacional de La Pampa | UNLPam
+Universidad Nacional del Comahue | UNCo | UNCOMA
+Universidad Nacional de Río Negro | UNRN
+Universidad Nacional de la Patagonia San Juan Bosco | UNPSJB
+Universidad Nacional de la Patagonia Austral | UNPA
+Universidad Nacional de Tierra del Fuego | UNTDF
+Universidad Nacional de Misiones | UNaM
+Universidad Nacional de Formosa | UNaF
+Universidad Nacional de Entre Ríos | UNER
+Universidad Nacional de Río Cuarto | UNRC
+Universidad Nacional de Villa María | UNVM
+Universidad Nacional de General Sarmiento | UNGS
+Universidad Nacional de Tres de Febrero | UNTREF
+Universidad Nacional Arturo Jauretche | UNAJ
+Universidad Nacional de Avellaneda | UNDAV
+Universidad Nacional de Moreno | UNM
+Universidad Nacional de José C. Paz | UNPAZ
+Universidad Nacional de Hurlingham | UNAHUR
+Universidad Nacional del Oeste | UNO
+Universidad Nacional del Centro de la Provincia de Buenos Aires | UNICEN | Universidad del Centro
+Universidad Nacional de Luján | UNLu
+Universidad Nacional del Noroeste de la Provincia de Buenos Aires | UNNOBA
+Universidad Nacional de las Artes | UNA
+Universidad de Ciencias Empresariales y Sociales | UCES
+Universidad CAECE | CAECE
+Universidad ISALUD | ISALUD
+Universidad del Cine | FUC
+Universidad FASTA | FASTA
+Universidad Católica de La Plata | UCALP
+Universidad del Aconcagua | UDA
+Universidad Champagnat
+Universidad Católica de Cuyo | UCCuyo
+Universidad del Norte Santo Tomás de Aquino | UNSTA
+Universidad Católica de Salta | UCASAL
+Universidad Adventista del Plata | UAP
+Universidad Metropolitana para la Educación y el Trabajo | UMET
+Universidad Juan Agustín Maza | Maza
+Instituto Universitario Hospital Italiano | Hospital Italiano
+Universidad Autónoma de Entre Ríos | UADER
+
+[100]
+Universidad Nacional de la Defensa | UNDEF
+Universidad Pedagógica Nacional | UNIPE
+Universidad Nacional del Chaco Austral | UNCAUS
+Universidad Nacional de Villa Mercedes | UNViMe
+Universidad Nacional de Chilecito | UNdeC
+Universidad Nacional de Rafaela | UNRaf
+Universidad Nacional de San Antonio de Areco | UNSAdA
+Universidad de la Marina Mercante | UdeMM
+Universidad Atlántida Argentina
+Universidad del Este | UDE
+Universidad del Centro Educativo Latinoamericano | UCEL
+Universidad Gastón Dachary | UGD
+Universidad Católica de Santiago del Estero | UCSE
+Universidad de Concepción del Uruguay | UCU
+Universidad de San Pablo-T | USPT
+Fundación Barceló | Instituto Universitario Barceló

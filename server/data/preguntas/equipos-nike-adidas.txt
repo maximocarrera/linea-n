@@ -1,0 +1,110 @@
+# Línea N · una pregunta por archivo. Después de editar: npm run db:import
+# Un nombre por renglón. Variantes con |
+# Niveles: [10] común · [30] poco común · [60] rara · [100] de nicho
+# Clubes que vistieron Nike o Adidas en algún momento (hoy o en el pasado).
+# Cuentan también todos los clubes de la MLS (Adidas es proveedor de toda la liga).
+
+categoria: Fútbol
+consigna: Nombrá un equipo de fútbol que haya usado Adidas o Nike
+activa: si
+apellidos: no
+
+[10]
+Real Madrid
+Barcelona | Barça
+Boca Juniors | Boca
+River Plate | River
+Bayern Múnich | Bayern Munich | Bayern
+Manchester United | Man United
+Juventus | Juve
+Paris Saint-Germain | PSG
+Chelsea
+Arsenal
+Liverpool
+Inter de Milán | Inter | Internazionale
+Inter Miami
+
+[30]
+Atlético de Madrid | Atlético Madrid | Atleti
+Tottenham | Tottenham Hotspur | Spurs
+Manchester City | Man City
+Milan | AC Milan
+Ajax
+Benfica
+Celtic
+Olympique de Lyon | Lyon
+Olympique de Marsella | Marsella | Marseille
+Borussia Dortmund | Dortmund
+Roma | AS Roma
+Flamengo
+Corinthians
+Palmeiras
+São Paulo | Sao Paulo
+Internacional
+Club América | América
+Tigres
+Pumas
+Independiente
+San Lorenzo
+Leeds United | Leeds
+Newcastle
+Galatasaray
+Fenerbahçe
+LA Galaxy | Los Angeles Galaxy
+LAFC | Los Angeles FC
+Colo-Colo | Colo Colo
+
+[60]
+Porto | FC Porto
+Sporting de Lisboa | Sporting
+PSV Eindhoven | PSV
+Feyenoord
+Valencia
+Sevilla
+Schalke 04 | Schalke
+Hamburgo | Hamburger SV
+Olympiacos | Olympiakos
+Beşiktaş | Besiktas
+Zenit
+Spartak de Moscú | Spartak
+Dinamo de Kiev | Dynamo Kiev
+Shakhtar Donetsk | Shakhtar
+Aston Villa
+West Ham
+Rangers
+Santos
+Cruzeiro
+Atlético Mineiro
+Vasco da Gama | Vasco
+Universidad de Chile | La U
+Millonarios
+Atlético Nacional
+Alianza Lima
+New York City FC | NYCFC
+Seattle Sounders
+Atlanta United
+Toronto FC
+
+[100]
+New York Red Bulls
+Orlando City
+Portland Timbers
+Columbus Crew
+FC Cincinnati
+Philadelphia Union
+Nashville SC
+Austin FC
+Charlotte FC
+Chicago Fire
+Houston Dynamo
+Sporting Kansas City
+Minnesota United
+Real Salt Lake
+Colorado Rapids
+San Jose Earthquakes
+Vancouver Whitecaps
+CF Montréal | Montreal Impact
+New England Revolution
+D.C. United | DC United
+St. Louis City
+San Diego FC

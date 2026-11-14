@@ -1,0 +1,48 @@
+# Línea N · una pregunta por archivo. Después de editar: npm run db:import
+# Un nombre por renglón. Variantes con |
+# Niveles: [10] común · [30] poco común · [60] rara · [100] de nicho
+# Facturas de panadería argentina (singular y plural valen por la tolerancia a typos).
+
+categoria: Argentina
+consigna: Nombrá una factura de panadería argentina
+activa: si
+apellidos: no
+
+[10]
+Medialuna | Medialunas | Media luna | Medialuna de manteca
+Vigilante | Vigilantes
+Bola de fraile | Bolas de fraile | Berlinesa | Bolita de fraile
+Cañoncito | Cañoncitos | Cañoncito de dulce de leche | Cañón
+
+[30]
+Medialuna de grasa
+Sacramento | Sacramentos
+Suspiro de monja | Suspiros de monja
+Librito | Libritos | Librito de grasa
+Tortita negra | Tortitas negras
+Palmerita | Palmeritas | Palmera
+Cuernito | Cuernitos
+Bizcochito de grasa | Bizcochitos | Bizcocho de grasa | Bizcochito
+
+[60]
+Moñito | Moñitos | Moño
+Pañuelito | Pañuelitos
+Tortita de chicharrón | Chicharrón
+Margarita | Margaritas
+Trenza | Trenzas
+Cremona
+Raviolón | Raviol
+Ojito | Ojitos
+Canastita | Canastitas
+Medialuna rellena
+Churro | Churros
+
+[100]
+Rosquita | Rosquitas
+Fosforito | Fosforitos
+Bomba de crema | Bombita
+Molinete | Molinetes
+Tortita de manteca
+Cuadradito
+Ensaimada
+Pan de leche

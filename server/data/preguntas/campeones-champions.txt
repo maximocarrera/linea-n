@@ -1,0 +1,41 @@
+# Línea N · una pregunta por archivo. Después de editar: npm run db:import
+# Un nombre por renglón. Variantes con |
+# Niveles: [10] común · [30] poco común · [60] rara · [100] de nicho
+# Todos los campeones de la Copa de Europa / Champions League (1956-2026; 2025 y 2026: PSG).
+
+categoria: Fútbol
+consigna: Nombrá un equipo ganador de la Champions League
+activa: si
+apellidos: no
+
+[10]
+Real Madrid
+Barcelona | Barça
+Bayern Múnich | Bayern Munich | Bayern
+Liverpool
+Milan | AC Milan
+Manchester United | Man United
+
+[30]
+Inter | Inter de Milán | Internazionale
+Juventus | Juve
+Chelsea
+Manchester City | Man City
+Ajax
+Paris Saint-Germain | PSG | París Saint-Germain
+Porto | FC Porto
+Benfica
+Borussia Dortmund | Dortmund
+
+[60]
+Nottingham Forest
+Celtic
+Hamburgo | Hamburgo SV | Hamburger SV
+Olympique de Marsella | Marsella | Marseille
+Aston Villa
+PSV Eindhoven | PSV
+Feyenoord
+
+[100]
+Steaua Bucarest | Steaua
+Estrella Roja | Estrella Roja de Belgrado | Red Star

@@ -1,0 +1,43 @@
+# Línea N · una pregunta por archivo. Después de editar: npm run db:import
+# Un nombre por renglón. Variantes con |
+# Niveles: [10] común · [30] poco común · [60] rara · [100] de nicho
+# Todos los campeones de la Copa Libertadores (1960-2025). La final 2026 es Palmeiras vs.
+# Estudiantes (28/11/2026): los dos ya están en la lista.
+
+categoria: Fútbol
+consigna: Nombrá un equipo ganador de la Copa Libertadores
+activa: si
+apellidos: no
+
+[10]
+Boca Juniors | Boca
+River Plate | River
+Independiente
+Estudiantes de La Plata | Estudiantes
+Racing Club | Racing
+Peñarol
+Nacional | Club Nacional | Nacional de Montevideo
+Flamengo
+
+[30]
+Vélez Sarsfield | Vélez
+San Lorenzo
+Argentinos Juniors | Argentinos
+Palmeiras
+Santos
+São Paulo | Sao Paulo
+Grêmio | Gremio
+Internacional | Inter de Porto Alegre
+Corinthians
+Olimpia
+Colo-Colo | Colo Colo
+Atlético Nacional | Nacional de Medellín
+
+[60]
+Cruzeiro
+Atlético Mineiro
+Fluminense
+Botafogo
+Vasco da Gama | Vasco
+LDU Quito | Liga de Quito | LDU
+Once Caldas

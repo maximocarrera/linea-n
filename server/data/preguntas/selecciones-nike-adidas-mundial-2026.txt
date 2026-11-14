@@ -1,0 +1,44 @@
+# Línea N · una pregunta por archivo. Después de editar: npm run db:import
+# Un nombre por renglón. Variantes con |
+# Niveles: [10] común · [30] poco común · [60] rara · [100] de nicho
+# Selecciones vestidas por Nike o Adidas en el Mundial 2026 (fuente: Excélsior, guía de uniformes).
+# Puma (Portugal, Suiza, Marruecos, Paraguay...) y las demás marcas NO cuentan.
+
+categoria: Fútbol
+consigna: Nombrá una selección que haya usado Nike o Adidas en el último Mundial
+activa: si
+apellidos: no
+
+[10]
+Argentina
+Brasil
+Alemania
+España
+Francia
+Inglaterra
+
+[30]
+México
+Estados Unidos | EEUU | USA
+Países Bajos | Holanda
+Uruguay
+Colombia
+Bélgica
+Japón
+Croacia
+Canadá
+
+[60]
+Corea del Sur | Corea
+Australia
+Noruega
+Suecia
+Turquía
+Escocia
+Arabia Saudita | Arabia Saudí
+Argelia
+Qatar | Catar
+Sudáfrica
+
+[100]
+Curazao | Curaçao

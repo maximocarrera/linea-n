@@ -1,0 +1,165 @@
+# Línea N · una pregunta por archivo. Después de editar: npm run db:import
+# Un nombre por renglón. Variantes con |
+# Niveles: [10] común · [30] poco común · [60] rara · [100] de nicho
+# Jugadores que compartieron convocatoria/partidos con Messi en la Selección Argentina mayor (2005-2026).
+
+categoria: Fútbol
+consigna: Nombrá un jugador de fútbol que haya jugado con Messi en la Selección Argentina
+activa: si
+apellidos: si
+
+[10]
+Ángel Di María | Fideo
+Sergio Agüero | Kun Agüero | Kun
+Gonzalo Higuaín | Pipita Higuaín | Pipita
+Javier Mascherano | Masche
+Emiliano Martínez | Dibu Martínez | Dibu
+Rodrigo De Paul
+Lautaro Martínez | Toro Martínez
+Julián Álvarez | Araña Álvarez
+Enzo Fernández
+Alexis Mac Allister
+Carlos Tevez | Carlitos Tevez
+Juan Román Riquelme | Román
+Nicolás Otamendi | Ota
+Cristian Romero | Cuti Romero | Cuti
+Paulo Dybala
+Leandro Paredes
+
+[30]
+Sergio Romero | Chiquito Romero
+Lisandro Martínez | Licha Martínez
+Nahuel Molina
+Gonzalo Montiel | Cachete Montiel
+Marcos Acuña | Huevo Acuña
+Nicolás Tagliafico
+Giovani Lo Celso
+Germán Pezzella
+Ezequiel Lavezzi | Pocho Lavezzi
+Pablo Zabaleta
+Marcos Rojo
+Ezequiel Garay
+Martín Demichelis
+Lucas Biglia
+Ever Banega
+Fernando Gago
+Javier Pastore | Flaco Pastore
+Rodrigo Palacio
+Mauro Icardi
+Alejandro Garnacho
+Exequiel Palacios
+Guido Rodríguez
+Alejandro Gómez | Papu Gómez
+Ángel Correa
+Nicolás González
+Thiago Almada
+Franco Armani
+Juan Sebastián Verón | Brujita Verón
+Pablo Aimar
+Hernán Crespo
+Javier Zanetti | Pupi Zanetti
+Esteban Cambiasso | Cuchu Cambiasso
+Gabriel Heinze | Gringo Heinze
+Walter Samuel
+Roberto Ayala | Ratón Ayala
+Maxi Rodríguez | Maximiliano Rodríguez
+Martín Palermo
+Diego Milito | Príncipe Milito
+Gabriel Milito
+Juan Pablo Sorín
+Enzo Pérez
+Lionel Scaloni
+Juan Foyth
+Gerónimo Rulli
+Franco Mastantuono
+Giuliano Simeone
+
+[60]
+Leonardo Balerdi
+Facundo Medina
+Valentín Castellanos | Taty Castellanos
+Nicolás Paz
+Valentín Carboni
+Juan Musso
+Walter Benítez
+Marcos Senesi
+Lucas Martínez Quarta
+Nicolás Domínguez
+Joaquín Correa | Tucu Correa
+Lucas Ocampos
+Giovanni Simeone | Cholito Simeone
+Gonzalo Martínez | Pity Martínez
+Lucas Alario
+Ramiro Funes Mori
+Federico Fazio
+Mateo Musacchio
+Gabriel Mercado
+Eduardo Salvio | Toto Salvio
+Ricardo Álvarez | Ricky Álvarez
+Erik Lamela | Coco Lamela
+Augusto Fernández
+Nicolás Burdisso
+Fabricio Coloccini
+Mario Bolatti
+Jonás Gutiérrez
+Emiliano Insúa
+Cristian Ansaldi
+Hugo Campagnaro
+José Sosa | Principito Sosa
+Franco Di Santo
+Lucas Pratto | Oso Pratto
+Darío Benedetto | Pipa Benedetto
+Matías Kranevitter
+Manuel Lanzini
+Cristian Pavón | Kichán Pavón
+Maximiliano Meza
+Roberto Pereyra | Tucu Pereyra
+Mariano Andújar
+Juan Pablo Carrizo
+Roberto Abbondanzieri | Pato Abbondanzieri
+Leo Franco
+Wilfredo Caballero | Willy Caballero
+Agustín Marchesín
+Nahuel Guzmán | Patón Guzmán
+Agustín Orión
+Oscar Ustari
+Luis González | Lucho González
+Julio Cruz | Jardinero Cruz
+Gonzalo Rodríguez
+Leandro Cufré
+Clemente Rodríguez
+Lisandro López
+Jesús Dátolo
+Nicolás Gaitán
+José Basanta
+Federico Fernández
+Milton Casco
+Facundo Roncaglia
+Emmanuel Mas
+Leonel Vangioni
+Jonatan Maidana
+Víctor Cuesta
+Ignacio Fernández | Nacho Fernández
+Santiago Ascacíbar
+Emiliano Buendía
+
+[100]
+Gonzalo Bergessio
+Daniel Díaz | Cata Díaz
+Nicolás Pareja
+Sebastián Battaglia
+Sebastián Domínguez
+Pablo Piatti
+Guido Pizarro
+Andrés D'Alessandro
+Mauro Zárate
+Federico Insúa
+Ezequiel Muñoz
+Luciano Figueroa
+Germán Lux
+Juan Manuel Insaurralde
+Ezequiel Schelotto
+Paulo Díaz
+Renzo Saravia
+Lucas Beltrán
+Facundo Buonanotte

@@ -1,0 +1,48 @@
+# Línea N · una pregunta por archivo. Después de editar: npm run db:import
+# Un nombre por renglón. Variantes con |
+# Niveles: [10] común · [30] poco común · [60] rara · [100] de nicho
+# Los 30 nominados al Balón de Oro masculino 2026 (lista de France Football, septiembre de 2026;
+# ganó Harry Kane el 26/10/2026). Fuente: Infobae, 18/09/2026.
+
+categoria: Fútbol
+consigna: Nombrá un jugador de la lista de nominados al Balón de Oro 2026
+activa: si
+apellidos: si
+
+[10]
+Lionel Messi | Leo Messi
+Kylian Mbappé
+Lamine Yamal
+Harry Kane
+Erling Haaland
+Vinícius Jr. | Vinícius Júnior | Vini Jr | Vinicius
+Lautaro Martínez | Toro Martínez
+
+[30]
+Ousmane Dembélé
+Jude Bellingham
+Rodri | Rodrigo Hernández
+Achraf Hakimi
+Khvicha Kvaratskhelia | Kvara
+Declan Rice
+Bruno Fernandes
+Luis Díaz | Lucho Díaz
+Vitinha
+Pau Cubarsí
+Michael Olise
+
+[60]
+João Neves
+Nuno Mendes
+Marquinhos
+William Saliba
+Sadio Mané
+Ferran Torres
+Fabián Ruiz
+Marc Cucurella
+Gabriel | Gabriel Magalhães
+Dayot Upamecano
+
+[100]
+Willian Pacho
+Julián Quiñones

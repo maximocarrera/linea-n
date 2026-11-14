@@ -1,0 +1,26 @@
+# Línea N · una pregunta por archivo. Después de editar: npm run db:import
+# Un nombre por renglón. Variantes con |
+# Niveles: [10] común · [30] poco común · [60] rara · [100] de nicho
+# Las 8 películas argentinas nominadas al Oscar a Mejor Película Extranjera / Internacional
+# (ganaron La historia oficial y El secreto de sus ojos).
+
+categoria: Argentina
+consigna: Nombrá una película argentina nominada al Oscar a Mejor Película Internacional
+activa: si
+apellidos: no
+
+[10]
+El secreto de sus ojos
+Relatos salvajes
+Argentina, 1985 | Argentina 1985
+
+[30]
+La historia oficial
+El hijo de la novia
+
+[60]
+Camila
+La tregua
+
+[100]
+Tango | Tango, no me dejes nunca
