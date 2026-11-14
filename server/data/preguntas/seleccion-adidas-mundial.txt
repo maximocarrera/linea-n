@@ -1,0 +1,39 @@
+categoria: Fútbol
+consigna: Nombrá una selección de fútbol vestida por Adidas en mundiales
+activa: si
+apellidos: no
+
+[10]
+Argentina | Selección Argentina | Albiceleste
+Alemania | Germany | Die Mannschaft
+Espana | España | La Roja
+Mexico | México | Tri
+Italia | Italy
+
+[25]
+Japón | Japan | Samurai Blue
+Colombia | Selección Colombia | Los Cafeteros
+Belgica | Bélgica | Diablos Rojos
+Suecia | Sweden
+Chile | La Roja
+
+[45]
+Peru | Perú | Blanquirroja
+Paraguay | Albirroja
+Venezuela | Vinotinto
+Uruguay | Celeste
+Ecuador | Tri
+
+[65]
+Gales | Wales | Dragons
+Escocia | Scotland | Tartan Army
+Irlanda del Norte | Northern Ireland
+Hungria | Hungría | Magyarok
+Rusia | Russia
+
+[100]
+Argelia | Algeria | Fennecs
+Nigeria | Super Eagles
+Sudafrica | South Africa | Bafana Bafana
+Marruecos | Morocco | Atlas Lions
+Egipto | Egypt | Faraones

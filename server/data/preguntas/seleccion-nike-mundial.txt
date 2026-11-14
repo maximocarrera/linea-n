@@ -1,0 +1,29 @@
+# Línea N · una pregunta por archivo. Después de editar: npm run db:import
+# Un nombre por renglón. Variantes con |
+# Niveles: [10] común · [30] poco común · [60] rara · [100] de nicho
+# Selecciones de fútbol patrocinadas por Nike en la Copa del Mundo 2026.
+
+categoria: Fútbol
+consigna: Nombrá una selección que haya usado Nike en el Mundial 2026
+activa: si
+apellidos: no
+
+[10]
+Brasil | Brazil | La Canarinha
+Francia | Les Bleus
+Inglaterra | Seleccion de Inglaterra
+Países Bajos | Paises Bajos | Holanda | Netherlands
+
+[30]
+Estados Unidos | USA | Estados Unidos de America
+Canadá | Canada
+Corea del Sur | South Korea
+Australia | Socceroos
+Croacia | Vatreni
+
+[60]
+Uruguay | La Celeste
+Noruega | Norway
+
+[100]
+Turquía | Turquia | Turkey

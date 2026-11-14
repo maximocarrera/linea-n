@@ -23,9 +23,13 @@ Eduardo Camavinga
 Éder Militão
 Antonio Rüdiger
 Dean Huijsen
+
+[41]
 Trent Alexander-Arnold | Trent
 Endrick
 Brahim Díaz | Brahim
+
+[55]
 Álvaro Carreras
 Bernardo Silva
 Ibrahima Konaté
@@ -36,6 +40,8 @@ Ferland Mendy
 Raúl Asencio
 Andriy Lunin
 Denzel Dumfries
+
+[67]
 Yan Diomande
 
 [100]

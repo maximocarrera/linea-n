@@ -22,8 +22,12 @@ Calle 13 | Residente | Visitante
 Juan Luis Guerra
 Natalia Lafourcade
 Jorge Drexler
+
+[50]
 Carlos Vives
 Rubén Blades
+
+[67]
 Jesse & Joy | Jesse y Joy
 
 [60]

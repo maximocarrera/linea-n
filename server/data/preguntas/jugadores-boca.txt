@@ -24,6 +24,8 @@ Lautaro Blanco
 Nicolás Figal
 Marco Pellegrino
 Carlos Palacios
+
+[44]
 Tomás Belmonte
 Williams Alarcón
 Milton Delgado
@@ -37,6 +39,8 @@ Adam Bareiro
 Leandro Brey
 Javier García
 Leandro Lozano
+
+[88]
 Dylan Gorosito
 Facundo Herrera
 Tomás Aranda

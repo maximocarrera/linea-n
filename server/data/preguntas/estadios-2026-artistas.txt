@@ -20,7 +20,6 @@ Airbag
 
 [30]
 Chayanne
-My Chemical Romance | MCR
 Tini | Tini Stoessel
 Alejandro Sanz
 Fito Páez
@@ -33,3 +32,11 @@ Maluma
 Iron Maiden
 Cuarteto de Nos | El Cuarteto de Nos
 Don Osvaldo
+
+[100]
+YSY A
+My Chemical Romance | MCR
+Un Poco de Ruido | Poco de Ruido 
+Q'Lokura | qlokura
+
+

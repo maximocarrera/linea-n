@@ -15,7 +15,6 @@ Bayer Leverkusen | Leverkusen | Aspirinas
 Bologna | Bolonia
 Botafogo | Fogo | Estrela Solitaria
 Bragantino | Red Bull Bragantino
-Boca Unidos | Correntinos
 
 [45]
 Belgrano | Belgrano de Cordoba | Pirata
@@ -23,6 +22,7 @@ Banfield | Taladro
 Burgos | Burgos CF
 Bari | SSC Bari
 Brescia | Rondinelle
+Barcelona de Ecuador | Barcelona Ecuador 
 
 [65]
 Boavista | Las Panteras
@@ -34,6 +34,7 @@ Blackburn Rovers | Blackburn
 [100]
 Barracas Central | Barracas | Guapo
 Brown de Adrogue | Tricolor
+Boca Unidos
 Boca de Rio Gallegos | Boca Rio Gallegos
 Basilea | FC Basel
 Belen | Belen FC

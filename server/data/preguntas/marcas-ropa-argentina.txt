@@ -19,6 +19,7 @@ Mimo & Co | Mimo | Mimo y Co
 Prüne | Prune
 
 [30]
+Bullbeny
 Akiabara
 Vitamina
 Paula Cahen d'Anvers | Paula Cahen | Paula
@@ -55,6 +56,7 @@ Macowens
 Narrow
 
 [60]
+TwoHip | two hip 
 Cuesta Blanca
 Equus
 Herencia
@@ -71,6 +73,14 @@ Sibyl Vane
 Lázaro
 Tucci
 Viamo
+Shato
+Tussy 
+
+[67]
+NewRuls 
+
+[100]
+Ditrens
 Paruolo
 Flecha
 Pampero

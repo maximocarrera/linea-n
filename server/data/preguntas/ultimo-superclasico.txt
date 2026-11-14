@@ -25,6 +25,8 @@ Marcos Acuña | Huevo Acuña
 Santiago Ascacíbar | Ruso Ascacíbar
 Álvaro Montero
 Lautaro Blanco
+
+[45]
 Milton Delgado
 Enner Valencia
 Sebastián Driussi
@@ -40,8 +42,12 @@ Tomás Belmonte
 Santiago Beltrán
 Lucas Beltrán
 Tobías Andrada
-Lucas Silva
+
+[67]
 Tomás Galván
+
+[100]
 Lautaro Rivero
 Lautaro Pereyra
 Juan Cruz Meza
+Lucas Silva

@@ -16,6 +16,7 @@ Vainilla
 Limón | Limón al agua
 Sambayón | Sabayón
 Crema americana | Americana
+Chocalate dubai
 
 [30]
 Granizado | Stracciatella | Chocolate granizado
@@ -30,6 +31,8 @@ Tramontana
 Mascarpone
 Tiramisú
 Pistacho
+
+[44]
 Frambuesa
 Durazno
 Ananá | Piña
@@ -37,7 +40,6 @@ Maracuyá
 Mango
 Frutos del bosque | Frutos rojos
 Cereza
-Kinotos al whisky | Quinotos al whisky
 Crema del cielo
 Crema rusa
 Café
@@ -78,6 +80,9 @@ Manzana verde
 Uva
 Pomelo
 Sambayón con almendras
+
+[67]
+Kinotos al whisky | Quinotos al whisky
 
 [100]
 Té verde | Matcha
