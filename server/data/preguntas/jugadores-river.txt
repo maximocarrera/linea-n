@@ -1,0 +1,44 @@
+# Línea N · una pregunta por archivo. Después de editar: npm run db:import
+# Un nombre por renglón. Variantes con |
+# Niveles: [10] común · [30] poco común · [60] rara · [100] de nicho
+# OJO: cambia con cada mercado de pases. Plantel del segundo semestre 2026 (Wikipedia, al 11/8/2026).
+
+categoria: Fútbol
+consigna: Nombrá un jugador que actualmente esté jugando en River
+activa: si
+apellidos: si
+
+[10]
+Nicolás Otamendi | Ota
+Gonzalo Montiel | Cachete Montiel
+Ángel Correa
+Thiago Almada
+Marcos Acuña | Huevo Acuña
+Sebastián Driussi
+
+[30]
+Lucas Martínez Quarta
+Rafael Santos Borré | Borré
+Lucas Beltrán
+Mauro Arambarri
+Aníbal Moreno
+Fausto Vera
+Giovanni González
+Santiago Beltrán
+Lautaro Rivero
+Tomás Galván
+Juan Carlos Portillo
+Francisco Ortega
+
+[60]
+Ezequiel Centurión
+Lucas Silva
+Tobías Andrada
+Juan Cruz Meza
+Lautaro Pereyra
+Agustín Ruberto
+Facundo González
+Tobías Ramírez
+
+[100]
+Jeremías Martinet

@@ -1,0 +1,42 @@
+# Línea N · una pregunta por archivo. Después de editar: npm run db:import
+# Un nombre por renglón. Variantes con |
+# Niveles: [10] común · [30] poco común · [60] rara · [100] de nicho
+# OJO: cambia con cada mercado de pases. Plantel 2026-27 (Wikipedia, actualizado al 8/11/2026).
+
+categoria: Fútbol
+consigna: Nombrá un jugador que actualmente esté jugando en el Barcelona
+activa: si
+apellidos: si
+
+[10]
+Lamine Yamal
+Pedri | Pedro González
+Raphinha
+Gavi | Pablo Gavira
+Frenkie de Jong | De Jong
+Pau Cubarsí
+
+[30]
+Dani Olmo
+Rodri | Rodrigo Hernández
+Jules Koundé
+Alejandro Balde
+Fermín López
+Joan García
+Wojciech Szczęsny | Szczesny
+João Cancelo | Cancelo
+Gabriel Jesus
+Anthony Gordon
+Karim Adeyemi
+
+[60]
+Eric García
+Andreas Christensen
+Gerard Martín
+Marc Bernal
+Dominik Livaković | Livakovic
+Roony Bardghji
+
+[100]
+Xavi Espart
+Brian Fariñas

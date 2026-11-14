@@ -1,0 +1,43 @@
+# Línea N · una pregunta por archivo. Después de editar: npm run db:import
+# Un nombre por renglón. Variantes con |
+# Niveles: [10] común · [30] poco común · [60] rara · [100] de nicho
+# OJO: cambia con cada mercado de pases. Plantel 2026-27 (dorsales oficiales del club, Wikipedia al 2/9/2026).
+
+categoria: Fútbol
+consigna: Nombrá un jugador que actualmente esté jugando en el Real Madrid
+activa: si
+apellidos: si
+
+[10]
+Kylian Mbappé
+Vinícius Jr. | Vinícius Júnior | Vini Jr | Vinicius
+Jude Bellingham
+Federico Valverde | Fede Valverde | Pajarito Valverde
+Thibaut Courtois
+Rodrygo
+Arda Güler
+
+[30]
+Aurélien Tchouaméni
+Eduardo Camavinga
+Éder Militão
+Antonio Rüdiger
+Dean Huijsen
+Trent Alexander-Arnold | Trent
+Endrick
+Brahim Díaz | Brahim
+Álvaro Carreras
+Bernardo Silva
+Ibrahima Konaté
+Marc Cucurella
+Ferland Mendy
+
+[60]
+Raúl Asencio
+Andriy Lunin
+Denzel Dumfries
+Yan Diomande
+
+[100]
+Carlos Espí
+Thiago Pitarch

@@ -1,0 +1,36 @@
+# Línea N · una pregunta por archivo. Después de editar: npm run db:import
+# Un nombre por renglón. Variantes con |
+# Niveles: [10] común · [30] poco común · [60] rara · [100] de nicho
+# Los 20 de LaLiga 2026-27 (ascendieron Racing de Santander, Deportivo y Málaga).
+# OJO: actualizar cada temporada.
+
+categoria: Fútbol
+consigna: Nombrá un equipo de la liga profesional de España
+activa: si
+apellidos: no
+
+[10]
+Real Madrid
+Barcelona | Barça
+Atlético de Madrid | Atlético Madrid | Atleti
+Sevilla
+Valencia
+Villarreal
+
+[30]
+Real Betis | Betis
+Athletic Bilbao | Athletic Club | Athletic
+Real Sociedad
+Celta de Vigo | Celta
+Espanyol
+Getafe
+Osasuna
+
+[60]
+Rayo Vallecano | Rayo
+Deportivo de La Coruña | Deportivo | Depor
+Málaga
+Racing de Santander | Racing Santander
+Alavés | Deportivo Alavés
+Elche
+Levante

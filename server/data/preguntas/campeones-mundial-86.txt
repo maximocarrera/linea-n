@@ -1,0 +1,40 @@
+# Línea N · una pregunta por archivo. Después de editar: npm run db:import
+# Un nombre por renglón. Variantes con |
+# Niveles: [10] común · [30] poco común · [60] rara · [100] de nicho
+# Los 22 campeones del mundo de México 1986 (Bilardo era el DT, no cuenta).
+
+categoria: Fútbol
+consigna: Nombrá un jugador del equipo campeón del 86
+activa: si
+apellidos: si
+
+[10]
+Diego Maradona | Diego Armando Maradona | Diego | Pelusa
+Jorge Valdano
+Jorge Burruchaga | Burru
+Oscar Ruggeri | Cabezón Ruggeri
+
+[30]
+Nery Pumpido
+José Luis Brown | Tata Brown
+Sergio Batista | Checho Batista
+Ricardo Giusti
+Héctor Enrique | Negro Enrique
+Julio Olarticoechea | Vasco Olarticoechea
+José Luis Cuciuffo
+Daniel Passarella
+Ricardo Bochini | Bocha
+
+[60]
+Claudio Borghi | Bichi Borghi
+Pedro Pasculli
+Carlos Tapia
+Néstor Clausen
+Oscar Garré
+Marcelo Trobbiani
+Luis Islas
+
+[100]
+Héctor Zelada
+Sergio Almirón
+Edgardo Bauza | Patón Bauza

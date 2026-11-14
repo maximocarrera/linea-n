@@ -187,3 +187,28 @@ argentinos-nba.txt   [?]
 ------------------
   [?] Luca Vildoza, Nicolás Brussino, Nicolás Laprovittola y Patricio Garino jugaron poco;
       confirmar que tengan partidos oficiales (no solo pretemporada).
+
+
+BLOQUE 44-54
+============
+
+PREGUNTAS QUE VENCEN (actualizarlas cuando cambie la realidad)   [!]
+  ultimo-superclasico: Boca 1-0 River del 1/11/2026 (titulares + cambios, La Nación).
+      Reemplazar la lista después de cada superclásico.
+  jugadores-barcelona / jugadores-real-madrid: planteles 2026-27 (Wikipedia, sept-nov 2026).
+  jugadores-boca: plantel al 9/11/2026.  jugadores-river: plantel al 11/8/2026 (el más viejo:
+      confirmar que no se haya ido nadie en septiembre).
+  equipos-laliga: los 20 de 2026-27. Cambia en junio con ascensos y descensos.
+  equipos-ascenso-argentino: los 36 de la Primera Nacional 2026 están verificados.
+      [?] Los de Primera B, Federal A y Primera C son de memoria: confirmar en qué categoría
+      están hoy (sobre todo Arsenal y Brown de Adrogué, que no figuran en la Nacional 2026).
+      Ojo de no dejar ningún equipo que hoy esté en la Liga Profesional.
+
+argentinos-campeones-champions.txt   [?]
+---------------------------------
+  [?] Maxi López (Barcelona 2006), Willy Caballero (Chelsea 2021), Rogelio Domínguez y
+      Héctor Rial (Real Madrid de los 50): eran del plantel campeón aunque jugaron poco.
+  [?] Di Stéfano nació en Argentina pero jugó para España. Si no lo querés, borralo.
+
+CONFIABLES
+  paises-copa-america (los 19), paises-eurocopa (los 37), campeones-mundial-86 (los 22).

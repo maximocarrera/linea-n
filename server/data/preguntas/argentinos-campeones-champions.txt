@@ -1,0 +1,32 @@
+# Línea N · una pregunta por archivo. Después de editar: npm run db:import
+# Un nombre por renglón. Variantes con |
+# Niveles: [10] común · [30] poco común · [60] rara · [100] de nicho
+# Argentinos (nacidos en Argentina) campeones de la Copa de Europa / Champions League como jugadores.
+
+categoria: Fútbol
+consigna: Nombrá un argentino que haya ganado la Champions League
+activa: si
+apellidos: si
+
+[10]
+Lionel Messi | Leo Messi
+Ángel Di María | Fideo
+Javier Mascherano | Masche
+Carlos Tevez | Carlitos Tevez
+Julián Álvarez | Araña Álvarez
+Javier Zanetti | Pupi Zanetti
+
+[30]
+Diego Milito | Príncipe Milito
+Esteban Cambiasso | Cuchu Cambiasso
+Walter Samuel
+Fernando Redondo
+Alfredo Di Stéfano
+Gabriel Milito
+Santiago Solari
+
+[60]
+Wilfredo Caballero | Willy Caballero
+Maxi López | Maximiliano López
+Héctor Rial
+Rogelio Domínguez

@@ -1,0 +1,54 @@
+# Línea N · una pregunta por archivo. Después de editar: npm run db:import
+# Un nombre por renglón. Variantes con |
+# Niveles: [10] común · [30] poco común · [60] rara · [100] de nicho
+# Todas las selecciones que jugaron una fase final de la Eurocopa (1960-2024).
+
+categoria: Fútbol
+consigna: Nombrá un país que haya jugado la Eurocopa
+activa: si
+apellidos: no
+
+[10]
+España
+Alemania | Alemania Occidental | Alemania Federal
+Francia
+Italia
+Inglaterra
+Portugal
+Países Bajos | Holanda
+
+[30]
+Bélgica
+Croacia
+Dinamarca
+Suiza
+Suecia
+Grecia
+Turquía
+Polonia
+Rusia
+Unión Soviética | URSS | CEI
+República Checa | Chequia | Checoslovaquia
+Austria
+Escocia
+Gales
+Ucrania
+
+[60]
+Rumania | Rumanía
+Hungría
+Serbia | Yugoslavia
+Irlanda | República de Irlanda
+Irlanda del Norte
+Islandia
+Eslovaquia
+Eslovenia
+Noruega
+Bulgaria
+Albania
+Georgia
+
+[100]
+Finlandia
+Letonia
+Macedonia del Norte | Macedonia

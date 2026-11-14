@@ -1,0 +1,36 @@
+# Línea N · una pregunta por archivo. Después de editar: npm run db:import
+# Un nombre por renglón. Variantes con |
+# Niveles: [10] común · [30] poco común · [60] rara · [100] de nicho
+# Los 10 de Conmebol y todos los invitados que jugaron alguna Copa América (1916-2024).
+
+categoria: Fútbol
+consigna: Nombrá un país que haya jugado la Copa América
+activa: si
+apellidos: no
+
+[10]
+Argentina
+Brasil
+Uruguay
+Chile
+Colombia
+Paraguay
+
+[30]
+Perú
+Bolivia
+Ecuador
+Venezuela
+México | Méjico
+Estados Unidos | EEUU | USA
+
+[60]
+Japón
+Costa Rica
+Canadá
+Jamaica
+Panamá
+
+[100]
+Qatar | Catar
+Honduras

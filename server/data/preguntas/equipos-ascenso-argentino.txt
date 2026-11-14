@@ -1,0 +1,109 @@
+# Línea N · una pregunta por archivo. Después de editar: npm run db:import
+# Un nombre por renglón. Variantes con |
+# Niveles: [10] común · [30] poco común · [60] rara · [100] de nicho
+# Equipos que hoy juegan en el ascenso (por debajo de la Liga Profesional).
+# Los 36 de la Primera Nacional 2026 están verificados (Wikipedia); los de Primera B,
+# Federal A y Primera C son de memoria: ver REVISAR.txt.
+# OJO: actualizar cada temporada con los ascensos y descensos.
+
+categoria: Fútbol
+consigna: Nombrá un equipo del ascenso argentino
+activa: si
+apellidos: no
+
+[10]
+Chacarita Juniors | Chacarita
+Ferro Carril Oeste | Ferro
+Nueva Chicago | Chicago
+All Boys
+Atlanta
+Quilmes
+Colón
+Godoy Cruz
+
+[30]
+Almagro
+Almirante Brown
+Los Andes
+Temperley
+Deportivo Morón | Morón
+San Telmo
+Defensores de Belgrano
+Estudiantes de Buenos Aires | Estudiantes de Caseros
+Tristán Suárez
+Patronato
+San Martín de Tucumán
+San Martín de San Juan
+Gimnasia de Jujuy | Gimnasia y Esgrima de Jujuy
+Atlético de Rafaela | Rafaela
+Arsenal de Sarandí | Arsenal
+Brown de Adrogué
+
+[60]
+Acassuso
+Agropecuario
+Central Norte
+Chaco For Ever
+Ciudad de Bolívar | Bolívar
+Colegiales
+Deportivo Madryn | Madryn
+Deportivo Maipú | Maipú
+Ferrocarril Midland | Midland
+Gimnasia y Tiro | Gimnasia y Tiro de Salta
+Güemes | Güemes de Santiago del Estero
+Mitre de Santiago del Estero | Mitre
+Racing de Córdoba
+San Miguel
+Alvarado
+Deportivo Armenio | Armenio
+Comunicaciones
+Excursionistas
+Sacachispas
+Dock Sud
+Fénix
+Villa Dálmine
+Talleres de Remedios de Escalada | Talleres de Escalada
+UAI Urquiza
+J. J. Urquiza | JJ Urquiza
+Argentino de Quilmes
+Flandria
+Deportivo Merlo | Merlo
+Villa San Carlos
+Cañuelas
+Laferrere
+Olimpo
+Villa Mitre
+Sportivo Belgrano
+Juventud Antoniana
+Boca Unidos
+Crucero del Norte
+Douglas Haig
+Santamarina
+Cipolletti
+
+[100]
+Defensores Unidos
+Ituzaingó
+Real Pilar
+Sportivo Italiano
+Argentino de Merlo
+Deportivo Español | Español
+Victoriano Arenas
+El Porvenir
+Liniers
+Berazategui
+Sol de Mayo
+Huracán Las Heras
+Sarmiento de La Banda
+Kimberley
+Deportivo Camioneros
+Sportivo Las Parejas
+Desamparados
+Germinal
+Círculo Deportivo
+Ferro de General Pico
+Racing de Olavarría
+Estudiantes de San Luis
+Sportivo Peñarol
+Juventud Unida Universitario
+Gimnasia de Concepción del Uruguay

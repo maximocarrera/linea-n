@@ -1,0 +1,49 @@
+# Línea N · una pregunta por archivo. Después de editar: npm run db:import
+# Un nombre por renglón. Variantes con |
+# Niveles: [10] común · [30] poco común · [60] rara · [100] de nicho
+# OJO: cambia con cada mercado de pases. Plantel del Clausura 2026 (Wikipedia, actualizado al 9/11/2026).
+
+categoria: Fútbol
+consigna: Nombrá un jugador que actualmente esté jugando en Boca
+activa: si
+apellidos: si
+
+[10]
+Leandro Paredes
+Miguel Merentiel | Bestia Merentiel
+Agustín Marchesín
+Sebastián Villa
+Milton Giménez
+Lautaro Di Lollo
+Rodrigo Battaglia
+
+[30]
+Álvaro Montero
+Ayrton Costa
+Lautaro Blanco
+Nicolás Figal
+Marco Pellegrino
+Carlos Palacios
+Tomás Belmonte
+Williams Alarcón
+Milton Delgado
+Santiago Ascacíbar | Ruso Ascacíbar
+Ángel Romero
+Enner Valencia
+Alan Velasco
+Adam Bareiro
+
+[60]
+Leandro Brey
+Javier García
+Leandro Lozano
+Dylan Gorosito
+Facundo Herrera
+Tomás Aranda
+Camilo Rey Domenech
+Malcom Braida
+Leonel Flores
+
+[100]
+Matías Satas
+Rodrigo Bacidalupe

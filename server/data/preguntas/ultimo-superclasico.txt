@@ -1,0 +1,47 @@
+# Línea N · una pregunta por archivo. Después de editar: npm run db:import
+# Un nombre por renglón. Variantes con |
+# Niveles: [10] común · [30] poco común · [60] rara · [100] de nicho
+# OJO: hay que actualizarla después de cada superclásico.
+# Último: Boca 1 - River 0, 1/11/2026, Bombonera, Clausura (gol de Di Lollo). Titulares y los que entraron.
+
+categoria: Fútbol
+consigna: Nombrá un jugador que haya jugado en el último Superclásico (Boca vs River)
+activa: si
+apellidos: si
+
+[10]
+Leandro Paredes
+Lautaro Di Lollo
+Nicolás Otamendi | Ota
+Ángel Correa
+Thiago Almada
+Miguel Merentiel | Bestia Merentiel
+
+[30]
+Sebastián Villa
+Gonzalo Montiel | Cachete Montiel
+Lucas Martínez Quarta
+Marcos Acuña | Huevo Acuña
+Santiago Ascacíbar | Ruso Ascacíbar
+Álvaro Montero
+Lautaro Blanco
+Milton Delgado
+Enner Valencia
+Sebastián Driussi
+Carlos Palacios
+Alan Velasco
+
+[60]
+Leandro Lozano
+Facundo Herrera
+Leonel Flores
+Ayrton Costa
+Tomás Belmonte
+Santiago Beltrán
+Lucas Beltrán
+Tobías Andrada
+Lucas Silva
+Tomás Galván
+Lautaro Rivero
+Lautaro Pereyra
+Juan Cruz Meza
