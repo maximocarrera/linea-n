@@ -1,0 +1,98 @@
+# Línea N · una pregunta por archivo. Después de editar: npm run db:import
+# Un nombre por renglón. Variantes con |
+# Niveles: [10] común · [30] poco común · [60] rara · [100] de nicho
+# Mares (los océanos no cuentan).
+
+categoria: Mundo
+consigna: Nombrá un mar
+activa: si
+apellidos: no
+
+[10]
+Mar Mediterráneo | Mediterráneo
+Mar Caribe | Caribe | Mar de las Antillas
+Mar Muerto
+Mar Rojo
+Mar Negro
+Mar Argentino
+
+[30]
+Mar del Norte
+Mar Báltico | Báltico
+Mar Caspio | Caspio
+Mar Adriático | Adriático
+Mar Egeo | Egeo
+Mar Cantábrico | Cantábrico
+
+[60]
+Mar Arábigo | Mar de Arabia
+Mar de China Meridional | Mar de la China Meridional | Mar del Sur de China
+Mar de China Oriental | Mar de la China Oriental | Mar del Este de China
+Mar de Japón
+Mar Amarillo
+Mar Jónico | Jónico
+Mar Tirreno | Tirreno
+Mar de Bering
+Mar de los Sargazos
+Mar de Hoces | Mar de Drake
+Mar del Coral
+Mar de Cortés | Golfo de California
+Mar Chileno | Mar de Chile
+Mar de Aral | Aral
+Mar de Galilea | Lago de Tiberíades | Mar de Tiberíades
+
+[100]
+Mar de Liguria | Mar Ligur
+Mar de Alborán
+Mar Balear | Mar Baleárico
+Mar de Mármara
+Mar de Azov
+Mar de Creta
+Mar de Libia
+Mar Mirtoico
+Mar Menor
+Mar Blanco
+Mar de Barents
+Mar de Kara
+Mar de Láptev
+Mar de Siberia Oriental
+Mar de Chukchi | Mar de Chukotka
+Mar de Ojotsk | Mar de Okhotsk
+Mar de Beaufort
+Mar de Groenlandia
+Mar de Noruega
+Mar de Irlanda
+Mar Céltico
+Mar de Wadden | Mar de Frisia
+Mar de Labrador
+Mar de Baffin | Bahía de Baffin
+Mar de Irminger
+Mar de Lincoln
+Mar de Wandel
+Mar de Pechora
+Mar de Weddell
+Mar de Ross
+Mar de Amundsen
+Mar de Bellingshausen
+Mar de Scotia
+Mar de Tasmania
+Mar de Arafura
+Mar de Timor
+Mar de Java
+Mar de Banda
+Mar de Célebes
+Mar de Joló | Mar de Sulu
+Mar de Filipinas
+Mar de Andamán
+Mar de Salomón
+Mar de Bismarck
+Mar de Flores
+Mar de Molucas
+Mar de Seram
+Mar de Halmahera
+Mar de Bali
+Mar de Savu
+Mar de Laquedivas
+Mar de Bohai
+Mar Interior de Seto | Mar de Seto
+Mar de Grau

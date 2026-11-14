@@ -1,0 +1,28 @@
+# Línea N · una pregunta por archivo. Después de editar: npm run db:import
+# Un nombre por renglón. Variantes con |
+# Niveles: [10] común · [30] poco común · [60] rara · [100] de nicho
+# Brasil limita con 10 países: todos los de Sudamérica menos Chile y Ecuador,
+# más Francia (por la Guayana Francesa).
+
+categoria: Mundo
+consigna: Nombrá un país limítrofe con Brasil
+activa: si
+apellidos: no
+
+[10]
+Argentina
+Uruguay
+Paraguay
+
+[30]
+Bolivia
+Perú
+Colombia
+Venezuela
+
+[60]
+Guyana | Guayana | Guayana Británica
+Surinam | Suriname
+
+[100]
+Francia | Guayana Francesa

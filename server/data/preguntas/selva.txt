@@ -1,0 +1,55 @@
+# Línea N · una pregunta por archivo. Después de editar: npm run db:import
+# Un nombre por renglón. Variantes con |
+# Niveles: [10] común · [30] poco común · [60] rara · [100] de nicho
+# Selvas y bosques tropicales/lluviosos con nombre propio, más los bosques que se llaman "selva".
+
+categoria: Mundo
+consigna: Nombrá una selva
+activa: si
+apellidos: no
+
+[10]
+Amazonas | Selva amazónica | Amazonía | Amazonia | Selva del Amazonas
+
+[30]
+Selva misionera | Selva paranaense | Selva de Misiones | Bosque atlántico del Alto Paraná
+Yungas | Selva de yungas | Selva tucumana | Selva tucumano-oriental | Selva de montaña | Selva pedemontana
+Selva del Congo | Cuenca del Congo | Selva congoleña
+Selva Negra
+
+[60]
+Mata Atlántica | Selva atlántica | Bosque atlántico
+Selva Lacandona
+Selva de Borneo | Borneo
+Tapón del Darién | Darién | Selva del Darién
+Selva Valdiviana | Bosque valdiviano
+Selva Maya | Selva del Petén | Petén
+
+[100]
+Selva de Daintree | Daintree
+Selva del Chocó | Chocó | Chocó biogeográfico
+Selva de Sumatra | Sumatra
+Selva de Nueva Guinea | Nueva Guinea
+Selva de Madagascar
+Monteverde | Bosque nuboso de Monteverde
+El Yunque | Selva de El Yunque
+Bosque lluvioso Hoh | Hoh
+Tongass | Bosque de Tongass
+Selva de Sinharaja | Sinharaja
+Taman Negara
+Sundarbans
+Selva Central | Selva central peruana
+Manu | Selva del Manu
+Yasuní | Selva del Yasuní
+Selva de los Chimalapas | Chimalapas
+La Mosquitia | Mosquitia | Selva de la Mosquitia
+Selva guayanesa | Selva de la Guayana | Escudo guayanés
+Selva de Ituri | Ituri
+Bwindi | Selva de Bwindi | Bosque impenetrable de Bwindi
+Kakamega | Selva de Kakamega
+Selva de Xishuangbanna | Xishuangbanna
+Selva de Irati | Irati
+Selva de Oza
+Selva de Bohemia | Bosque de Bohemia
+Selva de Turingia | Bosque de Turingia
+Bialowieza | Białowieża | Bosque de Bialowieza

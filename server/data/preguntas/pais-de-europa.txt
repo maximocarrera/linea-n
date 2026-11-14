@@ -1,0 +1,73 @@
+# Línea N · una pregunta por archivo. Después de editar: npm run db:import
+# Un nombre por renglón. Variantes con |
+# Niveles: [10] común · [30] poco común · [60] rara · [100] de nicho
+# Los 44 estados de Europa + Kosovo, las naciones del Reino Unido y los transcontinentales
+# (Turquía, Rusia, Kazajistán, Georgia, Armenia, Azerbaiyán, Chipre).
+
+categoria: Mundo
+consigna: Nombrá un país de Europa
+activa: si
+apellidos: no
+
+[10]
+España
+Francia
+Italia
+Alemania
+Inglaterra
+Portugal
+
+[30]
+Reino Unido | Gran Bretaña
+Grecia
+Países Bajos | Holanda
+Bélgica
+Suiza
+Rusia
+Suecia
+Noruega
+Irlanda | República de Irlanda | Eire
+Polonia
+Croacia
+Ucrania
+Dinamarca
+Austria
+
+[60]
+Finlandia
+Islandia
+Escocia
+Gales
+República Checa | Chequia
+Hungría
+Rumania | Rumanía
+Serbia
+Turquía
+Bulgaria
+Mónaco
+Luxemburgo
+Ciudad del Vaticano | Vaticano | Santa Sede
+Andorra
+Eslovaquia
+Eslovenia
+
+[100]
+Albania
+Bosnia y Herzegovina | Bosnia | Bosnia-Herzegovina | Bosnia Herzegovina
+Bielorrusia | Belarús | Belarus
+Chipre
+Estonia
+Letonia
+Lituania
+Liechtenstein
+Malta
+Moldavia | Moldova
+Montenegro
+Macedonia del Norte | Macedonia
+San Marino
+Kosovo
+Irlanda del Norte
+Georgia
+Armenia
+Azerbaiyán | Azerbaiján
+Kazajistán | Kazajstán | Kazakhstan

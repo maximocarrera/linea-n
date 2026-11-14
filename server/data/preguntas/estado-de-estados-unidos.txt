@@ -1,0 +1,67 @@
+# Línea N · una pregunta por archivo. Después de editar: npm run db:import
+# Un nombre por renglón. Variantes con |
+# Niveles: [10] común · [30] poco común · [60] rara · [100] de nicho
+# Los 50 estados (Washington D.C. no es un estado).
+
+categoria: Mundo
+consigna: Nombrá un estado de Estados Unidos
+activa: si
+apellidos: no
+
+[10]
+California
+Texas
+Florida
+Nueva York | New York
+
+[30]
+Nevada
+Hawái | Hawaii
+Alaska
+Washington
+Arizona
+Illinois
+Nueva Jersey | New Jersey
+Massachusetts
+Míchigan | Michigan
+Georgia
+Colorado
+Luisiana | Louisiana
+
+[60]
+Pensilvania | Pennsylvania
+Ohio
+Oregón
+Utah
+Nuevo México | New Mexico
+Carolina del Norte | North Carolina
+Carolina del Sur | South Carolina
+Virginia
+Tennessee | Tenesí
+Kentucky
+Misisipi | Mississippi
+Alabama
+Minnesota
+Wisconsin
+Indiana
+Kansas
+Misuri | Missouri
+Oklahoma
+Maryland
+Connecticut
+
+[100]
+Virginia Occidental | West Virginia
+Idaho
+Montana
+Wyoming
+Dakota del Norte | North Dakota
+Dakota del Sur | South Dakota
+Nebraska
+Iowa
+Arkansas
+Maine
+Vermont
+Nuevo Hampshire | Nueva Hampshire | New Hampshire
+Rhode Island
+Delaware

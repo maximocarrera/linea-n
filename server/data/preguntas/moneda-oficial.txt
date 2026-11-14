@@ -1,0 +1,167 @@
+# Línea N · una pregunta por archivo. Después de editar: npm run db:import
+# Un nombre por renglón. Variantes con |
+# Niveles: [10] común · [30] poco común · [60] rara · [100] de nicho
+# Monedas oficiales vigentes (las que ya no circulan, como la peseta o la lira italiana, no valen).
+# El nombre genérico ("Peso", "Dólar", "Libra"...) cuenta para la más conocida de la familia.
+
+categoria: Mundo
+consigna: Nombrá una moneda oficial de algún país
+activa: si
+apellidos: no
+
+[10]
+Peso argentino | Peso
+Dólar estadounidense | Dólar | Dólar americano | Dólar de Estados Unidos | USD
+Euro
+Real brasileño | Real
+Libra esterlina | Libra | Libra británica
+Yen | Yen japonés
+
+[30]
+Peso uruguayo
+Peso chileno
+Peso mexicano
+Peso colombiano
+Guaraní | Guaraní paraguayo
+Boliviano | Peso boliviano
+Sol peruano | Sol | Nuevo sol
+Bolívar | Bolívar venezolano | Bolívar digital | Bolívar soberano
+Dólar canadiense
+Dólar australiano
+Franco suizo | Franco
+Rublo ruso | Rublo
+Lira turca | Lira
+Yuan | Renminbi | Yuan chino
+Rupia india | Rupia
+Won surcoreano | Won
+Riyal saudí | Riyal | Rial saudí
+Rand | Rand sudafricano
+
+[60]
+Peso cubano
+Peso dominicano
+Peso filipino
+Colón costarricense | Colón
+Quetzal
+Lempira
+Córdoba | Córdoba nicaragüense
+Balboa
+Dólar jamaiquino
+Dólar neozelandés
+Dólar de Singapur | Dólar singapurense
+Dólar de Hong Kong | Dólar hongkonés
+Nuevo dólar taiwanés | Dólar taiwanés
+Corona sueca | Corona
+Corona noruega
+Corona danesa
+Corona checa
+Zloty | Złoty | Esloti
+Forinto | Forint | Florín húngaro
+Leu rumano | Leu
+Grivna | Hryvnia | Grivna ucraniana
+Baht | Baht tailandés
+Dong | Dong vietnamita
+Rupia indonesia
+Ringgit | Ringgit malayo
+Dírham de los Emiratos | Dírham | Dirham emiratí | Dírham emiratí
+Shékel | Nuevo shékel | Séquel | Shekel
+Rial iraní | Rial
+Dinar iraquí
+Dinar kuwaití | Dinar
+Rial catarí | Riyal catarí
+Libra egipcia
+Dírham marroquí | Dirham marroquí
+Naira
+Chelín keniano | Chelín
+Franco CFA | Franco CFA de África Occidental | Franco CFA de África Central
+
+[100]
+Gourde | Gurde
+Dólar de Trinidad y Tobago
+Dólar bahameño | Dólar de las Bahamas
+Dólar de Barbados | Dólar barbadense
+Dólar beliceño
+Dólar guyanés
+Dólar surinamés
+Dólar del Caribe Oriental
+Dólar de las Islas Caimán
+Dólar bermudeño | Dólar de Bermudas
+Florín arubeño
+Florín caribeño | Florín antillano | Florín de las Antillas Neerlandesas
+Corona islandesa
+Leu moldavo
+Rublo bielorruso
+Dinar serbio
+Marco bosnio | Marco convertible
+Denar macedonio | Denar
+Lek | Lek albanés
+Lari | Lari georgiano
+Dram | Dram armenio
+Manat azerí | Manat
+Manat turcomano
+Tenge
+Som kirguís | Som
+Som uzbeko
+Somoni
+Afgani
+Won norcoreano
+Pataca
+Rupia pakistaní
+Rupia de Sri Lanka | Rupia esrilanquesa
+Rupia nepalí
+Rupia de Mauricio | Rupia mauriciana
+Rupia de Seychelles
+Rufiya | Rupia maldiva
+Taka
+Ngultrum
+Kyat
+Riel
+Kip
+Dólar de Brunéi
+Tugrik | Tögrög
+Dinar jordano
+Dinar bareiní
+Rial omaní
+Rial yemení
+Libra libanesa
+Libra siria
+Dinar argelino
+Dinar tunecino
+Dinar libio
+Birr | Birr etíope
+Cedi
+Chelín tanzano
+Chelín ugandés
+Chelín somalí
+Kwanza
+Kwacha zambiano | Kwacha
+Kwacha malauí
+Metical
+Dólar namibio
+Pula
+Loti
+Lilangeni
+Ariary
+Franco congoleño
+Franco ruandés
+Franco burundés
+Franco guineano
+Franco comorano
+Franco yibutiano
+Nakfa
+Libra sudanesa
+Libra sursudanesa
+Dalasi
+Leone
+Dólar liberiano
+Uguiya | Ouguiya
+Escudo caboverdiano
+Dobra
+Oro de Zimbabue | ZiG | Dólar zimbabuense
+Dólar fiyiano
+Kina
+Vatu
+Tala
+Paanga | Pa'anga
+Dólar de las Islas Salomón
+Franco CFP

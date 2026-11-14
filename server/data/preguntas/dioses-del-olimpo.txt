@@ -1,0 +1,46 @@
+# Línea N · una pregunta por archivo. Después de editar: npm run db:import
+# Un nombre por renglón. Variantes con |
+# Niveles: [10] común · [30] poco común · [60] rara · [100] de nicho
+# Los doce olímpicos, Hades y Hestia, y los dioses menores de la corte del Olimpo.
+# El nombre romano cuenta como el mismo dios (Zeus | Júpiter).
+
+categoria: Mundo
+consigna: Nombrá un dios o diosa del Olimpo
+activa: si
+apellidos: no
+
+[10]
+Zeus | Júpiter
+Poseidón | Neptuno
+Hades | Plutón
+Atenea | Atena | Palas Atenea | Minerva
+
+[30]
+Afrodita | Venus
+Apolo | Febo
+Ares | Marte
+Hera | Juno
+Hermes | Mercurio
+Artemisa | Artemis | Diana
+
+[60]
+Hefesto | Vulcano
+Dioniso | Dionisio | Baco
+Deméter | Ceres
+Hestia | Vesta
+
+[100]
+Perséfone | Proserpina | Coré
+Eros | Cupido
+Hebe | Juventas
+Nike | Victoria
+Iris
+Heracles | Hércules
+Ganímedes
+Asclepio | Esculapio
+Ilitía | Eileithyia | Lucina
+Temis
+Leto | Latona
+Harmonía
+Fobos
+Deimos

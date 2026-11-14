@@ -1,0 +1,67 @@
+# Línea N · una pregunta por archivo. Después de editar: npm run db:import
+# Un nombre por renglón. Variantes con |
+# Niveles: [10] común · [30] poco común · [60] rara · [100] de nicho
+# Los 48 estados de Asia + Palestina y Taiwán, con los transcontinentales (Rusia, Turquía, Kazajistán...).
+
+categoria: Mundo
+consigna: Nombrá un país de Asia
+activa: si
+apellidos: no
+
+[10]
+China
+Japón
+India
+Corea del Sur | Corea
+
+[30]
+Rusia
+Tailandia
+Vietnam
+Israel
+Arabia Saudita | Arabia Saudí | Arabia
+Irán
+Irak | Iraq
+Indonesia
+Filipinas
+Turquía
+Catar | Qatar
+Corea del Norte
+Pakistán
+Afganistán
+Emiratos Árabes Unidos | Emiratos Árabes | Emiratos | EAU
+
+[60]
+Siria
+Líbano
+Jordania
+Kuwait
+Malasia
+Singapur
+Mongolia
+Nepal
+Camboya
+Bangladés | Bangladesh
+Sri Lanka | Ceilán
+Palestina
+Taiwán
+Kazajistán | Kazajstán | Kazakhstan
+Uzbekistán
+Yemen
+Omán
+Maldivas
+Birmania | Myanmar
+
+[100]
+Armenia
+Azerbaiyán | Azerbaiján
+Georgia
+Chipre
+Baréin | Bahréin | Bahrein
+Brunéi | Brunei
+Bután
+Kirguistán | Kirguizistán
+Tayikistán
+Turkmenistán
+Laos
+Timor Oriental | Timor Leste

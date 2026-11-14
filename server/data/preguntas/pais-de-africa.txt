@@ -1,0 +1,72 @@
+# Línea N · una pregunta por archivo. Después de editar: npm run db:import
+# Un nombre por renglón. Variantes con |
+# Niveles: [10] común · [30] poco común · [60] rara · [100] de nicho
+# Los 54 países de África + Sahara Occidental (RASD, reconocimiento parcial).
+
+categoria: Mundo
+consigna: Nombrá un país de África
+activa: si
+apellidos: no
+
+[10]
+Egipto
+Sudáfrica
+Marruecos
+Nigeria
+
+[30]
+Camerún
+Senegal
+Argelia
+Ghana
+Kenia | Kenya
+Etiopía
+Túnez
+Angola
+Madagascar
+Costa de Marfil
+
+[60]
+Libia
+República del Congo | Congo | Congo Brazzaville
+República Democrática del Congo | RDC | Congo Kinshasa | Zaire
+Mozambique
+Somalia
+Sudán
+Uganda
+Ruanda | Rwanda
+Tanzania
+Zimbabue | Zimbabwe
+Malí | Mali
+Namibia
+Zambia
+Cabo Verde
+Botsuana | Botswana
+Guinea Ecuatorial
+
+[100]
+Benín | Dahomey
+Burkina Faso
+Burundi
+Chad
+Comoras
+Eritrea
+Esuatini | Suazilandia | Eswatini
+Gabón
+Gambia
+Guinea
+Guinea-Bisáu | Guinea Bissau | Guinea Bisau
+Lesoto | Lesotho
+Liberia
+Malaui | Malawi
+Mauricio
+Mauritania
+Níger
+República Centroafricana | Centroáfrica
+Santo Tomé y Príncipe
+Seychelles
+Sierra Leona
+Sudán del Sur
+Togo
+Yibuti | Djibouti | Yibutí
+Sahara Occidental | República Árabe Saharaui Democrática | RASD

@@ -1,0 +1,52 @@
+# Línea N · una pregunta por archivo. Después de editar: npm run db:import
+# Un nombre por renglón. Variantes con |
+# Niveles: [10] común · [30] poco común · [60] rara · [100] de nicho
+# Los 35 países independientes de América (sin territorios como Puerto Rico o Groenlandia).
+
+categoria: Mundo
+consigna: Nombrá un país de América
+activa: si
+apellidos: no
+
+[10]
+Argentina
+Brasil | Brazil
+Estados Unidos | EEUU | EE UU | EE.UU. | USA | Estados Unidos de América
+México | Méjico
+Chile
+Uruguay
+Canadá
+Perú
+Colombia
+
+[30]
+Paraguay
+Bolivia
+Venezuela
+Ecuador
+Cuba
+
+[60]
+Costa Rica
+Panamá
+Honduras
+Guatemala
+Nicaragua
+El Salvador | Salvador
+República Dominicana | Dominicana
+Jamaica
+Haití
+
+[100]
+Bahamas | Las Bahamas
+Barbados
+Belice | Belize
+Trinidad y Tobago | Trinidad
+Guyana
+Surinam | Suriname
+Granada | Grenada
+Dominica
+Santa Lucía | Saint Lucia
+San Vicente y las Granadinas | San Vicente
+San Cristóbal y Nieves | San Cristóbal y Nevis | Saint Kitts y Nevis | Saint Kitts and Nevis
+Antigua y Barbuda | Antigua
