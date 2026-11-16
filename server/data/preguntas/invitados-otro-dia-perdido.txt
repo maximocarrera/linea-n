@@ -1,0 +1,465 @@
+categoria: Tele 
+consigna: Nombrá invitados que estuvieron en el programa Otro día perdido de Mario Pergolini
+activa: si
+apellidos: no
+imagen: https://commons.wikimedia.org/wiki/File:Mario_Pergolini.JPG
+
+[10]
+Ricardo Darín | Darín | Darin
+Guillermo Francella | Francella
+Adrián Suar | Suar | Adrian Suar
+Natalia Oreiro | Oreiro
+Fito Páez | Páez | Paez
+Moria Casán | Moria | Casán | Casan
+China Suárez | Eugenia Suárez | China Suarez
+Mauro Icardi | Icardi
+Manu Ginóbili | Ginóbili | Ginobili
+Luisana Lopilato | Lopilato
+Cazzu
+Rosalía | Rosalia
+L-Gante | Elián Valenzuela
+Carlos Vives | Vives
+Juanes
+David Bisbal | Bisbal
+Ron Wood | Ronnie Wood
+Valeria Mazza | Mazza
+Luciano Pereyra | Pereyra
+Soledad Pastorutti | La Sole | Pastorutti
+La Mona Jiménez | La Mona | Jiménez | Jimenez
+Palito Ortega | Ortega
+Darío Barassi | Barassi | Dario Barassi
+Nicolás Vázquez | Nico Vázquez | Vázquez | Vazquez
+Nicolás Cabré | Cabré | Cabre
+Florencia Peña | Flor Peña | Peña
+Mariano Martínez | Martínez | Martinez
+Benjamín Vicuña | Vicuña | Vicuna
+Carla Peterson | Peterson
+Griselda Siciliani | Siciliani
+Diego Peretti | Peretti
+Damián Betular | Betular | Damian Betular
+Luciana Aymar | Lucha Aymar | Aymar
+Nicolás Repetto | Nico Repetto | Repetto
+Nicolás Occhiato | Nico Occhiato | Occhiato
+
+[30]
+Joaquín Furriel | Furriel | Joaquin Furriel
+Peter Lanzani | Lanzani
+Luciano Castro | Castro
+Facundo Arana | Arana
+Julieta Díaz | Díaz | Diaz
+Mercedes Morán | Morán | Moran
+Cecilia Roth | Roth
+Soledad Silveyra | Solita Silveyra | Silveyra
+Julio Chávez | Chávez | Chavez
+Oscar Martínez | Oscar Martinez
+Diego Torres | Torres
+Alejandro Lerner | Lerner
+Pedro Aznar | Aznar
+David Lebón | Lebón | Lebon
+Los Pimpinela | Pimpinela | Lucía Galán | Joaquín Galán
+Los Nocheros
+Ulises Bueno | Bueno
+Karina la Princesita | Karina
+Ke Personajes | Emanuel Noir
+Luck Ra
+Trueno
+Dillom
+Tiago PZK
+Lit Killah
+La Joaqui
+Emanero
+Pablo Lescano | Damas Gratis
+Ángela Leiva | Angela Leiva
+Julieta Venegas | Venegas
+Valeria Lynch | Lynch
+Patricia Sosa | Sosa
+Hilda Lizarazu | Lizarazu
+Laurita Fernández | Fernández | Fernandez
+Paula Chaves | Chaves
+Zaira Nara | Nara
+Nicole Neumann | Neumann
+Yanina Latorre | Latorre
+Eduardo Feinmann | Feinmann
+Luis Novaresio | Novaresio
+Nelson Castro | Castro
+Jonatan Viale | Viale
+Cristina Pérez | Pérez | Perez
+Marcelo Polino | Polino
+José María Listorti | Listorti
+Martín Bossi | Bossi | Martin Bossi
+Midachi | Dady Brieva | Miguel del Sel | Chino Volpato
+Sebastián Vignolo | Pollo Vignolo | Vignolo
+Gonzalo Bonadeo | Bonadeo
+Sergio Goycochea | Goycochea | Goyco
+Luis Scola | Scola
+Adolfo Cambiaso | Cambiaso
+Gastón Gaudio | Gaudio | Gaston Gaudio
+José Meolans | Meolans | Jose Meolans
+Fabián Cubero | Cubero | Fabian Cubero
+Maru Botana | Botana
+Donato de Santis | De Santis
+Jimena Monteverde | Monteverde
+Paulina Cocina
+Luquitas Rodríguez | Luquita Rodríguez | Rodríguez | Rodriguez
+Momi Giardina | Giardina
+Martín Cirio | La Faraona | Cirio
+Pedro Rosemblat | Rosemblat
+Carmen Maura | Maura
+Itziar Ituño | Ituño | Ituno
+Álex de la Iglesia | Alex de la Iglesia
+Juan José Campanella | Campanella
+
+[60]
+Pilar Gamboa | Gamboa
+Malena Pichot | Pichot
+Martín Garabal | Garabal
+Santiago Korovsky | Korovsky
+Fernán Mirás | Mirás | Miras
+Carlos Belloso | Belloso
+Federico D'Elía | D'Elía | D Elia
+Diego Ramos | Ramos
+Gonzalo Heredia | Heredia
+Esteban Lamothe | Lamothe
+Benjamín Rojas | Rojas
+Felipe Colombo | Colombo
+Agustina Cherri | Cherri
+Marcela Kloosterboer | Kloosterboer
+Emilia Attias | Attias
+Eugenia Tobal | Tobal
+Eleonora Wexler | Wexler
+Inés Estévez | Estévez | Estevez
+Carola Reyna | Reyna
+Verónica Llinás | Llinás | Llinas
+Jorgelina Aruzzi | Aruzzi
+Violeta Urtizberea | Urtizberea
+Julieta Zylberberg | Zylberberg
+Dolores Fonzi | Fonzi
+Andrea Pietra | Pietra
+Romina Gaetani | Gaetani
+Luciano Cáceres | Cáceres | Caceres
+Rafael Ferro | Ferro
+Juan Gil Navarro | Gil Navarro
+Juan Minujín | Minujín | Minujin
+Gabriel Corrado | Corrado
+Osvaldo Laport | Laport
+Gustavo Garzón | Garzón | Garzon
+Arnaldo André | André | Andre
+Arturo Puig | Puig
+Gerardo Romano | Romano
+Miguel Ángel Rodríguez | Miguel Angel Rodriguez
+Boy Olmi | Olmi
+Juan Leyrado | Leyrado
+Luis Machín | Machín | Machin
+Roly Serrano | Serrano
+Pablo Echarri | Echarri
+Sebastián Estevanez | Estevanez
+Tomás Fonzi | Fonzi
+Gastón Dalmau | Dalmau
+Gastón Soffritti | Soffritti
+Franco Masini | Masini
+Natalie Pérez | Pérez | Perez
+Julieta Nair Calvo | Nair Calvo
+Gimena Accardi | Accardi
+Oriana Sabatini | Sabatini
+Mery del Cerro | Del Cerro
+Eva de Dominici | De Dominici
+Catherine Fulop | Fulop
+Andrea Frigerio | Frigerio
+Juana Viale | Viale
+Guillermo López | Pelado López | López | Lopez
+Silvio Soldán | Soldán | Soldan
+Flavia Palmiero | Palmiero
+Susana Roccasalvo | Roccasalvo
+Teté Coustarot | Coustarot
+Leo Montero | Montero
+Roberto Moldavsky | Moldavsky
+Freddy Villarreal | Villarreal
+Ariel Tarico | Tarico
+Flavio Mendoza | Mendoza
+José María Muscari | Muscari
+Fernando Dente | Dente
+Chano | Chano Charpentier
+Joaquín Levinton | Levinton
+Emmanuel Horvilleur | Horvilleur
+Gustavo Cordera | Cordera
+Juanse
+Emiliano Brancciari | Brancciari
+El Mono de Kapanga | Mono de Kapanga | Fabio
+Santiago Motorizado
+Zoe Gotusso | Gotusso
+Bandalos Chinos | Goyo Degano
+El Polaco
+Callejero Fino
+Rusherking
+Nahuel Pennisi | Pennisi
+Lito Vitale | Vitale
+Juan Carlos Baglietto | Baglietto
+Elena Roger | Roger
+Sandra Mihanovich | Mihanovich
+Paz Martínez | Martínez | Martinez
+Marilina Bertoldi | Bertoldi
+Mau y Ricky | Mau Montaner | Ricky Montaner
+Mora Godoy | Godoy
+Marianela Núñez | Núñez | Nunez
+Julio Bocca | Bocca
+Eleonora Cassano | Cassano
+Hernán Casciari | Casciari
+Eduardo Sacheri | Sacheri
+Gabriel Rolón | Rolón | Rolon
+Alejandro Dolina | Dolina
+Felipe Pigna | Pigna
+Daniel Hadad | Hadad
+Antonio Laje | Laje
+Esteban Trebucq | Trebucq
+Marcelo Bonelli | Bonelli
+María O'Donnell | O'Donnell
+Ernesto Tenembaum | Tenembaum
+Diego Sehinkman | Sehinkman
+Luciana Geuna | Geuna
+Gastón Edul | Edul
+Diego Latorre | Latorre
+Mario Massaccesi | Massaccesi
+Pamela David | David
+Marina Calabró | Calabró | Calabro
+Iliana Calabró | Calabró | Calabro
+Edith Hermida | Hermida
+Fátima Flórez | Flórez | Florez
+Araceli González | González | Gonzalez
+Daniel Grinbank | Grinbank
+Carlos Rottemberg | Rottemberg
+Sebastián Ortega | Ortega
+Adrián Caetano | Caetano
+Ricky Sarkany | Sarkany
+Gino Bogani | Bogani
+Diego Topa | Topa
+Luli Pampín | Pampín | Pampin
+Karol Sevilla | Sevilla
+Laura Esquivel | Esquivel
+Brenda Asnicar | Asnicar
+Dalma Maradona | Maradona
+Marta Fort | Fort
+Las Chicas de la Culpa
+Germán Tripel | Tripa | Tripel
+Mike Chouhy | Chouhy
+Darío Orsi | Orsi
+Agustín Aristarán | Radagast | Soy Rada | Aristarán
+Evelyn Botto | Botto
+Tomás Rebord | Rebord
+Eugenio Weinbaum | Weinbaum
+Sebastián Weinbaum | Culini Weinbaum | Weinbaum
+Las Leonas
+Marcela Acuña | Tigresa Acuña | Acuña
+Roña Castro | Locomotora Castro | Castro
+Agustín Canapino | Canapino
+El Mago Pop | Mago Pop
+Stefan Kramer | Kramer
+
+[100]
+Agustina Kämpfer | Kämpfer | Kampfer
+Gerónimo Rauch | Rauch
+Juanchi Baleirón | Baleirón | Baleiron
+Marcelo de Bellis | De Bellis
+Martín Seefeld | Seefeld
+Soledad Villamil | Villamil
+Daniela Herrero | Herrero
+Fernanda Metilli | Metilli
+Eduardo Blanco | Blanco
+Valeria Sampedro | Sampedro
+Dante Gebel | Gebel
+Juana Molina | Molina
+Federico Bal | Fede Bal | Bal
+Lalo Mir | Mir
+Julieta Ortega | Ortega
+Julia Calvo | Calvo
+Marco Antonio Caponi | Caponi
+Lorena Vega | Vega
+Leticia Siciliani | Siciliani
+Florencia Raggi | Raggi
+Romina Ricci | Ricci
+Nora Cárpena | Cárpena | Carpena
+Carlos Portaluppi | Portaluppi
+Ludovico Di Santo | Di Santo
+Matías Mayer | Mayer
+Alejandro Fiore | Fiore
+Bárbara Lombardo | Lombardo
+Minerva Casero | Casero
+Mora Bianchi | Bianchi
+Margarita Páez | Páez | Paez
+Agustín Bernasconi | Bernasconi
+Noelia Marzol | Marzol
+Chechu Bonelli | Bonelli
+Reina Reech | Reech
+Las Trillizas de Oro | Trillizas de Oro
+Dante Spinetta | Spinetta
+Kevin Johansen | Johansen
+Liniers | Ricardo Siri
+Tute | Juan Matías Loiseau
+CAE
+Víctor Heredia | Heredia
+Yuri
+Mateo Sujatovich | Conociendo Rusia | Sujatovich
+Ligia Piro | Piro
+Carlos Casella | Casella
+Benjamín Amadeo | Amadeo
+Diego Reinhold | Reinhold
+Lucas Upstein | Upstein
+Martín Pugliese | Pugliese
+Pablo Cordonet | Cordonet
+Mex Urtizberea | Urtizberea
+Jean Pierre Noher | Noher
+Claudia Piñeiro | Piñeiro | Pineiro
+Daniel López Rosetti | López Rosetti | Lopez Rosetti
+Diego Golombek | Golombek
+Facundo Pastor | Pastor
+Enrique Piñeyro | Piñeyro | Pineyro
+José Eduardo Abadi | Abadi
+Conrado Estol | Estol
+Andrés Rieznik | Rieznik
+Juan Martín Maldacena | Maldacena
+Nora Bär | Bär | Bar
+Franco Rodríguez Viau
+Nicolás Varrone | Varrone
+Luciano De Cecco | De Cecco
+Herman Cornejo | Cornejo
+Carlos Sorín | Sorín | Sorin
+Juan Taratuto | Taratuto
+Claudio Tolcachir | Tolcachir
+Ricky Pashkus | Pashkus
+Damián Szifron | Szifron
+Frankkaster
+Germán Beder | Beder
+Roberto Galati | Galati
+Alfredo Montes de Oca | Montes de Oca
+Joaquín Cavanna | Cavanna
+Lucho Miranda | Miranda
+Natalia Valdebenito | Valdebenito
+Asaari Bibang | Bibang
+Pache y Plumis | Pache & Plumis
+Teo López Puccio
+Ian Menéndez
+Andrés Kogan
+Mariano Rosenberg
+Marcelo Lapajufker
+José Cruz
+Martina Talamona
+Marcos López
+Laura Ramos
+Romina García Vázquez
+Ignacio Varisco
+Alejandro Almada
+Esteban Pasinetti
+Mateo Tedeschi
+Martín Sivak
+Juan Pablo Escobar
+Alma Cabral
+Catalina Hornos
+Georgina Sposetti
+Joaquín Marcoff
+Lucio Rompotis
+Miguel Rep | Rep
+Guillermo Kutica
+Ezequiel Ortigoza
+Alejandro Mittica
+Tomás Gill
+Francisco Canova
+Matteo Tezza
+Sandra Dajnowski
+Diego Cabot | Cabot
+Gerardo Sánchez
+Andrea Zingarelli
+Joaquín Navajas
+Elenco infantil de Charlie y la fábrica de chocolate
+Gisela Kalyñiuk
+Federico Laboureau
+Valeria Della Maggiore
+Pedro Martínez Viademonte
+Maximiliano de Bagge
+Gisela Forystek
+Sebastián Villanueva
+Javier Belinky
+Mario Pasik | Pasik
+Lorna Evans
+Fabián Jalife
+Lucas D'Ortone
+Macarena Moyano
+Claudia Bergues
+Diego Núñez
+Tiziano Gravier
+Nicolás Villarreal
+Pablo Lisotto
+Silvina Vives
+Cristina Weber
+Oscar Lajad
+Lucas Gerson
+Jorge Tartaglione
+Joaquín Tartaglione
+Fiorella Tartaglione
+Marina Castillo Blanco
+Juan Manuel Moldes
+Roberto Giménez
+Pilar Ferrer
+Alejandro Buffadossi
+Camila Perochena
+Juampi González
+Nicolás Zaffora
+Federico Luis Tachella
+Fernando Cichero
+Santiago Weller
+Alejandro Maman
+Mariano Masciocchi
+Melina Guanci
+Fernando Felipetti
+Federico Mutti
+Nancy Gay
+Jorge Odón
+Florencia Salvarezza
+Abril Perazzini
+Daniel Ketchedjian
+Valeria Atela
+Andrea Ghidone | Ghidone
+Julieta Otero
+Marcelo El Haibe
+Mara Galmarini
+Nicolás Pasquali
+Victoria Valerga
+María Vázquez | Vázquez | Vazquez
+Dolores Pujol
+Clara Ulrich
+Iris Rodríguez
+Giuliano Fazzi
+Mauricio Nozica | El Yarco
+Ramiro Olleac
+Virginia Messi
+Juan Guerrero
+Víctor Orue
+Elina Costantini
+Diego Rullansky
+Verónica Cangemi
+Augusto Servello
+Delfina Veljanovich
+Juan Cruz González Allonca
+Soy Tower
+Belén Santa-Olalla
+Carla Calabrese
+Mikele Amondarain
+Federico Brisko
+Nicolás Fernández Miranda
+Clara Cabrera
+Maximiliano Vernazza
+Marina Vollmann
+Luly Dietrich
+Lucía Montenegro
+Adrián Cillo
+Matías Bagnato
+La Maga Caro
+Silvia Torres Carbonell
+Larisa Andreani
+Elena Cataldi Fleming
+Alexis Gregorat Krebs
+Adrián Lacroix
+Fabricio Ballarini
+Ezequiel Pulitano
+Dan Tumburús
+Martín Kazanietz
+Martín Tibabuzo
+Laura Catena

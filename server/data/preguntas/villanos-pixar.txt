@@ -1,0 +1,32 @@
+categoria: Cine
+consigna: Nombrá villanos o antagonistas de películas de Pixar
+activa: si
+apellidos: no
+
+[10]
+Lotso | Oso Lotso
+Sid | Sid Phillips
+Síndrome | Sindrome | Buddy Pine
+Randall | Randall Boggs
+Hopper
+
+[30]
+Stinky Pete | Oloroso Pete | El Capataz
+Henry J. Waternoose | Waternoose
+Ernesto de la Cruz
+Chick Hicks
+Charles Muntz
+
+[60]
+Chef Skinner | Skinner
+Al McWhiggin | Al el hombre pollo
+Auto | Piloto automático
+Zurg | Emperador Zurg
+Miles Axlerod | Sir Miles Axlerod
+
+[100]
+Mor'du | Mordu
+Screenslaver | Rapta pantallas | Evelyn Deavor
+Ercole Visconti | Ercole
+Thunderclap | Estruendo
+Gabby Gabby

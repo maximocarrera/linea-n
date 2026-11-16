@@ -1,0 +1,30 @@
+categoria: Tele
+consigna: Nombrá series, novelas o programas creados por Cris Morena
+activa: si
+apellidos: no
+
+[10]
+Chiquititas
+Rebelde Way
+Floricienta
+Casi ángeles | Casi Angeles
+Verano del 98 | Verano del '98
+
+[30]
+Rincón de luz | Rincon de luz
+Alma Pirata
+Jugate conmigo
+Aliados
+Margarita
+
+[60]
+Amor mío | Amor mio
+B&B | Bella y Bestia
+Jake & Blake | Jake and Blake
+Cebollitas
+
+[100]
+Chiquititas sin fin | Chiquititas 2006
+Super Torpe | Supertorpe
+Te quiero | Te quiero así
+Quereme
