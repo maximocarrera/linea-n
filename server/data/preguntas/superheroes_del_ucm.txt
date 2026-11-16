@@ -1,0 +1,123 @@
+# Línea N · una pregunta por archivo. Después de editar: npm run db:import
+# Un nombre por renglón. Variantes con |
+# Niveles: [10] común · [30] poco común · [60] rara · [100] de nicho
+# Superhéroes y vigilantes que forman parte del Universo Cinematográfico de Marvel (UCM).
+
+categoria: Cine
+consigna: Nombrá un superhéroe del UCM (Marvel)
+activa: si
+apellidos: no
+
+[10]
+Iron Man | Hombre de Hierro | Tony Stark
+Capitán América | Capitan America | Captain America | Steve Rogers
+Thor
+Hulk | Bruce Banner
+Black Widow | Viuda Negra | Natasha Romanoff
+Ojo de Halcón | Hawkeye | Clint Barton
+Spider-Man | Spiderman | Hombre Araña | Peter Parker
+Doctor Strange | Dr Strange | Stephen Strange
+Black Panther | Pantera Negra | T'Challa
+Ant-Man | Hombre Hormiga | Scott Lang
+Bruja Escarlata | Scarlet Witch | Wanda Maximoff
+Deadpool | Wade Wilson
+Wolverine | Lobezno | Guepardo | Logan
+
+[30]
+Capitana Marvel | Captain Marvel | Carol Danvers
+Star-Lord | Peter Quill
+Groot
+Rocket Raccoon | Rocket
+Gamora
+Drax
+Visión | Vision
+Falcon | Sam Wilson
+Soldado del Invierno | Winter Soldier | Bucky Barnes
+Máquina de Guerra | War Machine | James Rhodes
+Daredevil | Matt Murdock
+Punisher | El Castigador | Frank Castle
+Loki
+Shang-Chi
+Moon Knight | Caballero Luna | Marc Spector
+Ms. Marvel | Kamala Khan
+She-Hulk | Hulka | Jennifer Walters
+Mr. Fantástico | Mister Fantastic | Reed Richards
+Mujer Invisible | Invisible Woman | Sue Storm
+Antorcha Humana | Human Torch | Johnny Storm
+La Mole | La Cosa | The Thing | Ben Grimm
+
+[60]
+Wasp | La Avispa | Hope van Dyne
+Mantis
+Nebula | Nébula
+Valkyrie | Valquiria
+Shuri
+Okoye
+Wong
+Nick Fury | Nick Furia
+Yelena Belova
+Kate Bishop
+America Chavez | Miss America
+Agatha Harkness
+Wiccan | Billy Maximoff | Billy Kaplan
+Speed | Tommy Maximoff | Tommy Shepherd
+Namor
+Adam Warlock
+Blade | Eric Brooks
+Jessica Jones
+Luke Cage
+Iron Fist | Puño de Hierro | Danny Rand
+Elektra
+Gambito | Gambit | Remy LeBeau
+X-23 | Laura Kinney
+Mónica Rambeau | Monica Rambeau | Photon
+Agente U.S. | U.S. Agent | John Walker
+Guardián Rojo | Red Guardian | Alexei Shostakov
+Ghost | Fantasma | Ava Starr
+
+[100]
+Heimdall
+Sif | Lady Sif
+Korg
+Miek
+Cosmo
+Kraglin
+Yondu
+Stature | Cassie Lang
+Patriot | Eli Bradley
+Sentry | El Vigía | Bob | Robert Reynolds
+Wonder Man | Simon Williams
+Ironheart | Riri Williams
+Echo | Maya Lopez
+Werewolf by Night | Hombre Lobo | Jack Russell
+Man-Thing | Hombre Cosa | Ted Sallis
+Elsa Bloodstone
+Sersi
+Ikaris
+Thena
+Kingo
+Gilgamesh
+Phastos
+Makkari
+Druig
+Sprite
+Black Knight | Caballero Negro | Dane Whitman
+Eros | Starfox
+Pip el Troll
+Quicksilver | Mercurio | Pietro Maximoff
+Maria Hill
+Phil Coulson
+Quake | Daisy Johnson
+Peggy Carter | Capitana Carter | Captain Carter
+G'iah
+Nakia
+M'Baku
+Hércules | Hercules
+Clea
+Howard el Pato | Howard the Duck
+Sylvi | Sylvie
+Mobius
+Hunter B-15
+Hank Pym
+Janet van Dyne
+Antorcha Humana Original | Johnny Storm (Chris Evans)

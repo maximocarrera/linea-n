@@ -3,7 +3,7 @@
 # Niveles: [10] común · [30] poco común · [60] rara · [100] de nicho
 # Consolas de sobremesa y portátiles (incluye los clones que se vendieron en Argentina).
 
-categoria: Deporte
+categoria: Deportes
 consigna: Nombrá una consola de videojuegos
 activa: si
 apellidos: no

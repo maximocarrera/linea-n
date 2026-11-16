@@ -2,7 +2,7 @@
 # Un nombre por renglón. Variantes con |
 # Niveles: [10] común · [30] poco común · [60] rara · [100] de nicho
 
-categoria: Deporte
+categoria: Deportes
 consigna: Nombrá un deporte de combate o arte marcial
 activa: si
 apellidos: no

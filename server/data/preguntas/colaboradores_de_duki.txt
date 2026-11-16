@@ -3,7 +3,7 @@
 # Niveles: [10] común · [30] poco común · [60] rara · [100] de nicho
 # Artistas que colaboraron con Duki en canciones.
 
-categoria: Musica
+categoria: Música
 consigna: Nombrá un artista que haya colaborado con Duki
 activa: si
 apellidos: no

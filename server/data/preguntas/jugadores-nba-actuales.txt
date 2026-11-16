@@ -5,7 +5,7 @@
 # 2025-26; los novatos son la primera ronda del draft 2026 (Wikipedia). Ver REVISAR.txt.
 # OJO: actualizar cada temporada (retiros, draft).
 
-categoria: Deporte
+categoria: Deportes
 consigna: Nombrá un jugador actual de la NBA
 activa: si
 apellidos: si

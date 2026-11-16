@@ -1,4 +1,4 @@
-categoria: Futbol
+categoria: Fútbol
 consigna: Nombrá a un jugador que haya usado la camiseta 10 de la Selección Argentina
 activa: si
 apellidos: si

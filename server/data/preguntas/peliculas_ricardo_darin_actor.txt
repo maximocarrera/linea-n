@@ -1,4 +1,4 @@
-categoria: Cine 
+categoria: Cine
 consigna: Nombra una película de Ricardo Darín como actor
 activa: si
 apellidos: no

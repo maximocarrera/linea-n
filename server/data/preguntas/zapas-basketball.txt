@@ -1,0 +1,64 @@
+# Línea N · una pregunta por archivo. Después de editar: npm run db:import
+# Un nombre por renglón. Variantes con |
+# Niveles: [10] común · [30] poco común · [60] rara · [100] de nicho
+# Jugadores de básquet (NBA / FIBA) que tuvieron o tienen su propia línea de zapatillas con firma.
+
+categoria: Deportes
+consigna: Nombrá un jugador de básquet con su propia línea de zapatillas
+activa: si
+apellidos: no
+
+[10]
+Michael Jordan | Jordan
+LeBron James | LeBron
+Kobe Bryant | Kobe
+Stephen Curry | Curry
+Kevin Durant | KD
+Kyrie Irving | Kyrie
+
+[30]
+Giannis Antetokounmpo | Giannis
+James Harden
+Damian Lillard | Dame
+Ja Morant | Ja
+Jayson Tatum
+Luka Doncic | Luka
+Russell Westbrook | Russ
+Zion Williamson | Zion
+Devin Booker | Book
+Paul George | PG
+Tracy McGrady | T-Mac
+Allen Iverson | Iverson
+
+[50]
+Carmelo Anthony | Melo
+Dwyane Wade | Wade
+Kawhi Leonard | Kawhi
+Anthony Edwards | Ant
+Donovan Mitchell | Spida Mitchell
+Trae Young | Trae
+Chris Paul | CP3
+Yao Ming
+Derrick Rose | D. Rose
+Dwight Howard
+Stephon Marbury | Starbury
+Shaquille O'Neal | Shaq
+Scottie Pippen | Pippen
+Lamelo Ball | Lamelo 
+
+[100]
+Penny Hardaway | Anfernee Hardaway
+Grant Hill
+Baron Davis
+Kemba Walker
+Gordon Hayward
+De'Aaron Fox
+Fred VanVleet
+Aaron Gordon
+Spencer Dinwiddie
+Klay Thompson
+Jerry Stackhouse
+Latrell Spreewell
+Vin Baker
+Muggsy Bogues
+Spud Webb

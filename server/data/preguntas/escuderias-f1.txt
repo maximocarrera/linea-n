@@ -4,7 +4,7 @@
 # Escuderías (constructores) que corrieron en la Fórmula 1, de 1950 a 2026.
 # Los nombres comerciales de un mismo equipo valen como variantes.
 
-categoria: Deporte
+categoria: Deportes
 consigna: Nombrá una escudería que haya competido en la F1
 activa: si
 apellidos: no

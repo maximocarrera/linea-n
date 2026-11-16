@@ -3,7 +3,7 @@
 # Niveles: [10] común · [30] poco común · [60] rara · [100] de nicho
 # Canciones de Tini Stoessel (solista, colaboraciones y etapa Violetta).
 
-categoria: Musica
+categoria: Música
 consigna: Nombrá una canción de Tini
 activa: si
 apellidos: no

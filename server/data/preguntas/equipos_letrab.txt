@@ -1,4 +1,4 @@
-categoria: Futbol
+categoria: Fútbol
 consigna: Nombrá a un equipo de fútbol que empiece con la letra B
 activa: si
 apellidos: no

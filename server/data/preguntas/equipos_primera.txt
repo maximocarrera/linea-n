@@ -1,4 +1,4 @@
-categoria: Futbol
+categoria: Fútbol
 consigna: Nombrá a un equipo de la Primera División del fútbol argentino
 activa: si
 apellidos: no

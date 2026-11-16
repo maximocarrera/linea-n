@@ -1,0 +1,125 @@
+# Línea N · una pregunta por archivo. Después de editar: npm run db:import
+# Un nombre por renglón. Variantes con |
+# Niveles: [10] común · [30] poco común · [60] rara · [100] de nicho
+# Personajes del universo de Harry Potter (libros y películas).
+
+categoria: Cine
+consigna: Nombrá un personaje de Harry Potter
+activa: si
+apellidos: no
+
+[10]
+Harry Potter | Harry
+Hermione Granger | Hermione
+Ron Weasley | Ron
+Albus Dumbledore | Dumbledore
+Severus Snape | Snape
+Lord Voldemort | Voldemort | Tom Riddle
+Rubeus Hagrid | Hagrid
+Draco Malfoy | Draco | Malfoy
+Sirius Black | Sirius
+Dobby
+
+[30]
+Minerva McGonagall | McGonagall
+Neville Longbottom | Neville
+Luna Lovegood | Luna
+Ginny Weasley | Ginny
+Fred Weasley
+George Weasley
+Bellatrix Lestrange | Bellatrix
+Remus Lupin | Lupin
+Alastor Moody | Ojoloco Moody | Mad-Eye Moody
+Dolores Umbridge | Umbridge
+Lucius Malfoy
+Cedric Diggory | Cedric
+Arthur Weasley
+Molly Weasley
+Hedwig
+Kreacher
+
+[60]
+Nymphadora Tonks | Tonks
+Peter Pettigrew | Colagusano | Wormtail
+James Potter
+Lily Potter
+Vernon Dursley | Tío Vernon
+Petunia Dursley | Tía Petunia
+Dudley Dursley | Dudley
+Cho Chang
+Fleur Delacour
+Viktor Krum
+Horace Slughorn | Slughorn
+Sybill Trelawney | Trelawney
+Gilderoy Lockhart | Lockhart
+Quirinus Quirrell | Quirrell
+Argus Filch | Filch
+Filius Flitwick | Flitwick
+Pomona Sprout | Sprout
+Cornelius Fudge | Fudge
+Rufus Scrimgeour
+Kingsley Shacklebolt
+Narcissa Malfoy
+Bartemius Crouch Jr | Barty Crouch Jr
+Rita Skeeter
+Myrtle la Llorona | Moaning Myrtle
+Nick Casi Decapitado | Nearly Headless Nick
+Garrick Ollivander | Ollivander
+Seamus Finnigan
+Dean Thomas
+Lavender Brown
+Oliver Wood
+Griphook
+Buckbeak
+Fawkes
+Nagini
+
+[100]
+Godric Gryffindor
+Salazar Slytherin
+Rowena Ravenclaw
+Helga Hufflepuff
+Regulus Black
+Aberforth Dumbledore
+Ariana Dumbledore
+Gellert Grindelwald
+Newt Scamander
+Mundungus Fletcher
+Fenrir Greyback
+Antonin Dolohov
+Igor Karkaroff
+Olympe Maxime | Madame Maxime
+Percy Weasley
+Bill Weasley
+Charlie Weasley
+Lee Jordan
+Angelina Johnson
+Katie Bell
+Cormac McLaggen
+Colin Creevey
+Marietta Edgecombe
+Pansy Parkinson
+Vincent Crabbe | Crabbe
+Gregory Goyle | Goyle
+Blaise Zabini
+Millicent Bulstrode
+Peeves
+El Barón Sanguinario | Bloody Baron
+La Dama Gris | Helena Ravenclaw
+Firenze
+Grawp
+Aragog
+Winky
+Barty Crouch Sr
+Ludo Bagman
+Amos Diggory
+Xenophilius Lovegood
+Bathsheda Babbling
+Charity Burbage
+Alecto Carrow
+Amycus Carrow
+Andromeda Tonks
+Ted Tonks
+Stan Shunpike
+Ernie Prang
+Marge Dursley

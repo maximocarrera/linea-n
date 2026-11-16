@@ -42,9 +42,32 @@ let ok = 0;
 let failed = 0;
 console.log(`${checkOnly ? 'Revisando' : 'Importando'} ${files.length} archivo(s) de ${QUESTIONS_DIR}\n`);
 
-for (const file of files) {
-  const parsed = parseQuestionFile(readFileSync(path.join(QUESTIONS_DIR, file), 'utf8'));
+// Categorías: "Musica", "música " y "Música" son la misma. Se agrupan sin tildes ni mayúsculas
+// y se usa la forma más repetida (con empate, la que tiene tildes).
+const parsedFiles = files.map((file) => [file, parseQuestionFile(readFileSync(path.join(QUESTIONS_DIR, file), 'utf8'))]);
+const categoryKey = (c) => c.normalize('NFD').replace(/\p{M}/gu, '').toLowerCase().replace(/\s+/g, ' ').trim();
+const spellings = new Map(); // clave -> Map(forma -> veces)
+for (const [, { meta }] of parsedFiles) {
+  const c = meta.category?.replace(/\s+/g, ' ').trim();
+  if (!c) continue;
+  const forms = spellings.get(categoryKey(c)) ?? new Map();
+  forms.set(c, (forms.get(c) ?? 0) + 1);
+  spellings.set(categoryKey(c), forms);
+}
+const nonAscii = (s) => [...s].filter((ch) => ch > '\x7f').length;
+const canonicalCategory = new Map(
+  [...spellings].map(([key, forms]) => [key, [...forms].sort((a, b) => b[1] - a[1] || nonAscii(b[0]) - nonAscii(a[0]))[0][0]]),
+);
+
+for (const [file, parsed] of parsedFiles) {
   const { meta, answers, errors, warnings, autoAliases } = parsed;
+  if (meta.category) {
+    const canonical = canonicalCategory.get(categoryKey(meta.category));
+    if (canonical !== meta.category) {
+      warnings.unshift(`categoría "${meta.category}" se carga como "${canonical}"`);
+      meta.category = canonical;
+    }
+  }
   const tiers = summarize(answers);
 
   if (errors.length) {

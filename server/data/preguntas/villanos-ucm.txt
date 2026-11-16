@@ -1,0 +1,132 @@
+# Línea N · una pregunta por archivo. Después de editar: npm run db:import
+# Un nombre por renglón. Variantes con |
+# Niveles: [10] común · [30] poco común · [60] rara · [100] de nicho
+# Antagonistas y villanos principales y secundarios del Universo Cinematográfico de Marvel (UCM).
+
+categoria: Cine
+consigna: Nombrá un villano del UCM (Marvel)
+activa: si
+apellidos: no
+
+[10]
+Thanos
+Loki
+Ultrón | Ultron
+Duende Verde | Norman Osborn
+Doctor Octopus | Otto Octavius | Doc Ock
+Venom | Eddie Brock
+Hela
+Red Skull | Cráneo Rojo | Johann Schmidt
+Soldado del Invierno | Winter Soldier | Bucky Barnes
+Killmonger | Erik Killmonger | N'Jadaka
+Mysterio | Quentin Beck
+Buitre | Vulture | Adrian Toomes
+Kang | Kang el Conquistador | El Que Permanece
+
+[30]
+Wanda Maximoff | Bruja Escarlata | Scarlet Witch
+Doctor Doom | Víctor Von Doom
+Ronan el Acusador | Ronan
+Electro | Max Dillon
+Hombre de Arena | Sandman | Flint Marko
+Lagarto | Curt Connors
+Soldado del Invierno | Helmut Zemo | Barón Zemo | Zemo
+Agatha Harkness
+Kingpin | Wilson Fisk
+Mandarín | Wenwu | Xu Wenwu
+Gorr | Gorr el Carnicero de Dioses
+Alto Evolucionador | High Evolutionary
+Cassandra Nova
+Namor
+Crossbones | Brock Rumlow
+Abominación | Abomination | Emil Blonsky
+Iron Monger | Obadiah Stane
+Whiplash | Ivan Vanko
+Ego | Ego el Planeta Viviente
+Dormammu
+Taskmaster | Antonia Dreykov
+Yellowjacket | Darren Cross | MODOK
+
+[60]
+Malekith
+Aldrich Killian
+Justin Hammer
+Kaecilius
+Ghost | Ava Starr
+Yon-Rogg
+Inteligencia Suprema
+Alexander Pierce
+Arnim Zola
+Ulysses Klaue | Klaw
+Ebony Maw
+Proxima Midnight
+Corvus Glaive
+Cull Obsidian
+Gran Maestro | Grandmaster
+Surtur
+Fenris
+General Ross | Thaddeus Ross | Red Hulk | Hulk Rojo
+El Líder | Samuel Sterns
+Dreykov
+Mordo | Barón Mordo | Karl Mordo
+Shocker | Herman Schultz
+Escorpión | Mac Gargan
+El Merodeador | Prowler | Aaron Davis
+Taserface
+Ayesha
+Adam Warlock
+Dar-Benn
+Gravik
+Ikaris
+Kro
+Arthur Harrow
+Titania
+Bullseye | Benjamin Poindexter
+Killgrave | Kilgrave | Hombre Púrpura
+
+[100]
+Laufey
+El Destructor | Destroyer
+Kurse | Algrim
+Trevor Slattery
+Maya Hansen
+Ellen Brandt
+Eric Savin
+Batroc | Georges Batroc
+Jasper Sitwell
+Wolfgang von Strucker | Barón Strucker
+Doctor List
+Sonny Burch
+Mitchell Carson
+Bill Foster | Goliat
+Taneleer Tivan | El Coleccionista
+Nébula | Nebula
+Korath
+Garthan Saal
+Rhomann Dey
+Skurge | El Verdugo
+M'Baku
+W'Kabi
+Attuma
+Namora
+Razorfist | Puño de Navaja
+Death Dealer
+Morador de la Oscuridad
+Gargantos
+Sinister Strange | Doctor Strange Supremo
+Scarlet Scarab
+Ammit
+Todd Phelps | HulkKing
+Karli Morgenthau | Flag Smasher
+John Walker | U.S. Agent
+Valentina Allegra de Fontaine
+Cletus Kasady | Carnage
+Riot
+Monsieur Mallah
+D'Spayre
+Director Hayward | Tyler Hayward
+H.E.R.B.I.E.
+Galactus
+Silver Surfer | Shalla-Bal
+The Hood | Parker Robbins
+Mephisto

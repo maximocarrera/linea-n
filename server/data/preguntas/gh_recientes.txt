@@ -1,4 +1,4 @@
-categoria: Television
+categoria: Televisión
 consigna: Nombrá a un participante de las ediciones recientes de Gran Hermano
 activa: si
 apellidos: no

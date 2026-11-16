@@ -1,4 +1,4 @@
-categoria: Musica
+categoria: Música
 consigna: Nombrá una canción de Emilia Mernes (solista o colaboración)
 activa: si
 apellidos: no

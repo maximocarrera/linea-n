@@ -1,4 +1,4 @@
-categoria: Musica
+categoria: Música
 consigna: Nombra una canción de Shakira
 activa: si
 apellidos: no

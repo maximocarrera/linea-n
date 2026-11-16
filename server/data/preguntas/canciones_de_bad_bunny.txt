@@ -1,4 +1,4 @@
-categoria: Musica
+categoria: Música
 consigna: Nombrá una canción de Bad Bunny (solista o colaboración)
 activa: si
 apellidos: no

@@ -1,4 +1,4 @@
-categoria: Musica
+categoria: Música
 consigna: Nombrá una canción de Gustavo Cerati (solista o con Soda Stereo)
 activa: si
 apellidos: no

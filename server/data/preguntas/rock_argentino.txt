@@ -1,4 +1,4 @@
-categoria: Musica
+categoria: Música
 consigna: Nombrá a una banda del rock argentino
 activa: si
 apellidos: no

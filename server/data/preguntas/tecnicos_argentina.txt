@@ -1,4 +1,4 @@
-categoria: Futbol
+categoria: Fútbol
 consigna: Nombrá a un director técnico que haya dirigido a la Selección Argentina mayor
 activa: si
 apellidos: si
