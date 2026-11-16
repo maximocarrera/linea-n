@@ -113,12 +113,19 @@ for (const [file, parsed] of parsedFiles) {
   if (warnings.length > 15) console.log(`    ⚠ …y ${warnings.length - 15} avisos más`);
 }
 
-// Preguntas que apuntan a un archivo que ya no existe
+// Preguntas cuyo archivo se borró: se desactivan (no se eliminan, así se conservan sus estadísticas).
 const all = new Set(readdirSync(QUESTIONS_DIR));
-const orphans = db.prepare('SELECT id, prompt, source FROM questions WHERE source IS NOT NULL').all().filter((q) => !all.has(q.source));
+const orphans = db
+  .prepare('SELECT id, prompt, source FROM questions WHERE source IS NOT NULL AND active = 1')
+  .all()
+  .filter((q) => !all.has(q.source));
 if (orphans.length && !filters.length) {
-  console.log('\nPreguntas en la base cuyo archivo ya no existe (no se tocaron; desactivalas a mano si querés):');
-  for (const q of orphans) console.log(`    #${q.id} ${q.prompt}  (${q.source})`);
+  const deactivate = db.prepare('UPDATE questions SET active = 0 WHERE id = ?');
+  console.log(`\nPreguntas cuyo archivo ya no existe (${checkOnly ? 'se desactivarían' : 'desactivadas'}):`);
+  for (const q of orphans) {
+    if (!checkOnly) deactivate.run(q.id);
+    console.log(`    #${q.id} ${q.prompt}  (${q.source})`);
+  }
 }
 
 console.log(`\n${ok} ok · ${failed} con errores${checkOnly ? ' · modo --check: no se escribió nada' : ` · base: ${DB_PATH}`}`);

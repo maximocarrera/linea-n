@@ -1,0 +1,97 @@
+# Línea N · una pregunta por archivo. Después de editar: npm run db:import
+# Un nombre por renglón. Variantes con |
+# Niveles: [10] común · [30] poco común · [60] rara · [100] de nicho
+# Clubes campeones de la Copa Sudamericana (histórico completo).
+
+categoria: Futbol
+consigna: Nombrá un equipo que haya ganado la Copa Sudamericana
+activa: si
+apellidos: no
+
+[10]
+Boca Juniors | Boca
+Independiente
+River Plate | River
+San Lorenzo
+Racing Club | Racing
+São Paulo | Sao Paulo
+
+[30]
+Liga de Quito | LDU de Quito
+Corinthians
+Athletico Paranaense | Paranaense
+Internacional | Inter de Porto Alegre
+Lanús | Lanus
+Defensa y Justicia | Defensa
+Independiente del Valle
+
+[60]
+Estudiantes de La Plata | Estudiantes
+Arsenal de Sarandí | Arsenal
+San Pablo
+Fluminense
+Flamengo
+Botafogo
+Cruzeiro
+Atlético Mineiro | Atletico Mineiro
+Godoy Cruz
+Tigre
+Colón | Colon
+Huracán | Huracan
+Atlético Nacional | Atletico Nacional
+Junior de Barranquilla | Junior
+Santa Fe | Independiente Santa Fe
+Millonarios
+Universidad de Chile | U de Chile
+Colo-Colo | Colo Colo
+Universidad Católica | Universidad Catolica
+Olimpia
+Cerro Porteño | Cerro Porteno
+Nacional
+Peñarol | Penarol
+Montevideo Wanderers | Wanderers
+
+[100]
+Cienciano
+Pachuca
+Chapecoense
+Palmeiras
+Grêmio | Gremio
+Santos
+Vasco da Gama
+Bahia
+Fortaleza
+Red Bull Bragantino | Bragantino
+Goias
+Coritiba
+Sport Recife
+Juventude
+Guaraní | Guarani
+Libertad
+Sportivo Luqueño | Sportivo Luqueeno
+Deportivo Cali
+América de Cali | America de Cali
+Tolima | Deportes Tolima
+Equidad | La Equidad
+Águilas Doradas | Aguilas Doradas
+Palestino
+Audax Italiano
+Deportes Iquique
+Unión Española | Union Espanola
+Huachipato
+Caracas
+Deportivo Táchira | Deportivo Tachira
+Zamora
+Metropolitanos
+Barcelona de Guayaquil | Barcelona SC
+Emelec
+El Nacional
+Deportivo Cuenca
+Universidad Católica de Ecuador
+Melgar
+Sport Boys
+Cienciano
+Real Garcilaso | Cusco FC
+River Plate de Montevideo
+Danubio
+Defensor Sporting
