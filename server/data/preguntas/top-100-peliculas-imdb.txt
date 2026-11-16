@@ -1,0 +1,129 @@
+# Línea N · una pregunta por archivo. Después de editar: npm run db:import
+# Un nombre por renglón. Variantes con |   (título en España | Argentina | original)
+# Top 100 de películas de IMDb, copiado el 16/11/2026.
+# Puntos por puesto: 1-10 → 10 · 11-20 → 20 · ... · 91-100 → 100.
+
+categoria: Cine
+consigna: Nombrá una película del Top 100 de IMDb
+activa: si
+apellidos: no
+
+[10]
+Cadena perpetua | Sueños de libertad | The Shawshank Redemption
+El padrino | The Godfather
+El caballero oscuro | Batman: El caballero de la noche | El caballero de la noche | The Dark Knight
+12 hombres sin piedad | 12 hombres en pugna | Doce hombres en pugna | 12 Angry Men
+El señor de los anillos: El retorno del rey | El retorno del rey | The Return of the King
+La lista de Schindler | Schindler's List
+El padrino parte II | El padrino 2 | El padrino II | The Godfather Part II
+El señor de los anillos: La comunidad del anillo | La comunidad del anillo | The Fellowship of the Ring
+Attack on Titan: The Last Attack | Ataque a los titanes: El último ataque
+Origen | El origen | Inception
+
+[20]
+Pulp Fiction | Tiempos violentos
+El club de la lucha | El club de la pelea | Fight Club
+Forrest Gump
+El señor de los anillos: Las dos torres | Las dos torres | The Two Towers
+El bueno, el feo y el malo | El bueno, el malo y el feo | The Good, the Bad and the Ugly
+Interstellar | Interestelar
+Matrix | The Matrix
+Uno de los nuestros | Buenos muchachos | Goodfellas
+Kill Bill: The Whole Bloody Affair | Kill Bill
+El imperio contraataca | Star Wars: El imperio contraataca | The Empire Strikes Back
+
+[30]
+Wildwood: El bosque salvaje | Wildwood
+Seven | Se7en | Pecados capitales
+El silencio de los corderos | El silencio de los inocentes | The Silence of the Lambs
+Ciudad de Dios | Cidade de Deus | City of God
+La milla verde | Milagros inesperados | The Green Mile
+Salvar al soldado Ryan | Rescatando al soldado Ryan | Saving Private Ryan
+Alguien voló sobre el nido del cuco | Atrapado sin salida | One Flew Over the Cuckoo's Nest
+Qué bello es vivir | ¡Qué bello es vivir! | It's a Wonderful Life
+Terminator 2: El juicio final | Terminator 2 | Terminator 2: Judgment Day
+La guerra de las galaxias | Star Wars | Star Wars: Una nueva esperanza | Una nueva esperanza | A New Hope
+
+[40]
+El viaje de Chihiro | Spirited Away
+La vida es bella | Life Is Beautiful
+Los siete samuráis | Seven Samurai
+12th Fail
+Harakiri | Seppuku
+El truco final (El prestigio) | El truco final | El prestigio | El gran truco | The Prestige
+Infiltrados | Los infiltrados | The Departed
+Whiplash | Whiplash: Música y obsesión
+Parásitos | Parasite
+Sospechosos habituales | Los sospechosos de siempre | The Usual Suspects
+
+[50]
+Regreso al futuro | Volver al futuro | Back to the Future
+Gladiator (El gladiador) | Gladiator | Gladiador | El gladiador
+Django desencadenado | Django sin cadenas | Django Unchained
+El profesional (Léon) | El perfecto asesino | Perfecto asesino | Léon | El profesional
+American History X | Historia americana X
+Intocable | Amigos intocables | The Intouchables
+El pianista | The Pianist
+El rey león | The Lion King
+Spider-Man: Cruzando el multiverso | Spider-Man: A través del Spider-Verso | Spider-Man: Across the Spider-Verse
+La tumba de las luciérnagas | Grave of the Fireflies
+
+[60]
+Psicosis | Psycho
+Casablanca
+Cinema Paradiso | Cinema Paraíso
+Hasta que llegó su hora | Érase una vez en el Oeste | Once Upon a Time in the West
+Tiempos modernos | Modern Times
+Luces de la ciudad | City Lights
+La Odisea | The Odyssey
+Vengadores: Endgame | Avengers: Endgame | Endgame
+Dune: Parte dos | Dune 2 | Dune: Part Two
+Malditos bastardos | Bastardos sin gloria | Inglourious Basterds
+
+[70]
+El indomable Will Hunting | En busca del destino | Good Will Hunting
+Vengadores: Infinity War | Avengers: Infinity War | Infinity War
+Memento | Amnesia
+El resplandor | The Shining
+Apocalypse Now | Apocalipsis ahora
+El caballero oscuro: La leyenda renace | Batman: El caballero de la noche asciende | El caballero de la noche asciende | The Dark Knight Rises
+Alien, el octavo pasajero | Alien
+En busca del arca perdida | Los cazadores del arca perdida | Indiana Jones y los cazadores del arca perdida | Raiders of the Lost Ark
+La vida de los otros | The Lives of Others
+Spider-Man: Un nuevo universo | Into the Spider-Verse
+
+[80]
+Coco
+Aliens: El regreso | Aliens
+Your Name. | Your Name | Kimi no Na wa
+WALL·E | Wall-E | Wall E
+3 Idiots | 3 idiotas
+Cafarnaúm | Capernaum
+La ventana indiscreta | Rear Window
+Senderos de gloria | Paths of Glory
+El crepúsculo de los dioses | El ocaso de una vida | Sunset Boulevard
+El infierno del odio | El cielo y el infierno | High and Low
+
+[90]
+Testigo de cargo | Witness for the Prosecution
+El gran dictador | The Great Dictator
+Old Boy | Oldboy
+Incendios | Incendies
+La caza de Thomas Vinterberg | La caza | La cacería | The Hunt
+Réquiem por un sueño | Requiem for a Dream
+Amadeus
+Braveheart | Corazón valiente
+American Beauty | Belleza americana
+Joker | Guasón
+
+[100]
+Érase una vez en América | Había una vez en América | Once Upon a Time in America
+Masacre (Ven y mira) | Ven y mira | Come and See
+Toy Story
+Teléfono rojo: volamos hacia Moscú | Teléfono rojo | Dr. Insólito | Dr. Strangelove
+El retorno del jedi | El regreso del jedi | Star Wars: El regreso del Jedi | Return of the Jedi
+La princesa Mononoke | Princess Mononoke
+Toy Story 3
+El submarino (Das Boot) | El submarino | Das Boot
+Cantando bajo la lluvia | Singin' in the Rain
+Vivir | Ikiru
