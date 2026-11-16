@@ -1,0 +1,61 @@
+# Línea N · una pregunta por archivo. Después de editar: npm run db:import
+# Un nombre por renglón. Variantes con |
+# Niveles: [10] común · [30] poco común · [60] rara · [100] de nicho
+# Personajes de la saga cinematográfica Rápidos y Furiosos.
+
+categoria: Cine
+consigna: Nombrá un personaje de Rápidos y Furiosos
+activa: si
+apellidos: no
+
+[10]
+Dominic Toretto | Dom Toretto | Dom
+Brian O'Conner | Brian
+Letty Ortiz | Letty
+Mia Toretto | Mia
+Roman Pearce | Roman
+Tej Parker | Tej
+Luke Hobbs | Hobbs
+Han Lue | Han | Han Seoul-Oh
+
+[30]
+Deckard Shaw | Shaw
+Gisele Yashar | Gisele
+Jakob Toretto | Jakob
+Ramsey | Megan Ramsey
+Cipher
+Mr. Nobody | Sr. Nadie
+Vince
+Sean Boswell | Sean
+
+[60]
+Owen Shaw
+Elena Neves | Elena
+Dante Reyes | Dante
+Tego Leo
+Rico Santos
+Suki
+Hector
+Johnny Tran
+Leon
+Jesse
+
+[100]
+Carter Verone
+Monica Fuentes
+Arturo Braga
+Fenix Calderon
+Hernan Reyes
+Takashi | DK | Drift King
+Twinkie
+Neela
+Jakande | Mose Jakande
+Brixton Lore | Brixton
+Hattie Shaw
+Little Nobody | Pequeño Nadie
+Aimes
+Tess
+Isabel Neves
+Queenie Shaw | Magdalene Shaw
+Agent Bilkins | Agente Bilkins
+Edwin

@@ -1,0 +1,28 @@
+categoria: Televisión
+consigna: Nombrá una serie o novela en la que actuó Lali Espósito
+activa: si
+apellidos: no
+imagen: https://commons.wikimedia.org/wiki/File:Lali_Espósito_Premios_Fénix_(31915561718)_(cropped).jpg
+
+[10]
+Casi ángeles | Casi Angeles
+Floricienta
+Esperanza mía | Esperanza Mia
+Sky Rojo
+
+[30]
+Rincón de luz | Rincon de luz
+Chiquititas sin fin | Chiquititas 2006 | Chiquititas
+Solamente vos
+El fin del amor
+
+[60]
+Cuando me sonreís | Cuando me sonreis
+Dulce amor
+Margarita | Margarita 2
+
+[100]
+Sandro de América | Sandro de America
+El tiempo no para
+El Host
+Tiempo libre

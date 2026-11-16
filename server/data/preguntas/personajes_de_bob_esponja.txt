@@ -1,0 +1,54 @@
+# Línea N · una pregunta por archivo. Después de editar: npm run db:import
+# Un nombre por renglón. Variantes con |
+# Niveles: [10] común · [30] poco común · [60] rara · [100] de nicho
+# Personajes de la serie animada Bob Esponja.
+
+categoria: Tele 
+consigna: Nombrá un personaje de Bob Esponja
+activa: si
+apellidos: no
+
+[10]
+Bob Esponja | Bob Esponja Pantalones Cuadrados | SpongeBob SquarePants | SpongeBob
+Patricio Estrella | Patricio | Patrick Star | Patrick
+Calamardo Tentáculos | Calamardo | Squidward Tentacles | Squidward
+Don Cangrejo | Eugenio Cangrejo | Mr. Krabs | Eugene H. Krabs
+Arenita Mejillas | Arenita | Sandy Cheeks | Sandy
+Plancton | Sheldon J. Plankton | Plankton
+Gary | Gary el Caracol | Gary the Snail
+
+[30]
+Karen | Karen Plankton
+Señora Puff | Sra. Puff | Mrs. Puff
+Perlita Cangrejo | Perlita | Pearl Krabs | Pearl
+Larry la Langosta | Larry | Larry the Lobster
+Sirenoman | Mermaid Man
+Chico Percebe | Barnacle Boy
+El Holandés Errante | Flying Dutchman
+
+[60]
+Róbalo Burbuja | Bubble Bass
+Rey Neptuno | King Neptune
+Parche el Pirata | Patchy the Pirate
+Potty el Loro | Potty the Parrot
+Calamarino Elegante | Squilliam Fancyson
+Mantarraya | Man Ray
+La Burbuja Sucia | Dirty Bubble
+Fred | El pez de "Mi pierna"
+
+[100]
+Perch Perkins | Perca Perkins
+Viejo Jenkins | Old Man Jenkins
+Harold Pantalones Cuadrados | Harold SquarePants
+Margaret Pantalones Cuadrados | Margaret SquarePants
+Abuela Pantalones Cuadrados | Grandma SquarePants
+Stanley S. Pantalones Cuadrados | Stanley S. SquarePants
+Cachiporra | Flatts the Flounder
+Dennis
+Mindy | Princesa Mindy
+El Estrangulador de Soplones | Tattletale Strangler
+Kevin el Pepino de Mar | Kevin C. Cucumber
+Róbalo | Bubble Buddy | Amigo Burbuja
+DoodleBob | Bob Trazo
+Betsy Cangrejo | Mamá Cangrejo | Mama Krabs
+Smitty Werbenjagermanjensen

@@ -2,6 +2,7 @@ categoria: Cine
 consigna: Nombrá una película de Adrián Suar
 activa: si
 apellidos: no
+imagen: https://commons.wikimedia.org/wiki/File:Malaga_Film_Festival_2025_-_Adri%C3%A1n_Suar.jpg
 
 [10]
 El hijo de la novia | El hijo de la novia

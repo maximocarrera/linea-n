@@ -1,0 +1,67 @@
+# Línea N · una pregunta por archivo. Después de editar: npm run db:import
+# Un nombre por renglón. Variantes con |
+# Niveles: [10] común · [30] poco común · [60] rara · [100] de nicho
+# Canciones de Karol G.
+
+categoria: Musica 
+consigna: Nombrá una canción de Karol G
+activa: si
+apellidos: no
+
+[10]
+Tusa | Tusa (part. Nicki Minaj)
+PROVENZA
+TQG | TQG (part. Shakira)
+Bichota
+MAMIII | MAMIII (part. Becky G)
+QLONA | QLONA (part. Peso Pluma)
+Si Antes Te Hubiera Conocido
+AMARGURA
+MI EX TENÍA RAZÓN
+GATÚBELA | GATÚBELA (part. Maldy)
+
+[30]
+SEJODIOTO
+CAIRO | CAIRO (part. Ovy On The Drums)
+EL MAKINON | EL MAKINON (part. Mariah Angeliq)
+TUS GAFITAS
+OKI DOKI
+GUCCI LOS PAÑOS
+X SI VOLVEMOS | X SI VOLVEMOS (part. Romeo Santos)
+CONTIGO | CONTIGO (part. Tiësto)
+OCEAN
+EL BARCO
+
+[60]
+Ay, DiOs Mío!
+SECRETO | Secreto (part. Anuel AA)
+CHINA | China (part. Anuel AA, Daddy Yankee, Ozuna y J Balvin)
+LOCATION | LOCATION (part. Anuel AA y J Balvin)
+BARCO
+CAROLINA
+DISPO | DISPO (part. Young Miko)
+VERANO ROSA | Verano Rosa (part. Feid)
+FRIKI | FRIKI (part. Feid)
+MAÑANA SERÁ BONITO | MAÑANA SERÁ BONITO (part. Carla Morrison)
+
+[100]
+200 COPAS
+MANANA SERA BONITO
+BBE Y WOW | BbY WOW (part. Judeline y rusowsky)
+BEAUTIFUL BOY | BEAUTIFUL BOY (feat. Ludacris & Emilee)
+PASTAS Y GUSTOS
+PUNTOS G
+A SOLAS
+AHORA ME LLAMA | Ahora Me Llama (part. Bad Bunny)
+HIJOEPUTA | Hijoepu*# (part. Gloria Trevi)
+KÁRMIKA | KÁRMIKA (part. Bad Gyal y Sean Paul)
+LABIOS MORDIDOS | Labios Mordidos (part. Kali Uchis)
+MI CAMA | Mi Cama
+MI MALA | Mi Mala (part. Mau y Ricky)
+ODISEA | ODISEA (part. Ozuna)
+OJOS FERRARI | OJOS FERRARI (part. Justin Quiles y Angel Dior)
+PERO TÚ | PERO TÚ (part. Quevedo)
+S91
+UN VIAJE | Un Viaje (part. Jotaerre, Alejo y Moffa)
+UNA NOCHE EN MEDELLIN REMIX | UNA NOCHE EN MEDELLÍN (remix) (part. Cris Mj y Ryan Castro)
+WATATI | WATATI (part. Aldo Ranks)

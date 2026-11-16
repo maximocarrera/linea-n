@@ -1,0 +1,43 @@
+categoria: Comida
+consigna: Nombrá marcas de snacks salados y productos de copetín
+activa: si 
+apellidos: no
+
+[10]
+Lay's | Lays | Papas Lay's
+Pringles
+Doritos
+Cheetos
+Pehuamar
+Saladix
+3D | Conos 3D
+Krachitos
+
+[30]
+Ruffles
+Takis
+Rex | Galletitas Rex
+Kesitas
+Twistos
+Pep | Papas Pep
+Bun
+Chizitos
+
+[60]
+Lays Stax | Stax
+Tostitos
+Fritos
+SunChips | Sun Chips
+Maní King | King
+Quento
+Don Satur | Bizcochos Don Satur
+
+[100]
+Kettle | Kettle Brand
+Tyrrells
+Popchips
+Herr's | Herrs
+Bugles
+Macritas
+Nahuén
+Gauchitas

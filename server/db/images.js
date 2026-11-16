@@ -133,7 +133,8 @@ async function fromCommons(url, { checkOnly }) {
   }
 
   const m = info.extmetadata ?? {};
-  const author = cleanHtml(m.Artist?.value) || 'Autor desconocido';
+  const author =
+    cleanHtml(m.Artist?.value) || cleanHtml(m.Attribution?.value) || accountFromUrl(m.Artist?.value) || 'Autor desconocido';
   const license = cleanHtml(m.LicenseShortName?.value) || 'licencia desconocida';
   const credit = `${author} · ${license} · Wikimedia Commons`;
 
@@ -161,6 +162,22 @@ function commonsTitle(url) {
   const candidate = /^(File|Archivo|Image|Imagen):/i.test(hashFile) ? hashFile : raw;
   const m = candidate.match(/^(?:File|Archivo|Image|Imagen):(.+)$/i);
   return m ? m[1].replace(/_/g, ' ').trim() : null;
+}
+
+/** Cuando el autor es solo un link ("https://www.flickr.com/photos/culturacdmx/") → "culturacdmx (Flickr)". */
+function accountFromUrl(html) {
+  const url = String(html ?? '').match(/https?:\/\/[^\s"<]+/)?.[0];
+  if (!url) return '';
+  try {
+    const u = new URL(url);
+    const site = u.hostname.replace(/^www\./, '').split('.')[0];
+    const parts = u.pathname.split('/').filter(Boolean);
+    const account = site === 'flickr' ? parts[1] : parts[0];
+    const siteName = site.charAt(0).toUpperCase() + site.slice(1);
+    return account ? `${account} (${siteName})` : siteName;
+  } catch {
+    return '';
+  }
 }
 
 /** El autor viene en HTML (links, spans): queda solo el texto. */
