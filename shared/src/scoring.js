@@ -27,7 +27,7 @@ export function matchAnswer(question, input) {
 
 /** Lo que el cliente puede ver de una pregunta durante la ronda (sin respuestas). */
 export function publicQuestion(q) {
-  return { id: q.id, category: q.category, prompt: q.prompt, validCount: q.answers.length };
+  return { id: q.id, category: q.category, prompt: q.prompt, image: q.image ?? null, validCount: q.answers.length };
 }
 
 /** Respuestas para mostrar al final de la ronda: las más de nicho primero. */

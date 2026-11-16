@@ -1,0 +1,71 @@
+# Línea N · una pregunta por archivo. Después de editar: npm run db:import
+# Un nombre por renglón. Variantes con |   (título en Argentina | original | España)
+# Niveles: [10] común · [30] poco común · [60] rara · [100] de nicho
+# Películas con Adam Sandler como actor (incluye voces en animación). Sin cameos de segundos.
+
+categoria: Cine
+consigna: Nombrá una película de Adam Sandler
+imagen: adam-sandler.jpg
+credito: Wikimedia Commons
+activa: si
+apellidos: no
+
+[10]
+Click | Click: Perdiendo el control
+Son como niños | Grown Ups | Niños grandes
+Como si fuera la primera vez | 50 First Dates | 50 primeras citas
+Happy Gilmore | Un loco a todo green
+Hotel Transylvania | Hotel Transilvania
+Un papá genial | Big Daddy | Papá por sorpresa
+Una esposa de mentira | Just Go with It | Sígueme el rollo
+Locos de ira | Anger Management | Ejecutivo agresivo
+Misterio a bordo | Murder Mystery
+Pixels
+Diamantes en bruto | Uncut Gems
+Golpe bajo | The Longest Yard | El clan de los rompehuesos
+
+[30]
+Son como niños 2 | Grown Ups 2 | Niños grandes 2
+La mejor de mis bodas | The Wedding Singer | El chico ideal
+Waterboy | The Waterboy | El aguador | El chico del agua
+Billy Madison | Billy Madison: Un papá muy especial
+Luna de miel en familia | Blended | Juntos y revueltos
+Little Nicky | Little Nicky: Un diablo diferente
+No te metas con Zohan | You Don't Mess with the Zohan | Zohan
+Los declaro marido y marido | I Now Pronounce You Chuck & Larry | Chuck y Larry | Ahora los declaro marido y marido | Pareja de policías
+Cuentos que no son cuentos | Bedtime Stories | Más allá de los sueños
+Jack y Jill | Jack and Jill
+Hotel Transylvania 2 | Hotel Transilvania 2
+Hotel Transylvania 3 | Hotel Transylvania 3: Monstruos de vacaciones | Hotel Transilvania 3
+Garra | Hustle
+Misterio a bordo 2 | Murder Mystery 2
+Mr. Deeds | Mister Deeds | El caballero Deeds
+Happy Gilmore 2
+Leo
+El Halloween de Hubie | Hubie Halloween
+
+[60]
+Embriagado de amor | Punch-Drunk Love
+Spanglish | Spanglish: Cuando no se habla el mismo idioma
+Hazme reír | Funny People
+Desmadre de padre | That's My Boy | Ese es mi hijo
+Reign Over Me | Más allá del dolor
+Los seis ridículos | The Ridiculous 6
+Historias de familia | The Meyerowitz Stories | The Meyerowitz Stories (New and Selected)
+El astronauta | Spaceman
+Ocho noches locas | Eight Crazy Nights
+No estás invitada a mi Bat Mitzvah | You Are So Not Invited to My Bat Mitzvah | Ni de coña vas a mi Bat Mitzvah
+Hombres, mujeres y niños | Men, Women & Children | Men Women and Children
+Cabezas huecas | Airheads
+Jay Kelly
+
+[100]
+The Cobbler | El zapatero | Con la magia en los zapatos
+The Do-Over | Doble vida
+Sandy Wexler
+The Week Of | La semana de la boda
+Mixed Nuts | Locos de remate
+Bulletproof | A prueba de balas
+Coneheads | Los Cabeza de Cono | Caraconos
+Going Overboard
+Shakes the Clown

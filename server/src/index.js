@@ -9,6 +9,7 @@ import compression from 'compression';
 import { QUESTIONS_PER_GAME, buildQuestion, matchAnswer } from '@linean/shared';
 import { SoloTickets, parsePlays, parseSuggestion, rateLimiter } from './community.js';
 import { DB_PATH, QuestionStore, openDb, toWire } from './db.js';
+import { IMAGES_WEB_DIR } from '../db/images.js';
 import { parseIds } from './ids.js';
 import { Catalog, acercaPage, categoriaPage, comoJugarPage, preguntasPage, privacidadPage, robotsTxt, sitemapXml } from './pages.js';
 import { RoomManager } from './rooms.js';
@@ -159,6 +160,10 @@ app.get('/acerca', (_req, res) => html(res, acercaPage(catalog.get())));
 app.get('/privacidad', (_req, res) => html(res, privacidadPage()));
 app.get('/robots.txt', (_req, res) => res.type('text/plain').send(robotsTxt()));
 app.get('/sitemap.xml', (_req, res) => res.type('application/xml').send(sitemapXml(catalog.get())));
+
+// Fotos de las preguntas (versión web que arma db:import). El nombre lleva el hash del
+// original, así que se pueden cachear un año: si la foto cambia, cambia el nombre.
+app.use('/img', express.static(IMAGES_WEB_DIR, { immutable: true, maxAge: '365d', index: false, fallthrough: false }));
 
 // Si existe el build del cliente, lo servimos desde el mismo puerto (deploy en un solo proceso).
 const dist = path.resolve(__dirname, '../../client/dist');

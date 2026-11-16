@@ -9,6 +9,7 @@ import { existsSync, mkdirSync, readFileSync, readdirSync } from 'node:fs';
 import path from 'node:path';
 import { fileURLToPath } from 'node:url';
 import { DB_PATH, openDb } from '../src/db.js';
+import { prepareImage, pruneImages } from './images.js';
 import { parseQuestionFile } from './questions-file.js';
 
 const __dirname = path.dirname(fileURLToPath(import.meta.url));
@@ -33,8 +34,13 @@ if (!files.length) {
 const db = openDb();
 const bySource = db.prepare('SELECT id FROM questions WHERE source = ?');
 const byPrompt = db.prepare('SELECT id, source FROM questions WHERE prompt = ?');
-const insertQ = db.prepare('INSERT INTO questions (category, prompt, active, source) VALUES (?, ?, ?, ?)');
-const updateQ = db.prepare('UPDATE questions SET category = ?, prompt = ?, active = ?, source = ? WHERE id = ?');
+const insertQ = db.prepare(
+  'INSERT INTO questions (category, prompt, active, source, image, image_credit) VALUES (?, ?, ?, ?, ?, ?)',
+);
+const updateQ = db.prepare(
+  'UPDATE questions SET category = ?, prompt = ?, active = ?, source = ?, image = ?, image_credit = ? WHERE id = ?',
+);
+const usedImages = new Set();
 const clearA = db.prepare('DELETE FROM answers WHERE question_id = ?');
 const insertA = db.prepare('INSERT INTO answers (question_id, answer, aliases, points) VALUES (?, ?, ?, ?)');
 
@@ -68,6 +74,19 @@ for (const [file, parsed] of parsedFiles) {
       meta.category = canonical;
     }
   }
+
+  // Foto opcional: se achica y se guarda en server/data/imagenes/web/.
+  let imageName = null;
+  let imageNote = null;
+  if (meta.image) {
+    const img = await prepareImage(meta.image, { checkOnly });
+    if (img.error) errors.push(img.error);
+    if (img.warning) warnings.unshift(img.warning);
+    imageName = img.name;
+    imageNote = img.note ?? null;
+    if (imageName) usedImages.add(imageName);
+    if (imageName && !meta.imageCredit) warnings.unshift('tiene foto pero no "credito:" (autor y licencia de la foto)');
+  }
   const tiers = summarize(answers);
 
   if (errors.length) {
@@ -89,10 +108,10 @@ for (const [file, parsed] of parsedFiles) {
         id = adopt?.id;
       }
       if (id) {
-        updateQ.run(meta.category, meta.prompt, meta.active ? 1 : 0, file, id);
+        updateQ.run(meta.category, meta.prompt, meta.active ? 1 : 0, file, imageName, meta.imageCredit, id);
         status = 'actualizada';
       } else {
-        id = Number(insertQ.run(meta.category, meta.prompt, meta.active ? 1 : 0, file).lastInsertRowid);
+        id = Number(insertQ.run(meta.category, meta.prompt, meta.active ? 1 : 0, file, imageName, meta.imageCredit).lastInsertRowid);
         status = 'nueva';
       }
       clearA.run(id);
@@ -107,8 +126,9 @@ for (const [file, parsed] of parsedFiles) {
   }
 
   ok++;
-  const extra = [meta.active ? null : 'INACTIVA', autoAliases ? `+${autoAliases} alias por apellido` : null].filter(Boolean).join(' · ');
+  const extra = [meta.active ? null : 'INACTIVA', imageName ? 'con foto' : null, autoAliases ? `+${autoAliases} alias por apellido` : null].filter(Boolean).join(' · ');
   console.log(`✔ ${file} — ${status} · ${answers.length} respuestas (${tiers})${extra ? ` · ${extra}` : ''}`);
+  if (imageNote) console.log(`    ${imageNote}`);
   for (const w of warnings.slice(0, 15)) console.log(`    ⚠ ${w}`);
   if (warnings.length > 15) console.log(`    ⚠ …y ${warnings.length - 15} avisos más`);
 }

@@ -14,7 +14,7 @@ export const splitAliases = (value) =>
  * o como array compacto [answer, aliases, points] (lo que manda /api/solo-game).
  * Filas vacías, con puntaje inválido o duplicadas se ignoran.
  */
-export function buildQuestion({ id, category, prompt, answers }) {
+export function buildQuestion({ id, category, prompt, image = null, answers }) {
   const out = [];
   const seen = new Set();
   for (const raw of answers ?? []) {
@@ -27,5 +27,5 @@ export function buildQuestion({ id, category, prompt, answers }) {
     seen.add(keys[0]);
     out.push({ display: names[0], keys, points: pts });
   }
-  return { id, category, prompt, answers: out };
+  return { id, category, prompt, image, answers: out };
 }

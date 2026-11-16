@@ -158,6 +158,8 @@ Pedro Pasculli
 
 - Un nombre por renglón; variantes con `|`. Niveles `[10] [30] [60] [100]` (o `[comun] [poco] [rara] [nicho]`). Líneas con `#` son comentarios.
 - `apellidos: si` agrega el apellido como alias cuando no es ambiguo ("Messi" sí; "Martínez" no si hay varios).
+- Foto opcional: poné el archivo (.jpg, .png o .webp) en `server/data/imagenes/` y sumá `imagen: adam-sandler.jpg` y `credito: Autor · Licencia · Wikimedia Commons` arriba del primer nivel. `db:import` la achica a WebP en `server/data/imagenes/web/` (esa carpeta se sube a git) y borra las versiones que ya no usa ninguna pregunta.
+- Borrar el `.txt` de una pregunta la desactiva en el próximo `db:import`.
 - `npm run db:import` valida todo (errores con número de línea, duplicados) y carga. Se puede correr las veces que quieras: cada archivo reemplaza las respuestas de **su** pregunta.
 - `npm run db:import -- --check` solo valida · `npm run db:import -- seleccion` solo los archivos que contengan "seleccion".
 - `npm run db:categorias` lista las preguntas cargadas agrupadas por categoría, con su estado (activa / inactiva / sin respuestas).

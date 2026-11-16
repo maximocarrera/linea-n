@@ -7,7 +7,9 @@ CREATE TABLE IF NOT EXISTS questions (
   category  TEXT    NOT NULL,                       -- "Geografía", "Subte"...
   prompt    TEXT    NOT NULL UNIQUE,                -- "Nombrá un país que empiece con B"
   active    INTEGER NOT NULL DEFAULT 1 CHECK (active IN (0, 1)),
-  source    TEXT                                    -- archivo de server/data/preguntas/ que la define (o NULL)
+  source    TEXT,                                   -- archivo de server/data/preguntas/ que la define (o NULL)
+  image     TEXT,                                   -- foto opcional: nombre servido en /img/ (lo completa db:import)
+  image_credit TEXT                                 -- autor y licencia de la foto
 );
 
 -- Una fila por respuesta válida.

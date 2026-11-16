@@ -1,10 +1,11 @@
-import { useState } from 'react';
+import { useEffect, useState } from 'react';
 import { ROUND_SECONDS, tierFor } from '@linean/shared';
 import { lineColorFor } from '../lib/lines';
 import { useRoundClock } from '../lib/useRoundClock';
 import AnswerInput from './AnswerInput';
 import CountdownBar from './CountdownBar';
 import LineBadge from './LineBadge';
+import QuestionPhoto from './QuestionPhoto';
 import TierChip from './TierChip';
 import TrainTransition from './TrainTransition';
 
@@ -17,6 +18,12 @@ export default function QuestionView({ question, index, total, startsAt, endsAt,
   // Se congela al montar (el componente se monta con `key` por ronda).
   const [introMs] = useState(() => Math.max(0, startsAt - Date.now()));
   const color = lineColorFor(question.category);
+  const image = question.image;
+
+  // La foto empieza a bajar durante la animación del tren, así aparece al toque.
+  useEffect(() => {
+    if (image?.src) new Image().src = image.src;
+  }, [image?.src]);
 
   return (
     <>
@@ -38,13 +45,17 @@ export default function QuestionView({ question, index, total, startsAt, endsAt,
             </span>
           </div>
 
-          <div className="border-l-[6px] pl-4" style={{ borderColor: color }}>
-            <h1 id="question-prompt" className="text-[clamp(1.75rem,7vw,2.5rem)] leading-[1.08] font-bold tracking-tight text-balance">
-              {question.prompt}
-            </h1>
-            <p className="mt-2 text-sm text-mute">
-              {question.validCount} respuestas válidas · cuanto más rara, más suma
-            </p>
+          <div className="flex items-start gap-4 sm:gap-6">
+            <div className="min-w-0 flex-1 border-l-[6px] pl-4" style={{ borderColor: color }}>
+              <h1 id="question-prompt" className="text-[clamp(1.75rem,7vw,2.5rem)] leading-[1.08] font-bold tracking-tight text-balance">
+                {question.prompt}
+              </h1>
+              <p className="mt-2 text-sm text-mute">
+                {question.validCount} respuestas válidas · cuanto más rara, más suma
+              </p>
+              {image?.credit && <p className="mt-3 hidden font-mono text-xs text-mute lg:block">Foto: {image.credit}</p>}
+            </div>
+            {image?.src && <QuestionPhoto image={image} alt={`Foto de la pregunta: ${question.prompt}`} />}
           </div>
 
           <CountdownBar key={endsAt} endsAt={endsAt} totalMs={ROUND_SECONDS * 1000} secondsLeft={secondsLeft} />

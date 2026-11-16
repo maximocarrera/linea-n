@@ -5,6 +5,8 @@
 //   consigna: Nombrá un jugador que haya jugado en la Selección Argentina
 //   activa: si
 //   apellidos: si          ← agrega el apellido como alias cuando no es ambiguo
+//   imagen: adam-sandler.jpg              ← opcional, archivo de server/data/imagenes/
+//   credito: Autor · CC BY-SA 4.0 · Wikimedia Commons   ← autor y licencia de la foto
 //
 //   [10]                   ← también vale [comun], [poco], [rara], [nicho]
 //   Lionel Messi | Leo Messi
@@ -25,7 +27,7 @@ const TIER_WORDS = {
 };
 const YES = new Set(['si', 'yes', 'true', '1']);
 const NO = new Set(['no', 'false', '0']);
-const META_KEYS = { categoria: 'category', consigna: 'prompt', pregunta: 'prompt', activa: 'active', apellidos: 'surnames' };
+const META_KEYS = { categoria: 'category', consigna: 'prompt', pregunta: 'prompt', activa: 'active', apellidos: 'surnames', imagen: 'image', foto: 'image', credito: 'imageCredit' };
 
 /**
  * @returns {{ meta, answers: {answer, aliases, points, line}[], errors: string[], warnings: string[], autoAliases: number }}
@@ -36,7 +38,7 @@ export function parseQuestionFile(input) {
   const warnings = [];
   if (text.includes('�')) warnings.push('Hay caracteres rotos (�): guardá el archivo como UTF-8.');
 
-  const meta = { category: null, prompt: null, active: true, surnames: false };
+  const meta = { category: null, prompt: null, active: true, surnames: false, image: null, imageCredit: null };
   const raw = [];
   let points = null;
 

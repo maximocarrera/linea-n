@@ -22,6 +22,8 @@ export function openDb(file = DB_PATH) {
 function migrate(db) {
   const cols = db.prepare('PRAGMA table_info(questions)').all().map((c) => c.name);
   if (!cols.includes('source')) db.exec('ALTER TABLE questions ADD COLUMN source TEXT');
+  if (!cols.includes('image')) db.exec('ALTER TABLE questions ADD COLUMN image TEXT');
+  if (!cols.includes('image_credit')) db.exec('ALTER TABLE questions ADD COLUMN image_credit TEXT');
   db.exec('CREATE UNIQUE INDEX IF NOT EXISTS idx_questions_source ON questions(source)');
 }
 
@@ -90,12 +92,17 @@ export class QuestionStore {
   load(ids) {
     if (!ids.length) return [];
     const ph = ids.map(() => '?').join(',');
-    const questions = this.db.prepare(`SELECT id, category, prompt FROM questions WHERE id IN (${ph})`).all(...ids);
+    const questions = this.db.prepare(`SELECT id, category, prompt, image, image_credit FROM questions WHERE id IN (${ph})`).all(...ids);
     const answers = this.db
       .prepare(`SELECT question_id, answer, aliases, points FROM answers WHERE question_id IN (${ph}) ORDER BY id`)
       .all(...ids);
 
-    const byId = new Map(questions.map((q) => [q.id, { id: q.id, category: q.category, prompt: q.prompt, answers: [] }]));
+    const byId = new Map(
+      questions.map((q) => [
+        q.id,
+        { id: q.id, category: q.category, prompt: q.prompt, image: imageFor(q), answers: [] },
+      ]),
+    );
     for (const a of answers) {
       byId.get(a.question_id)?.answers.push({ answer: a.answer, aliases: a.aliases ?? '', points: a.points });
     }
@@ -185,10 +192,14 @@ export class QuestionStore {
   }
 }
 
+/** Foto de la pregunta para el cliente: { src, credit } o null. */
+const imageFor = (q) => (q.image ? { src: `/img/${q.image}`, credit: q.image_credit || null } : null);
+
 /** Formato compacto para mandar al cliente: answers = [respuesta, alias, puntos]. */
 export const toWire = (q) => ({
   id: q.id,
   category: q.category,
   prompt: q.prompt,
+  image: q.image ?? null,
   answers: q.answers.map((a) => [a.answer, a.aliases, a.points]),
 });

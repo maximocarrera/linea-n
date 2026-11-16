@@ -1,0 +1,90 @@
+# Línea N · una pregunta por archivo. Después de editar: npm run db:import
+# Un nombre por renglón. Variantes con |
+# Niveles: [10] común · [30] poco común · [60] rara · [100] de nicho
+# Clubes campeones de la UEFA Europa League y la antigua Copa de la UEFA.
+
+categoria: Futbol 
+consigna: Nombrá un equipo que haya ganado la UEFA Europa League
+activa: si
+apellidos: no
+
+[10]
+Sevilla FC | Sevilla
+Inter de Milán | Inter | Inter Milan
+Juventus
+Liverpool
+Atlético de Madrid | Atletico de Madrid | Atletico
+Real Madrid
+Chelsea
+
+[30]
+Porto | FC Porto
+Barcelona | FC Barcelona
+Tottenham Hotspur | Tottenham
+Bayern Múnich | Bayern Munich | Bayern
+Manchester United | Man United | United
+Valencia CF | Valencia
+Ajax
+Borussia Dortmund | Dortmund
+Schalke 04 | Schalke
+Napoli
+
+[60]
+Villarreal
+Atalanta
+Bayer Leverkusen | Leverkusen
+Eintracht Frankfurt | Frankfurt
+Zenit de San Petersburgo | Zenit
+Shakhtar Donetsk | Shakhtar
+Feyenoord
+Parma
+Goteborg | IFK Goteborg
+Anderlecht
+PSV Eindhoven | PSV
+Galatasaray
+VfB Stuttgart | Stuttgart
+Hamburger SV | Hamburgo
+Borussia Mönchengladbach | Monchengladbach
+Olympique de Marsella | Marsella | Marseille
+
+[100]
+Zenit San Petersburgo
+Red Bull Salzburg | Salzburgo
+Sporting de Lisboa | Sporting CP
+Benfica
+Athletic Club | Athletic de Bilbao | Bilbao
+Arsenal
+Roma | AS Roma
+Lazio
+Fiorentina
+Torino
+Sampdoria
+Brujas | Club Brugge
+Dinamo Zagreb
+Steaua Bucarest | FCSB
+Estrella Roja | Red Star
+Celtic
+Rangers
+Aberdeen
+Ipswich Town
+Newcastle United
+West Ham United
+Leicester City
+Real Sociedad
+Celta de Vigo
+Real Betis | Betis
+Villarreal
+Braga | SC Braga
+Panathinaikos
+Olympiacos
+AEK Atenas
+Hapoel Tel Aviv
+Dnipro
+Bordeaux
+Strasbourg
+Auxerre
+Montpellier
+Nantes
+Lens
+Monaco
+Nice
