@@ -1,0 +1,33 @@
+# Línea N · una pregunta por archivo. Después de editar: npm run db:import
+# Un nombre por renglón. Variantes con |
+# Niveles: [10] común · [30] poco común · [60] rara · [100] de nicho
+# Nacionalidades de los artistas que colaboraron con Duki en canciones.
+
+categoria: Musica
+consigna: Nombrá el país de un artista que haya colaborado con Duki
+activa: si
+apellidos: no
+
+[10]
+Argentina
+Puerto Rico
+España | Espana
+Estados Unidos | EEUU | USA
+
+[30]
+Chile
+Uruguay
+México | Mexico
+Colombia
+República Dominicana | Republica Dominicana
+
+[60]
+Italia
+Venezuela
+Brasil
+Cuba
+
+[100]
+Reino Unido | Inglaterra
+Aruba
+Bélgica | Belgica

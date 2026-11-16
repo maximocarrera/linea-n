@@ -1,0 +1,118 @@
+# Línea N · una pregunta por archivo. Después de editar: npm run db:import
+# Un nombre por renglón. Variantes con |
+# Niveles: [10] común · [30] poco común · [60] rara · [100] de nicho
+# Marcas comerciales de cerveza (nacionales, artesanales e internacionales).
+
+categoria: Comida
+consigna: Nombrá una marca de cerveza
+activa: si
+apellidos: no
+
+[10]
+Quilmes
+Brahma
+Stella Artois | Stella
+Heineken
+Corona
+Andes | Andes Origen
+Patagonia
+Schneider
+Imperial
+Isenbeck
+Budweiser
+Santa Fe
+Salta
+Miller
+
+[30]
+Antares
+Temple
+Peñón del Águila | Penon del Aguila
+Kunstmann
+Guinness
+Warsteiner
+Grolsch
+Sol
+Amstel
+Bieckert
+Palermo
+Iguana
+Norte
+Córdoba | Cordoba
+Otro Mundo
+ Rabieta
+Blest
+Berlina
+
+[60]
+Blue Moon
+Hoegaarden
+Leffe
+Franziskaner
+Paulaner
+Erdinger
+Asahi
+Sapporo
+Kirin
+Estrella Galicia
+Mahou
+Cruzcampo
+San Miguel
+Peroni
+Moretti | Birra Moretti
+Pilsner Urquell
+Beck's | Becks
+Carlsberg
+Tuborg
+Coors
+Modelo | Modelo Especial
+Dos Equis | XX
+Tecate
+Paceña | Pacena
+Cusqueña | Cusquena
+Pilsen
+Zillertal
+Patricia
+Norteña | Nortena
+Ogham
+Baum
+ Juguetes Perdidos
+Strange Brewing | Strange
+
+[100]
+Duvel
+Chimay
+Delirium | Delirium Tremens
+Westvleteren
+Orval
+Rochefort
+La Chouffe
+Kwak
+Samuel Adams
+Sierra Nevada
+Lagunitas
+BrewDog
+Stone | Stone Brewing
+Weihenstephaner
+Ayinger
+Spaten
+Bitburger
+Krombacher
+Radeberger
+Tiger
+Singha
+Chang
+Tsingtao
+Kingfisher
+Foster's | Fosters
+Victoria Bitter | VB
+Red Stripe
+Presidente
+Aguila | Águila
+Club Colombia
+Poker
+Polar
+Skol
+Antarctica
+Bohemia
+Itaipava

@@ -1,0 +1,285 @@
+# Línea N · una pregunta por archivo. Después de editar: npm run db:import
+# Un nombre por renglón. Variantes con |
+# Niveles: [10] común · [30] poco común · [60] rara · [100] de nicho
+# Productos, dispositivos, accesorios y servicios de Apple.
+
+categoria: General
+consigna: Nombrá un papa
+activa: si
+apellidos: no
+
+[10]
+Francisco | Papa Francisco | Jorge Mario Bergoglio
+Juan Pablo II | Karol Wojtyła
+Benedicto XVI | Joseph Ratzinger
+San Pedro | Simón Pedro
+León XIV | Robert Francis Prevost
+
+[30]
+Juan XXIII | Angelo Giuseppe Roncalli
+Pablo VI | Giovanni Battista Montini
+Pío XII | Eugenio Pacelli
+Alejandro VI | Rodrigo Borgia
+Julio II | Giuliano della Rovere
+León X | Giovanni de Médici
+Gregorio XIII | Ugo Boncompagni
+Urbano VIII | Maffeo Barberini
+
+[60]
+Juan Pablo I | Albino Luciani
+Pío IX | Giovanni Maria Mastai-Ferretti
+León XIII | Vincenzo Gioacchino Pecci
+Pío XI | Achille Ratti
+Gregorio Magno | Gregorio I
+León Magno | León I
+Inocencio III | Lotario dei Conti di Segni
+Urbano II | Odón de Châtillon
+Sixto IV | Francesco della Rovere
+Clemente VII | Giulio de Médici
+Paulo III | Alessandro Farnese
+
+[75]
+Pío X | Giuseppe Melchiorre Sarto
+Benedicto XV | Giacomo della Chiesa
+Gregorio VII | Hildebrando de Sovana
+Bonifacio VIII | Benedetto Caetani
+Clemente V | Bertrand de Got
+Sixto V | Felice Peretti
+Pío VII | Barnaba Chiaramonti
+Pío VI | Giovanni Angelo Braschi
+Clemente XIV | Giovanni Vincenzo Antonio Ganganelli
+Adriano VI | Adriaan Florenszoon Boeyens
+Julio III | Giovanni Maria Ciocchi del Monte
+Pío V | Antonio Michele Ghislieri
+Gregorio XVI | Bartolomeo Alberto Cappellari
+Benedicto XIV | Prospero Lorenzo Lambertini
+Inocencio XI | Benedetto Odescalchi
+
+[94]
+Lino | San Lino
+Anacleto | Cleto
+Clemente I | Clemente Romano
+Evaristo
+Alejandro I
+Sixto I
+Telésforo
+Higinio
+Pío I
+Aniceto
+Sotero
+Eleuterio
+Víctor I
+Ceferino
+Calixto I
+Urbano I
+Ponciano
+Antero
+Fabián
+Cornelio
+Lucio I
+Esteban I
+Sixto II
+Dionisio
+Félix I
+Eutiquiano
+Cayo
+Marcelino
+Marcelo I
+Eusebio
+Melquíades
+Silvestre I
+Marcos
+Julio I
+Liberio
+Dámaso I
+Siricio
+Anastasio I
+
+[98]
+Inocencio I
+Zósimo
+Bonifacio I
+Celestino I
+Sixto III
+Hilario
+Simplicio
+Félix III
+Gelasio I
+Anastasio II
+Símaco
+Hormisdas
+Juan I
+Félix IV
+Bonifacio II
+Juan II
+Agapito I
+Silverio
+Vigilio
+Pelagio I
+Juan III
+Benedicto I
+Pelagio II
+Sabiniano
+Bonifacio III
+Bonifacio IV
+Adeodato I
+Bonifacio V
+Honorio I
+Severino
+Juan IV
+Teodoro I
+Martín I
+Eugenio I
+Vitaliano
+Adeodato II
+Dono
+Agatón
+León II
+Benedicto II
+Juan V
+Conón
+Sergio I
+Juan VI
+Juan VII
+Sisinio
+Constantino
+Gregorio II
+Gregorio III
+Zacarías
+Esteban II
+Paulo I
+Esteban III
+Adriano I
+León III
+Esteban IV
+Pascual I
+Eugenio II
+Valentín
+Gregorio IV
+Sergio II
+León IV
+Benedicto III
+Nicolás I
+Adriano II
+Juan VIII
+Marino I
+Adriano III
+Esteban V
+Formoso
+Bonifacio VI
+Esteban VI
+Romano
+Teodoro II
+Juan IX
+Benedicto IV
+León V
+Sergio III
+Anastasio III
+Landón
+Juan X
+León VI
+Esteban VII
+Juan XI
+León VII
+Esteban VIII
+Marino II
+Agapito II
+Juan XII
+León VIII
+Benedicto V
+Juan XIII
+Benedicto VI
+Benedicto VII
+Juan XIV
+Juan XV
+Gregorio V
+Silvestre II
+Juan XVII
+Juan XVIII
+Sergio IV
+Benedicto VIII
+Juan XIX
+Benedicto IX
+Silvestre III
+Gregorio VI
+Clemente II
+Dámaso II
+León IX
+
+[100]
+Víctor II
+Esteban IX
+Nicolás II
+Alejandro II
+Víctor III
+Pascual II
+Gelasio II
+Calixto II
+Honorio II
+Inocencio II
+Celestino II
+Lucio II
+Eugenio III
+Anastasio IV
+Adriano IV
+Alejandro III
+Lucio III
+Urbano III
+Gregorio VIII
+Clemente III
+Celestino III
+Honorio III
+Gregorio IX
+Celestino IV
+Inocencio IV
+Alejandro IV
+Urbano IV
+Clemente IV
+Gregorio X
+Inocencio V
+Adriano V
+Juan XXI
+Nicolás III
+Martín IV
+Honorio IV
+Nicolás IV
+Celestino V
+Benedicto XI
+Juan XXII
+Benedicto XII
+Clemente VI
+Inocencio VI
+Urbano V
+Gregorio XI
+Urbano VI
+Bonifacio IX
+Inocencio VII
+Gregorio XII
+Martín V
+Eugenio IV
+Nicolás V
+Calixto III
+Pío II
+Paulo II
+Inocencio VIII
+Pío III
+Marcelo II
+Paulo IV
+Pío IV
+Gregorio XIV
+Inocencio IX
+Clemente VIII
+León XI
+Paulo V
+Gregorio XV
+Inocencio X
+Alejandro VII
+Clemente IX
+Clemente X
+Alejandro VIII
+Inocencio XII
+Clemente XI
+Inocencio XIII
+Benedicto XIII
+Clemente XII
+Si te interesa seguir arma

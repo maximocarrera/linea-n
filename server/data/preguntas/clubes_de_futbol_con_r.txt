@@ -1,0 +1,86 @@
+# Línea N · una pregunta por archivo. Después de editar: npm run db:import
+# Un nombre por renglón. Variantes con |
+# Niveles: [10] común · [30] poco común · [60] rara · [100] de nicho
+# Clubes de fútbol de Argentina y el mundo cuyo nombre empieza con R.
+
+categoria: Deportes
+consigna: Nombrá un club de fútbol que empiece con R
+activa: si
+apellidos: no
+
+[10]
+River Plate | River
+Racing Club | Racing
+Real Madrid
+Rosario Central
+Roma | AS Roma
+Real Betis | Betis
+Real Sociedad
+Rangers | Glasgow Rangers
+
+[30]
+Deportivo Riestra | Riestra
+Racing de Córdoba | Racing de Cordoba
+RB Leipzig | Leipzig
+Red Bull Salzburg | Salzburgo | RB Salzburgo
+Rayo Vallecano
+RCD Mallorca | Mallorca
+Rennes | Stade Rennais
+Reims | Stade de Reims
+Rapid Viena
+Rosenborg
+Red Star Belgrade | Estrella Roja
+
+[60]
+Racing de Montevideo
+Rentistas
+River Plate de Montevideo
+Real Salt Lake
+Real Valladolid | Valladolid
+Real Zaragoza | Zaragoza
+Racing de Santander
+Recreativo de Huelva
+Real Oviedo | Oviedo
+Real Murcia | Murcia
+Reading
+Rotherham United
+Rochdale
+Ross County
+Rio Ave
+RKC Waalwijk
+Roda JC
+Red Bull Bragantino | Bragantino
+Rionegro Águilas | Rionegro Aguilas
+Real Cartagena
+
+[100]
+Racing de Avellaneda | Racing Club de Avellaneda
+Racing de Olavarría | Racing de Olavarria
+Racing de Trelew
+Real Pilar
+Regional
+Resistencia
+Rubio Ñu | Rubio Nu
+Recoleta
+Rangers de Talca
+Real Potosí | Real Potosi
+Real Tomayapo
+Real Santa Cruz
+Real Garcilaso | Cusco FC
+Real España | Real Espana
+Real Estelí | Real Esteli
+Raja Casablanca
+RS Berkane
+Rayados de Monterrey | Monterrey
+Remo | Clube do Remo
+Resende
+Retrô | Retro
+River Atlético Clube
+Reggina
+Reggiana
+Rimini
+Ravenna
+Rot-Weiss Essen
+Rostov | FC Rostov
+Rubin Kazan
+Rizespor

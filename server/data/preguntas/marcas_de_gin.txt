@@ -1,0 +1,76 @@
+# Línea N · una pregunta por archivo. Después de editar: npm run db:import
+# Un nombre por renglón. Variantes con |
+# Niveles: [10] común · [30] poco común · [60] rara · [100] de nicho
+# Marcas comerciales de gin (nacionales e internacionales).
+
+categoria: Comida
+consigna: Nombrá una marca de gin
+activa: si
+apellidos: no
+
+[10]
+Beefeater
+Bombay Sapphire | Bombay
+Tanqueray
+Gordon's | Gordons
+Heráclito | Heraclito
+Príncipe de los Apóstoles | Apóstoles | Apostoles
+Aconcagua
+Hiram Walker
+Burnett's | Burnetts
+
+[30]
+Hendrick's | Hendricks
+Bulldog
+Brighton
+Bosque
+Merle
+Restingas
+Malaria
+Buenos Aires Gin
+Larios
+Puerto de Indias
+Seagram's | Seagrams
+Gilbey's | Gilbeys
+
+[60]
+Monkey 47
+The Botanist | Botanist
+Mare | Gin Mare
+Roku
+Brockmans
+Martin Miller's | Martin Millers
+Nordés | Nordes
+Malfy
+Aconcagua Verde
+Sur
+135 East
+Citadelle
+Hayman's | Haymans
+Plymouth
+Whitley Neill
+500 Noches
+Alquimista
+Kunuk
+
+[100]
+Sipsmith
+Aviation
+Empress 1908 | Empress
+Drumshanbo
+Star of Bombay
+No. 3 | Number 3
+Silent Pool
+caorunn
+Ferdinand's | Ferdinands
+G'Vine | GVine
+Ungava
+Ki No Bi
+Opihr
+Boodles
+Death's Door | Deaths Door
+St. George | Saint George
+Barr Hill
+Canaima
+Amazonian
+La República | La Republica

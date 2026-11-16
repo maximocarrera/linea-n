@@ -1,0 +1,194 @@
+# Línea N · una pregunta por archivo. Después de editar: npm run db:import
+# Un nombre por renglón. Variantes con |
+# Niveles: [10] común · [30] poco común · [60] rara · [100] de nicho
+# Artistas que colaboraron con Duki en canciones.
+
+categoria: Musica
+consigna: Nombrá un artista que haya colaborado con Duki
+activa: si
+apellidos: no
+
+[10]
+Neo Pistea
+YSY A | Ysy A
+Khea
+C.R.O | CRO
+Lucho SSJ
+Cazzu
+Nicki Nicole
+Tiago PZK
+Emilia | Emilia Mernes
+Rusherking
+Paulo Londra
+Bad Bunny
+María Becerra | Maria Becerra
+LIT Killah | Lit Killah
+Trueno
+Bhavi
+Eladio Carrión | Eladio Carrion
+Quevedo
+Rels B
+TINI | Tini
+
+[30]
+Pablo Chill-E
+Mesita
+Fuego
+Asan
+Rei
+Homer el Mero Mero
+Polimá Westcoast | Polima Westcoast
+Salastkbron
+FMK
+Milo J
+Seven Kayne
+Peso Pluma
+Myke Towers
+Arcángel | Arcangel
+C. Tangana
+J Balvin
+Anitta
+Rauw Alejandro
+CA7RIEL | Catriel
+MYA
+Mora
+Jhayco | Jhay Cortez
+Callejero Fino
+Nathy Peluso
+La Joaqui
+Lali
+La T y La M
+Acru
+Dante Spinetta
+Vicentico
+
+[60]
+Marcianos Crew
+Frijo
+Sfera Ebbasta
+Obie WanShot | Obie Wanshot
+Midel
+Young Cister
+Zell
+DrefQuila | Drefquila
+Pekeño 77 | Pekeno 77
+Neutro Shorty
+YG
+Ovi
+Akapellah
+De La Ghetto
+Recycled J
+Alemán | Aleman
+Jon Z
+Dano
+Kódigo | Kodigo
+Kidd Keo
+Tobi
+Sael
+Justin Quiles
+Manuel Turizo
+Omar Montes
+AK4:20 | AK4 20
+Dani Ribba
+Morat
+RVFV
+Cris MJ | CRIS MJ
+Standly
+Klan
+Santa Fe Klan
+Judeline
+Lia Kali
+Wiz Khalifa
+Morad
+Yandel
+El Alfa | El Alfa "El Jefe"
+Yung Beef
+Quavo
+Lil Jon
+Micro TDH
+Zeballos
+
+[100]
+Santoz
+SCXLVRY
+WEST DUBAI | West Dubai
+NahueMC
+Moonkey
+Tali Goya
+DICC
+Lara91k
+44 KID
+Gallagher
+Ronny J
+Sync
+Zanto
+JuicyNise
+Larry el M5
+Juicy J
+Klave
+Malandro
+JNO
+SG
+Iacho
+Sefo
+Arse
+Kaktov
+Jeon
+MC Fioti
+Leby
+Chulu
+Lito Kirino
+Felp 22
+MC Davo
+Capo Plaza
+Coqeein Montana
+Julianno Sosa
+Bandido
+EICH
+Franux BB
+Chucky73
+JUHN
+JUANKA
+Mir Nicolas
+Headie One
+MKS SSJ
+Papi Trujillo
+Lazza
+Ludmilla
+Harry Nach
+Farina
+Shainny
+Big Deiv
+Smokepurpp
+H Roto
+Químico Ultramega | Quimico Ultramega
+Gustavo Elis
+Cecilio G
+Nayo
+Sticky M.A. | StickyMA
+Steve Lean
+Poison Kid
+Trill Ricch
+Jose Reyes
+Elettra Lamborghini
+Anonimus
+Wolf
+ELSVNTO
+Romeo El Santo
+Nobewan
+Achu
+Brillante
+El Cherry Scom
+Cuco
+Lors
+Kapuchino
+JOVEN BTZ
+Cuban Bling
+LeeBrian
+DJ MAMI
+Le 'eFFe | Le eFFe
+Lua de Santana
+Benji Blue Bills
+Cluster
+enzocerobulto
+MHtresuno

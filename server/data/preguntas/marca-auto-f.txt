@@ -1,0 +1,51 @@
+# Línea N · una pregunta por archivo. Después de editar: npm run db:import
+# Un nombre por renglón. Variantes con |
+# Niveles: [10] común · [30] poco común · [60] rara · [100] de nicho
+# Productos, dispositivos, accesorios y servicios de Apple.
+
+categoria: General
+consigna: Nombrá una marca de autos que empiece con la letra F.
+apellidos: no
+
+[10]
+Ford
+Fiat
+Ferrari
+
+[30]
+Foton
+[50]
+Fisker
+FAW | First Automobile Works
+
+[75]
+Freightliner
+FSO | Fabryka Samochodów Osobowych
+Facel Vega
+Faraday Future\
+
+[100]
+Fenix | Fenix Automotive
+Force Motors
+Fornasari
+Framo
+Frazer
+Frazer Nash
+Fritchle
+Frua
+Fuldamobil
+FV Frangivento
+Felino
+Fengon | DFSK Fengon
+Fioravanti
+Fisker Coachbuild
+Flint
+Foden
+Follo
+Franklin
+Frisky
+FPV | Ford Performance Vehicles
+FSO Polonez (modelo) -> dejar FSO arriba.
+Fugitive
+Fulu
+Fuso | Mitsubishi Fuso

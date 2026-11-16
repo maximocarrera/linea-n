@@ -1,0 +1,67 @@
+# Línea N · una pregunta por archivo. Después de editar: npm run db:import
+# Un nombre por renglón. Variantes con |
+# Niveles: [10] común · [30] poco común · [60] rara · [100] de nicho
+# Bebidas del menú actual de Starbucks Argentina.
+
+categoria: Comida
+consigna: Nombrá una bebida del menú de Starbucks
+activa: si
+apellidos: no
+
+[10]
+Caramel Macchiato
+Latte | Caffè Latte | Cafe Latte
+Cappuccino | Capuchino
+Americano | Caffè Americano | Cafe Americano
+Flat White
+Frappuccino de Dulce de Leche | Dulce de Leche Frappuccino
+Frappuccino de Frutilla | Strawberry Frappuccino | Frutilla Creme Frappuccino
+Mocha | Caffè Mocha | Cafe Mocha
+Submarino | Chocolate Caliente
+Espresso | Café Espresso | Cafe Espresso
+
+[30]
+Caramel Frappuccino
+Mocha Blanco | White Chocolate Mocha | White Mocha
+Vainilla Latte | Vanilla Latte
+Dulce de Leche Latte
+Cold Brew
+Iced Latte | Latte Helado
+Iced Caramel Macchiato
+Pink Drink | Strawberry Acai Refresher | Refresher de Frutilla y Acai
+Mango Dragonfruit Refresher | Dragon Drink
+Chai Tea Latte | Chai Latte
+
+[60]
+Matcha Tea Latte | Matcha Latte
+Matcha Frappuccino
+Java Chip Frappuccino | Mocha Chip Frappuccino
+Cookies and Cream Frappuccino | Frappuccino de Cookies and Cream
+Avellana Shaken Espresso | Hazelnut Shaken Espresso | Iced Shaken Espresso
+Brown Sugar Shaken Espresso | Iced Brown Sugar Oatmilk Shaken Espresso
+Cold Brew con Vainilla Sweet Cream | Vanilla Sweet Cream Cold Brew
+Pumpkin Spice Latte
+Iced Americano | Americano Helado
+Mocha Blanco Frappuccino | White Mocha Frappuccino
+Berry Hibiscus Refresher | Hibiscus Refresher
+Té Helado de Durazno | Iced Peach Green Tea | Peach Green Tea Lemonade
+Té Helado de Frutilla | Iced Strawberry Black Tea
+Espresso Macchiato
+Cortado
+
+[100]
+Nitro Cold Brew
+Café del Día | Cafe del Dia | Pike Place
+Cold Brew con Cold Foam de Chocolate | Chocolate Cream Cold Brew
+Iced Flat White
+Caramel Ribbon Crunch Frappuccino
+Espresso Frappuccino
+Chai Frappuccino
+Té Verde Matcha Helado | Iced Matcha Tea Latte
+Lemonade | Limonada
+Té Negro | Black Tea | English Breakfast
+Té Verde | Green Tea | Emperor's Clouds & Mist
+Manzanilla | Chamomile | Té de Manzanilla
+Menta | Mint | Té de Menta
+Doble Espresso | Espresso Doppio
+Ristretto Bianco

@@ -1,0 +1,128 @@
+# Línea N · una pregunta por archivo. Después de editar: npm run db:import
+# Un nombre por renglón. Variantes con |
+# Niveles: [10] común · [30] poco común · [60] rara · [100] de nicho
+# Canciones de María Becerra (solista y colaboraciones).
+
+categoria: Musica
+consigna: Nombrá una canción de María Becerra
+activa: si
+apellidos: no
+
+[10]
+Corazón Vacío | Corazon Vacio
+Automático | Automatico
+Miénteme | Mienteme
+Los Del Espacio
+¿Qué Más Pues? | Que Mas Pues
+High
+Acaramelao
+Animal
+Entre Nosotros
+Además de Mí | Ademas de Mi
+Ojalá | Ojala
+Te Cura
+
+[30]
+La Nena de Argentina
+Wow Wow
+Cazame
+Antes de Ti
+Mi Debilidad
+Marte
+Tranquila
+Perfecta
+Cuando Te Vi
+Ramen Para Dos
+Primer Aviso
+Agora
+Iman | IMAN (Two Of Us)
+Berlin
+Mal Acostumbrao
+Mentirosa
+Confiésalo | Confiesalo
+Tu Lady
+Adiós | Adios
+Discoteka
+Hasta Los Dientes
+El Amor de Mi Vida
+En La Oscuridad
+Éxtasis | Extasis
+Perdidamente
+Piscina
+
+[60]
+Desafiando El Destino
+Felices x Siempre
+Cerquita de Ti
+Dime Como Hago
+Episodios
+Hace Rato
+Maléfica | Malefica
+Mami
+Mandamientos
+No Eres Tú Soy Yo | No Eres Tu Soy Yo
+Nunca Pasará | Nunca Pasara
+Te Necesito
+Tú Me Lo Haces Fácil | Tu Me Lo Haces Facil
+5 Pa Las 12
+90s
+A Solas
+Amigos
+Así | Asi
+Asi Es La Vida
+Aynea
+Borracha
+Cuando Hacemos El Amor
+Doble Vida
+Fragil
+Hasta Que Me Enamoro
+La Ducha
+La Reina
+Lokita
+Lonely
+Los Tragos
+Mi Amor
+Pa' Qué Volviste? | Pa Que Volviste
+Qué Ganas de Comerte | Que Ganas de Comerte
+Sexo Es La Moda
+Te Espero
+Vuelves Triste
+
+[100]
+7 Vidas
+9:45 | 9 45
+Ahora Que Estás Con Él | Ahora Que Estas Con El
+Dejemos Que Pase
+Do You
+Extrañándote | Extranandote
+Frutilla Del Pastel
+Hace Calor
+Hasta Que La Muerte Nos Separe
+Hipnotiza' | Hipnotiza
+Infinitos Como El Mar
+Inspiradora
+Jingle Bell Rock
+Jojo
+Kristal
+lady madrizZz
+Latte
+Low Key
+Moon
+Nada de Amor
+Perreo Furioso
+Pídelo | Pidelo
+Pierdo La Cabeza
+Que Tú Me Quieras | Que Tu Me Quieras
+Recuerdo Que Nunca Existió | Recuerdo Que Nunca Existio
+Roast Yourself Challenge
+Romántica | Romantica
+Se Nota
+Si Yo Fuera Tú | Si Yo Fuera Tu
+Sin Ti
+Slow It Down
+Spicy Margarita
+Suelta
+Tatú | Tatu
+Tú | Tu
+Tú Sin Yo | Tu Sin Yo
+Without Love

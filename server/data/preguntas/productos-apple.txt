@@ -1,0 +1,77 @@
+# Línea N · una pregunta por archivo. Después de editar: npm run db:import
+# Un nombre por renglón. Variantes con |
+# Niveles: [10] común · [30] poco común · [60] rara · [100] de nicho
+# Productos, dispositivos, accesorios y servicios de Apple.
+
+categoria: General
+consigna: Nombrá un producto de Apple
+activa: si
+apellidos: no
+
+[10]
+iPhone
+iPad
+MacBook
+Apple Watch
+AirPods
+Mac
+iPod
+Apple TV
+Cargador | Cargador de iPhone
+
+[30]
+MacBook Air
+MacBook Pro
+iMac
+Apple Pencil
+AirTag
+iPad Pro
+iPad Air
+iPad Mini
+AirPods Pro
+AirPods Max
+iCloud
+Apple Music
+Magic Mouse
+Funda de silicona | Silicone Case
+
+[60]
+Mac Mini
+Mac Studio
+Mac Pro
+HomePod
+HomePod Mini
+Apple Vision Pro
+Magic Keyboard
+Magic Trackpad
+Apple Pay
+Apple Arcade
+Apple TV+
+iPod Nano
+iPod Shuffle
+iPod Touch
+iPod Classic
+earPods
+MagSafe | Cargador MagSafe
+Studio Display
+
+[100]
+Apple Newton | Newton
+Apple Lisa | Lisa
+Macintosh | Macintosh 128K
+Apple II
+PowerBook
+iBook
+Power Mac
+eMac
+Pro Display XDR
+AirPort | AirPort Extreme | AirPort Express
+Time Capsule
+Apple Pippin | Pippin
+Apple QuickTake | QuickTake
+Xserve
+HomePod
+SuperDrive
+Paño de pulido | Polishing Cloth
+Apple Card
+Apple Fitness+

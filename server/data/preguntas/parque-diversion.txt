@@ -1,0 +1,99 @@
+# Línea N · una pregunta por archivo. Después de editar: npm run db:import
+# Un nombre por renglón. Variantes con |
+# Niveles: [10] común · [30] poco común · [60] rara · [100] de nicho
+# Parques de diversiones, temáticos y acuáticos del mundo y de Argentina.
+
+categoria: General
+consigna: Nombrá un parque de diversiones o temático
+activa: si
+apellidos: no
+
+[10]
+Parque de la Costa
+Disney | Disneyland | Walt Disney World
+Magic Kingdom
+Universal Studios
+Mundo Marino
+Italpark
+Tierra Santa
+República de los Niños | Republica de los Ninos
+Aquafan
+Aquasol
+
+[30]
+Epcot
+Hollywood Studios | Disney's Hollywood Studios
+Animal Kingdom
+Islands of Adventure
+SeaWorld
+Busch Gardens
+Six Flags
+Six Flags Magic Mountain
+Betto Carrero World | Beto Carrero World
+Aquópolis | Aquopolis
+Parque de la Ciudad | Interama
+Neverland
+Sacoa
+Showcenter
+Temaikèn | Temaiken
+Legoland
+PortAventura | Port Aventura
+Parque Warner | Parque Warner Madrid
+
+[60]
+Universal Epic Universe | Epic Universe
+Six Flags Great Adventure
+Cedar Point
+Knott's Berry Farm | Knotts Berry Farm
+Hersheypark
+Dollywood
+Disneyland Paris | EuroDisney
+Tokyo Disneyland
+Tokyo DisneySea
+Universal Studios Japan
+Europa-Park | Europa Park
+Efteling
+Alton Towers
+Gardaland
+Ferrari World
+Fantasilandia
+Hopi Hari
+Xcaret
+Parque Termal Dolores
+Poseidón | Parque Acuático Poseidón
+Peko's | Pekos Multiparque
+Wave Zone
+
+[100]
+Parc Astérix | Parc Asterix
+Phantasialand
+Heide Park
+Thorpe Park
+Blackpool Pleasure Beach
+Tivoli Gardens
+Liseberg
+Prater | Wiener Prater
+Coney Island | Luna Park
+Silver Dollar City
+Carowinds
+Kings Island
+Canada's Wonderland | Canadas Wonderland
+Walibi Belgium
+Parque de Atracciones de Madrid
+Isla Mágica | Isla Magica
+Tibidabo
+Lotte World
+Everland
+Ocean Park
+Chimelong Ocean Kingdom
+Universal Studios Singapore
+Hong Kong Disneyland
+Shanghai Disneyland
+Warner Bros. World Abu Dhabi
+IMG Worlds of Adventure
+Six Flags México | Six Flags Mexico
+Parque del Café | Parque del Cafe
+Salitre Mágico | Salitre Magico
+Mundo Aventura
+Divercity
+El Rollo

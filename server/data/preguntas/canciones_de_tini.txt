@@ -1,0 +1,136 @@
+# Línea N · una pregunta por archivo. Después de editar: npm run db:import
+# Un nombre por renglón. Variantes con |
+# Niveles: [10] común · [30] poco común · [60] rara · [100] de nicho
+# Canciones de Tini Stoessel (solista, colaboraciones y etapa Violetta).
+
+categoria: Musica
+consigna: Nombrá una canción de Tini
+activa: si
+apellidos: no
+
+[10]
+Miénteme | Mienteme
+La Triple T
+Cupido
+Bar
+22
+Fresa
+Oye
+La Original | La_Original.mp3
+Muñecas | Munecas
+El Último Beso | El Ultimo Beso
+2:50 | 2 50
+El Cielo
+
+[30]
+Carne y Hueso
+Te Pido
+Las Jordans
+La Loto
+Recuerdo
+Un Beso En Madrid
+Suéltate El Pelo | Sueltate El Pelo
+Consejo de Amor
+Quiero Volver
+Princesa
+Te Quiero Más | Te Quiero Mas
+Ya No Me Llames
+Ella Dice
+Duele
+High
+Maldita Foto
+Fantasi
+Me Enteré | Me Entere
+Lágrimas | Lagrimas
+La Niña de La Escuela | La Nina de La Escuela
+pa
+posta
+ni de ti
+buenos aires
+tinta 90
+blackout
+En Mi Mundo
+Libre Soy
+WE PRAY
+
+[60]
+Bésame | Besame
+Acércate | Acercate
+7 Veces
+Aquí Estoy | Aqui Estoy
+Como Quieres
+Por Qué Te Vas | Por Que Te Vas
+Ya No Hay Nadie Que Nos Pare
+Vuelve
+Suéltame | Sueltame
+La Cintura
+La Ducha
+Me Gusta
+Playa
+Por El Resto de Tu Vida
+Tú no me conoces | Tu no me conoces
+Un Reel
+Una Noche Más | Una Noche Mas
+Universidad
+Dos Amantes
+HASTA QUE ME ENAMORO
+LO QUE ME CAUSA
+ángel | angel
+bien
+ellas
+me voy
+miedo
+Siempre Brillarás | Siempre Brillaras
+Te Creo
+Yo Me Escaparé | Yo Me Escapare
+
+[100]
+36 Vidas
+Agua
+All You Gotta Do
+All'alba Sorgerò | All'alba Sorgero
+Beso En Las Rocas
+Born To Shine
+Confía En Mí | Confia En Mi
+De Papel
+Desde Cuando
+Destined To Shine
+Diciembre
+Don't Cry For Me
+Down
+Finders Keepers
+Flores
+Friends 'Till The End
+Got Me Started
+Great Escape
+Handwritten
+I Want You
+Imagine
+Light Your Heart
+Lights Down Low
+Like That
+Lo Malo
+Lo Que Soy
+Lo Que Tu Alma Escribe
+Losing The Love
+Love Is Love
+My Stupid Heart
+Never Ready
+Pa' Él | Pa El
+Respirar
+Se Escapa Tu Amor
+Si Tu Supieras
+Si Tú Te Vas | Si Tu Te Vas
+Sigo Adelante
+Sólo Dime Tu | Solo Dime Tu
+Still Standing
+STRANGERS
+Supercreativa
+Te Olvidaré | Te Olvidare
+Todo Es Posible
+Tu Resplandor
+Tuyo
+Underneath It All
+Vueltas En Tu Mente
+Waves
+Yo Te Amo a Tí | Yo Te Amo a Ti

@@ -1,0 +1,110 @@
+# Línea N · una pregunta por archivo. Después de editar: npm run db:import
+# Un nombre por renglón. Variantes con |
+# Niveles: [10] común · [30] poco común · [60] rara · [100] de nicho
+# Juegos de mesa, tablero y cartas (clásicos, modernos y de previa).
+
+categoria: General
+consigna: Nombrá un juego de mesa o de cartas
+activa: si
+apellidos: no
+
+[10]
+Uno
+Monopoly
+TEG | T.E.G.
+El Estanciero | Estanciero
+Truco
+Ajedrez
+Damas
+Jenga
+Generala
+Ludo | Ludo Matic
+Batalla Naval
+Pictionary
+
+[30]
+Carrera de Mente
+Dígalo con mímica | Digalo con mimica
+Scrabble
+Clue | Cluedo
+Life | El Juego de la Vida
+Twister
+Burako
+Chinchón | Chin-chón | Chinchon
+Escoba de 15
+Casita Robada
+Desconfío | Desconfio
+Poker | Póker
+Blackjack | 21
+Dominó | Domino
+Memotest
+Operación | Operacion
+Adivina Quién | Adivina Quien
+Conecta 4 | Cuatro en línea
+Catan | Los Colonos de Catán
+
+[60]
+HDP | Hasta Donde Puedas
+Amigos de Mierda
+No Lo Testeamos Ni Un Poco
+Basta
+Tabú | Tabu
+Cranium
+Risk
+Dixit
+Carcassonne
+Ticket to Ride | Aventureros al Tren
+Mafia | El Lobo | Hombres Lobo de Castronegro
+Coup
+Virus | Virus!
+Sushi Go | Sushi Go!
+Exploding Kittens
+Dobble
+Basta Ya
+Backgammon
+Rummikub
+Canasta
+Solitario
+Chancho Va
+Culo Sucio
+El Mentiroso
+Tute
+Mus
+
+[100]
+Dungeons & Dragons | Calabozos y Dragones | D&D
+Gloomhaven
+Terraforming Mars
+7 Wonders
+Pandemic
+Azul
+Splendor
+Codigo Secreto | Codenames
+Root
+Scythe
+Arkham Horror
+Zombicide
+Munchkin
+Magic: The Gathering | Magic
+Yu-Gi-Oh! | Yu-Gi-Oh
+Pokémon TCG | Cartas Pokemon
+Go
+Mahjong
+Shogi
+Othello | Reversi
+Mancala
+Stratego
+Battleship
+Hundir la Flota
+Sequence
+Bang | Bang!
+Love Letter
+The Mind
+Saboteur
+ciudadelas | Citadels
+Puerto Rico
+Agrícola | Agricola
+Stone Age
+King of Tokyo
+Small World
+Mansiones de la Locura

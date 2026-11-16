@@ -1,0 +1,73 @@
+# Línea N · una pregunta por archivo. Después de editar: npm run db:import
+# Un nombre por renglón. Variantes con |
+# Niveles: [10] común · [30] poco común · [60] rara · [100] de nicho
+# Marcas comerciales de vodka (nacionales e internacionales).
+
+categoria: Comida
+consigna: Nombrá una marca de vodka
+activa: si
+apellidos: no
+
+[10]
+Smirnoff
+Absolut
+Skyy | Sky
+Grey Goose
+Sernova
+Hiram Walker
+Bols
+
+[30]
+Belvedere
+Cîroc | Ciroc
+Stolichnaya | Stoli
+Finlandia
+Beluga
+Wyborowa
+Ketel One
+Nikolai
+New Style
+Soho
+Tito's | Titos
+
+[60]
+Russian Standard
+Zubrówka | Zubrowka
+Danzka
+Three Olives
+Pinnacle
+Sobieski
+Luksusowa
+Chopin
+Crystal Head
+Roberto Cavalli
+Eristoff
+Khortytsa | Khortytsa
+Nemiroff
+Moskovskaya
+Burnett's | Burnetts
+Svedka
+UV
+New Amsterdam
+
+[100]
+Haku
+Reyka
+Tovaritch
+Kauffman
+Imperia
+Zyr
+Jewel of Russia
+Prairie Organic
+Ocean Organic
+Chase
+hangar 1 | Hangar One
+Ultimat
+Jean-Marc XO
+Voli
+Effens | Effen
+Fris
+Bavaria
+Putinka
+Green Mark
+Parliament

@@ -1,0 +1,57 @@
+categoria: Comida
+consigna: Nombrá una hamburguesa de McDonald's (menú argentino)
+activa: si
+apellidos: no
+
+[10]
+Big Mac
+Cuarto de Libra | Cuarto de Libra con Queso | Quarter Pounder
+McNífica | McNifica
+Doble Cuarto de Libra | Doble Cuarto de Libra con Queso
+Hamburguesa con Queso | Cheeseburger
+McPollo | McChicken
+Triple Hamburguesa con Queso | Triple Queso
+
+[30]
+Doble Carne Doble Queso
+McFiesta
+Tasty | Grand Tasty | Big Tasty
+Grand Tasty Doble | Big Tasty Doble
+CBO | Chicken Bacon Onion
+McDuo
+Doble McNífica | Doble McNifica
+Triple Mac
+
+[60]
+Grand Tasty Triple | Big Tasty Triple
+Club House | Crispy Onion Barbecue | Signature Club House
+Crispy Chicken | McCrispy Chicken
+GOAT
+Doble McPollo | Doble McChicken
+Cuarto de Libra Doble Bacon | Cuarto Bacon
+McMostaza | Mc Mostaza
+McÁlvarez | McAlvarez | Mc Alvarez
+McAllister | Mac Allister | Mc Allister
+McFernandez | Mac Fernandez | Mc Fernandez
+Smokehouse | Signature Smokehouse
+Guacamole | Signature Guacamole
+
+[67]
+Grand Franco
+Grand Franco Doble
+
+[100]
+McNífica Bacon | McNifica Bacon
+Doble McFiesta
+Grand Tasty Turbo Bacon
+Crispy Onion Bacon
+McRib
+McDLT
+McLean Deluxe
+Pechuga Crispy | McCrispy
+Big Mac Bacon
+Doble Cuarto Deluxe
+Signature Mushroom | Mushroom Dijon
+McPeceto
+McCriolla
+McBife

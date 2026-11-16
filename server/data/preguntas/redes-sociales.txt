@@ -1,0 +1,418 @@
+# Línea N · una pregunta por archivo. Después de editar: npm run db:import
+# Un nombre por renglón. Variantes con |
+# Niveles: [10] común · [30] poco común · [60] rara · [100] de nicho
+# Productos, dispositivos, accesorios y servicios de Apple.
+
+categoria: General
+consigna: Nombrá una red social
+activa: si
+apellidos: no
+
+[10]
+WhatsApp
+Instagram
+Facebook
+YouTube
+TikTok
+X | Twitter
+
+[30]
+LinkedIn
+Telegram
+Snapchat
+Pinterest
+Reddit
+Discord
+Twitch
+[50]
+Threads
+Spotify
+Tumblr
+Quora
+WeChat
+Skype
+Tinder | Badoo
+
+[54]
+Bluesky
+Mastodon
+BeReal
+Signal
+Viber
+Line
+SoundCloud
+Wattpad
+Patreon
+OnlyFans
+
+[76]
+Lemmy
+Pixelfed
+Letterboxd
+Goodreads
+Strava
+Substack
+Truth Social
+Gab
+Parler
+VK | VKontakte
+
+[85]
+Weibo
+Douyin
+QQ
+Kuaishou
+Bilibili
+Baidu Tieba
+Xiaohongshu | RedNote
+MeWe
+Minds
+Diaspora
+Peach
+Vero
+Clubhouse
+Caffeine
+Trovo
+Kick
+Rumble
+Odysee
+BitChute
+Dailymotion
+Vimeo
+Flickr
+500px
+DeviantArt
+Behance
+Dribbble
+ArtStation
+GitHub
+Stack Overflow
+Medium
+LiveJournal
+MySpace
+Hi5
+Fotolog
+Orkut
+Taringa
+Foursquare | Swarm
+Nextdoor
+Meetup
+Couchsurfing
+Grindr
+Bumble
+Hinge
+OkCupid
+Happn
+Meetic
+eHarmony
+Match
+Plenty of Fish | POF
+Zoosk
+Raya
+Feeld
+Her
+Taimi
+
+[92]
+Lex
+Smule
+BandLab
+Last.fm
+Mixcloud
+Audiomack
+Untappd
+Vivino
+Letterboxd
+TV Time
+MyAnimeList | MAL
+AniList
+BoardGameGeek
+RateYourMusic | RYM
+Genius
+Discogs
+iNaturalist
+AllTrails
+Komoot
+Runkeeper
+MapMyRun
+Zwift
+Peloton
+Fitbit
+Garmin Connect
+Nike Run Club
+Duolingo
+Brainly
+ResearchGate
+Academia.edu
+Mendeley
+ORCID
+LinkedIn Learning
+Coursera
+Udemy
+edX
+Khan Academy
+Quizlet
+Anki
+Kahoot
+ClassDojo
+Remind
+Edmodo
+Seesaw
+Schoology
+Canvas
+Blackboard
+Moodle
+Slack
+Microsoft Teams
+Zoom
+Google Meet
+Webex
+GoToMeeting
+BlueJeans
+Jitsi
+Whereby
+Around
+Gather
+SpatialChat
+Virbela
+Second Life
+IMVU
+Habbo
+Club Penguin
+Neopets
+Gaia Online
+Roblox
+VRChat
+Rec Room
+AltspaceVR
+Horizon Worlds
+Decentraland
+The Sandbox
+
+[95]
+Axie Infinity
+Sorare
+StepN
+Sweatcoin
+Pi Network
+Steemit
+Hive
+Minds
+LBRY
+DTube
+PeerTube
+funkwhale
+Mobilizon
+WriteFreely
+Plume
+BookWyrm
+Owncast
+Castopod
+Diaspora*
+Friendica
+Hubzilla
+Pleroma
+Misskey
+Calckey
+Firefish
+Sharkey
+Akkoma
+GoToSocial
+Takahē
+snac
+Honk
+Micro.blog
+Write.as
+Bear Blog
+Mataroa
+Posthaven
+Svbtle
+Ghost
+Substack
+Revue
+Buttondown
+ConvertKit
+Mailchimp
+Beehiiv
+Paragraph
+Mirror.xyz
+Lens Protocol
+Farcaster
+Warpcast
+Damus
+Nostr
+Snort
+Iris
+Amethyst
+Primal
+Coracle
+
+[98]
+Habla
+Highlighter
+Zap.stream
+Nostrudel
+Mutiny
+Alby
+Stacker News
+Hacker News
+Lobsters
+Tildes
+Slashdot
+Digg
+Fark
+Metafilter
+Something Awful
+4chan
+8kun
+2channel | 5ch
+Futaba Channel
+Niconico
+Pixiv
+Syosetu
+Kakuyomu
+Narou
+Note
+Hatena Blog
+Ameba
+mixi
+GREE
+Mobage
+KakaoTalk
+KakaoStory
+Naver Band
+Naver Cafe
+Daum Cafe
+Cyworld
+
+[100]
+Zalo
+Zing Me
+VKontakte
+Odnoklassniki | OK.ru
+Mail.Ru
+Moi Mir
+LiveInternet
+Habr
+Pikabu
+Yaplakal
+JoyReactor
+Rutube
+Yandex Zen | Dzen
+ShareChat
+Moj
+Josh
+Chingari
+Roposo
+Koo
+Helo
+Trell
+Mitron
+Bolo Indya
+MX TakaTak
+Zili
+Vigo Video
+Likee
+Kwai
+SnackVideo
+Helo
+Tango
+Bigo Live
+LiveMe
+YouNow
+Periscope
+Meerkat
+Vine
+Musical.ly
+Dubsmash
+Triller
+Byte
+Clash
+Huddles
+Rizzle
+Firework
+Lasso
+MixBit
+Keek
+Tout
+Viddy
+Socialcam
+Mobli
+Path
+Google+ | Google Plus
+Google Buzz
+Google Wave
+Orkut
+Friendster
+Bebo
+Xanga
+AsianAvenue
+BlackPlanet
+MiGente
+Bolt
+SixDegrees
+Classmates.com
+MyYearbook | MeetMe
+Tagged
+Skout
+Twoo
+Lovoo
+Jaumo
+MocoSpace
+Chatroulette
+Omegle
+Tinychat
+Camfrog
+Paltalk
+ICQ
+AIM | AOL Instant Messenger
+MSN Messenger | Windows Live Messenger
+Yahoo! Messenger
+BlackBerry Messenger | BBM
+Kik
+Tango
+Nimbuzz
+eBuddy
+Trillian
+Pidgin
+Miranda IM
+Psi
+Gajim
+Adium
+Colloquy
+mIRC
+HexChat
+WeeChat
+Irssi
+Element
+Matrix
+Briar
+Session
+Threema
+Wickr
+Wire
+Keybase
+Status
+Tox
+Ricochet
+Cwtch
+Jami
+RetroShare
+GNUnet
+Freenet
+I2P
+ZeroNet
+IPFS
+DAT
+Hypercore
+Scuttlebutt | SSB
+Manyverse
+Patchwork
+Planetary
+Cabana
+Aether
+Twtxt
+Gemini
+Gopher
+Finger
+Usenet
