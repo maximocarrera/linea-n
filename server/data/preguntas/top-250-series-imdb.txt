@@ -1,0 +1,274 @@
+# Línea N · una pregunta por archivo. Después de editar: npm run db:import
+# Un nombre por renglón. Variantes con |   (título en español | original)
+# Top 250 de series de IMDb (imdb.com/chart/toptv), copiado el 16/11/2026.
+# Puntos por puesto: 1-25 → 10 · 26-50 → 20 · 51-75 → 30 · ... · 226-250 → 100.
+# Las que aparecen más de una vez en el ranking (dos versiones de Dragon Ball Z, Dragon Ball,
+# La víbora negra, Twin Peaks, The Office, Mahabharat, Battlestar Galactica) van una sola vez,
+# en su mejor puesto.
+
+categoria: Televisión
+consigna: Nombrá una serie del Top 250 de IMDb
+activa: si
+apellidos: no
+
+[10]
+Breaking Bad
+Planeta Tierra II | Planet Earth II
+Planeta Tierra | Planet Earth
+Hermanos de sangre | Band of Brothers
+Chernobyl | Chernóbil
+Avatar. La leyenda de Aang | Avatar: La leyenda de Aang | Avatar: The Last Airbender | La leyenda de Aang
+The Wire (Bajo escucha) | The Wire | Bajo escucha
+Los Soprano | The Sopranos | Los Sopranos
+Planeta azul II | Blue Planet II
+Cosmos: Una odisea en el espacio-tiempo | Cosmos: A Spacetime Odyssey | Cosmos: Una odisea en el espacio tiempo
+Cosmos | Cosmos: Un viaje personal
+Nuestro planeta | Our Planet
+Juego de tronos | Game of Thrones
+Bluey
+El mundo en guerra | The World at War
+Ataque a los titanes | Attack on Titan | Shingeki no Kyojin
+Fullmetal Alchemist: Brotherhood | Fullmetal Alchemist
+Life | Vida
+El último baile | The Last Dance
+La dimensión desconocida | The Twilight Zone | Dimensión desconocida
+La guerra de Vietnam | The Vietnam War
+Rick y Morty | Rick and Morty
+Sherlock
+Batman: La serie animada | Batman: The Animated Series
+Better Call Saul
+
+[20]
+The Office | La oficina
+Arcane
+Planeta azul | The Blue Planet | Blue Planet
+La granja de Clarkson | Clarkson's Farm
+Hunter X Hunter
+Scam 1992: The Harshad Mehta Story | Scam 1992
+Planeta helado | Frozen Planet
+Only Fools and Horses
+Planeta humano | Human Planet
+The Beatles Anthology
+The Civil War | La guerra civil
+Como si... | Como si | Gibi
+Dexter: Resurrección | Dexter: Resurrection
+Gravity Falls | Gravity Falls: Un verano de misterios
+The Pitt
+Firefly
+Death Note
+Taskmaster
+Frieren: Beyond Journey's End | Frieren | Sousou no Frieren
+Nathan al rescate | Nathan for You
+The Beatles: Get Back | Get Back
+El decálogo | Dekalog
+Seinfeld
+Cowboy Bebop
+True Detective
+
+[30]
+Apocalipsis - La segunda guerra mundial | Apocalipsis: La segunda guerra mundial | Apocalypse: The Second World War
+Fargo
+The Chosen (Los elegidos) | The Chosen | Los elegidos
+One Piece
+África | Africa
+Sahsiyet | Şahsiyet
+El ala oeste de la Casa Blanca | The West Wing
+Si la vida te da mandarinas... | Si la vida te da mandarinas | When Life Gives You Tangerines
+Friends
+Así nos ven | When They See Us
+Bleach: Thousand Year Blood War | Bleach
+Colgados en Filadelfia | It's Always Sunny in Philadelphia | Siempre hay sol en Filadelfia
+Vinland Saga
+TVF Pitchers | Pitchers
+Succession
+Last Week Tonight with John Oliver | Last Week Tonight
+BoJack Horseman
+Larry David (Curb Your Enthusiasm) | Curb Your Enthusiasm | Larry David
+Panchayat
+El submarino | Das Boot
+Monty Python's Flying Circus | Monty Python
+Hotel Fawlty | Fawlty Towers
+Dragon Ball Z
+Gullak
+La víbora negra | Blackadder
+
+[40]
+Leyla and Mecnun | Leyla ile Mecnun
+Chappelle's Show
+Instituto McKinley | Freaks and Geeks
+Eung-dab-ha-ra 1988 | Reply 1988 | Responde 1988
+Orgullo y prejuicio | Pride and Prejudice
+Twin Peaks
+Narcos
+Yo, Claudio | I, Claudius
+Berserk
+South Park
+La fábrica de Kota | Kota Factory
+Steins;Gate | Steins Gate
+Mi señor | My Mister
+Más allá del jardín | Over the Garden Wall
+Black Mirror
+Peaky Blinders
+A dos metros bajo tierra | Six Feet Under
+Monster
+Ted Lasso
+Dark
+Roma | Rome
+Naruto: Shippûden | Naruto Shippuden | Naruto
+Oz
+The Grand Tour
+
+[50]
+Invincible | Invencible
+The Shield: Al margen de la ley | The Shield
+Downton Abbey
+Fleabag
+Galáctica, estrella de combate | Battlestar Galactica | Galáctica
+Star Trek: La nueva generación | Star Trek: The Next Generation | Star Trek
+Mad Men
+Peep Show
+X-Men '97 | X-Men 97
+Still Game
+Samurái de ojos azules | Blue Eye Samurai
+Steel Ball Run: JoJo's Bizarre Adventure | Steel Ball Run
+Mahabharat
+Los Simpson | The Simpsons | Los Simpsons
+Justice League Unlimited | Liga de la Justicia Ilimitada
+House | Dr. House | House M.D.
+Las aventuras de Sherlock Holmes | The Adventures of Sherlock Holmes
+Code Geass: Lelouch of the Rebellion | Code Geass
+Espíritu de lucha | Hajime no Ippo
+Line of Duty
+Top Gear
+Ramayan
+El vecindario del Sr. Rogers | Mister Rogers' Neighborhood
+Friday Night Lights
+Arrested Development
+
+[60]
+Mr. Inbetween
+Hora de aventuras | Adventure Time
+Separación | Severance
+This Is Us
+La maravillosa Sra. Maisel | The Marvelous Mrs. Maisel | La maravillosa señora Maisel
+How to with John Wilson
+Padre Ted | Father Ted
+Behzat Ç.: An Ankara Policeman | Behzat Ç.
+Aspirants
+The Thick of It
+Dexter
+Expediente X | The X-Files | Los expedientes secretos X | Los Expedientes X
+Parks and Recreation
+1883
+Poirot | Agatha Christie's Poirot
+Sapne Vs Everyone
+Sarabhai vs Sarabhai
+Daredevil
+Deadwood
+The Crown
+Atlanta
+Mr. Bean
+Paloma Solitaria | Lonesome Dove
+Mindhunter
+Bron (El puente) | Bron | El puente | The Bridge
+
+[70]
+It's a Sin
+House of Cards
+Haikyu!! Los ases del vóley | Haikyu | Haikyuu
+Primal
+Oficina de infiltrados | Le Bureau des Légendes | The Bureau
+The Mandalorian | El mandaloriano
+Andor
+El Chavo del Ocho | El Chavo
+Crash Landing on You | Aterrizaje de emergencia en tu corazón
+Sí, ministro | Yes Minister
+El caballero de los Siete Reinos | A Knight of the Seven Kingdoms
+La oferta | The Offer
+Shōgun | Shogun
+II Guerra Mundial: Momentos clave | Segunda Guerra Mundial: Momentos clave | Greatest Events of WWII in Colour
+Pose
+El regreso de Sherlock Holmes | The Return of Sherlock Holmes
+Gomorra | Gomorrah
+One Punch Man
+The Newsroom
+The Jinx (El gafe) | The Jinx | El gafe
+El Pingüino | The Penguin
+Homicidio | Homicide: Life on the Street
+Anne with an E
+
+[80]
+Boardwalk Empire
+Critical Role
+Dopesick: Historia de una adicción | Dopesick
+Yeh Meri Family
+Archer
+Scavengers Reign
+Farouk Omar | Omar
+Misterio en el espacio | Mystery Science Theater 3000
+Stranger Things
+Bugs Bunny | The Bugs Bunny Show
+Justified: La ley de Raylan | Justified
+QI
+Endeavour
+Historias corrientes | Regular Show | Un show más
+Los hermanos Venture | The Venture Bros.
+Dragon Ball
+La Liga de la Justicia | Justice League | Liga de la Justicia
+Los ensayos | The Rehearsal
+Lo que hacemos en las sombras | What We Do in the Shadows
+Sí, primer ministro | Yes, Prime Minister
+Samurai Champloo
+La joven Liga de la Justicia | Young Justice | Justicia joven
+Más que rivales | Heated Rivalry
+
+[90]
+La maldición de Hill House | The Haunting of Hill House
+Guardianes de la noche: Kimetsu no Yaiba | Demon Slayer | Kimetsu no Yaiba
+Detectorists
+Rocket Boys
+Los informáticos | The IT Crowd
+Los Conchords | Flight of the Conchords
+Sol negro
+Mr. Robot
+Samurai Jack
+Derry Girls
+Happy Valley
+The Family Man
+Coupling
+Gambito de dama | Gambito de reina | The Queen's Gambit
+I'm Alan Partridge | Alan Partridge
+Mob Psycho 100
+Ezel
+Alquimia de Almas | Alchemy of Souls
+El mundo en moto con Ewan McGregor | Long Way Round
+Jujutsu Kaisen
+Todas las criaturas grandes y pequeñas | All Creatures Great and Small
+Making a Murderer
+Hijos de la anarquía | Sons of Anarchy
+Takopi's Original Sin | Takopi
+
+[100]
+Spaced
+Whose Line Is It Anyway?
+Gintama
+Agárralos como puedas | Impractical Jokers
+Neon Genesis Evangelion | Evangelion
+Your Lie in April | Shigatsu wa Kimi no Uso
+Sparkling Watermelon
+The Boys
+Secretos del universo con Morgan Freeman | Through the Wormhole
+Mind Your Language
+La amiga estupenda | My Brilliant Friend | Mi amiga estupenda
+Trailer Park Boys
+Louie
+Schitt's Creek
+The Great British Baking Show | The Great British Bake Off
+Yellowstone
+Los diarios de la boticaria | The Apothecary Diaries
+Brass Eye
+The Boondocks
+The Expanse
+Smiling Friends
+JoJo's Bizarre Adventure | JoJo
+¡Llama a la comadrona! | Llama a la comadrona | Call the Midwife
