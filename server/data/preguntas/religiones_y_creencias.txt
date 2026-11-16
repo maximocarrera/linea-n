@@ -1,0 +1,62 @@
+# Línea N · una pregunta por archivo. Después de editar: npm run db:import
+# Un nombre por renglón. Variantes con |
+# Niveles: [10] común · [30] poco común · [60] rara · [100] de nicho
+# Religiones, sistemas de creencias y filosofías religiosas del mundo.
+
+categoria: General
+consigna: Nombrá una religión o sistema de creencias
+activa: si
+apellidos: no
+
+[10]
+Cristianismo | Christianism
+Islam | Islamismo
+Judaísmo | Judaism
+Budismo | Buddhism
+Hinduismo | Hinduism
+Catolicismo | Catholicism
+Protestantismo | Protestantism
+
+[30]
+Sintoísmo | Shinto
+Taoísmo | Taoism
+Jainismo | Jainism
+Sijismo | Sikhism
+Bahá'í | Fe Bahá'í
+Confucianismo | Confucianism
+Ortodoxia | Cristianismo Ortodoxo
+Zoroastrismo | Zoroastrianism
+
+[60]
+Judaísmo Ortodoxo
+Mormonismo | Iglesia de Jesucristo de los Santos de los Últimos Días
+Testigos de Jehová | Jehovah's Witnesses
+Adventismo | Adventistas del Séptimo Día
+Pentecostalismo
+Anglicanismo | Iglesia Anglicana
+Presbiterianismo
+Metodismo
+Espiritismo
+Chamanismo | Shamanism
+
+[100]
+Yainismo
+Caodaísmo | Cao Dai
+Tenrikyo
+Asatru
+Wicca
+Neopaganismo | Paganism
+Pastafarianismo | Iglesia del Monstruo de Espagueti Volador
+Santería
+Candomblé
+Umbanda
+Animismo
+Jainismo
+Maniqueísmo
+Marcionismo
+Gnosticism | Gnosticismo
+Sunismo
+Chiísmos | Chiismo
+Drusos | Drusismo
+Yazidismo | Yazidism
+Rastafaris | Movimiento Rastafari

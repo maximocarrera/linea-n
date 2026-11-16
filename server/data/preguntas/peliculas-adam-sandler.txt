@@ -5,8 +5,7 @@
 
 categoria: Cine
 consigna: Nombrá una película de Adam Sandler
-imagen: adam-sandler.jpg
-credito: Wikimedia Commons
+imagen: https://commons.wikimedia.org/wiki/File:Adam_Sandler_2011_(Cropped).jpg
 activa: si
 apellidos: no
 

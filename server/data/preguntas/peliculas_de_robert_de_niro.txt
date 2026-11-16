@@ -1,0 +1,60 @@
+# Línea N · una pregunta por archivo. Después de editar: npm run db:import
+# Un nombre por renglón. Variantes con |
+# Niveles: [10] común · [30] poco común · [60] rara · [100] de nicho
+# Películas protagonizadas por Robert De Niro.
+
+categoria: Cine
+consigna: Nombrá una película de Robert De Niro
+activa: si
+apellidos: no
+imagen: https://commons.wikimedia.org/wiki/File:Robert_De_Niro_Shankbone_2010_NYC.jpg
+
+[10]
+El Padrino II | The Godfather Part II
+Taxi Driver
+Goodfellas | Buenos Muchachos
+El Irlandés | The Irishman
+Los Inocentes | Cape Fear | El Cabo del Miedo
+Analízame | Analyze This
+
+[30]
+Casino
+Toro Salvaje | Raging Bull
+Los Intocables | The Untouchables
+Fuego Contra Fuego | Heat
+El Padrino
+El Abogado del Diablo
+El Guasón | Joker
+Los Foke: Una Familia de Locos | Meet the Parents
+Los Foke: Los Fockers de Familia | Meet the Fockers
+
+[60]
+Érase una vez en América | Once Upon a Time in America
+El Francotirador | The Deer Hunter
+Despertares | Awakenings
+Cabo de Miedo
+Ronin
+La Cortina de Humo | Wag the Dog
+Sin Límites | Limitless
+Pasantes de Moda | The Intern
+Los Hermanos Sisters | The Sisters Brothers
+A Bronx Tale | Una Historia del Bronx
+
+[100]
+El Rey de la Comedia | The King of Comedy
+Cero en Conducta | Sleepers
+Tierra de Policías | Cop Land
+Stardust: El Misterio de la Estrella | Stardust
+Medianoche en el Granado | Midnight Run
+Machete
+Jackie Brown
+Silver Linings Playbook | Los Juegos del Destino
+Joy: El Nombre del Éxito | Joy
+El Lado Bueno de las Cosas
+Nueva York, Nueva York | New York, New York
+15 Minutos | 15 Minutes
+Mente Siniestra | Hide and Seek
+Luces rojas | Red Lights
+Manos de Piedra | Hands of Stone
+En la Mira | The Score
+The Comedian

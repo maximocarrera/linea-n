@@ -1,0 +1,56 @@
+# Línea N · una pregunta por archivo. Después de editar: npm run db:import
+# Un nombre por renglón. Variantes con |
+# Niveles: [10] común · [30] poco común · [60] rara · [100] de nicho
+# Películas protagonizadas por Jennifer Aniston.
+
+categoria: Cine
+consigna: Nombrá una película de Jennifer Aniston
+activa: si
+apellidos: no
+imagen: https://commons.wikimedia.org/wiki/File:JenniferAnistonHWoFFeb2012.jpg
+
+[10]
+Misterio a Bordo | Murder Mystery
+Misterio a la Vista | Murder Mystery 2
+Una Esposa de Mentira | Just Go with It
+Todopoderoso | Bruce Almighty
+Quiero Matar a Mi Jefe | Horrible Bosses
+Marley y Yo | Marley & Me
+
+[30]
+Mi Novia Polly | Along Came Polly
+Viviendo con mi Ex | The Break-Up
+Exposados | The Bounty Hunter
+¿Quién *&$! son los Miller? | We're the Millers
+Locura de Amor en Las Vegas | What Happens in Vegas
+Cake: La Razón de Vivir | Cake
+Dumplin'
+
+[60]
+Office Christmas Party | Fiesta de Navidad en la Oficina
+Un Trabajo Embarazoso | The Switch
+Dido y Aneas
+En Tus Zapatos | In Her Shoes
+Rock Star
+Picture Perfect | Novio por Deporte
+Ella es única | She's the One
+Amigos con Dinero | Friends with Money
+La Buena Girl | The Good Girl
+Rumor Has It... | Dicen por Ahí...
+
+[100]
+Office Space | Trabajos de Oficina
+The Object of My Affection | El Objeto de Mi Afecto
+Picture Perfect
+Ágora
+Managed by Love
+Camp Nowhere
+Director's Cut
+The Yellow Birds | Los Pájaros Amarillos
+Management | Un Amor Inesperado
+Wanderlust | Con la Licencia del Amor
+Love Happens | Amor sin Preaviso
+Horrible Bosses 2 | Quiero Matar a Mi Jefe 2
+Mother's Day | Día de las Madres
+The Iron Giant
+Life of Crime | Vida de Crimen

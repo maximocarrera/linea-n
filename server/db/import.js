@@ -85,6 +85,8 @@ for (const [file, parsed] of parsedFiles) {
     imageName = img.name;
     imageNote = img.note ?? null;
     if (imageName) usedImages.add(imageName);
+    // "credito:" escrito a mano manda; si no, el que trae Commons.
+    meta.imageCredit ||= img.credit ?? null;
     if (imageName && !meta.imageCredit) warnings.unshift('tiene foto pero no "credito:" (autor y licencia de la foto)');
   }
   const tiers = summarize(answers);
@@ -146,6 +148,11 @@ if (orphans.length && !filters.length) {
     if (!checkOnly) deactivate.run(q.id);
     console.log(`    #${q.id} ${q.prompt}  (${q.source})`);
   }
+}
+
+// Fotos viejas de web/ que ya no usa ninguna pregunta (solo con una corrida completa y sin errores).
+if (!checkOnly && !filters.length && !failed) {
+  for (const f of pruneImages(usedImages)) console.log(`\nFoto que ya no usa ninguna pregunta, borrada de imagenes/web: ${f}`);
 }
 
 console.log(`\n${ok} ok · ${failed} con errores${checkOnly ? ' · modo --check: no se escribió nada' : ` · base: ${DB_PATH}`}`);

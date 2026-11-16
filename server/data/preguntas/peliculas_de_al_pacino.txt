@@ -1,0 +1,62 @@
+# Línea N · una pregunta por archivo. Después de editar: npm run db:import
+# Un nombre por renglón. Variantes con |
+# Niveles: [10] común · [30] poco común · [60] rara · [100] de nicho
+# Películas protagonizadas por Al Pacino.
+
+categoria: Cine
+consigna: Nombrá una película de Al Pacino
+activa: si
+apellidos: no
+imagen: https://commons.wikimedia.org/wiki/File:ALPACINO_0320e_(30701742935).jpg
+
+[10]
+El Padrino | The Godfather
+El Padrino II | The Godfather Part II
+Scarface | El Precio del Poder
+Perfume de Mujer | Scent of a Woman
+Tarde de Perros | Dog Day Afternoon
+El Padrino III | The Godfather Part III
+
+[30]
+Heat: El Robo del Siglo | Heat
+Pulp Fiction
+Donnie Brasco
+El Abogado del Diablo | The Devil's Advocate
+Atrapado por su Pasado | Carlito's Way
+Insomnio | Insomnia
+El Irlandés | The Irishman
+Bastardos sin Gloria
+
+[60]
+Sérpico | Serpico
+Glengarry Glen Ross | Éxito a Cualquier Precio
+Justicia para Todos | ...And Justice for All
+Nació para Matar | Panic in Needle Park
+Dick Tracy
+El Dilema | The Insider
+El Mercader de Venecia | The Merchant of Venice
+Ocean's 8: Las Estafas | Ocean's 8
+House of Gucci
+Se Vale Soñar | Author! Author!
+
+[20]
+Manglehorn
+Danny Collins | El Camino a la Fama
+Pacto de Silencio | The Conspirator
+La Sombra del Testigo | Sea of Love
+Ángeles y Demonios | Two Bits
+El Precio de la Ambición | Glengarry Glen Ross
+Gigli
+Simora
+88 Minutos | 88 Minutes
+Asesinato Justo | Righteous Kill
+The Son of No One
+Hangman | El Juego del Ahorcado
+Piratas | Pirates
+American Buffalo
+The Local Stigmatic
+Looking for Richard | Buscando a Richard
+Chinese Coffee
+People I Know | Gente de Confianza
+The Recruit | La Prueba
+Simone | S1m0ne

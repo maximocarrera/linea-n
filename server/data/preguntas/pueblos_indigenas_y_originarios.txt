@@ -1,0 +1,87 @@
+# Línea N · una pregunta por archivo. Después de editar: npm run db:import
+# Un nombre por renglón. Variantes con |
+# Niveles: [10] común · [30] poco común · [60] rara · [100] de nicho
+# Pueblos indígenas, originarios y civilizaciones ancestrales del mundo.
+
+categoria: General
+consigna: Nombrá un pueblo indígena u originario
+activa: si
+apellidos: no
+
+[10]
+Mapuche | Mapuches
+Maya | Mayas
+Inca | Incas
+Azteca | Aztecas | Mexicas
+Guaraní | Guaraníes
+Quechua | Quechuas
+Aymara | Aymaras
+
+[30]
+Apache
+Navajo | Navajos
+Sioux | Lakota
+Cherokee
+Cheyenne
+Comanche
+Inuit | Esquimales
+Rapa Nui
+Tehuelche | Aonikenk
+Selk'nam | Onas
+
+[60]
+Quechua
+Guaraní
+Mapuche
+Wichí | Matacos
+Toba | Qom
+Mocoví
+Diaguitas
+Comechingones
+Sanavirones
+Huarpes
+Yámana | Yaganes
+Alacalufes | Kawésqar
+Charrúa | Charrúas
+Yanomami
+
+[100]
+Aztecas
+Mayas
+Incas
+Apache
+Navajo
+Cherokee
+Sioux
+Cheyenne
+Comanche
+Inuit
+Maorí | Maori
+Aborigenes Australianos | Aborigenes
+Zulú | Zulus
+Masái | Masai
+Innu
+Cree
+Ojibwe
+Iroquois | Iroqueses
+Hopi
+Zuni
+Pueblo Navajo
+Toltecas
+Zapotecas
+Mixtecas
+Olmecas
+Tolteca
+Chibcha | Muisca
+Zenu
+Quimbaya
+Wayuu
+Yanomami
+Bororo
+Kayapo
+Ticuna
+Shipibo-Conibo
+Ashaninka
+Mataco
+Guaycurú
+Charrúa

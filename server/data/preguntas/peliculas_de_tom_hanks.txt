@@ -1,0 +1,60 @@
+# Línea N · una pregunta por archivo. Después de editar: npm run db:import
+# Un nombre por renglón. Variantes con |
+# Niveles: [10] común · [30] poco común · [60] rara · [100] de nicho
+# Películas protagonizadas por Tom Hanks.
+
+categoria: Cine
+consigna: Nombrá una película de Tom Hanks
+activa: si
+apellidos: no
+imagen: https://commons.wikimedia.org/wiki/File:Tom_Hanks_face.jpg
+
+[10]
+Forrest Gump
+Náufrago | Cast Away
+Toy Story
+Toy Story 2
+Toy Story 3
+Toy Story 4
+El Código Da Vinci | The Da Vinci Code
+
+[30]
+Rescatando al Soldado Ryan | Saving Private Ryan
+Apollo 13
+Milagros Inesperados | The Green Mile
+Atrápame si puedes | Catch Me If You Can
+Sully: Hazaña en el Hudson | Sully
+Ángeles y Demonios | Angels & Demons
+Inferno
+Filadelfia | Philadelphia
+
+[60]
+Big: Quisiera Ser Grande | Big
+El Terminal | The Terminal
+Capitán Phillips | Captain Phillips
+El Puente de los Espías | Bridge of Spies
+The Post: Los Oscuros Secretos del Pentágono | The Post
+Un Amigo Desconocido | A Beautiful Day in the Neighborhood
+Elvis
+Greyhound: En la Mira del Enemigo | Greyhound
+Notting Hill
+Clueless
+
+[100]
+Splash
+Un Loco en la Casa | The Money Pit
+Socios y Sabuesos | Turner & Hooch
+Ellas dan el golpe | A League of Their Own
+Sintonía de Amor | Sleepless in Seattle
+Tienes Un E-Mail | You've Got Mail
+El Expreso Polar | The Polar Express
+La Guerra de Charlie Wilson | Charlie Wilson's War
+Cloud Atlas: La Red Invisible | Cloud Atlas
+Capitán Phillips
+Al Encuentro de Mr. Banks | Saving Mr. Banks
+Inferno
+Noticias del Gran Mundo | News of the World
+Pinocho | Pinocchio
+Un Vecino Gruñón | A Man Called Otto
+Elvis
+Finch

@@ -1,0 +1,58 @@
+# Línea N · una pregunta por archivo. Después de editar: npm run db:import
+# Un nombre por renglón. Variantes con |
+# Niveles: [10] común · [30] poco común · [60] rara · [100] de nicho
+# Películas protagonizadas por Brad Pitt.
+
+categoria: Cine
+consigna: Nombrá una película de Brad Pitt
+activa: si
+apellidos: no
+imagen: https://commons.wikimedia.org/wiki/File:Brad_Pitt_PF.jpg
+
+[10]
+El Club de la Pelea | Fight Club
+Troya | Troy
+Bastardos sin Gloria | Inglourious Basterds
+Érase una vez en Hollywood | Once Upon a Time in Hollywood
+Sr. y Sra. Smith | Mr. & Mrs. Smith
+Guerra Mundial Z | World War Z
+
+[30]
+Seven: Los Siete Pecados Capitales | Se7en
+Entrevista con el Vampiro | Interview with the Vampire
+Ocean's Eleven | La gran estafa
+Entrevista con el Vampiro
+Babylon
+Bullet Train: Tren Bala | Bullet Train
+Ad Astra: Hacia las Estrellas | Ad Astra
+Bastardos sin gloria
+
+[60]
+El Curioso Caso de Benjamin Button | The Curious Case of Benjamin Button
+Snatch: Cerdos y Diamantes | Snatch
+Quémese después de leerse | Burn After Reading
+Leyendas de Pasión | Legends of the Fall
+El Juego de la Fortuna | Moneyball
+La Gran Apuesta | The Big Short
+Corazones de Hierro | Fury
+Se7en
+The Mexican
+Enemigo Intimo | The Devil's Own
+
+[100]
+El Árbol de la Vida | The Tree of Life
+El Asesinato de Jesse James por el Cobarde Robert Ford | The Assassination of Jesse James by the Coward Robert Ford
+Babel
+Quince Años y un Día
+Johnny Suede
+Cool World | Mundo Cool
+Kalifornia
+Sleepers
+Siete Años en el Tíbet | Seven Years in Tibet
+The Favor
+Correr tras el Fuego | Running Scared
+Al Filo de la Mentira
+Amigos Íntimos | By the Sea
+Atrapado en el Tiempo
+Cuestión de Tiempo
+El Procurador
