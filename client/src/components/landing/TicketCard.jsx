@@ -31,14 +31,14 @@ export default function TicketCard({ name, setName, initialCode, onSolo, onCreat
             placeholder="Tu nombre"
             autoComplete="nickname"
             enterKeyHint="done"
-            aria-describedby="name-help"
+            aria-describedby={hasName ? 'name-help' : undefined}
             className="focus-ring mt-2 min-h-12 w-full border-2 border-rail bg-tunnel px-4 py-3 text-lg font-semibold outline-none transition-colors placeholder:text-mute/70 focus:border-signal"
           />
-          <p id="name-help" className="mt-2 text-sm text-mute">
-            {hasName
-              ? 'Así te van a ver en la sala.'
-              : 'Opcional: sin nombre entrás como Creador o Invitado, y lo cambiás en la sala.'}
-          </p>
+          {hasName && (
+            <p id="name-help" className="mt-2 text-sm text-mute">
+              Así te van a ver en la sala.
+            </p>
+          )}
         </div>
 
         <button
