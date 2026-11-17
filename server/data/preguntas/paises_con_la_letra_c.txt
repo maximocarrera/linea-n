@@ -1,0 +1,27 @@
+categoria: Mundo
+consigna: Nombrá países que empiecen con la letra C
+activa: si
+apellidos: no
+
+[10]
+Chile
+Colombia
+Cuba
+Canadá | Canada
+China
+
+[30]
+Costa Rica
+Croacia
+Camerún | Camerun
+Chipre
+
+[60]
+Congo | República del Congo | Republica del Congo
+Costa de Marfil
+Cabo Verde
+
+[100]
+Camboya
+Chad
+Comoras

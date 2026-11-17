@@ -1,0 +1,129 @@
+# Línea N · una pregunta por archivo. Después de editar: npm run db:import
+# Un nombre por renglón. Variantes con |
+# Los 100 artistas con más reproducciones de la historia en Spotify (kworb.net, copiado el 17/11/2026).
+# Puntos por puesto: 1-10 → 10 · 11-20 → 20 · ... · 91-100 → 100.
+
+categoria: Música
+consigna: Nombrá uno de los 100 artistas más escuchados de la historia en Spotify
+activa: si
+apellidos: no
+
+[10]
+Drake
+Taylor Swift
+Bad Bunny
+The Weeknd | Weeknd
+Justin Bieber | Bieber
+Ariana Grande
+Kanye West | Kanye | Ye
+Travis Scott
+Eminem
+Ed Sheeran
+
+[20]
+Rihanna
+Bruno Mars
+Billie Eilish
+Kendrick Lamar
+BTS
+Post Malone
+J Balvin
+Future
+Ozuna
+Coldplay
+
+[30]
+Juice WRLD | Juice World
+Chris Brown
+David Guetta
+Lana Del Rey
+Nicki Minaj
+Dua Lipa
+Daddy Yankee
+Anuel AA | Anuel
+Rauw Alejandro
+Lil Wayne
+
+[40]
+Imagine Dragons
+XXXTentacion
+SZA
+Karol G
+Arijit Singh
+21 Savage
+Lady Gaga
+Maroon 5
+Lil Baby
+Khalid
+
+[50]
+Beyoncé
+Maluma
+Feid
+Calvin Harris
+Linkin Park
+Myke Towers
+Peso Pluma
+Shakira
+J. Cole | J Cole
+Lil Uzi Vert
+
+[60]
+Morgan Wallen
+Sia
+Olivia Rodrigo
+Doja Cat
+Young Thug
+Pritam
+Harry Styles
+Farruko
+Shawn Mendes
+Fuerza Regida
+
+[70]
+Queen
+Katy Perry
+Sam Smith
+One Direction
+Metro Boomin
+Adele
+Arctic Monkeys
+Junior H
+Gunna
+Michael Jackson
+
+[80]
+Tyler, The Creator | Tyler the Creator
+Ty Dolla $ign | Ty Dolla Sign
+Selena Gomez
+Pitbull
+The Beatles | Beatles
+Playboi Carti
+Nicky Jam
+Halsey
+Sabrina Carpenter
+Wiz Khalifa
+
+[90]
+Frank Ocean
+Jay-Z | Jay Z
+Die drei ??? | Die drei Fragezeichen
+A$AP Rocky | ASAP Rocky
+Miley Cyrus
+The Chainsmokers | Chainsmokers
+Marshmello
+Disney
+Twenty One Pilots
+Arcángel
+
+[100]
+Cardi B
+Red Hot Chili Peppers | Los Red Hot | RHCP
+Camila Cabello
+$uicideboy$ | Suicideboys | Suicide Boys
+OneRepublic | One Republic
+Don Omar
+Romeo Santos
+Natanael Cano
+Don Toliver
+50 Cent

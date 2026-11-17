@@ -1,0 +1,21 @@
+categoria: Mundo
+consigna: Nombrá países que empiecen con la letra I
+activa: si
+apellidos: no
+
+[10]
+Italia
+India
+Irán | Iran
+Irak | Iraq
+
+[30]
+Irlanda
+Islandia
+Israel
+Indonesia
+
+[60]
+Islas Marshall
+Islas Salomón | Islas Salomon
+Islas Caimán | Islas Caiman
