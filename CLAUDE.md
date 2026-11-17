@@ -47,4 +47,6 @@ Persiana americana
 
 **Después de cada archivo:** `npm run db:borradores` y corregir todo lo marcado con ✖. Los avisos ⚠ de apellidos compartidos son normales.
 
+**Comandos (importante, la tarea corre sin supervisión):** correr `npm run db:borradores` exactamente así, solo, desde la raíz del proyecto: sin `cd … &&`, sin `2>&1`, sin `| tail`, `| head`, `| grep` ni nada encadenado. Cada parte encadenada pide permiso aparte y frena la tarea. Para leer o buscar en archivos usar las herramientas Read/Grep/Glob, no comandos de consola.
+
 **Al final (o cada 10 preguntas):** actualizar `server/data/preguntas-borrador/REVISAR.md` con una línea por pregunta: archivo, consigna, cantidad de respuestas y dudas concretas ("no estoy seguro de que X sea argentino").
