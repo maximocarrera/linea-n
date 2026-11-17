@@ -1,0 +1,65 @@
+# Cortes, achuras y acompañamientos que se tiran a la parrilla en un asado argentino.
+# Vale carne vacuna, de cerdo, pollo, achuras y verduras a la parrilla. No valen salsas (chimichurri) ni pan.
+
+categoria: Comida
+consigna: Nombrá algo que se tira a la parrilla en un asado
+activa: si
+apellidos: no
+
+[10]
+Chorizo | Chori
+Morcilla
+Vacío | Vacio
+Asado | Tira de asado | Costilla
+Matambre
+Entraña
+Chinchulines | Chinchulín | Chinchulin
+Mollejas | Molleja
+Provoleta | Provolone
+Bife de chorizo
+
+[30]
+Riñones | Riñón | Riñon
+Ojo de bife
+Colita de cuadril
+Lomo
+Pollo
+Bondiola
+Matambre de cerdo
+Pechito de cerdo
+Morrón | Morrones | Morron
+Berenjena | Berenjenas
+Choclo | Choclos
+Salchicha parrillera | Salchicha
+Picaña | Picanha | Tapa de cuadril
+Falda
+Tapa de asado
+Cordero
+Lechón | Lechon
+Chivito
+
+[60]
+Corazón | Corazon
+Ubre
+Tripa gorda
+Papa | Papas
+Batata | Batatas
+Cebolla | Cebollas
+Zapallo | Calabaza
+Hongos | Champiñones
+Pamplona | Pamplonas
+Brochette | Brochettes
+Bife ancho
+Bife angosto
+Costillas de cerdo | Costilla de cerdo
+Matambrito | Matambrito de cerdo
+Ala de pollo | Alitas
+
+[100]
+Arañita | Arañitas
+Entraña fina
+Criadillas
+Marucha
+Tortuguita
+Tapa de nalga
+Palomita

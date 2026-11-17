@@ -1,0 +1,56 @@
+# Estadios de clubes del fútbol argentino (Primera y ascenso) y estadios mundialistas/provinciales.
+# Vale el nombre oficial o el apodo. Cada estadio una sola vez, con sus nombres como variantes.
+
+categoria: Fútbol
+consigna: Nombrá un estadio del fútbol argentino (nombre oficial o apodo)
+activa: si
+apellidos: no
+
+[10]
+La Bombonera | Bombonera | Alberto J. Armando | Alberto José Armando
+El Monumental | Monumental de Núñez | Más Monumental | Mas Monumental | Antonio Vespucio Liberti
+El Cilindro | Cilindro de Avellaneda | Presidente Perón | Juan Domingo Perón
+Libertadores de América | Libertadores de America | Ricardo Enrique Bochini | Estadio de Independiente
+Nuevo Gasómetro | Nuevo Gasometro | Pedro Bidegain | Gasómetro
+Mario Alberto Kempes | Kempes | Chateau Carreras
+Gigante de Arroyito | Lisandro de la Torre
+Marcelo Bielsa | Coloso del Parque | El Coloso
+Estadio Único de La Plata | Estadio Único | Único de La Plata | Ciudad de La Plata
+
+[30]
+José Amalfitani | Jose Amalfitani | El Fortín | Fortín de Liniers
+Tomás Adolfo Ducó | Tomas Adolfo Duco | Palacio Ducó | El Palacio
+Diego Armando Maradona | Estadio de Argentinos Juniors
+La Fortaleza | Néstor Díaz Pérez | Ciudad de Lanús
+Florencio Sola
+Jorge Luis Hirschi | Estadio UNO
+Juan Carmelo Zerillo | El Bosque
+José María Minella | Jose Maria Minella | Minella | Mundialista de Mar del Plata
+Malvinas Argentinas
+Julio César Villagra | Julio Cesar Villagra | Gigante de Alberdi
+Brigadier López | Brigadier Lopez | Cementerio de los Elefantes
+15 de Abril | Quince de Abril
+Monumental José Fierro | José Fierro | Jose Fierro
+La Ciudadela
+Madre de Ciudades
+
+[60]
+Julio Humberto Grondona | El Viaducto
+Norberto Tomaghello
+Ciudad de Vicente López | Ciudad de Vicente Lopez
+José Dellagiovanna | Jose Dellagiovanna
+Eva Perón
+Monumental de Alta Córdoba | Alta Córdoba | Alta Cordoba
+Bautista Gargantini
+Padre Ernesto Martearena | Martearena
+Bicentenario de San Juan | San Juan del Bicentenario
+Claudio Chiqui Tapia | Chiqui Tapia
+Centenario | Estadio Centenario de Quilmes
+Islas Malvinas
+Arquitecto Ricardo Etcheverri | Ricardo Etcheverri | Templo de Madera
+
+[100]
+Don León Kolbowski | Leon Kolbowski
+República de Mataderos | Republica de Mataderos
+Guillermo Laza
+Feliciano Gambarte

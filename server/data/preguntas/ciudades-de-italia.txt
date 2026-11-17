@@ -1,0 +1,84 @@
+# Ciudades (comunes) de Italia. Vale el nombre en castellano o en italiano.
+# Sin regiones ni islas (Sicilia, Cerdeña, Toscana) ni zonas (Cinque Terre, Costa Amalfitana).
+
+categoria: Mundo
+consigna: Nombrá una ciudad de Italia
+activa: si
+apellidos: no
+
+[10]
+Roma
+Milán | Milan | Milano
+Venecia | Venezia
+Florencia | Firenze
+Nápoles | Napoles | Napoli
+Turín | Turin | Torino
+Pisa
+Verona
+Bolonia | Bologna
+Génova | Genova
+Palermo
+
+[30]
+Bari
+Siena
+Trieste
+Catania
+Parma
+Módena | Modena
+Como
+Bérgamo | Bergamo
+Pompeya | Pompei | Pompeii
+Amalfi
+Sorrento
+Capri
+Positano
+Lucca
+Padua | Padova
+Perugia
+Asís | Asis | Assisi
+Cagliari
+Salerno
+Rímini | Rimini
+San Remo | Sanremo
+Taormina
+Messina
+Siracusa
+Livorno
+Portofino
+Reggio Calabria
+
+[60]
+Brescia
+Vicenza
+Ravenna
+Ancona
+Udine
+Lecce
+Cremona
+La Spezia
+Matera
+Trento
+Bolzano
+Pescara
+Ferrara
+Mantua | Mantova
+Pavía | Pavia
+Treviso
+Piacenza
+Reggio Emilia
+Arezzo
+San Gimignano
+Foggia
+Cosenza
+Catanzaro
+
+[100]
+Potenza
+L'Aquila | Laquila | La Aquila
+Campobasso
+Aosta
+Benevento
+Frosinone
+Sassari
+Trapani

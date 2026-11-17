@@ -1,0 +1,100 @@
+# Series de dibujos animados de TV y streaming (no películas, no anime japonés).
+# Título como se conoce en Argentina | original.
+
+categoria: Televisión
+consigna: Nombrá una serie de dibujos animados (sin anime)
+activa: si
+apellidos: no
+
+[10]
+Los Simpson | The Simpsons
+Bob Esponja | SpongeBob
+Padre de familia | Family Guy
+Futurama
+Los Picapiedra | The Flintstones
+Tom y Jerry | Tom and Jerry
+Scooby-Doo | Scooby Doo
+Las Chicas Superpoderosas | The Powerpuff Girls
+Hora de aventura | Adventure Time
+Phineas y Ferb | Phineas and Ferb
+Peppa Pig | Pepa Pig
+Rick y Morty | Rick and Morty
+
+[30]
+South Park
+Los Supersónicos | Los Supersonicos | The Jetsons
+Dora la exploradora | Dora
+El laboratorio de Dexter | Dexter's Laboratory
+Coraje, el perro cobarde | Coraje el perro cobarde | Courage the Cowardly Dog
+Los Padrinos Mágicos | Los Padrinos Magicos | The Fairly OddParents
+Ben 10 | Ben diez
+Hey Arnold! | Hey Arnold | Oye Arnold
+Rugrats | Aventuras en pañales
+Johnny Bravo
+Ed, Edd y Eddy | Ed Edd y Eddy | Ed, Edd n Eddy
+Gravity Falls
+Un show más | Un show mas | Regular Show
+Steven Universe
+Bluey
+Paw Patrol | Paw Patrol: Patrulla de cachorros | La Patrulla Canina
+El increíble mundo de Gumball | Gumball
+Los Pitufos | The Smurfs
+El Pájaro Loco | El Pajaro Loco | Woody Woodpecker
+La Pantera Rosa | Pantera Rosa | The Pink Panther
+Popeye
+Looney Tunes
+Pinky y Cerebro | Pinky and the Brain
+Animaniacs
+American Dad
+Bojack Horseman
+Avatar: la leyenda de Aang | Avatar
+Las Tortugas Ninja | Tortugas Ninja | Teenage Mutant Ninja Turtles
+He-Man | He-Man y los Amos del Universo
+Thundercats | Los Thundercats
+Los Jóvenes Titanes | Jóvenes Titanes | Teen Titans
+Jimmy Neutrón | Jimmy Neutron
+Kim Possible
+Doug
+La vaca y el pollito | Vaca y Pollito | Cow and Chicken
+Pocoyó | Pocoyo
+Hijitus
+Zamba | La asombrosa excursión de Zamba
+Arcane
+
+[60]
+Los Thornberrys | The Wild Thornberrys
+Danny Phantom
+CatDog | Gatoperro
+La vida moderna de Rocko | Rocko
+Daria
+El rey de la colina | King of the Hill
+Los Autos Locos | Autos Locos | Wacky Races
+Don Gato y su pandilla | Don Gato
+Inspector Gadget
+Garfield y sus amigos | Garfield
+Batman: la serie animada | Batman la serie animada
+X-Men: la serie animada | X-Men
+Invencible | Invincible
+Big Mouth
+Bob's Burgers | Bobs Burgers
+Archer
+(Des)encanto | Desencanto | Disenchantment
+Los Backyardigans | Backyardigans
+Bob el constructor | Bob the Builder
+Caillou
+Mafalda
+Anteojito
+Las aventuras de Winnie Pooh | Winnie Pooh
+Soy la comadreja | I Am Weasel
+Mucha Lucha | ¡Mucha Lucha!
+Clarence
+
+[100]
+Ahhh!!! Monstruos | Aaahh!!! Real Monsters
+Dos perros tontos | 2 Stupid Dogs
+El show de Ren y Stimpy | Ren y Stimpy
+Los castores cascarrabias | The Angry Beavers
+Foster, la casa de los amigos imaginarios | Foster
+Billy y Mandy | Las macabras aventuras de Billy y Mandy
+Samurai Jack
+Chowder

@@ -1,0 +1,76 @@
+# Personajes de la serie Friends (1994-2004): los seis protagonistas y personajes recurrentes.
+# Vale el nombre de pila (así se los conoce) o el nombre completo.
+
+categoria: Televisión
+consigna: Nombrá un personaje de la serie Friends
+activa: si
+apellidos: no
+
+[10]
+Rachel | Rachel Green
+Ross | Ross Geller
+Monica | Mónica | Monica Geller
+Chandler | Chandler Bing
+Joey | Joey Tribbiani
+Phoebe | Phoebe Buffay
+
+[30]
+Gunther
+Janice | Janice Litman
+Mike | Mike Hannigan
+Emily | Emily Waltham
+Richard | Richard Burke
+Carol | Carol Willick
+Susan | Susan Bunch
+Ben | Ben Geller
+Emma | Emma Geller-Green | Emma Geller
+Ursula | Úrsula | Ursula Buffay
+Marcel | Marcel el mono
+Jack Geller
+Judy Geller
+Janine | Janine Lecroix
+Julie
+Tag | Tag Jensen
+Paolo
+Charlie | Charlie Wheeler
+Mona
+Drake Ramoray | Dr. Drake Ramoray
+Barry | Barry Farber
+Frank Jr. | Frank Buffay Jr. | Frank Junior
+Estelle | Estelle Leonard
+Amy | Amy Green
+Will | Will Colbert
+
+[60]
+Mindy
+Kathy
+Pete | Pete Becker
+David | David el científico
+Gary
+Elizabeth | Elizabeth Stevens
+Jill | Jill Green
+Nora Bing
+Charles Bing | Helena Handbasket
+Leonard Green | Dr. Green
+Sandra Green
+Alice | Alice Knight
+Eddie | Eddie Menuek
+Joshua | Joshua Burgin
+Heckles | Mr. Heckles | Señor Heckles
+Treeger | Mr. Treeger | Señor Treeger
+Ugly Naked Guy | El tipo desnudo | Feo desnudo
+Fun Bobby
+Erica
+Joanna
+Gavin | Gavin Mitchell
+Chick | Pollito | La gallina
+Duck | Pato | El pato
+
+[100]
+Hugsy
+Frank Buffay | Frank Buffay padre
+Phoebe Abbott
+Lily Buffay
+Gloria Tribbiani
+Kip
+Stephanie

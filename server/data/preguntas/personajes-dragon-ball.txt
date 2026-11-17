@@ -1,0 +1,103 @@
+# Personajes de Dragon Ball, Dragon Ball Z, GT y Super (series y películas).
+# Variantes con los nombres del doblaje latino (Krilin, Picoro, Freezer, Milk, Kaiosama).
+
+categoria: Televisión
+consigna: Nombrá un personaje de Dragon Ball
+activa: si
+apellidos: no
+
+[10]
+Goku | Son Goku | Kakaroto | Kakarotto
+Vegeta
+Gohan | Son Gohan
+Piccolo | Picoro | Pícoro
+Krilin | Krillin
+Bulma
+Freezer | Frieza
+Cell
+Majin Boo | Majin Buu | Boo | Buu
+Trunks
+Goten | Son Goten
+Mr. Satán | Mister Satán | Mr. Satan | Hercule
+Shenlong | Shenron
+
+[30]
+Yamcha
+Ten Shin Han | Tenshinhan | Tien
+Chaoz | Chaos | Chiaotzu
+Maestro Roshi | Duende Tortuga | Kame Sennin
+Milk | Chi-Chi | Chichi
+Androide 18 | Número 18 | Numero 18 | C-18
+Androide 17 | Número 17 | Numero 17 | C-17
+Androide 16 | Número 16 | Numero 16
+Bardock
+Broly
+Raditz
+Nappa
+Videl
+Oolong
+Puar
+Yajirobe
+Kaiosama | Kaio Sama | Rey Kai | Kaio
+Dende
+Kamisama | Kami Sama | Kami
+Mr. Popo | Míster Popo
+Bills | Beerus
+Whis
+Pan
+Gotenks
+Vegito | Vegetto
+Gogeta
+Uub | Oob
+Zamasu
+Jiren
+Goku Black | Black Goku
+
+[60]
+Lunch
+Capitán Ginyu | Ginyu | Capitan Ginyu
+Zarbon
+Dodoria
+Rey Cold
+Cooler
+Babidi
+Dabura
+Supremo Kaio | Kaio Shin | Kaioshin
+Kibito
+Androide 19 | Número 19
+Dr. Gero | Doctor Gero | Dr. Maki Gero
+Recoome
+Burter
+Jeice
+Guldo
+Nail
+Garlic Jr. | Garlic Junior
+Turles
+Janemba
+Hit
+Champa
+Vados
+Zeno | Zen-Oh | Zeno Sama
+Bra
+Baby
+Pilaf | Emperador Pilaf
+Mai
+Shu
+Tao Pai Pai
+Piccolo Daimaoh | Rey Piccolo | Rey Picoro
+Maestro Karin | Karin
+Uranai Baba | Bruja Baba
+Maestro Grulla | Ermitaño Grulla
+
+[100]
+Caulifla
+Kale
+Toppo
+Moro
+Granola
+Bacterian
+Nam
+Upa
+Bora
+Giran
+Arale

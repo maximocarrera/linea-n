@@ -1,0 +1,77 @@
+# Personajes de los videojuegos de Super Mario (plataformas, Mario Kart, Mario Party, Paper Mario/RPG) y de la película.
+# Variantes con los nombres de la versión en español de España (Estela, Bowsy, Floruga, Bill Bala...).
+
+categoria: Videojuegos
+consigna: Nombrá un personaje de los juegos de Super Mario
+activa: si
+apellidos: no
+
+[10]
+Mario
+Luigi
+Peach | Princesa Peach
+Bowser
+Yoshi
+Toad
+Donkey Kong
+Wario
+Daisy | Princesa Daisy
+
+[30]
+Waluigi
+Rosalina | Estela
+Bowser Jr. | Bowser Junior | Bowsy
+Toadette
+Koopa Troopa | Koopa
+Goomba
+Boo
+Shy Guy
+Lakitu
+Birdo
+Diddy Kong
+Kamek
+Hermano Martillo | Hammer Bro
+Chain Chomp | Chomp Cadenas
+Planta Piraña | Piranha Plant | Planta Pirana
+Bill Bala | Bullet Bill
+Huesitos | Dry Bones
+Rey Boo | King Boo
+Cappy
+Pauline
+Capitán Toad | Captain Toad | Capitan Toad
+Bob-omb | Bob omb | Bob-ómb
+Cheep Cheep
+
+[60]
+Toadsworth | Toad Anciano
+Cranky Kong
+Funky Kong
+Blooper
+Thwomp
+Floruga | Wiggler
+Topo Monty | Monty Mole
+Plantón Piraña | Petey Piranha | Planton Pirana
+Nabbit
+Profesor Fesor | Profesor E. Gadd | E. Gadd
+Boom Boom
+Pom Pom
+Spiny | Pinchón
+Kammy Koopa
+Bowser Seco | Dry Bowser
+Geno
+Mallow
+Larry Koopa | Larry
+Morton Koopa | Morton
+Wendy O. Koopa | Wendy Koopa
+Iggy Koopa | Iggy
+Roy Koopa
+Lemmy Koopa | Lemmy
+Ludwig von Koopa | Ludwig
+
+[100]
+Fawful
+Poochy
+Lubba
+Tatanga
+Foreman Spike
+Goombella

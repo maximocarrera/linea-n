@@ -1,0 +1,82 @@
+# Dinosaurios y reptiles prehistóricos (incluye pterosaurios y reptiles marinos como pterodáctilo o mosasaurio).
+# Bloque grande de dinosaurios hallados en Argentina. Sin criaturas de ficción (Indominus Rex).
+
+categoria: Animales
+consigna: Nombrá un dinosaurio o reptil prehistórico
+activa: si
+apellidos: no
+
+[10]
+Tiranosaurio Rex | Tiranosaurio | T-Rex | T Rex | Tyrannosaurus Rex | Tyrannosaurus
+Velociraptor | Raptor
+Triceratops | Tricerátops
+Estegosaurio | Stegosaurus | Estegosaurus
+Braquiosaurio | Brachiosaurus | Braquiosaurus
+Diplodocus | Diplodoco
+Pterodáctilo | Pterodactilo | Pterodactyl | Pterodactylus
+Espinosaurio | Spinosaurus
+Anquilosaurio | Ankylosaurus | Anquilosaurus
+Argentinosaurus | Argentinosaurio
+Giganotosaurus | Giganotosaurio
+Iguanodonte | Iguanodon
+
+[30]
+Parasaurolophus | Parasaurolofus | Parasaurolofo
+Paquicefalosaurio | Pachycephalosaurus
+Alosaurio | Allosaurus | Alosaurus
+Carnotaurus | Carnotauro
+Apatosaurio | Apatosaurus
+Brontosaurio | Brontosaurus
+Dilofosaurio | Dilophosaurus
+Gallimimus
+Compsognathus | Compsognato
+Mosasaurio | Mosasaurus
+Plesiosaurio | Plesiosaurus
+Pteranodon | Pteranodonte
+Ictiosaurio | Ichthyosaurus
+Arqueoptérix | Archaeopteryx | Arqueopterix
+Oviraptor
+Deinonychus | Deinonico
+Baryonyx | Barionix
+Megalosaurio | Megalosaurus
+Herrerasaurus | Herrerasaurio
+Patagotitan
+Therizinosaurus | Terizinosaurio
+Quetzalcoatlus
+Dimetrodon | Dimetrodonte
+Estiracosaurio | Styracosaurus
+Protoceratops
+
+[60]
+Eoraptor
+Amargasaurus | Amargasaurio
+Mapusaurus | Mapusaurio
+Megaraptor
+Abelisaurus | Abelisaurio
+Saltasaurus | Saltasaurio
+Riojasaurus | Riojasaurio
+Utahraptor
+Edmontosaurus | Edmontosaurio
+Corythosaurus | Coritosaurio
+Maiasaura
+Microraptor
+Troodon
+Carcharodontosaurus | Carcarodontosaurio
+Albertosaurus | Albertosaurio
+Elasmosaurio | Elasmosaurus
+Liopleurodon
+Dreadnoughtus
+
+[100]
+Piatnitzkysaurus
+Pisanosaurus
+Austroraptor
+Buitreraptor
+Unenlagia
+Puertasaurus
+Futalognkosaurus
+Gualicho
+Bajadasaurus
+Neuquensaurus
+Skorpiovenator
+Panphagia

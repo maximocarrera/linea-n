@@ -1,0 +1,62 @@
+# Películas animadas de DreamWorks Animation (1998-2024), con el título en Latinoamérica como forma principal.
+# Incluye las coproducciones con Aardman (Pollitos en fuga, Lo que el agua se llevó). Sin live-action ni cortos.
+
+categoria: Cine
+consigna: Nombrá una película animada de DreamWorks
+activa: si
+apellidos: no
+
+[10]
+Shrek
+Shrek 2 | Shrek dos
+Madagascar
+Kung Fu Panda
+Cómo entrenar a tu dragón | Como entrenar a tu dragon | How to Train Your Dragon
+El gato con botas | Puss in Boots
+Megamente | Megamind
+Bee Movie | Bee Movie: la historia de una abeja
+Spirit: el corcel indomable | Spirit
+Los Croods | The Croods
+Trolls
+Un jefe en pañales | Un jefe en panales | The Boss Baby | El bebé jefazo
+
+[30]
+Shrek tercero | Shrek 3 | Shrek tres
+Shrek para siempre | Shrek 4 | Shrek cuatro
+Madagascar 2 | Madagascar 2: Escape de África | Madagascar dos
+Madagascar 3 | Madagascar 3: Los fugitivos | Madagascar tres
+Kung Fu Panda 2 | Kung Fu Panda dos
+Kung Fu Panda 3 | Kung Fu Panda tres
+Kung Fu Panda 4 | Kung Fu Panda cuatro
+Cómo entrenar a tu dragón 2 | Como entrenar a tu dragon 2
+Cómo entrenar a tu dragón 3 | Cómo entrenar a tu dragón 3: El mundo oculto | Como entrenar a tu dragon 3
+El espantatiburones | El espanta tiburones | Shark Tale
+El príncipe de Egipto | El principe de Egipto | The Prince of Egypt
+Vecinos invasores | Over the Hedge
+Monstruos vs. Aliens | Monstruos vs Aliens | Monsters vs. Aliens
+Los pingüinos de Madagascar | Los pinguinos de Madagascar | Penguins of Madagascar
+Pollitos en fuga | Chicken Run | Evasión en la granja
+Lo que el agua se llevó | Lo que el agua se llevo | Flushed Away | Ratónpolis
+Hormiguitaz | Antz | Hormigaz
+El gato con botas: el último deseo | El gato con botas 2 | Puss in Boots: The Last Wish
+Los tipos malos | The Bad Guys
+Robot salvaje | The Wild Robot
+Trolls 2 | Trolls 2: Gira mundial | Trolls World Tour
+Los Croods 2 | Los Croods: una nueva era
+
+[60]
+El camino hacia El Dorado | El camino hacia el Dorado | La ruta hacia El Dorado | The Road to El Dorado
+El origen de los guardianes | Rise of the Guardians
+Turbo
+Home: no hay lugar como el hogar | Home
+Las aventuras de Peabody y Sherman | Mr. Peabody y Sherman | Mr. Peabody & Sherman
+Pie Pequeño | Pie pequeno | Smallfoot
+Abominable
+Capitán Calzoncillos | Capitan Calzoncillos | Las aventuras del Capitán Calzoncillos
+Trolls 3 | Trolls 3: Se armó la banda | Trolls Band Together
+Ruby, aventuras de una kraken adolescente | Ruby Gillman
+
+[100]
+Simbad: la leyenda de los siete mares | Simbad | Sinbad
+Wallace y Gromit: la batalla de los vegetales | Wallace y Gromit
+Spirit: el indomable | Spirit Untamed

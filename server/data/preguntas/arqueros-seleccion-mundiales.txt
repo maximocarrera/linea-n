@@ -1,0 +1,50 @@
+# Arqueros convocados por la Selección Argentina a un Mundial, de 1958 a 2022 (listas oficiales).
+# 1974: Carnevali, Santoro, Fillol · 1978: Fillol, Baley, La Volpe · 1982: Fillol, Baley, Pumpido
+# 1986: Pumpido, Islas, Zelada · 1990: Pumpido, Goycochea, Cancelarich · 1994: Islas, Goycochea, Scoponi
+# 1998: Roa, Burgos, Cavallero · 2002: Cavallero, Burgos, Bonano · 2006: Abbondanzieri, Franco, Ustari
+# 2010: Romero, Pozo, Andújar · 2014: Romero, Andújar, Orión · 2018: Caballero, Armani, Guzmán · 2022: Martínez, Armani, Rulli
+# 1958: Amadeo Carrizo · 1966: Roma, Gatti, Irusta. No incluye 2026.
+
+categoria: Fútbol
+consigna: Nombrá un arquero que haya ido a un Mundial con la Selección Argentina (hasta 2022)
+activa: si
+apellidos: si
+
+[10]
+Emiliano Martínez | Dibu Martínez | Dibu | Emiliano Martinez
+Ubaldo Fillol | Pato Fillol
+Sergio Goycochea | Goyco
+Nery Pumpido
+Sergio Romero | Chiquito Romero
+Roberto Abbondanzieri | Pato Abbondanzieri
+Germán Burgos | Mono Burgos | German Burgos
+Carlos Roa
+
+[30]
+Franco Armani
+Willy Caballero | Wilfredo Caballero
+Gerónimo Rulli | Geronimo Rulli
+Luis Islas
+Pablo Cavallero
+Mariano Andújar | Mariano Andujar
+Leo Franco | Leonardo Franco
+Agustín Orión | Agustin Orion
+Nahuel Guzmán | Patón Guzmán | Nahuel Guzman
+Hugo Gatti | Loco Gatti
+Amadeo Carrizo
+Ricardo La Volpe
+
+[60]
+Óscar Ustari | Oscar Ustari
+Roberto Bonano
+Héctor Baley | Hector Baley
+Diego Pozo
+Héctor Zelada | Hector Zelada
+Fabián Cancelarich | Fabian Cancelarich
+Norberto Scoponi
+Daniel Carnevali
+Miguel Ángel Santoro | Miguel Angel Santoro
+Antonio Roma | Tarzán Roma
+
+[100]
+Rolando Irusta

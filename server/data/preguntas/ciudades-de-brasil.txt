@@ -1,0 +1,77 @@
+# Ciudades (municipios) de Brasil. Prioriza las que conoce el turista argentino.
+# No se incluyen playas o pueblos que no son municipio (Jericoacoara, Porto de Galinhas, Morro de São Paulo, Praia do Rosa).
+
+categoria: Mundo
+consigna: Nombrá una ciudad de Brasil
+activa: si
+apellidos: no
+
+[10]
+Río de Janeiro | Rio de Janeiro | Río | Rio
+San Pablo | São Paulo | Sao Paulo
+Florianópolis | Florianopolis | Floripa
+Brasilia | Brasília
+Salvador | Salvador de Bahía | Salvador de Bahia
+Búzios | Buzios | Armação dos Búzios
+Camboriú | Balneario Camboriú | Camboriu | Balneário Camboriú
+Porto Alegre
+
+[30]
+Belo Horizonte
+Curitiba
+Recife
+Fortaleza
+Manaos | Manaus
+Natal
+Porto Seguro
+Foz do Iguaçu | Foz de Iguazú | Foz do Iguacu | Foz
+Maceió | Maceio
+Belém | Belem
+Paraty | Parati
+Angra dos Reis
+Arraial do Cabo
+Cabo Frío | Cabo Frio
+Bombinhas
+Garopaba
+Itajaí | Itajai
+Gramado
+Santos
+Niterói | Niteroi
+Ouro Preto
+Blumenau
+Joinville
+
+[60]
+João Pessoa | Joao Pessoa
+Aracaju
+Vitória | Vitoria
+Goiânia | Goiania
+Campinas
+Canela
+Uruguaiana
+Pelotas
+Petrópolis | Petropolis
+Guarujá | Guaruja
+Ubatuba
+Itacaré | Itacare
+Ilhéus | Ilheus
+São Luís | Sao Luis
+Cuiabá | Cuiaba
+Campo Grande
+Torres
+Laguna
+Penha
+Porto Belo
+
+[100]
+Teresina
+Palmas
+Boa Vista
+Macapá | Macapa
+Rio Branco
+Porto Velho
+Feira de Santana
+Ribeirão Preto | Ribeirao Preto
+Juiz de Fora
+Londrina
+Maringá | Maringa

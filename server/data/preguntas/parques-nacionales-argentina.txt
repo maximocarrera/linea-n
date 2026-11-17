@@ -1,0 +1,50 @@
+# Parques nacionales de Argentina (Administración de Parques Nacionales). Solo los que tienen categoría
+# de parque nacional: no valen Ischigualasto ni Aconcagua (son provinciales) ni monumentos o reservas naturales.
+
+categoria: Naturaleza
+consigna: Nombrá un parque nacional de Argentina
+activa: si
+apellidos: no
+
+[10]
+Nahuel Huapi
+Iguazú | Iguazu | Parque Nacional Iguazú
+Los Glaciares
+Tierra del Fuego
+Lanín | Lanin
+Los Alerces
+Talampaya
+
+[30]
+El Palmar
+Quebrada del Condorito
+Sierra de las Quijadas
+El Leoncito
+Lihué Calel | Lihue Calel
+Los Arrayanes
+Calilegua
+Los Cardones
+Iberá | Ibera | Esteros del Iberá
+Monte León | Monte Leon
+Perito Moreno
+Bosques Petrificados | Bosques Petrificados de Jaramillo
+Lago Puelo
+El Impenetrable
+El Rey
+
+[60]
+Laguna Blanca
+Chaco
+Río Pilcomayo | Rio Pilcomayo
+Mburucuyá | Mburucuya
+Campos del Tuyú | Campos del Tuyu
+Predelta
+Traslasierra
+Aconquija | Campo de los Alisos
+Baritú | Baritu
+Copo
+Islas de Santa Fe
+Ciervo de los Pantanos
+Patagonia
+San Guillermo
+Ansenuza

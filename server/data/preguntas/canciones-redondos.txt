@@ -1,0 +1,74 @@
+# Canciones de Patricio Rey y sus Redonditos de Ricota (1985-2000, discos de estudio y Lobo suelto/Cordero atado).
+# No valen las canciones del Indio Solari solista ni de Skay.
+
+categoria: Música
+consigna: Nombrá una canción de Los Redondos
+activa: si
+apellidos: no
+
+[10]
+Ji ji ji | Jijiji | Ji Ji Ji
+Un poco de amor francés | Un poco de amor frances
+Mi perro dinamita
+Juguetes perdidos
+Todo un palo
+Vencedores vencidos
+Ella debe estar tan linda
+Esa estrella era mi lujo
+Héroe del whisky | Heroe del whisky
+Mariposa Pontiac
+La bestia pop
+
+[30]
+Nuestro amo juega al esclavo
+Divina TV Führer | Divina TV Fuhrer
+Del cielito
+Tarea fina
+El pibe de los astilleros
+Motorpsico
+Rock del país | Rock del pais
+Criminal mambo
+Unos pocos peligros sensatos
+Nadie es perfecto
+Blues de la libertad
+Aquella solitaria vaca cubana
+Maldición, va a ser un día hermoso | Maldicion va a ser un dia hermoso
+Un ángel para tu soledad | Un angel para tu soledad
+Toxi taxi
+Gualicho
+Semen-up | Semen up
+Queso ruso
+Caña seca y un membrillo | Caña seca
+Todo preso es político | Todo preso es politico
+Preso en mi ciudad
+Pabellón séptimo | Pabellon septimo | Relato de Horacio
+Masacre en el puticlub
+Barbazul versus el amor letal | Barbazul
+Rock para el negro Atila
+
+[60]
+Fanfarria del cabre-ado | Fanfarria del cabreado
+Ropa sucia
+El infierno está encantador esta noche | El infierno esta encantador esta noche
+Rock para los dientes
+La murga de los renegados
+Postal de nieve
+Vamos las bandas
+Ñam fri frufi fali fru | Nam fri frufi fali fru
+Sheriff
+Música para pastillas | Musica para pastillas
+El arte del buen comer
+Me matan limón | Me matan limon
+Superlógico | Superlogico
+Salando las heridas
+Yo no me caí del cielo | Yo no me cai del cielo
+Exceso de goce
+Nueva Roma
+La parabellum del buen psicópata | La parabellum del buen psicopata
+Fusilados por la Cruz Roja
+Alien Duce
+
+[100]
+Murga de la virgencita
+Scaramanzia
+Vino mareado

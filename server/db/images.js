@@ -12,9 +12,14 @@
 // nombre y los navegadores bajan la nueva (las fotos se cachean un año).
 // Las carpetas commons/ y web/ se suben a git.
 import { createHash } from 'node:crypto';
+import dns from 'node:dns';
 import { copyFileSync, existsSync, mkdirSync, readFileSync, readdirSync, unlinkSync, writeFileSync } from 'node:fs';
 import path from 'node:path';
 import { fileURLToPath } from 'node:url';
+
+// upload.wikimedia.org le devuelve 429 a algunas direcciones IPv6 de proveedores de casa
+// (y no se le pasa) mientras que por IPv4 baja normal: se prueba IPv4 primero.
+dns.setDefaultResultOrder('ipv4first');
 
 const __dirname = path.dirname(fileURLToPath(import.meta.url));
 export const IMAGES_DIR = path.resolve(process.env.LINEAN_IMAGES_DIR ?? path.join(__dirname, '../data/imagenes'));
@@ -25,7 +30,8 @@ const WIDTH = 720;
 const QUALITY = 78;
 const DOWNLOAD_WIDTH = 1200; // Commons entrega una versión de este ancho: no hace falta bajar el original
 const ALLOWED = new Set(['.jpg', '.jpeg', '.png', '.webp']);
-const USER_AGENT = 'LineaN-question-import/1.0 (trivia game; downloads question photos from Wikimedia Commons)';
+// Wikimedia pide un contacto en el User-Agent; sin eso limita mucho más rápido (429).
+const USER_AGENT = 'LineaN-question-import/1.0 (https://lineanicho.com; trivia game, downloads question photos from Wikimedia Commons)';
 
 let sharpPromise;
 const loadSharp = () => (sharpPromise ??= import('sharp').then((m) => m.default).catch(() => null));

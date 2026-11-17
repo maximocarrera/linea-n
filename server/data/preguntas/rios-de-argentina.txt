@@ -1,0 +1,70 @@
+# Ríos que corren (total o parcialmente) por Argentina. Se acepta con o sin "Río" adelante,
+# salvo los de nombre genérico (Primero, Segundo, Grande, Chico), que van solo con "Río" para no regalarlos.
+# El Río de la Plata es un estuario, pero se lo llama río y entra.
+
+categoria: Argentina
+consigna: Nombrá un río de Argentina
+activa: si
+apellidos: no
+
+[10]
+Río de la Plata | Rio de la Plata | De la Plata
+Paraná | Parana | Río Paraná | Rio Parana
+Uruguay | Río Uruguay | Rio Uruguay
+Riachuelo | Matanza-Riachuelo | Matanza | Río Matanza
+Iguazú | Iguazu | Río Iguazú | Rio Iguazu
+Paraguay | Río Paraguay | Rio Paraguay
+Colorado | Río Colorado | Rio Colorado
+Negro | Río Negro | Rio Negro
+Salado | Río Salado | Rio Salado
+
+[30]
+Bermejo | Río Bermejo | Rio Bermejo
+Pilcomayo | Río Pilcomayo | Rio Pilcomayo
+Limay | Río Limay | Rio Limay
+Neuquén | Neuquen | Río Neuquén | Rio Neuquen
+Chubut | Río Chubut | Rio Chubut
+Santa Cruz | Río Santa Cruz | Rio Santa Cruz
+Luján | Lujan | Río Luján | Rio Lujan
+Reconquista | Río Reconquista | Rio Reconquista
+Río Dulce | Rio Dulce
+Atuel | Río Atuel | Rio Atuel
+Mendoza | Río Mendoza | Rio Mendoza
+San Juan | Río San Juan | Rio San Juan
+Gualeguaychú | Gualeguaychu | Río Gualeguaychú
+Suquía | Suquia | Río Primero | Rio Primero
+Río Cuarto | Rio Cuarto | Chocancharava
+Tigre | Río Tigre | Rio Tigre
+Carcarañá | Carcarana | Río Carcarañá
+
+[60]
+Ctalamochita | Río Tercero | Rio Tercero
+Xanaes | Río Segundo | Rio Segundo
+Río Quinto | Rio Quinto | Popopis
+Desaguadero | Río Desaguadero
+Diamante | Río Diamante
+Tunuyán | Tunuyan | Río Tunuyán
+Gualeguay | Río Gualeguay
+Juramento | Pasaje | Río Juramento
+Río Grande | Rio Grande
+Deseado | Río Deseado | Rio Deseado
+Gallegos | Río Gallegos | Rio Gallegos
+Futaleufú | Futaleufu | Río Futaleufú
+Senguer | Río Senguer
+Aluminé | Alumine | Río Aluminé
+Corrientes | Río Corrientes
+Arrecifes | Río Arrecifes
+Quequén | Quequen | Quequén Grande | Río Quequén
+Sarmiento | Río Sarmiento
+Calchaquí | Calchaqui | Río Calchaquí
+
+[100]
+Collón Curá | Collon Cura | Río Collón Curá
+Río Chico | Rio Chico
+Sauce Grande | Río Sauce Grande
+Miriñay | Mirinay | Río Miriñay
+Aguapey | Río Aguapey
+Mocoretá | Mocoreta | Río Mocoretá
+Nogoyá | Nogoya | Río Nogoyá
+Feliciano | Río Feliciano
+San Francisco | Río San Francisco

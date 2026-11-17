@@ -1,0 +1,29 @@
+categoria: Mundo
+consigna: Nombrá países que empiecen con la letra M
+activa: si
+apellidos: no
+
+[10]
+México | Mexico
+Malasia
+Marruecos
+Mónaco | Monaco
+
+[30]
+Madagascar
+Malawi | Malaui
+Maldivas
+Mali | Malí
+Malta
+
+[60]
+Mauricio
+Mauritania
+Micronesia
+Moldavia
+Mongolia
+
+[100]
+Montenegro
+Mozambique
+Myanmar | Birmania

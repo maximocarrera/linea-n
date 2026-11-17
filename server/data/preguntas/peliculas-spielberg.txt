@@ -1,0 +1,48 @@
+# Películas de cine dirigidas por Steven Spielberg (1971-2022). Solo como director, no como productor
+# (no valen Volver al futuro, Los Goonies, Gremlins ni Indiana Jones y el dial del destino, que dirigió Mangold).
+# No incluye su película de 2026.
+
+categoria: Cine
+consigna: Nombrá una película dirigida por Steven Spielberg
+activa: si
+apellidos: no
+
+[10]
+Tiburón | Jaws | Tiburon
+E.T. | ET | E.T. el extraterrestre | ET el extraterrestre
+Jurassic Park | Parque Jurásico | Parque Jurasico
+La lista de Schindler | Schindler's List
+Rescatando al soldado Ryan | Salvar al soldado Ryan | Saving Private Ryan
+Indiana Jones y los cazadores del arca perdida | Los cazadores del arca perdida | En busca del arca perdida | Raiders of the Lost Ark
+Atrápame si puedes | Atrapame si puedes | Catch Me If You Can
+La terminal | The Terminal
+
+[30]
+Encuentros cercanos del tercer tipo | Close Encounters of the Third Kind
+Indiana Jones y el templo de la perdición | El templo de la perdición | Indiana Jones y el templo maldito
+Indiana Jones y la última cruzada | La última cruzada | Indiana Jones y la ultima cruzada
+Indiana Jones y el reino de la calavera de cristal | El reino de la calavera de cristal | La calavera de cristal
+El mundo perdido: Jurassic Park | El mundo perdido | Jurassic Park 2
+Minority Report | Sentencia previa
+La guerra de los mundos | War of the Worlds
+Inteligencia artificial | A.I. Inteligencia artificial
+Hook | Hook: el regreso del capitán Garfio | El capitán Garfio
+Ready Player One | Ready Player One: comienza el juego
+Lincoln
+Caballo de guerra | War Horse
+Amor sin barreras | West Side Story
+Los Fabelman | The Fabelmans | Los Fabelmans
+Puente de espías | Puente de espias | Bridge of Spies
+The Post | Los oscuros secretos del Pentágono | Los archivos del Pentágono
+Las aventuras de Tintín | Las aventuras de Tintin | Tintín y el secreto del Unicornio
+El color púrpura | El color purpura | The Color Purple
+Munich | Múnich
+
+[60]
+Reto a muerte | Duel | El diablo sobre ruedas
+Loca evasión | Loca evasion | The Sugarland Express
+1941 | Mil novecientos cuarenta y uno
+El imperio del sol | Empire of the Sun
+Always | Para siempre | Always: para siempre
+Amistad
+Mi amigo el gigante | The BFG | El buen amigo gigante

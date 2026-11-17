@@ -9,7 +9,7 @@ activa: si
 apellidos: no
 
 [10]
-Dominic Toretto | Dom Toretto | Dom
+Dominic Toretto | Dom Toretto | Dom | Toretto
 Brian O'Conner | Brian
 Letty Ortiz | Letty
 Mia Toretto | Mia

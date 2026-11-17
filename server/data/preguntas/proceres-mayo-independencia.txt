@@ -1,0 +1,61 @@
+# Próceres de la Revolución de Mayo y de la Independencia argentina (1810-1825 aprox.):
+# miembros de la Primera Junta, congresales de Tucumán, militares de las guerras de independencia.
+# Se dejan afuera figuras posteriores (Sarmiento, Alberdi, Rosas, Mitre) para que la consigna no sea ambigua.
+
+categoria: Argentina
+consigna: Nombrá un prócer de la Revolución de Mayo o de la Independencia argentina
+activa: si
+apellidos: si
+
+[10]
+José de San Martín | San Martín | Jose de San Martin
+Manuel Belgrano
+Mariano Moreno
+Cornelio Saavedra
+Martín Miguel de Güemes | Güemes | Guemes
+Juan José Castelli | Juan Jose Castelli
+Domingo French
+Antonio Beruti
+
+[30]
+Juan Larrea
+Domingo Matheu
+Manuel Alberti
+Miguel de Azcuénaga | Azcuénaga | Azcuenaga
+Juan José Paso | Juan Jose Paso
+Juan Martín de Pueyrredón | Pueyrredón | Pueyrredon
+Juana Azurduy
+Remedios de Escalada
+Guillermo Brown | William Brown | Almirante Brown
+Bernardino Rivadavia
+Francisco Narciso de Laprida | Laprida
+Juan Bautista Cabral | Sargento Cabral
+Hipólito Vieytes | Hipolito Vieytes
+Mariquita Sánchez de Thompson | Mariquita Sánchez | Mariquita Sanchez
+Juan Gregorio de Las Heras | Las Heras
+Carlos María de Alvear | Alvear
+Vicente López y Planes | Vicente Lopez y Planes
+
+[60]
+Bernardo de Monteagudo | Monteagudo
+Juan Lavalle
+Manuel Dorrego
+Mariano Necochea | Necochea
+Juan Pascual Pringles | Pringles
+Juan Antonio Álvarez de Arenales | Arenales
+Antonio González Balcarce | Balcarce
+Fray Luis Beltrán | Luis Beltrán | Beltran
+Fray Justo Santa María de Oro | Justo Santa María de Oro
+Tomás Godoy Cruz | Godoy Cruz
+María Remedios del Valle | Remedios del Valle
+Macacha Güemes | Magdalena Güemes
+Gregorio Aráoz de Lamadrid | Lamadrid
+José María Paz | Jose Maria Paz
+Feliciano Chiclana | Chiclana
+
+[100]
+Eustoquio Díaz Vélez | Díaz Vélez
+José Moldes
+Juan José Viamonte
+Nicolás Rodríguez Peña | Rodríguez Peña
+Martín Rodríguez

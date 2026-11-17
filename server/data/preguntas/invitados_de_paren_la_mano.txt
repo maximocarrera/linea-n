@@ -1,0 +1,150 @@
+# Línea N · una pregunta por archivo. Después de editar: npm run db:import
+# Un nombre por renglón. Variantes con |
+# Niveles: [10] común · [30] poco común · [60] rara · [100] de nicho
+# Invitados del programa de streaming Paren la Mano (Vorterix).
+
+categoria: Streaming
+consigna: Nombrá a un invitado de Paren la Mano
+activa: si
+apellidos: no
+
+[10]
+Duki
+Bizarrap
+Ibai
+Nicki Nicole
+Wos
+Trueno
+YSY A
+Maravilla Martínez | Maravilla Martinez
+Migue Granados
+Mario Pergolini
+Sergio Massa
+Franco Colapinto
+
+[30]
+Coscu
+Dillom
+Lit Killah
+FMK
+Rusherking
+Airbag
+Lali
+Karina | Karina La Princesita
+Cazzu
+Catriel y Paco Amoroso | Ca7riel y Paco Amoroso
+El Turco García | El Turco Garcia
+Diego Latorre
+Rodo De Paoli
+Gastón Edul | Gaston Edul
+Sofi Martínez | Sofi Martinez
+Nati Jota
+Grego Rosello
+Tuli Acosta
+Piti Fernández
+Momo | Gerónimo Benavides
+Martí Benza
+Paulina Cocina
+Facu Campazzo
+Luis Scola
+
+[60]
+Tomás Mazza | Tomas Mazza
+Azzaro | Flavio Azzaro
+Duka
+Frankkaster
+Goncho
+Joaco y Pimpeano
+Milarquitectura | Luquitas Rodriguez
+Saramalacara
+Zaina
+G Sony
+Louta
+Zoe Gotusso
+Santiago Motorizado
+Juanse
+El Bananero
+Martin Cirio
+Puma Goity
+Khea y Asan
+Chapu Martínez | Chapu Martinez
+Valentín Torres Erwerle | Valentin Torres Erwerle
+Donato De Santis | Donato
+Campi
+Axel
+Cristian Castro
+Martín Kohan | Martin Kohan
+Alfredo Casero
+Mauro Albarracín
+Iván Schargrodsky | Ivan Schargrodsky
+Seleneitor
+Chatruc y Chanchi Estévez | Chatruc y Chanchi Estevez
+Emi Brancciari | Emiliano Brancciari
+José Montesano | Jose Montesano
+Sebastián Wainraich | Sebastian Wainraich
+Fabricio Oberto
+Rada | Agustín Aristarán
+Gaston Edul y Esteban Edul
+Charo López | Charo Lopez
+Locos por el Asado
+Natalie Pérez | Natalie Perez
+La Cobra | Jimena Barón
+Esteban Lamothe
+Julio Leiva
+Gabriel Schultz
+Unicornio
+Maru Botana
+Nancy Dupláa
+Mariano Peluffo
+El Trinche
+Augusto Batalla
+Santi Korovsky
+Carolo Vázquez
+Juan Castro
+Nachoide
+Mariano Martínez | Mariano Martinez
+Franco Pisso
+Big Ari
+Yolo y Lando
+José María Listorti | Jose Maria Listorti
+Delfi Pignatiello
+Zambayonny
+Sergio Goycochea
+Gaspar Benegas
+Danny Ocean
+Diego Peretti
+Fernanda Metilli
+
+[100]
+ManuelaQM
+Porcel JR
+Luken
+Skone
+Will
+Cesar Luis Merlo
+Pablo Migliore
+Fede Coria
+Pablo Granados
+Gusti Fernandez
+Richard White
+Ruffo
+El Zar
+Blondel
+Nachito Saralegui
+Pepi Staropoli
+Cofla 
+Wanchope
+Marcelo Benedetto
+Varsky
+Juanita Groisman
+Tanque Pavone
+Marcos Giles
+Manu Olivari
+Toto Kirzner
+El Duende
+Lalo Maradona
+Cumbio
+Kapanga
+Araceli Gonzalez
+Coscu y Toscano
+Sebastian Porrini

@@ -1,0 +1,93 @@
+# Canciones de Charly García: solista, Sui Generis y Serú Girán (solo las que compuso él).
+# Se dejan afuera las de Serú Girán compuestas por Lebón o Aznar.
+
+categoria: Música
+consigna: Nombrá una canción de Charly García (solista, Sui Generis o Serú Girán)
+activa: si
+apellidos: no
+
+[10]
+Demoliendo hoteles
+Los dinosaurios | Dinosaurios
+Rasguña las piedras
+Canción para mi muerte | Cancion para mi muerte
+Cerca de la revolución | Cerca de la revolucion
+Nos siguen pegando abajo | Pecado mortal
+No voy en tren
+Yendo de la cama al living
+Inconsciente colectivo
+Seminare
+Promesas sobre el bidet
+
+[30]
+Fanky
+Rezo por vos
+Eiti Leda
+Viernes 3 AM | Viernes tres AM | Viernes 3am
+Canción de Alicia en el país | Alicia en el país | Cancion de Alicia en el pais
+Peperina
+Desarma y sangra
+Mientras miro las nuevas olas
+Llorando en el espejo
+Cuando ya me empiece a quedar solo
+Confesiones de invierno
+Bienvenidos al tren
+Aprendizaje
+Instituciones
+Raros peinados nuevos
+No bombardeen Buenos Aires
+Hablando a tu corazón | Hablando a tu corazon
+Filosofía barata y zapatos de goma | Filosofia barata y zapatos de goma
+Chipi chipi
+Pasajera en trance
+Me siento mucho mejor
+Influencia
+Yo no quiero volverme tan loco
+No me dejan salir
+Ojos de video tape
+Total interferencia
+Buscando un símbolo de paz | Buscando un simbolo de paz
+Mr. Jones | Mister Jones
+Piano bar
+
+[60]
+Natalio Ruiz | Natalio Ruiz, el hombrecito del sombrero gris
+Necesito
+Lunes otra vez
+Botas locas
+Música de fondo para cualquier fiesta animada | Musica de fondo para cualquier fiesta animada
+Para quién canto yo entonces | Para quien canto yo entonces
+El show de los muertos
+Tango en segunda
+Cinema verité | Cinema verite
+Noche de perros
+José Mercado | Jose Mercado
+No llores por mí, Argentina | No llores por mi Argentina
+Encuentro con el diablo
+A cada hombre, a cada mujer
+Los sobrevivientes
+Plateado sobre plateado | Huellas en el mar
+Dos cero uno | Transas
+Nuevos trapos
+No soy un extraño | No soy un extrano
+Bancate ese defecto
+Peluca telefónica | Peluca telefonica
+No te animás a despegar | No te animas a despegar
+Superhéroes | Superheroes
+Parte de la religión | Parte de la religion
+De mí | De mi
+Fax U | Fax you
+Rock and roll yo
+El aguante
+Asesíname | Asesiname
+
+[100]
+Las increíbles aventuras del Señor Tijeras | Señor Tijeras
+Pequeñas delicias de la vida conyugal
+El tuerto y los ciegos
+Quizás porque | Quizas porque
+Tribulaciones, lamento y ocaso de un tonto rey imaginario
+Anhedonia
+La sal no sala
+Adela en el carrousel
+Transformación | Transformacion

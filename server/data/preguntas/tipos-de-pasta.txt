@@ -1,0 +1,65 @@
+# Tipos de pasta y fideos (secos, frescos y rellenos), con el nombre que se usa en Argentina | italiano.
+# Solo el formato de la pasta; las salsas tienen su propia pregunta.
+
+categoria: Comida
+consigna: Nombrá un tipo de pasta o de fideo
+activa: si
+apellidos: no
+
+[10]
+Spaghetti | Espagueti | Spaghettis | Espaguetis
+Tallarines | Tallarin
+Ravioles | Raviolis | Ravioli
+Ñoquis | Noquis | Gnocchi
+Moñitos | Fideos moñito | Farfalle
+Lasaña | Lasagna | Lasana
+Canelones | Canelloni
+Sorrentinos
+Penne | Penne rigate | Plumitas
+Tirabuzones | Fusilli
+Mostacholes | Mostachol
+Capeletis | Cappelletti | Capelettis
+
+[30]
+Fettuccine | Fetuccini | Fetuchini
+Tagliatelle | Tagliatelli
+Coditos | Codito
+Rigatoni
+Macarrones | Macaroni
+Cintas
+Agnolotis | Agnolotti
+Tortellini | Tortelinis | Tortelini
+Linguine | Linguini
+Pappardelle
+Cabello de ángel | Cabello de angel | Cappellini | Capellini
+Fideos soperos | Fideos para sopa
+Municiones
+Dedalitos | Ditalini
+Letritas | Fideos letras
+Estrellitas
+Avemaría | Ave María | Avemarias
+Vermicelli | Vermicelis
+Conchiglie | Caracoles | Conchitas
+Fideos nido | Nidos
+Bucatini
+
+[60]
+Orecchiette
+Paccheri
+Cavatappi
+Gemelli
+Rueditas | Ruote
+Raviolones
+Fideos de arroz
+Fideos de huevo
+Mafaldine | Mafaldas
+Tortelloni
+Panzotti | Pansotti
+
+[100]
+Strozzapreti
+Trofie
+Orzo | Risoni
+Garganelli
+Bigoli
+Pici

@@ -1,0 +1,80 @@
+# Cantantes y grupos argentinos de cumbia (villera, santafesina, pop, 420) y de cuarteto cordobés.
+# Sin artistas extranjeros (Los Ángeles Azules, Rombai, Márama, Los Mirlos).
+
+categoria: Música
+consigna: Nombrá un artista o grupo argentino de cumbia o cuarteto
+activa: si
+apellidos: no
+
+[10]
+Gilda
+Rodrigo | El Potro Rodrigo | Rodrigo Bueno | Potro Rodrigo
+La Mona Jiménez | Mona Jiménez | La Mona | Carlos La Mona Jiménez | Mona Jimenez
+Damas Gratis
+Los Palmeras | Palmeras
+Ráfaga | Rafaga
+Pibes Chorros
+Antonio Ríos | Antonio Rios
+Leo Mattioli
+Karina | Karina La Princesita | La Princesita
+Ulises Bueno
+La K'onga | La Konga
+Los Totora | Totora
+Néstor en Bloque | Nestor en Bloque
+
+[30]
+Mala Fama
+Los Wachiturros | Wachiturros
+Grupo Green
+La Nueva Luna | Nueva Luna
+Amar Azul
+Yerba Brava
+Flor de Piedra
+Supermerk2 | Supermerk 2 | Supermerkdos
+Agapornis
+Ke Personajes
+Los Charros
+Euge Quevedo
+Luck Ra
+Q' Lokura | Q Lokura | Q'Lokura
+Jean Carlos
+Damián Córdoba | Damian Cordoba
+Walter Olmos
+La Liga
+Uriel Lozano
+Pablo Lescano
+El Polaco
+Sabroso
+Gladys La Bomba Tucumana | Gladys | La Bomba Tucumana
+Ricky Maravilla
+Lía Crucet | Lia Crucet
+L-Gante | L Gante | Elian Valenzuela
+Dalila
+Banda XXI | Banda 21
+
+[60]
+Trulalá | Tru La La | Trulala
+Chébere | Chebere
+Gary
+Los del Fuego
+Grupo Sombras | Sombras
+Altos Cumbieros
+Daniel Agostini
+La Repandilla
+Rodrigo Tapari
+Hernán y La Champions Liga | Champions Liga
+Pocho La Pantera
+Nene Malo
+Volcán | Volcan
+Conejito Alejandro | Miguel Conejito Alejandro
+El Original
+La Barra
+Brujo Ezequiel | El Brujo Ezequiel
+Desakata2
+El Rodri
+
+[100]
+Los Nota Lokos
+Monada
+Sebastián Mendoza | Sebastian Mendoza
+Los Leales

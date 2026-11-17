@@ -1,0 +1,96 @@
+# Personajes de Star Wars: películas (las 11 de la saga y spin-offs) y series live-action/animadas de Disney+.
+# Anakin y Darth Vader son el mismo personaje (una sola respuesta). Sin especies ni grupos (ewoks, stormtroopers).
+
+categoria: Cine
+consigna: Nombrá un personaje de Star Wars
+activa: si
+apellidos: no
+
+[10]
+Luke Skywalker | Luke
+Darth Vader | Vader | Anakin Skywalker | Anakin
+Han Solo
+Leia | Princesa Leia | Leia Organa
+Yoda | Maestro Yoda
+Chewbacca | Chewie
+R2-D2 | R2D2 | Arturito
+C-3PO | C3PO | Citripio
+Obi-Wan Kenobi | Obi-Wan | Obi Wan | Kenobi
+Palpatine | Emperador Palpatine | Darth Sidious | El Emperador
+Grogu | Baby Yoda
+
+[30]
+Boba Fett
+Jabba | Jabba el Hutt | Jabba the Hutt
+Padmé Amidala | Padme Amidala | Padmé | Amidala
+Darth Maul | Maul
+Mace Windu
+Qui-Gon Jinn | Qui-Gon | Qui Gon
+Kylo Ren | Ben Solo
+Rey | Rey Skywalker
+Finn
+Poe Dameron | Poe
+BB-8 | BB8
+Lando Calrissian | Lando
+Conde Dooku | Dooku | Darth Tyranus
+Jar Jar Binks | Jar Jar
+General Grievous | Grievous
+Jango Fett
+Ahsoka Tano | Ahsoka
+Din Djarin | El Mandaloriano | Mandaloriano | Mando
+Gran Moff Tarkin | Tarkin
+Almirante Ackbar | Ackbar
+Jyn Erso
+Cassian Andor | Andor
+Snoke | Líder Supremo Snoke
+Capitana Phasma | Phasma
+
+[60]
+Greedo
+K-2SO | K2SO
+Wicket
+Watto
+Shmi Skywalker | Shmi
+Tío Owen | Owen Lars
+Tía Beru | Beru Lars
+Wedge Antilles | Wedge
+Saw Gerrera
+Orson Krennic | Krennic
+Chirrut Îmwe | Chirrut
+Cad Bane
+Fennec Shand
+Moff Gideon
+Bo-Katan | Bo-Katan Kryze
+Greef Karga
+Cara Dune
+Hera Syndulla
+Ezra Bridger
+Thrawn | Gran Almirante Thrawn
+Capitán Rex | Rex
+Maz Kanata
+General Hux | Hux
+Mon Mothma
+Bail Organa
+Rose Tico
+Qi'ra | Qira
+Bossk
+Kit Fisto
+Plo Koon
+Luthen Rael
+
+[100]
+Sebulba
+Nute Gunray
+Asajj Ventress | Ventress
+Zam Wesell
+Almirante Piett | Piett
+Salacious Crumb
+Bib Fortuna
+Nien Nunb
+Comandante Cody | Cody
+Ki-Adi-Mundi
+Aayla Secura
+Savage Opress
+Barriss Offee
+Kanan Jarrus
+Sabine Wren

@@ -1,0 +1,60 @@
+# Clubes de fútbol de Brasil (Serie A, B y tradicionales). Vale el nombre corto.
+
+categoria: Fútbol
+consigna: Nombrá un club de fútbol de Brasil
+activa: si
+apellidos: no
+
+[10]
+Flamengo
+Palmeiras
+Corinthians
+São Paulo | Sao Paulo | San Pablo
+Santos
+Grêmio | Gremio
+Internacional | Inter de Porto Alegre
+Fluminense
+Vasco da Gama | Vasco
+Botafogo
+Cruzeiro
+Atlético Mineiro | Atletico Mineiro
+
+[30]
+Athletico Paranaense | Atlético Paranaense | Atletico Paranaense
+Bahia
+Vitória | Vitoria
+Sport Recife | Sport
+Fortaleza
+Ceará | Ceara
+Coritiba
+Goiás | Goias
+Red Bull Bragantino | Bragantino
+Chapecoense
+Juventude
+América Mineiro | America Mineiro
+Cuiabá | Cuiaba
+Atlético Goianiense | Atletico Goianiense
+Ponte Preta
+Portuguesa
+
+[60]
+Santa Cruz
+Náutico | Nautico
+Figueirense
+Avaí | Avai
+Criciúma | Criciuma
+Paysandu
+Remo
+Mirassol
+São Caetano | Sao Caetano
+Paraná Clube | Parana Clube
+Guarani de Campinas
+
+[100]
+Sampaio Corrêa | Sampaio Correa
+Vila Nova
+Ituano
+Novorizontino
+CRB
+CSA
+ABC de Natal

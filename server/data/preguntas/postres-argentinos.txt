@@ -1,0 +1,64 @@
+# Postres y dulces caseros típicos de Argentina (incluye dulces regionales del NOA y Cuyo).
+# Sin marcas comerciales (eso está en "marcas de alfajores") ni facturas de panadería (tienen su pregunta).
+
+categoria: Comida
+consigna: Nombrá un postre o dulce típico argentino
+activa: si
+apellidos: no
+
+[10]
+Flan | Flan con dulce de leche | Flan mixto
+Dulce de leche
+Chocotorta
+Panqueques con dulce de leche | Panqueques | Panqueque
+Alfajor de maicena | Alfajores de maicena | Alfajor | Alfajores
+Pastafrola | Pasta frola
+Vigilante | Queso y dulce | Postre vigilante
+Arroz con leche
+Budín de pan | Budin de pan
+Torta Rogel | Rogel
+
+[30]
+Mazamorra
+Don Pedro
+Dulce de batata
+Dulce de membrillo | Membrillo
+Pastelitos | Pastelitos criollos | Pastelitos de membrillo
+Tortas fritas | Torta frita
+Churros | Churros con dulce de leche
+Ensalada de frutas
+Sambayón | Sambayon
+Isla flotante
+Ambrosía | Ambrosia
+Postre Balcarce | Torta Balcarce
+Pan dulce
+Rosca de Pascua
+Garrapiñada | Garrapiñadas | Garrapiñadas de maní
+Turrón de maní | Turron de mani
+Torta de ricota
+Pionono
+Tarta de coco | Tarta de coco y dulce de leche
+Cubanitos | Cubanito
+Duraznos en almíbar | Duraznos en almibar | Duraznos con crema
+Bananas con dulce de leche | Banana con dulce de leche
+
+[60]
+Alfajor santafesino
+Torta galesa
+Pepas | Pepitas
+Dulce de cayote | Cayote
+Arrope
+Quesillo con miel | Quesillo con arrope | Quesillo
+Higos en almíbar | Higos en almibar | Dulce de higos
+Zapallo en almíbar | Dulce de zapallo | Zapallo en almibar
+Colaciones | Colación
+Dulce de leche helado | Helado de dulce de leche
+Bombón helado | Bombon helado
+Torta de manzana
+Frutillas con crema
+Budín | Budin
+
+[100]
+Alfajor cordobés | Alfajor cordobes
+Bolanchao
+Mamón en almíbar | Mamon en almibar | Dulce de mamón

@@ -1,0 +1,73 @@
+# Constelaciones oficiales (las 88 de la Unión Astronómica Internacional), en castellano | latín.
+# No valen asterismos ni cúmulos (Las Tres Marías, Las Pléyades, El Carro).
+# Se dejan afuera las constelaciones cuyo nombre es un animal u objeto común (Mesa, Copa, Reloj, Lobo, Mosca, Paloma...)
+# porque se acertarían tirando palabras al azar.
+
+categoria: Ciencia
+consigna: Nombrá una constelación
+activa: si
+apellidos: no
+
+[10]
+Orión | Orion
+Osa Mayor | Ursa Major
+Osa Menor | Ursa Minor
+Cruz del Sur | Crux
+Escorpio | Escorpión | Scorpius | Escorpion
+Leo
+Tauro | Taurus
+Géminis | Geminis | Gemini
+Aries
+Sagitario | Sagittarius
+
+[30]
+Cáncer | Cancer
+Virgo
+Libra
+Capricornio | Capricornus
+Acuario | Aquarius
+Piscis | Pisces
+Casiopea | Cassiopeia
+Andrómeda | Andromeda
+Pegaso | Pegasus
+Perseo | Perseus
+Can Mayor | Canis Major
+Can Menor | Canis Minor
+Centauro | Centaurus
+Cisne | Cygnus
+Lira | Lyra
+Águila | Aguila | Aquila
+Dragón | Dragon | Draco
+Hércules | Hercules
+Cefeo | Cepheus
+Auriga | Cochero
+Boyero | Bootes | Boötes
+Corona Boreal | Corona Borealis
+Hidra | Hydra
+Ofiuco | Ophiuchus | Serpentario
+Delfín | Delfin | Delphinus
+
+[60]
+Carina | Quilla
+Popa | Puppis
+Erídano | Eridano | Eridanus
+Unicornio | Monoceros
+Corona Austral | Corona Australis
+Pez Austral | Piscis Austrinus
+Triángulo Austral | Triangulo Austral | Triangulum Australe
+Triángulo | Triangulo | Triangulum
+Cabellera de Berenice | Coma Berenices
+Perros de Caza | Canes Venatici
+Leo Menor | Leo Minor
+Fénix | Fenix | Phoenix
+Pez Volador | Volans
+Ave del Paraíso | Ave del Paraiso | Apus
+
+[100]
+Hidra Macho | Hydrus
+Sextante | Sextans
+Microscopio | Microscopium
+Telescopio | Telescopium
+Octante | Octans
+Retículo | Reticulo | Reticulum
+Escultor | Sculptor

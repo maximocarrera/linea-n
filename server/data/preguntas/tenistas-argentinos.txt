@@ -1,0 +1,77 @@
+# Tenistas argentinos (varones y mujeres) que jugaron en el circuito profesional ATP/WTA en singles o dobles.
+# De Vilas y Clerc a la generación actual. Sin juveniles que todavía no jugaron en el circuito mayor.
+
+categoria: Deportes
+consigna: Nombrá un tenista argentino o una tenista argentina
+activa: si
+apellidos: si
+
+[10]
+Guillermo Vilas
+Gabriela Sabatini | Gaby Sabatini
+Juan Martín del Potro | Juan Martin del Potro | Del Potro | Delpo
+David Nalbandian
+Gastón Gaudio | Gaston Gaudio | Gato Gaudio
+Diego Schwartzman | Peque Schwartzman
+Guillermo Coria | Mago Coria
+Francisco Cerúndolo | Francisco Cerundolo | Fran Cerúndolo
+José Luis Clerc | Jose Luis Clerc | Batata Clerc
+
+[30]
+Juan Mónaco | Juan Monaco | Pico Mónaco
+Mariano Puerta
+Guillermo Cañas | Willy Cañas
+Agustín Calleri | Agustin Calleri
+Leonardo Mayer | Yacaré Mayer
+Federico Delbonis
+Juan Ignacio Chela
+Sebastián Báez | Sebastian Baez
+Tomás Martín Etcheverry | Tomás Etcheverry | Tomas Etcheverry
+Juan Manuel Cerúndolo | Juan Manuel Cerundolo
+Paola Suárez | Paola Suarez
+Gisela Dulko
+Nadia Podoroska
+Mariano Zabaleta
+Alberto Mancini
+Franco Squillari
+Guido Pella
+Carlos Berlocq
+Horacio Zeballos
+Martín Jaite | Martin Jaite
+Mariano Navone
+Francisco Comesaña | Francisco Comesana
+Federico Coria
+Máximo González | Maximo Gonzalez
+
+[60]
+Javier Frana
+Camilo Ugo Carabelli
+Guillermo Pérez Roldán | Guillermo Perez Roldan
+Hernán Gumy | Hernan Gumy
+Mercedes Paz
+Florencia Labat
+Paula Ormaechea
+Sergio Roitman
+Andrés Molteni | Andres Molteni
+Facundo Bagnis
+Pedro Cachín | Pedro Cachin
+José Acasuso | Jose Acasuso
+Eduardo Schwank
+Lucas Arnold Ker
+Mariano Hood
+Inés Gorrochategui | Ines Gorrochategui
+Patricia Tarabini
+Clarisa Fernández | Clarisa Fernandez
+Román Burruchaga | Roman Burruchaga
+Solana Sierra
+María Lourdes Carlé | Lourdes Carlé | Lourdes Carle
+
+[100]
+Marco Trungelliti
+Facundo Argüello | Facundo Arguello
+Gastón Etlis | Gaston Etlis
+Brian Dabul
+Juan Pablo Brzezicki
+Eduardo Bengoechea
+Ricardo Cano
+Julia Riera
