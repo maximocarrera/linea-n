@@ -50,7 +50,7 @@ export async function prepareImage(ref, { checkOnly = false } = {}) {
   let note;
   if (/^https?:\/\//i.test(ref)) {
     const commons = await fromCommons(ref, { checkOnly });
-    if (commons.error || !commons.source) return { name: null, ...commons };
+    if (commons.error || commons.warning || !commons.source) return { name: null, ...commons };
     ({ source, credit, note } = commons);
   } else {
     if (ref.includes('/') || ref.includes('\\')) return { name: null, error: `imagen "${ref}": poné solo el nombre del archivo, sin carpetas` };
@@ -116,7 +116,7 @@ async function fromCommons(url, { checkOnly }) {
     info = page?.imageinfo?.[0];
     if (!info) return { error: `imagen: no encontré "File:${title}" en Wikimedia Commons` };
   } catch (err) {
-    return { error: `imagen: no se pudo consultar Wikimedia Commons (${err.message})` };
+    return { warning: `imagen: no se pudo consultar Wikimedia Commons (${err.message}); se carga sin foto y se reintenta en el próximo import` };
   }
 
   const ext = { 'image/jpeg': '.jpg', 'image/png': '.png', 'image/webp': '.webp' }[info.mime];
@@ -129,7 +129,7 @@ async function fromCommons(url, { checkOnly }) {
     if (!res.ok) throw new Error(`respondió ${res.status}`);
     bytes = Buffer.from(await res.arrayBuffer());
   } catch (err) {
-    return { error: `imagen: no se pudo bajar la foto de Commons (${err.message})` };
+    return { warning: `imagen: no se pudo bajar la foto de Commons (${err.message}); se carga sin foto y se reintenta en el próximo import` };
   }
 
   const m = info.extmetadata ?? {};
