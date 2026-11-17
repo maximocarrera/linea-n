@@ -2,6 +2,7 @@
 //   npm run db:import                 → valida y carga todos los archivos
 //   npm run db:import -- --check      → solo valida, no escribe nada
 //   npm run db:import -- seleccion    → solo los archivos cuyo nombre contenga "seleccion"
+//   npm run db:borradores             → solo valida server/data/preguntas-borrador/ (no escribe nada)
 //
 // Cada archivo es la fuente de verdad de SU pregunta: al importar se reemplazan sus respuestas.
 // Las preguntas que no tienen archivo quedan como están.
@@ -13,10 +14,13 @@ import { prepareImage, pruneImages } from './images.js';
 import { parseQuestionFile } from './questions-file.js';
 
 const __dirname = path.dirname(fileURLToPath(import.meta.url));
-export const QUESTIONS_DIR = path.resolve(process.env.LINEAN_QUESTIONS_DIR ?? path.join(__dirname, '../data/preguntas'));
-
 const args = process.argv.slice(2);
-const checkOnly = args.includes('--check');
+// Borradores: preguntas nuevas para revisar antes de pasarlas a preguntas/. Siempre en modo --check.
+const drafts = args.includes('--borradores');
+export const QUESTIONS_DIR = path.resolve(
+  drafts ? path.join(__dirname, '../data/preguntas-borrador') : (process.env.LINEAN_QUESTIONS_DIR ?? path.join(__dirname, '../data/preguntas')),
+);
+const checkOnly = drafts || args.includes('--check');
 const filters = args.filter((a) => !a.startsWith('--')).map((a) => a.toLowerCase());
 
 if (!existsSync(QUESTIONS_DIR)) mkdirSync(QUESTIONS_DIR, { recursive: true });
@@ -89,6 +93,10 @@ for (const [file, parsed] of parsedFiles) {
     meta.imageCredit ||= img.credit ?? null;
     if (imageName && !meta.imageCredit) warnings.unshift('tiene foto pero no "credito:" (autor y licencia de la foto)');
   }
+  if (drafts && meta.prompt) {
+    const existing = byPrompt.get(meta.prompt);
+    if (existing) errors.push(`ya hay una pregunta con esta consigna en el juego (${existing.source ?? `#${existing.id}`})`);
+  }
   const tiers = summarize(answers);
 
   if (errors.length) {
@@ -141,7 +149,7 @@ const orphans = db
   .prepare('SELECT id, prompt, source FROM questions WHERE source IS NOT NULL AND active = 1')
   .all()
   .filter((q) => !all.has(q.source));
-if (orphans.length && !filters.length) {
+if (orphans.length && !filters.length && !drafts) {
   const deactivate = db.prepare('UPDATE questions SET active = 0 WHERE id = ?');
   console.log(`\nPreguntas cuyo archivo ya no existe (${checkOnly ? 'se desactivarían' : 'desactivadas'}):`);
   for (const q of orphans) {

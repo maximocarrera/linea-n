@@ -8,6 +8,7 @@
     "start": "node --disable-warning=ExperimentalWarning db/import.js && node --disable-warning=ExperimentalWarning src/index.js",
     "db:seed": "node --disable-warning=ExperimentalWarning db/seed.js",
     "db:import": "node --disable-warning=ExperimentalWarning db/import.js",
+    "db:borradores": "node --disable-warning=ExperimentalWarning db/import.js --borradores",
     "db:export": "node --disable-warning=ExperimentalWarning db/export.js",
     "db:categorias": "node --disable-warning=ExperimentalWarning db/categories.js",
     "db:sugerencias": "node --disable-warning=ExperimentalWarning db/suggestions.js"

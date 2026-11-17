@@ -14,6 +14,7 @@
     "start": "npm start -w server",
     "db:seed": "npm run db:seed -w server --",
     "db:import": "npm run db:import -w server --",
+    "db:borradores": "npm run db:borradores -w server --",
     "db:export": "npm run db:export -w server --",
     "db:categorias": "npm run db:categorias -w server --",
     "db:sugerencias": "npm run db:sugerencias -w server --"
