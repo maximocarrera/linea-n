@@ -24,7 +24,8 @@ export function registerSocketHandlers(io, rooms) {
       const who = identity(data);
       if (!who.playerId) return reply(ack, { error: 'Falta el identificador de jugador' });
       leaveCurrent();
-      reply(ack, rooms.create().join(socket, who));
+      // Quien crea la sala sin nombre aparece como "Creador" (se puede cambiar en la sala de espera).
+      reply(ack, rooms.create().join(socket, { ...who, name: who.name || 'Creador' }));
     });
 
     socket.on('room:join', (data, ack) => {
@@ -35,6 +36,11 @@ export function registerSocketHandlers(io, rooms) {
       if (!room) return reply(ack, { error: 'No existe esa sala. Revisá el código.' });
       if (socket.data.roomCode && socket.data.roomCode !== code) leaveCurrent();
       reply(ack, room.join(socket, who));
+    });
+
+    socket.on('room:rename', (data, ack) => {
+      const room = currentRoom();
+      reply(ack, room ? room.rename(socket.data.playerId, clean(data?.name, MAX_NAME)) : { error: 'No estás en una sala' });
     });
 
     socket.on('room:start', (_data, ack) => {

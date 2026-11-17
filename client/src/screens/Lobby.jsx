@@ -1,6 +1,6 @@
 import { useState } from 'react';
-import { Check, Copy, Share2, TrainFront, UserRound } from 'lucide-react';
-import { MAX_PLAYERS } from '@linean/shared';
+import { Check, Copy, LoaderCircle, Pencil, Share2, TrainFront, UserRound, X } from 'lucide-react';
+import { MAX_NAME, MAX_PLAYERS } from '@linean/shared';
 import GameHeader, { ConnectionPill } from '../components/GameHeader';
 import LineBadge from '../components/LineBadge';
 import { GameAdInline } from '../components/AdSlot';
@@ -8,7 +8,7 @@ import FlapText from '../components/landing/FlapText';
 import { copyText, shareOrCopy } from '../lib/share';
 import { useShareOrigin } from '../lib/useShareOrigin';
 
-export default function Lobby({ room, meId, onStart, onLeave, connected }) {
+export default function Lobby({ room, meId, onStart, onLeave, onRename, connected }) {
   const [feedback, setFeedback] = useState(null);
   const [error, setError] = useState(null);
   const [starting, setStarting] = useState(false);
@@ -97,7 +97,11 @@ export default function Lobby({ room, meId, onStart, onLeave, connected }) {
             <li key={p.id} className={`grid grid-cols-[auto_minmax(0,1fr)_auto] items-center gap-3 px-5 py-3 ${p.connected ? '' : 'opacity-50'}`}>
               <LineBadge line={p.name.charAt(0).toUpperCase() || '?'} color={p.color} size="sm" />
               <span className="min-w-0">
-                <FlapText text={p.name} delay={i * 60} className="block truncate text-lg font-bold" />
+                {p.id === meId && onRename ? (
+                  <NameEditor name={p.name} delay={i * 60} onRename={onRename} />
+                ) : (
+                  <FlapText text={p.name} delay={i * 60} className="block truncate text-lg font-bold" />
+                )}
                 {!p.connected && <span className="block text-sm text-mute">Reconectando…</span>}
               </span>
               <span className="flex items-center gap-2">
@@ -146,5 +150,91 @@ export default function Lobby({ room, meId, onStart, onLeave, connected }) {
       </div>
       <GameAdInline />
     </>
+  );
+}
+
+/** Tu nombre en la lista, con un lápiz para cambiarlo antes de arrancar. */
+function NameEditor({ name, delay, onRename }) {
+  const [editing, setEditing] = useState(false);
+  const [draft, setDraft] = useState(name);
+  const [saving, setSaving] = useState(false);
+  const [error, setError] = useState(null);
+
+  const open = () => {
+    setDraft(name);
+    setError(null);
+    setEditing(true);
+  };
+
+  async function save(e) {
+    e.preventDefault();
+    const next = draft.replace(/\s+/g, ' ').trim();
+    if (!next) return setError('Escribí un nombre');
+    if (next === name) return setEditing(false);
+    setSaving(true);
+    const res = await onRename(next);
+    setSaving(false);
+    if (res?.ok) setEditing(false);
+    else setError(res?.error ?? 'No se pudo cambiar el nombre');
+  }
+
+  if (!editing) {
+    return (
+      <span className="flex min-w-0 items-center gap-1">
+        <FlapText text={name} delay={delay} className="block min-w-0 truncate text-lg font-bold" />
+        <button
+          type="button"
+          onClick={open}
+          aria-label="Cambiar mi nombre"
+          title="Cambiar mi nombre"
+          className="focus-ring grid size-12 shrink-0 cursor-pointer place-items-center text-mute transition-colors hover:text-signal"
+        >
+          <Pencil className="size-4" aria-hidden />
+        </button>
+      </span>
+    );
+  }
+
+  return (
+    <form onSubmit={save} onKeyDown={(e) => e.key === 'Escape' && setEditing(false)} className="grid gap-1">
+      <span className="flex items-center gap-2">
+        <label htmlFor="rename-input" className="sr-only">
+          Tu nombre
+        </label>
+        <input
+          id="rename-input"
+          value={draft}
+          onChange={(e) => setDraft(e.target.value.slice(0, MAX_NAME))}
+          autoFocus
+          autoComplete="nickname"
+          enterKeyHint="done"
+          aria-invalid={Boolean(error)}
+          aria-describedby={error ? 'rename-error' : undefined}
+          className="focus-ring min-h-12 w-full min-w-0 border-2 border-signal bg-tunnel px-3 text-lg font-bold outline-none"
+        />
+        <button
+          type="submit"
+          disabled={saving}
+          aria-label="Guardar nombre"
+          className="press grid size-12 shrink-0 cursor-pointer place-items-center bg-signal text-tunnel disabled:opacity-50"
+          style={{ '--press-shadow': '#f4f2ea' }}
+        >
+          {saving ? <LoaderCircle className="size-5 animate-spin" aria-hidden /> : <Check className="size-5" aria-hidden />}
+        </button>
+        <button
+          type="button"
+          onClick={() => setEditing(false)}
+          aria-label="Cancelar"
+          className="grid size-12 shrink-0 cursor-pointer place-items-center border-2 border-rail text-chalk"
+        >
+          <X className="size-5" aria-hidden />
+        </button>
+      </span>
+      {error && (
+        <span id="rename-error" role="alert" className="text-sm font-semibold text-[#ff8a8b]">
+          {error}
+        </span>
+      )}
+    </form>
   );
 }

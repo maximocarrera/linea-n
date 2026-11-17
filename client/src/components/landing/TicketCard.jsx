@@ -37,7 +37,7 @@ export default function TicketCard({ name, setName, initialCode, onSolo, onCreat
           <p id="name-help" className="mt-2 text-sm text-mute">
             {hasName
               ? 'Así te van a ver en la sala.'
-              : 'Para crear una sala necesitás un nombre. Si te unís sin nombre, entrás como Invitado.'}
+              : 'Opcional: sin nombre entrás como Creador o Invitado, y lo cambiás en la sala.'}
           </p>
         </div>
 
@@ -63,8 +63,7 @@ export default function TicketCard({ name, setName, initialCode, onSolo, onCreat
           <button
             type="button"
             onClick={onCreate}
-            disabled={!hasName || busy}
-            aria-describedby={hasName ? undefined : 'name-help'}
+            disabled={busy}
             className="press group flex min-h-18 cursor-pointer items-center justify-between gap-4 border-2 border-chalk bg-platform-2 px-5 py-4 text-left disabled:cursor-not-allowed disabled:border-rail disabled:text-mute disabled:shadow-none"
             style={{ '--press-shadow': '#e5262f' }}
           >

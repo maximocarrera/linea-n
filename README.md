@@ -175,7 +175,7 @@ Abrí `server/data/linean.db` con cualquier editor visual de SQLite (DB Browser 
 | columna | qué es |
 | --- | --- |
 | `id` | autonumérico |
-| `category` | categoría visible, ej. `Geografía` |
+| `category` | categoría visible, ej. `Mundo` |
 | `prompt` | la consigna, ej. `Nombrá un país que empiece con B` |
 | `active` | `1` = se juega, `0` = pausada (no se borra) |
 

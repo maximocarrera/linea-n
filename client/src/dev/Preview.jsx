@@ -16,7 +16,7 @@ const players = [
   { id: 'e', name: 'Tomás', color: '#ff7a1a', score: 120, connected: true },
 ];
 const room = { code: 'KXPR', hostId: 'a', state: 'question', players };
-const question = { id: 1, category: 'Geografía', prompt: 'Nombrá un país que empiece con B', validCount: 17 };
+const question = { id: 1, category: 'Mundo', prompt: 'Nombrá un país que empiece con B', validCount: 17 };
 const crowd = [
   { id: 1, prompt: 'Nombrá un país que empiece con B', total: 214, top: [{ answer: 'Brasil', picks: 98 }], counts: { 'Benín': 3, Brasil: 98 }, answers: { b: 'Benín', c: 'Brasil' }, mine: 'Benín' },
   { id: 2, prompt: 'Nombrá una marca de alfajores argentinos', total: 87, top: [{ answer: 'Havanna', picks: 31 }], counts: { Havanna: 31 }, answers: { b: 'Havanna' }, mine: 'Havanna' },

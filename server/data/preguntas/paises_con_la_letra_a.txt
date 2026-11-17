@@ -1,0 +1,43 @@
+categoria: Mundo
+consigna: Nombrá países que empiecen con la letra A
+activa: si
+apellidos: no
+
+[10]
+Argentina
+Alemania
+Australia
+Arabia Saudita | Arabia Saudi
+Austria
+
+[30]
+Afganistan
+Albania
+Andorra
+Angola
+Argelia
+Armenia
+Azerbaiyan
+
+[60]
+Antigua y Barbuda
+Andorra
+Antartida
+Anguila
+Aruba
+Azerbaijan
+
+[100]
+Afganistan
+Albania
+Argelia
+Andorra
+Angola
+Antigua y Barbuda
+Arabia Saudita
+Argentina
+Armenia
+Aruba
+Australia
+Austria
+Azerbaiyan

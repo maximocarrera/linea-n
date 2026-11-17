@@ -1,7 +1,7 @@
-import { useEffect, useState } from 'react';
+import { useEffect, useRef, useState } from 'react';
 import { GameAdRail } from './components/AdSlot';
 import Station from './components/Station';
-import { local } from './lib/storage';
+import { local, session } from './lib/storage';
 import { useRoom } from './lib/useRoom';
 import Home from './screens/Home';
 import Lobby from './screens/Lobby';
@@ -28,6 +28,17 @@ export default function App() {
     if (mp.room && location.search) history.replaceState(null, '', location.pathname);
   }, [mp.room]);
 
+  // Link de invitación (?sala=ABCD): entra directo a la sala de espera, con el nombre guardado
+  // o, si no hay, como "Invitado N". Si la sala no existe, queda el inicio con el código cargado.
+  const autoJoined = useRef(false);
+  useEffect(() => {
+    if (autoJoined.current || initialCode.length !== 4) return;
+    autoJoined.current = true;
+    if (session.get('linean:room')?.code === initialCode) return; // ya estaba adentro: reconecta solo
+    enter(() => mp.join(initialCode, name.trim()));
+    // eslint-disable-next-line react-hooks/exhaustive-deps
+  }, []);
+
   async function enter(action) {
     setBusy(true);
     setError(null);
@@ -43,7 +54,20 @@ export default function App() {
   } else if (mp.room) {
     const { room } = mp;
     if (room.state === 'lobby') {
-      screen = <Lobby room={room} meId={mp.playerId} onStart={mp.start} onLeave={mp.leave} connected={mp.connected} />;
+      screen = (
+        <Lobby
+          room={room}
+          meId={mp.playerId}
+          onStart={mp.start}
+          onLeave={mp.leave}
+          onRename={async (newName) => {
+            const res = await mp.rename(newName);
+            if (res?.ok) setName(newName); // queda guardado para la próxima
+            return res;
+          }}
+          connected={mp.connected}
+        />
+      );
     } else if (room.state === 'finished' && mp.final) {
       screen = <MultiResults ranking={mp.final.ranking} rounds={mp.final.rounds} meId={mp.playerId} isHost={room.hostId === mp.playerId} onRestart={mp.restart} onLeave={mp.leave} />;
     } else if (mp.round) {

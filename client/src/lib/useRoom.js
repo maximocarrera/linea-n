@@ -102,6 +102,19 @@ export function useRoom() {
 
   const create = useCallback((name) => enter('room:create', { name }), [enter]);
   const join = useCallback((code, name) => enter('room:join', { code, name }), [enter]);
+  const rename = useCallback(
+    async (name) => {
+      const res = await call('room:rename', { name });
+      if (res?.ok) {
+        // Si se reconecta, que vuelva con el nombre nuevo y no con el viejo.
+        const saved = session.get(ROOM_KEY);
+        if (saved) session.set(ROOM_KEY, { ...saved, name });
+        setRoom(res.room);
+      }
+      return res;
+    },
+    [call],
+  );
   const start = useCallback(() => call('room:start'), [call]);
   const restart = useCallback(() => call('room:restart'), [call]);
   const submit = useCallback((text) => call('answer:submit', { text }), [call]);
@@ -114,5 +127,5 @@ export function useRoom() {
     setFinal(null);
   }, []);
 
-  return { playerId, connected, room, round, reveal, final, create, join, start, restart, submit, leave };
+  return { playerId, connected, room, round, reveal, final, create, join, rename, start, restart, submit, leave };
 }

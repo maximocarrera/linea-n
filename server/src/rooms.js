@@ -106,6 +106,18 @@ export class Room {
     return { ok: true, room: this.snapshot() };
   }
 
+  /** Cambia el nombre de un jugador (solo en la sala de espera). */
+  rename(playerId, name) {
+    const player = this.players.get(playerId);
+    if (!player) return { error: 'No estás en esta sala' };
+    if (this.state !== 'lobby') return { error: 'El nombre se cambia antes de arrancar' };
+    if (!name) return { error: 'Escribí un nombre' };
+    player.name = name;
+    this.touch();
+    this.broadcast();
+    return { ok: true, room: this.snapshot() };
+  }
+
   /** "Invitado N" con el número más chico libre, para quien entra sin nombre. */
   guestName() {
     const taken = new Set([...this.players.values()].map((p) => p.name));
