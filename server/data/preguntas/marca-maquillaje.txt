@@ -1,0 +1,54 @@
+categoria: Belleza y Cuidado Personal
+consigna: Nombrá marcas de maquillaje
+activa: si
+apellidos: no
+
+[10]
+Maybelline | Maybelline New York
+L'Oréal | Loreal | L'Oréal Paris
+MAC | MAC Cosmetics
+Revlon
+Rimmel | Rimmel London
+Natura | Natura Una | Natura Faces
+Avon
+Vogue
+
+[30]
+Mary Kay
+Dior
+Chanel
+Rare Beauty
+Fenty Beauty
+NYX | NYX Professional Makeup
+Clinique
+Lancôme | Lancome
+Estée Lauder | Estee Lauder
+Ruby Rose
+
+[60]
+Pink 21
+Dapop
+Tejar
+NARS
+Charlotte Tilbury
+Urban Decay
+Too Faced
+Benefit | Benefit Cosmetics
+Kylie Cosmetics
+Yves Saint Laurent | YSL
+Bobbi Brown
+Extreme | Farmacity Extreme
+
+[100]
+Get The Look
+Regina | Regina Cosmetics
+Idraet
+LACA
+Mila Marzi
+Kryolan
+Huda Beauty
+Anastasia Beverly Hills | Anastasia
+Tarte
+e.l.f. | Elf Cosmetics
+Milani
+Wet n Wild

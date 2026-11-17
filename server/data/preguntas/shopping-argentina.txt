@@ -1,0 +1,62 @@
+categoria: Argentina
+consigna: Nombrá shoppings o centros comerciales de Buenos Aires
+activa: sí
+apellidos: no
+
+[10]
+Alto Palermo
+Abasto Shopping | Abasto
+Unicenter | Unicenter Shopping
+Galerías Pacífico | Galerias Pacifico
+Dot Baires | DOT Baires Shopping | Dot
+Alcorta Shopping | Paseo Alcorta | Alcorta
+Patio Bullrich
+Tortugas Open Mall | TOM
+
+[30]
+Distrito Arcos
+Recoleta Urban Mall | Recoleta Mall
+Caballito Shopping | Caballito Shopping Center
+Devoto Shopping
+El Solar | El Solar de la Abadía | El Solar de la Abadia
+Alto Avellaneda
+Plaza Oeste Shopping | Plaza Oeste
+San Justo Shopping
+Soleil Premium Outlet
+Norcenter | Norcenter Lifestyle Mall
+
+[60]
+Al Oeste Shopping
+Bahía Blanca Plaza Shopping
+Boulevard Shopping | Boulevard Shopping Adrogué
+Cariló Mall | Shopping Carilo
+Centro Comercial del Puerto | Centro Comercial Puerto
+Factory Parque Brown
+Factory Quilmes
+Factory San Martín
+Las Palmas del Pilar
+Lomas Center | Portal Lomas
+Los Gallegos Shopping | Los Gallegos
+Maschwitz Mall
+Moreno Shopping Center
+Nine Shopping
+Parque Avellaneda Shopping
+Pasaje Rodrigo
+Paseo Aldrey
+Paseo Champagnat
+Paseo del Sol
+Paseo Pilar
+Paseo Plaza Canning
+Portal Escobar
+Portal Palermo
+Portal Quilmes | Nuevo Quilmes Plaza
+Remeros Plaza
+Terrazas de Mayo
+
+[100]
+La Delicia Paseo de Compras
+La Plata Soho | Soho La Plata
+Paseo Las Palmas | Paseo la Aldea | Paseo de las Palmeras
+Shopping Peatonal | Peatonal Mar del Plata
+Torres del Sol | Torres del Sol Pilar
+Spinetto Shopping

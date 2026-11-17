@@ -1,0 +1,46 @@
+categoria: Belleza y Cuidado personal
+consigna: Nombrá productos o artículos de maquillaje
+activa: si
+apellidos: no
+
+[10]
+Delineador | Delineador de ojos
+Labial | Pintalabios | Lápiz labial | Lapiz labial
+Rímel | Rimel | Máscara de pestañas | Mascara de pestanas
+Base | Base de maquillaje
+Rubor | Colorete | Blush
+Corrector | Corrector de ojeras
+Sombra | Sombra de ojos | Paleta de sombras
+Polvo compacto | Polvo
+
+[30]
+Iluminador | Highlighter
+Brillo labial | Gloss | Lip gloss
+Bálsamo labial | Balsamo labial | Manteca de cacao
+Delineador de labios | Perfilador de labios
+Bronceador | Bronzer | Polvo bronceador
+Polvo traslúcido | Polvo translucido | Polvo volátil | Polvo volatil
+Contorno | Contour | Contouring
+Fijador de maquillaje | Spray fijador | Bruma fijadora
+Agua micelar | Desmaquillante
+
+[60]
+Primer | Prebase
+Lápiz de cejas | Lapiz de cejas
+Gel de cejas | Fijador de cejas
+BB Cream
+Tinta de labios | Tinta labial | Lip tint
+Sombra líquida | Sombra liquida | Sombra en crema
+Pestañas postizas | Pestanas postizas
+Arqueador de pestañas | Rizador de pestañas | Arqueador
+Esponja de maquillaje | Beauty blender | Esponjita
+
+[100]
+CC Cream
+Prebase de sombras | Primer de ojos
+Pomada de cejas
+Jabón para cejas | Brow soap
+Voluminizador de labios | Lip plumper
+Aceite labial | Lip oil
+Lápiz kajal | Kajal
+Polvo de hadas

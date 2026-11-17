@@ -1,0 +1,71 @@
+categoria: Animales
+consigna: Nombrá razas de perro
+activa: si
+apellidos: no
+
+[10]
+Labrador | Labrador Retriever
+Golden | Golden Retriever
+Caniche | Poodle | Caniche Toy
+Bulldog francés | Bulldog frances
+Bulldog inglés | Bulldog ingles | Bulldog
+Chihuahua
+Pastor alemán | Pastor aleman | Ovejero alemán | Ovejero aleman
+Salchicha | Dachshund | Teckel
+Beagle
+Rottweiler
+Pitbull | American Pit Bull Terrier
+Boxer | Bóxer
+Dálmata | Dalmata
+Husky | Husky siberiano | Siberiano
+
+[30]
+Yorkshire | Yorkshire Terrier
+Shih Tzu
+Pug | Carlino
+Cocker | Cocker Spaniel
+Border Collie
+Doberman | Dóberman
+San Bernardo
+Gran Danés | Gran Danes | Dogo alemán
+Schnauzer
+Jack Russell | Jack Russell Terrier
+Maltés | Bichón maltés | Bichon maltes
+Galgo
+Pomerania | Spitz enano
+Chow Chow
+Akita | Akita Inu
+
+[60]
+Dogo argentino | Dogo
+Shar Pei
+Bull Terrier
+Corgi | Welsh Corgi
+Weimaraner | Braco de Weimar
+Basset Hound
+Terranova
+Mastín napolitano | Mastin napolitano
+Samoyedo
+Malamute | Alaskan Malamute
+Fox Terrier
+Boston Terrier
+Westie | West Highland White Terrier
+Shiba Inu
+Setter irlandés | Setter irlandes
+
+[100]
+Cane Corso
+Vizsla | Braco húngaro
+Basenji
+Lhasa Apso
+Pekinés | Pekines
+Pointer | Pointer inglés
+Afgano | Lebrel afgano
+Komondor
+Borzoi
+Perro sin pelo del Perú | Perro peruano
+Xoloitzcuintle
+Cimarrón uruguayo | Cimarron uruguayo
+Boyero de Berna
+Pastor australiano | Australian Shepherd
+Malinois | Pastor belga malinois

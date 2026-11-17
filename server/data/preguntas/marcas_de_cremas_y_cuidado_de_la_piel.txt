@@ -1,0 +1,46 @@
+categoria: Belleza y Cuidado Personal
+consigna: Nombrá marcas de cremas corporales y cuidado de la piel
+activa: si
+apellidos: no
+
+[10]
+Nivea
+Dove
+Dermaglós | Dermaglos
+Bagóvit | Bagovit
+CeraVe
+La Roche-Posay | La Roche Posay
+Eucerin
+Cetaphil
+
+[30]
+Neutrogena
+Hinds
+St. Ives
+Pond's | Ponds
+Cicatricure
+Vichy
+Avene | Avène
+Bioderma
+Isdin
+
+[60]
+Vaselina | Vaseline
+Jergens
+Bio-Oil
+A-Derma
+Ducray
+SebaMed | Sebamed
+Kiehl's | Kiehls
+Clinique
+Clarins
+
+[100]
+Palmer's | Palmers
+Weleda
+Burt's Bees | Burts Bees
+Ahava
+Dr. Hauschka
+L'Occitane | Loccitane
+Biotherm
+Episkin

@@ -1,4 +1,4 @@
-categoria: General
+categoria: Belleza y Cuidado personal
 consigna: Nombrá marcas de shampoo o cuidado capilar
 activa: si
 apellidos: no

@@ -1,0 +1,48 @@
+categoria: Belleza y Cuidado Personal
+consigna: Nombrá famosas que tengan su propia marca de maquillaje
+activa: si
+apellidos: no
+
+[10]
+Rihanna
+Selena Gomez
+Kylie Jenner
+Kim Kardashian
+Lady Gaga
+Ariana Grande
+Hailey Bieber
+Wanda Nara
+
+[30]
+Jennifer Lopez | JLo
+Madonna
+Victoria Beckham
+Jessica Alba
+Drew Barrymore
+Gwen Stefani
+Paris Hilton
+Tini Stoessel | Tini
+Moria Casán | Moria Casan
+
+[60]
+Millie Bobby Brown
+Halsey
+Alicia Keys
+Katy Perry
+Becky G
+Camila Coelho
+Chiara Ferragni
+Pampita | Carolina Ardohain
+Guillermina Valdés | Guillermina Valdes
+
+[100]
+Salma Hayek
+Miranda Kerr
+Eva Mendes
+Rosie Huntington-Whiteley
+Jessica Simpson
+Lauren Conrad
+Iman
+Kat Von D
+Jeffree Star
+NikkieTutorials | Nikkie de Jager

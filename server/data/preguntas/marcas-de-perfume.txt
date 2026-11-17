@@ -1,0 +1,54 @@
+categoria: Belleza y Cuidado Personal
+consigna: Nombrá marcas de perfume
+activa: si
+apellidos: no
+
+[10]
+Carolina Herrera
+Paco Rabanne | Rabanne
+Chanel
+Dior | Christian Dior
+Yves Saint Laurent | YSL
+Jean Paul Gaultier
+Giorgio Armani | Armani
+Calvin Klein
+
+[30]
+Versace
+Dolce & Gabbana | Dolce and Gabbana
+Lancôme | Lancome
+Ralph Lauren
+Hugo Boss
+Kenzo
+Bvlgari
+Marc Jacobs
+Gucci
+Tom Ford
+
+[60]
+Natura
+Antonio Banderas
+Kevin
+Colbert
+Agatha Ruiz de la Prada
+Benetton
+Paula Cahen d'Anvers
+Cher | Sibilia Cher
+Prada
+Valentino
+Burberry
+Givenchy
+
+[100]
+Creed
+Parfums de Marly
+Juliette Has a Gun
+Maison Francis Kurkdjian
+Moschino
+cacharel
+Elizabeth Arden
+Kenzo
+Kenzo Paris
+Kenzo
+Issey Miyake
+Narciso Rodriguez

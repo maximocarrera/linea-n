@@ -9,11 +9,15 @@ consigna: Nombrá un jugador que haya ganado el Balón de Oro
 activa: si
 apellidos: si
 
+[7]
+Cristiano Ronaldo | CR7
+
+[9]
+Ronaldo Nazário | Ronaldo | Fenómeno
+
 [10]
 Lionel Messi | Leo Messi
-Cristiano Ronaldo | CR7
 Ronaldinho
-Ronaldo Nazário | Ronaldo | Fenómeno
 Zinedine Zidane | Zizou
 Kaká
 Luka Modrić

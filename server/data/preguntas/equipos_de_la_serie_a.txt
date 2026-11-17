@@ -1,0 +1,38 @@
+categoria: Futbol
+consigna: Nombrá equipos de la Serie A de Italia
+activa: sí
+apellidos: no
+
+[10]
+Inter de Milán | Inter Milán | Inter
+Milan | AC Milan | Milan AC
+Juventus | Juventus de Turín
+Napoli | SSC Napoli | Nápoles
+Roma | AS Roma
+Lazio | SS Lazio
+
+[30]
+Atalanta | Atalanta de Bérgamo
+Fiorentina | ACF Fiorentina
+Bologna | Bolonia
+Torino
+Udinese
+Genoa
+
+[60]
+Parma
+Monza | AC Monza
+Cagliari
+Lecce
+Sassuolo
+Como | Calcio Como
+
+[100]
+Frosinone | Frosinone Calcio
+Venezia | Venecia
+Verona | Hellas Verona
+Empoli
+Salernitana
+Spezia
+Sampdoria
+Benevento

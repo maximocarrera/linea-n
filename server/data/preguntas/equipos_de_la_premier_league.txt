@@ -1,0 +1,44 @@
+categoria: Futbol
+consigna: Nombrá equipos de la Premier League de Inglaterra
+activa: si
+apellidos: no
+
+[10]
+Manchester City
+Manchester United
+Liverpool
+Arsenal
+Chelsea
+Tottenham Hotspur | Tottenham
+Aston Villa
+Newcastle United
+
+[30]
+Everton
+West Ham United | West Ham
+Brighton & Hove Albion | Brighton
+Crystal Palace
+Fulham
+Brentford
+Bournemouth
+Nottingham Forest
+
+[60]
+Wolverhampton Wanderers | Wolves
+Leicester City
+Southampton
+Ipswich Town
+Leeds United
+Burnley
+Sheffield United
+West Bromwich Albion
+
+[100]
+Sunderland
+Norwich City
+Watford
+Crystal Palace
+Stoke City
+Swansea City
+Middlesbrough
+Hull City

@@ -1,0 +1,46 @@
+categoria: Belleza y Cuidado Personal
+consigna: Nombrá productos de skincare o cuidado facial
+activa: si
+apellidos: no
+
+[10]
+Crema hidratante | Crema humectante
+Protector solar | Bloqueador solar | Filtro solar
+Agua micelar
+Limpiador facial | Gel de limpieza | Espuma de limpieza
+Exfoliante | Exfoliante facial | Scrub
+Mascarilla | Mascarilla facial | Mask
+Sérum | Serum | Suero facial
+Contorno de ojos | Crema para ojeras
+
+[30]
+Tónico | Tonico | Tónico facial | Tonico facial
+Desmaquillante | Leche desmaquillante | Bifásico | Bifasico
+Ácido hialurónico | Acido hialuronico
+Vitamina C
+Bálsamo labial | Balsamo labial | Hidratante de labios
+Toallitas desmaquillantes | Toallitas húmedas
+Parches para ojeras | Parches de hidrogel
+Crema antiage | Crema antiedad | Crema antiarrugas
+
+[60]
+Retinol
+Niacinamida
+Ácido salicílico | Acido salicilico
+Ácido glicólico | Acido glicolico
+Bruma facial | Agua termal | Mist
+Aceite facial | Óleo facial | Oleo facial
+Bálsamo limpiador | Balsamo limpiador | Cleansing balm
+Parches para granitos | Parches hidrocoloides | Pimple patches
+Crema nutritiva
+Crema nocturna | Crema de noche
+
+[100]
+Esencia | Esencia facial | Essence
+Peeling | Peeling químico | Peeling enzimático
+Ácido azelaico | Acido azelaico
+Centella asiática | Centella asiatica
+Mascarilla de arcilla | Mascarilla de carbón
+Tónico exfoliante | Tonico exfoliante
+Emulsión hidratante | Emulsion hidratante
+Gel post solar | Post solar

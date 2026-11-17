@@ -1,0 +1,51 @@
+categoria: Belleza y Cuidado Personal
+consigna: Nombrá marcas de productos de skincare o cuidado facial
+activa: si
+apellidos: no
+
+[10]
+CeraVe
+La Roche-Posay | La Roche Posay
+Eucerin
+Neutrogena
+Nivea
+Vichy
+Cetaphil
+L'Oréal | Loreal | L'Oreal Paris
+
+[30]
+Dermaheal | Dermaglós | Dermaglos
+Avene | Avène
+Bioderma
+Isdin
+The Ordinary
+Garnier | Garnier SkinActive
+Paula's Choice
+Bio-Oil
+Kiehl's | Kiehls
+
+[60]
+Clinique
+SebaMed | Sebamed
+Ducray
+A-Derma
+Lancôme | Lancome
+Clarins
+Biossance
+Laneige
+Inkey List | The Inkey List
+Drunk Elephant
+
+[100]
+Cerave | Dr. Jart+
+Cosrx
+Beauty of Joseon
+Anua
+Tatcha
+Summer Fridays
+Glow Recipe
+Murad
+Sunday Riley
+Paulas Choice
+Skinceuticals | SkinCeuticals
+Obagi
