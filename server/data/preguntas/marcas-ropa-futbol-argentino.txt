@@ -1,0 +1,30 @@
+categoria: Futbol
+consigna: Nombrá marcas de indumentaria de la Liga Argentina 2026.
+activa: si
+apellidos: no
+
+[10]
+Adidas
+Kappa
+Umbro
+Puma
+Le Coq Sportif
+
+[30]
+Macron
+Givova
+Ruge
+Hummel
+Fiume
+
+[60]
+Atomik
+Lyon | Sport Lyon
+KDY
+Aifit
+Adhoc
+
+[100]
+Coach
+Mitre
+Il Ossso

@@ -1,0 +1,45 @@
+categoria: Cine
+consigna: Nombrá películas en las que actuó Robert Pattinson
+activa: si
+apellidos: no
+imagen: https://commons.wikimedia.org/wiki/File:MJK_08789_Robert_Pattinson_(Damsel,_Berlinale_2018)_(cropped).jpg
+
+[10]
+Crepúsculo | Twilight
+Harry Potter y el cáliz de fuego | Harry Potter and the Goblet of Fire
+The Batman | Batman
+Luna nueva | The Twilight Saga: New Moon | Crepúsculo: Luna nueva
+Eclipse | The Twilight Saga: Eclipse | Crepúsculo: Eclipse
+Amanecer | Amanecer - Parte 1 | Amanecer - Parte 2 | Breaking Dawn
+Tenet
+
+[30]
+El faro | The Lighthouse
+Agua para elefantes | Water for Elephants
+Recuérdame | Remember Me
+Mickey 17
+El diablo a todas horas | The Devil All the Time
+El niño y la garza | The Boy and the Heron | El chico y la garza
+El rey | The King
+
+[60]
+Good Time | Viviendo al límite
+Z: La ciudad perdida | The Lost City of Z
+Cosmópolis | Cosmopolis
+High Life
+Bel Ami
+La reina del desierto | Queen of the Desert
+La odisea | The Odyssey
+
+[100]
+The Rover | El cazador
+Maps to the Stars | Polvo de estrellas
+Life | Life: La vida de James Dean
+The Childhood of a Leader | La infancia de un líder
+Damsel
+Waiting for the Barbarians | Esperando a los bárbaros
+Little Ashes | Sin límites
+How to Be
+The Summer House
+Die, My Love
+PRIMETIME

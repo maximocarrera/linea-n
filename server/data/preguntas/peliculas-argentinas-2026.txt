@@ -1,0 +1,191 @@
+# Línea N · una pregunta por archivo. Después de editar: npm run db:import
+# Un nombre por renglón. Variantes con |   (título completo | título corto)
+# Estrenos argentinos de 2026 según cinenacional.com/listados/estrenos/2026 (enero a noviembre,
+# copiado el 16/11/2026). Cuando se estrenen las de diciembre, sumarlas acá.
+# Niveles: [10] las más vistas o con más prensa · [30] con algo de difusión · [100] el resto
+
+categoria: Cine
+consigna: Nombrá una película argentina estrenada en 2026
+activa: si
+apellidos: no
+
+[10]
+Parque Lezama
+Yo, narciso
+Barreda
+Nada entre los dos
+El último gigante
+Pepita, la pistolera | Pepita la pistolera
+Yiya Murano: Muerte a la hora del té | Yiya Murano
+Lo dejamos acá
+¿Querés ser mi hijo? | Querés ser mi hijo
+Fito Páez: El mundo cabe en una canción | El mundo cabe en una canción
+Recen por mí: La historia de Francisco | Recen por mí
+
+[30]
+La caja azul
+La virgen de la tosquera
+Nuestra tierra
+Biografía de Jorge Luis Borges
+La casaca de Dios
+Hot Line | Hotline
+Lu & Pau | Lu y Pau
+El susurro
+Cuatro estrellas | 4 estrellas
+El último viaje a China
+Lipán
+Tangalanga contraataca: En busca del O.G.T. de cristal | Tangalanga contraataca
+The Souffleur
+Tenemos que hablar
+Los niños
+El tema del verano
+Viejos malditos
+Sí, cambio
+Los días chinos
+Volver a los 17 | Volver a los diecisiete
+Hijo mayor
+Encuentro Coleman. Qué suerte que esta noche voy a verte | Encuentro Coleman
+Susana Rinaldi, libre
+Playa de Lobos
+Violeta Rauch
+Un futuro brillante
+Pin de Fartie
+Éramos tan flacos
+Los calvos
+Lo malo del amor
+
+[100]
+Norberto
+Patrulla del clima
+Saint Catherine
+La última enseñanza
+Nuestra cosa perdida
+The Bewilderment of Chile
+300 cartas | Trescientas cartas
+En el cine
+La noche está marchándose ya
+Abrazando la Patagonia
+Manuelita, ¿dónde estás? | Manuelita dónde estás
+LS83
+Nene revancha
+No preguntes
+Algo ha cambiado: Un viaje quijotesco al blues local | Algo ha cambiado
+La biblioteca de todas las cosas posibles
+Olivia
+Solo fanáticos
+Soy tu mensaje
+Conadepianos. La historia del NUNCA MÁS contada por sus trabajadores | Conadepianos
+El arquero inocente. Entre la gloria y el infierno | El arquero inocente
+Argentina sangra. Por las barrancas del río Paraná | Argentina sangra
+76 89 23
+Pensamiento lateral
+Patria o colonia
+De Troya a Malvinas
+Los sueños de Elma: Historia de una madre de Malvinas | Los sueños de Elma
+Malvinas, legado de sangre
+Teniente Linyera
+Un susurro invocó mi nombre
+Bardogento
+Dinamogramas, el arte de la memoria | Dinamogramas
+La mujer del río
+Memoria de una madre
+Risa y la cabina del viento
+Dreamflow, la escuela está en peligro | Dreamflow
+Instante
+Una y mil veces
+Hasta que la verdad los separe
+La frecuencia Kirlian
+Plata o mierda
+Una canción para mi tierra
+Rocambole en el camino
+Emi
+Jota Urondo, un cocinero impertinente | Jota Urondo
+Amor travesti
+Lo habrás imaginado
+Nuestros días en mi memoria. Una película sobre Estelares | Nuestros días en mi memoria
+Crónicas de un exilio
+El partido
+Nico
+La espera
+La pintura del futuro
+Las escaleras de Luli
+Para hacer una película solo hace falta un arma
+Vidas imaginarias
+Matria
+Los bobos
+Tristán y los días por venir
+Una directora extraordinaria
+Conociendo la raíz
+Los días posibles - Trilogía sobre la ternura | Los días posibles
+Negro che, negro usted. Quince años después | Negro che, negro usted
+Una chica invisible
+Recuperar un futuro
+Brücher, Crónica Botánica Inaudita | Brücher
+Cuarto oscuro
+Los Lagos
+Los caminantes de la calle
+Colores perdidos
+El club de pesca
+Retazos de la memoria
+Tres noches al año
+La mujer de fuego
+La tierra explota
+Marianela & el cadáver | Marianela y el cadáver
+Ahí donde no estás
+Canelones
+El mundo al revés
+Xul
+A metros de distancia
+El punto. Un documental sobre Ismael Quiles | El punto
+Sin ley
+Tierra Citrus
+Un trago de infierno
+Los nadadores
+CIN3 FILI4 | Cinefilia
+El temblor
+La casa del minotauro
+Los vencedores
+Queda en mí
+Suite Juárez
+Hornos sin fronteras
+Romeo y Ofelia
+Islandia
+Desobediente
+Recordá esto
+Bajo tus pies
+Encantador
+Hospital Británico
+Soy ella
+Escondida en mi cabeza
+Hangar rojo
+Retrato de un pianista
+Una película de Parque Chas
+Abeja
+El tren fluvial
+La casa
+Todo va mal
+Annemarie
+Machado
+Autopista América 2000
+Cordobeces, la película | Cordobeces
+Diciembre
+Lo que trajo la tormenta
+El camino contrario
+No matar
+Militante
+4 historias increíbles | Cuatro historias increíbles
+Pertenencias
+Museo de la subversión
+Desentierros. Los libros que no heredamos | Desentierros
+El fantasma
+El agua nunca dolió
+El llanto del perro
+Indómita luz
+Perfume
+Carne
+Escritor
+Bichos del mar
+Prince
+Qonoq: Lo que comemos nosotros | Qonoq
+Winnipeg, el barco de la esperanza | Winnipeg
+Cuento de verano
