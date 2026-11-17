@@ -1,0 +1,36 @@
+categoria: Cine
+consigna: Nombrá películas o series en las que actuó Jacob Elordi
+activa: si
+apellidos: no
+imagen: https://commons.wikimedia.org/wiki/File:FrankensteinBFILFF131025-49_(54862574972)_(cropped).jpg
+
+[10]
+Euphoria
+El stand de los besos | The Kissing Booth | Mi primer beso
+Saltburn
+Priscilla
+
+[30]
+El stand de los besos 2 | The Kissing Booth 2 | Mi primer beso 2
+El stand de los besos 3 | The Kissing Booth 3 | Mi primer beso 3
+Frankenstein
+Aguas profundas | Deep Water
+Prueba de amor | 2 corazones | Dos corazones
+
+[60]
+Historias de la morgue | The Mortuary Collection
+The Sweet East
+Oh, Canada
+Swinging Safari | Hecho en Australia
+El camino estrecho | The Narrow Road to the Deep North
+Cumbres Borrascosas | Wuthering Heights
+
+[100]
+La constelación del perro
+Indomables
+The History of Concrete
+Euphoria: Echando la vista atrás
+Frankenstein: Una lección de anatomía
+De viaje con mi asesino | On Swift Horses
+El Muy Excelente Sr. Dundee | The Very Excellent Mr. Dundee
+Parallel

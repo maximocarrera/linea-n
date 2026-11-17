@@ -1,7 +1,9 @@
-categoria: Cine Argentino
+categoria: Cine 
 consigna: Nombra una película de Guillermo Francella
 activa: si
 apellidos: no
+imagen: https://commons.wikimedia.org/wiki/File:Guillermo_Francella_en_Premios_Platino_2023.jpg
+
 
 [10]
 El secreto de sus ojos | El secreto de sus ojos

@@ -1,0 +1,44 @@
+categoria: General
+consigna: Nombrá marcas de shampoo o cuidado capilar
+activa: si
+apellidos: no
+
+[10]
+Pantene
+Sedal
+Head & Shoulders | Head and Shoulders
+Dove
+Elvive | L'Oréal Elvive | Loreal Elvive
+Plusbelle
+TRESemmé | Tresemme
+
+[30]
+Garnier | Fructis | Garnier Fructis
+Suave
+Capilatis
+Tío Nacho | Tio Nacho
+Johnson's Baby | Johnsons | Johnson's
+Herbal Essences
+Biferdil
+
+[60]
+Natura | Natura Lumina | Natura Plant
+Kérastase | Kerastase
+Vichy | Vichy Dercos
+Eucerin
+La Roche-Posay | La Roche Posay
+Schwarzkopf
+Wella
+L'Oréal Professionnel | Loreal Professionnel
+
+[100]
+Issue
+Alfaparf
+Moroccanoil
+Olaplex
+Redken
+Biolage
+Silkey
+Vo5 | Alberto VO5
+Clear
+Pert Plus

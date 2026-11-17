@@ -1,0 +1,33 @@
+categoria: Cine
+consigna: Nombrá películas en las que actuó Michael B. Jordan
+activa: si
+apellidos: no
+imagen: https://commons.wikimedia.org/wiki/File:Michael_B._Jordan_in_2017_by_Gage_Skidmore.jpg
+
+[10]
+Pantera Negra | Black Panther
+Creed | Creed: Corazón de campeón | Creed. La leyenda de Rocky
+Creed II | Creed 2 | Creed II: Defendiendo el legado
+Creed III | Creed 3
+Pantera Negra: Wakanda por siempre | Black Panther: Wakanda Forever
+
+[30]
+Poder sin límites | Chronicle
+Los 4 Fantásticos | Fantastic Four
+Buscando justicia | Just Mercy | Cuestión de justicia
+Sin remordimientos | Without Remorse
+Sinners | Pecadores
+
+[60]
+Fruitvale Station | Estación Fruitvale
+Las novias de mis amigos | That Awkward Moment
+Fahrenheit 451
+Un diario para Jordan | A Journal for Jordan
+Red Tails | Escuadrón rojo
+
+[100]
+Hardball | El juego de la vida
+Pastor Brown
+Hotel Noir
+Kin
+Black and White

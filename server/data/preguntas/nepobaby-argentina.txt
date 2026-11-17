@@ -1,0 +1,98 @@
+categoria: Argentina
+consigna: Nombra un nepo baby(famosos con padres famosos) de Argentina.
+activa: si
+apellidos: no
+
+[10]
+Chino Darín | Chino Darin | Darín | Darin
+Dalma Maradona | Maradona
+Gianinna Maradona | Gianina Maradona | Maradona
+Tini Stoessel | Tini | Martina Stoessel | Stoessel
+Oriana Sabatini | Sabatini
+Cande Tinelli | Candelaria Tinelli | Lelé | Tinelli
+Juana Tinelli | Juanita Tinelli | Tinelli
+Mica Tinelli | Micaela Tinelli | Tinelli
+Charlotte Caniggia | Caniggia
+Alex Caniggia | Alexander Caniggia | Caniggia
+Fede Bal | Federico Bal | Bal
+Sofía Gala | Sofia Gala | Sofía Gala Castiglione
+Juana Viale | Viale
+Nacho Viale | Viale
+Nicolás Francella | Nico Francella | Francella
+Ángela Torres | Angela Torres | Torres
+Diego Torres | Torres
+Marcela Tinayre | Tinayre
+
+[30]
+Dante Spinetta | Spinetta
+Benito Cerati | Cerati
+Nazareno Casero | Casero
+Minerva Casero | Casero
+Julieta Ortega | Ortega
+Sebastián Ortega | Sebastian Ortega | Ortega
+Emanuel Ortega | Ortega
+Rosario Ortega | Ortega
+Bárbara Vélez | Barbie Vélez | Barbie Velez | Vélez
+Lola Latorre | Latorre
+Diego Leuco | Leuco
+Jonatan Viale | Jony Viale | Viale
+Mauro Viale | Viale
+Stefi Roitman | Stefania Roitman | Roitman
+Juli Castro | Julieta Castro | Castro
+Tiziano Gravier | Gravier
+Balthazar Gravier | Gravier
+Giovanni Simeone | Gio Simeone | Simeone
+Giuliano Simeone | Simeone
+Gianluca Simeone | Simeone
+Romina Yan | Yan
+Tomás Yankelevich | Tomas Yankelevich | Yankelevich
+
+[60]
+Vera Spinetta | Spinetta
+Valentino Spinetta | Spinetta
+Catarina Spinetta | Spinetta
+Manuela Pal | Pal
+Florencia Torrente | Flor Torrente | Torrente
+Toto Kirzner | Tomás Kirzner | Kirzner
+Margarita Páez | Margarita Paez | Páez | Paez
+Malena Narvay | Narvay
+Clara Darín | Clara Darin | Darín | Darin
+Juanita Repetto | Juana Repetto | Repetto
+Bautista Lena | Lena
+Muna Pauls | Muna Pauls Cherri | Pauls
+Homero Pettinato | Pettinato
+Tamara Pettinato | Pettinato
+Felipe Pettinato | Pettinato
+Vitto Saravia | Saravia
+Mia Cambiaso | Mía Cambiaso | Cambiaso
+Poroto Cambiaso | Adolfo Cambiaso hijo | Cambiaso
+Lucía Celasco | Lucia Celasco | Celasco
+Franco Masini | Masini
+Mora Godoy | Godoy
+Paloma Cepeda | Cepeda
+
+[100]
+Emme | Mariela Vitale | Vitale
+Lisa Cerati | Cerati
+Vida Spinetta | Spinetta
+Angelo Mutti Spinetta | Mutti Spinetta
+Guadalupe Mujica Cerati | Mujica Cerati
+Ámbar de Benedictis | Ambar de Benedictis | De Benedictis
+Rocco De Benedictis | De Benedictis
+Silvestre Valenzuela | Valenzuela
+Alí Valenzuela | Ali Valenzuela | Valenzuela
+Dante Della Paolera | Della Paolera
+Helena Tuñón | Helena Tunon | Tuñón
+Valentín Yankelevich | Valentin Yankelevich | Yankelevich
+Azul Yankelevich | Yankelevich
+Franco Yankelevich | Yankelevich
+Martín Pugliese | Pugliese
+Taína Gravier | Taina Gravier | Gravier
+Benicio Gravier | Gravier
+Sienna Cubero | Cubero
+Indiana Cubero | Cubero
+Allegra Cubero | Cubero
+Mía Martin | Mia Martin | Martin
+Matías Martin hijo | Alejo Martin | Martin
+Nicanor Santilli Pazos | Santilli Pazos
+Malek El Bacha | El Bacha

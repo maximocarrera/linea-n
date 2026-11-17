@@ -1,0 +1,170 @@
+categoria: Argentina
+consigna: Nombrá personajes argentinos que tengan película, serie o documental biográfico
+activa: si
+apellidos: no
+
+[10]
+Diego Maradona | Maradona
+Lionel Messi | Messi
+Eva Perón | Evita | Eva Peron
+Carlos Gardel | Gardel
+Fito Páez | Fito Paez | Páez | Paez
+Sandro | Roberto Sánchez
+Gilda | Miriam Alejandra Bianchi
+Rodrigo Bueno | El Potro | Rodrigo
+Charly García | Charly Garcia | García | Garcia
+Gustavo Cerati | Cerati
+Luis Alberto Spinetta | Spinetta
+Carlos Monzón | Carlos Monzon | Monzón | Monzon
+Carlos Menem | Menem
+Ernesto Guevara | Che Guevara | El Che
+Papa Francisco | Jorge Bergoglio | Francisco
+Moria Casán | Moria | Casán | Casan
+Juan Domingo Perón | Perón | Peron
+José de San Martín | San Martín | San Martin
+Manuel Belgrano | Belgrano
+Jorge Luis Borges | Borges
+René Favaloro | Favaloro | Rene Favaloro
+Ángel Di María | Di María | Di Maria
+Manu Ginóbili | Emanuel Ginóbili | Ginóbili | Ginobili
+Susana Giménez | Susana | Giménez | Gimenez
+Mirtha Legrand | Mirtha | Legrand
+Sergio Agüero | Kun Agüero | Agüero | Aguero
+Carlos Tevez | Tevez | Tévez
+Lali Espósito | Lali | Espósito | Esposito
+Tini Stoessel | Tini | Stoessel
+Duki | Mauro Lombardo
+Bizarrap | BZRP
+Emiliano Martínez | Dibu Martínez | Dibu | Martínez | Martinez
+Franco Colapinto | Colapinto
+
+[30]
+Andrés Calamaro | Calamaro | Andres Calamaro
+Oscar Bonavena | Ringo Bonavena | Bonavena
+Cris Miró | Cris Miro | Miró | Miro
+Guillermo Coppola | Coppola
+Tanguito | José Alberto Iglesias
+Astor Piazzolla | Piazzolla
+Mercedes Sosa | La Negra Sosa | Sosa
+Luca Prodan | Prodan
+Indio Solari | Carlos Solari | Solari
+Skay Beilinson | Beilinson
+Tita Merello | Merello
+Alberto Olmedo | Olmedo
+Carlos Salvador Bilardo | Carlos Bilardo | Bilardo
+Juan Manuel Fangio | Fangio
+Guillermo Vilas | Vilas
+Gabriela Sabatini | Sabatini
+Sergio Martínez | Maravilla Martínez | Martínez | Martinez
+Julio César Strassera | Strassera
+Raúl Alfonsín | Alfonsín | Alfonsin
+Néstor Kirchner | Kirchner | Nestor Kirchner
+Alberto Nisman | Nisman
+Domingo Faustino Sarmiento | Sarmiento
+Julio Cortázar | Cortázar | Cortazar
+Carlos Robledo Puch | Robledo Puch
+Arquímedes Puccio | Puccio
+Nahir Galarza | Galarza
+María Marta García Belsunce | García Belsunce
+Ricardo Barreda | Barreda
+José Luis Cabezas | Cabezas
+Fernando Báez Sosa | Báez Sosa | Baez Sosa
+Nacha Guevara | Guevara
+Luisana Lopilato | Lopilato
+Wanda Nara | Nara
+Gustavo Santaolalla | Santaolalla
+Atahualpa Yupanqui | Yupanqui
+Aníbal Troilo | Pichuco | Troilo
+Osvaldo Pugliese | Pugliese
+Niní Marshall | Marshall | Nini Marshall
+Enrique Pinti | Pinti
+Antonio Gasalla | Gasalla
+Norma Aleandro | Aleandro
+Alfredo Alcón | Alcón | Alcon
+Leonardo Favio | Favio
+Palito Ortega | Ortega
+Nicki Nicole
+Trueno | Mateo Palacios
+Diego Simeone | Cholo Simeone | Simeone
+Marcelo Bielsa | Bielsa
+Alfredo Di Stéfano | Di Stéfano | Di Stefano
+Mario Alberto Kempes | Mario Kempes | Kempes
+Daniel Passarella | Passarella
+César Luis Menotti | César Menotti | Menotti
+Juan Martín del Potro | Del Potro
+David Nalbandian | Nalbandian
+Luciana Aymar | Lucha Aymar | Aymar
+Luis Scola | Scola
+Carlos Reutemann | Reutemann
+Estela de Carlotto | Carlotto
+Hebe de Bonafini | Bonafini
+Padre Carlos Mugica | Carlos Mugica | Mugica
+Gauchito Gil | Antonio Gil
+Hipólito Yrigoyen | Yrigoyen | Hipolito Yrigoyen
+
+[60]
+Enrique Santos Discépolo | Discépolo | Discepolo
+Guillermo Pérez Roldán | Pérez Roldán | Perez Roldan
+Nicolino Locche | Locche
+José Meolans | Meolans | Jose Meolans
+Rodolfo Walsh | Walsh
+Facundo Quiroga | Quiroga
+Juan Manuel de Rosas | Rosas
+Martín Miguel de Güemes | Güemes | Guemes
+Ernesto Sabato | Sabato | Sábato
+Marta Minujín | Minujín | Minujin
+Antonio Berni | Berni
+Alejandra Pizarnik | Pizarnik
+Alfonsina Storni | Storni
+Yiya Murano | Murano
+Lolita Torres | Torres
+Pino Solanas | Fernando Solanas | Solanas
+Rodolfo Bebán | Bebán | Beban
+Enrique Omar Sívori | Omar Sívori | Sívori | Sivori
+Paula Pareto | Peque Pareto | Pareto
+Santiago Lange | Lange
+Agustín Pichot | Pichot | Agustin Pichot
+Hugo Porta | Porta
+Horacio Pagani | Pagani
+Victoria Ocampo | Ocampo
+Adolfo Bioy Casares | Bioy Casares
+Roberto Arlt | Arlt
+Horacio Quiroga | Quiroga
+Osvaldo Bayer | Bayer
+César Milstein | Milstein | Cesar Milstein
+Bernardo Houssay | Houssay
+Luis Federico Leloir | Leloir
+Azucena Villaflor | Villaflor
+Ceferino Namuncurá | Namuncurá | Namuncura
+Cura Brochero | José Gabriel Brochero | Brochero
+Difunta Correa | Deolinda Correa
+Juan Moreira | Moreira
+Camila O'Gorman | O'Gorman
+Mariquita Sánchez de Thompson | Sánchez de Thompson
+Juana Azurduy | Azurduy
+Guillermo Brown | Almirante Brown | Brown
+Arturo Frondizi | Frondizi
+Arturo Umberto Illia | Arturo Illia | Illia
+Héctor J. Cámpora | Héctor Cámpora | Cámpora | Campora
+Carlos Menem Jr. | Carlitos Menem
+Rodrigo Barrios | La Hiena Barrios | Barrios
+Luis Ángel Firpo | Firpo
+Pascual Pérez | Pérez | Perez
+Horacio Accavallo | Accavallo
+Víctor Galíndez | Galíndez | Galindez
+
+[100]
+Delfo Cabrera | Cabrera
+Luis Fernando Iribarren | El Carnicero de Giles | Iribarren
+Oreste Berta | Berta
+José Froilán González | Froilán González | González | Gonzalez
+Alicia Moreau de Justo | Moreau de Justo
+Silvina Ocampo | Ocampo
+Rodolfo Kusch | Kusch
+Enrique Angelelli | Monseñor Angelelli | Angelelli
+Madre María | María Salomé Loredo
+Pancho Sierra | Sierra
+Mate Cosido | Segundo David Peralta
+Bairoletto | Juan Bautista Bairoletto
+Marcelo T. de Alvear | Alvear
+Justo Suárez | El Torito de Mataderos | Suárez | Suarez

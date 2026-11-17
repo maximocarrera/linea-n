@@ -1,0 +1,36 @@
+categoria: Cine
+consigna: Nombrá películas en las que actuó Timothée Chalamet
+activa: si
+apellidos: no
+imagen: https://commons.wikimedia.org/wiki/File:Timoth%C3%A9e_Chalamet-63541_(cropped).jpg
+
+[10]
+Duna | Dune
+Duna: Parte Dos | Dune: Part Two | Duna 2
+Wonka
+Llámame por tu nombre | Call Me by Your Name
+Mujercitas | Little Women
+Interestelar | Interstellar
+No mires arriba | Don't Look Up
+
+[30]
+Lady Bird
+Beautiful Boy: Siempre serás mi hijo | Beautiful Boy
+Hasta los huesos | Bones and All
+Un completo desconocido | A Complete Unknown
+El rey | The King
+Un día lluvioso en Nueva York | A Rainy Day in New York
+
+[60]
+La crónica francesa | The French Dispatch
+Hostiles | Hostiles: Violencia americana
+Hot Summer Nights | Noches de verano
+Miss Stevens
+Marty Supreme
+
+[100]
+Navidad con los Cooper | Love the Coopers
+Hombres, mujeres y niños | Men, Women & Children
+The Adderall Diaries
+One and Two
+Worst Friends

@@ -1,0 +1,60 @@
+categoria: Cine
+consigna: Nombrá películas en las que actuó Tom Cruise
+activa: si
+apellidos: no
+imagen: https://commons.wikimedia.org/wiki/File:Tom_Cruise_avp_2014_3.jpg
+
+[10]
+Top Gun | Top Gun: Pasión y gloria
+Top Gun: Maverick
+Misión imposible | Mission: Impossible | Misión imposible 1
+Misión imposible 2 | Mission: Impossible 2
+Misión imposible 3 | Mission: Impossible III
+Misión imposible: Protocolo fantasma | Mission: Impossible - Ghost Protocol
+Misión imposible: Nación secreta | Mission: Impossible - Rogue Nation
+Misión imposible: Repercusión | Mission: Impossible - Fallout
+Misión imposible: Sentencia mortal | Mission: Impossible - Dead Reckoning
+Misión imposible: Sentencia final | Mission: Impossible - The Final Reckoning
+Jerry Maguire | Jerry Maguire: Amor y desafío
+El último samurái | The Last Samurai
+La guerra de los mundos | War of the Worlds
+Minority Report | Sentencia previa
+Ojos bien cerrados | Eyes Wide Shut
+Entrevista con el vampiro | Interview with the Vampire
+Rain Man | Cuando los hermanos se encuentran
+
+[30]
+Al filo del mañana | Edge of Tomorrow
+Oblivion | Oblivion: El tiempo del olvido
+Colateral | Collateral
+Jack Reacher | Jack Reacher: Bajo la mira
+Jack Reacher: Sin regreso | Jack Reacher: Never Go Back
+Cuestión de honor | A Few Good Men
+Nacido el 4 de julio | Born on the Fourth of July
+La momia | The Mummy
+Barry Seal: Solo en América | American Made | Mena
+Operación Valquiria | Valkyrie
+Magnolia
+Negocios riesgosos | Risky Business
+
+[60]
+El color del dinero | The Color of Money
+Días de trueno | Days of Thunder
+Fachada | The Firm
+Un horizonte lejano | Far and Away
+Cocktail
+Vanilla Sky
+Encuentro explosivo | Knight and Day | Noche y día
+La era del rock | Rock of Ages
+Tropic Thunder | Una guerra de película
+Austin Powers en Goldmember | Austin Powers in Goldmember
+
+[100]
+Leones por corderos | Lions for Lambs
+Leyenda | Legend
+Los marginados | The Outsiders | Rebeldes
+Taps | Más allá del honor
+Amor sin fin | Endless Love
+All the Right Moves | La clave del éxito
+Losin' It | Ir de compras
+Digger
