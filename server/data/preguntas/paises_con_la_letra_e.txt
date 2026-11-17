@@ -1,0 +1,24 @@
+categoria: Mundo
+consigna: Nombrá países que empiecen con la letra E
+activa: si
+apellidos: no
+
+[10]
+Ecuador
+España
+Egipto
+Estonia
+
+[30]
+Etiopía | Etiopia
+El Salvador
+Emiratos Árabes Unidos | Emiratos Arabes Unidos | EAU
+Eritrea
+
+[60]
+Eslovaquia
+Eslovenia
+Estados Unidos | USA | EE. UU. | Estados Unidos de América
+
+[100]
+Eswatini | Suazilandia

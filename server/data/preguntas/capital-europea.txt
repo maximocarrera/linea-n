@@ -2,7 +2,7 @@
 # Un nombre por renglón. Variantes con |   ej: Benín | Benin | Dahomey
 # Niveles: [10] común · [30] poco común · [60] rara · [100] de nicho
 
-categoria: Geografía
+categoria: Mundo
 consigna: Nombrá una capital europea
 activa: si
 apellidos: no
