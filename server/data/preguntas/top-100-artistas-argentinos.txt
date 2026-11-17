@@ -1,0 +1,131 @@
+# Línea N · una pregunta por archivo. Después de editar: npm run db:import
+# Un nombre por renglón. Variantes con |
+# Los 100 artistas argentinos con más oyentes mensuales en Spotify (kworb.net/spotify/listeners.html,
+# 17/11/2026). Solo artistas argentinos: quedan afuera los uruguayos (No Te Va Gustar, Marama,
+# Drexler), Montaner (se lo considera venezolano) y Los Rodríguez (banda argentino-española).
+# Puntos por puesto: 1-10 → 10 · 11-20 → 20 · ... · 91-100 → 100.
+
+categoria: Música
+consigna: Nombrá uno de los 100 artistas argentinos más escuchados en Spotify
+activa: si
+apellidos: no
+
+[10]
+Bizarrap | Bzrp
+Paulo Londra | Londra
+Enanitos Verdes | Los Enanitos Verdes
+María Becerra | Maria Becerra
+Duki
+Milo J
+Tini | Tini Stoessel | Martina Stoessel
+Miranda!
+Tiago PZK
+Nicki Nicole
+
+[20]
+Soda Stereo
+Trueno
+Khea
+Cazzu
+Emilia | Emilia Mernes
+Andrés Calamaro | Calamaro
+Los Auténticos Decadentes | Auténticos Decadentes | Los Decadentes
+La Mosca | La Mosca Tsé-Tsé
+Yami Safdie
+Dread Mar I | Dread Mar-I
+
+[30]
+Lit Killah
+Leo Dan
+Luck Ra
+Ke Personajes
+La Joaqui
+Los Abuelos de la Nada | Abuelos de la Nada
+Los Fabulosos Cadillacs | Fabulosos Cadillacs | Los Cadillacs
+Taiu
+Big One
+Vilma Palma e Vampiros | Vilma Palma
+
+[40]
+Babasónicos
+Rata Blanca
+Ca7riel & Paco Amoroso | Ca7riel y Paco Amoroso | Ca7riel | Catriel | Paco Amoroso
+La T y La M
+Gustavo Cerati | Cerati
+Lauta
+Airbag
+FMK
+BM
+The La Planta | La Planta
+
+[50]
+Callejero Fino
+DJ Tao
+Nathy Peluso
+Rusherking
+Migrantes
+Max Carra
+Los Caligaris | Caligaris
+Fito Páez | Fito Paez
+Diego Torres
+Coti
+
+[60]
+Bhavi
+Daniela Spalla
+YSY A | Ysy
+Salastkbron
+Abel Pintos
+Ráfaga
+Vicentico
+Los Pericos | Pericos
+Pimpinela
+Luciano Pereyra
+
+[70]
+Valentino Merlo
+Q' Lokura | Q'Lokura | Q Lokura
+Un Poco de Ruido
+Lali | Lali Espósito
+Damas Gratis
+Patricio Rey y sus Redonditos de Ricota | Los Redondos | Redondos | Los Redonditos de Ricota | Redonditos de Ricota
+Valen
+Ulises Bueno
+Ecko
+Roze
+
+[80]
+Tan Biónica
+Wos
+Bersuit Vergarabat | Bersuit
+Karina | Karina La Princesita | La Princesita
+Los Piojos
+Los Palmeras
+Charly García
+L-Gante | L Gante
+Neo Pistea
+Alan Gómez
+
+[90]
+Los del Fuego
+Lauty Gram
+Rei
+Ciro y los Persas | Ciro
+Los Cafres
+Ramky | Ramky en los Controles
+Soledad | La Sole | Soledad Pastorutti
+Nico Valdi
+Intoxicados
+Callejeros
+
+[100]
+Emanero
+Mesita
+Amar Azul
+Desakta2
+Turf
+Jambao
+Mercedes Sosa
+Yerba Brava
+Gilda
+Mario Luis
