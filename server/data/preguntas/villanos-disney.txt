@@ -1,0 +1,57 @@
+# Villanos de las películas animadas de Walt Disney Animation Studios (sin Pixar, que tiene su propia pregunta).
+# Nombre del doblaje latino | original.
+
+categoria: Cine
+consigna: Nombrá un villano de una película animada de Disney (sin Pixar)
+activa: si
+apellidos: no
+
+[10]
+Úrsula | Ursula
+Scar
+Jafar
+Maléfica | Malefica | Maleficent
+Cruella de Vil | Cruella
+Hades
+Gastón | Gaston
+Capitán Garfio | Capitan Garfio | Garfio | Captain Hook
+Reina de Corazones | La Reina de Corazones
+Reina Malvada | La Reina Malvada | La madrastra de Blancanieves | Reina Grimhilde
+
+[30]
+Lady Tremaine | La madrastra de Cenicienta | Madrastra de Cenicienta
+Madre Gothel | Gothel
+Yzma
+Frollo | Juez Frollo | Claude Frollo
+Shere Khan | Sherkan
+Kaa
+Hans | Príncipe Hans | Principe Hans
+Doctor Facilier | Dr. Facilier | Facilier | El hombre sombra
+Ratcliffe | Gobernador Ratcliffe
+Shan Yu
+Clayton
+Príncipe Juan | Principe Juan | Prince John
+Sheriff de Nottingham
+Rey Candy | King Candy | Turbo
+Bellwether | Dawn Bellwether
+Tamatoa
+Ratigan | Profesor Ratigan
+
+[60]
+Madame Medusa
+Edgar
+Stromboli
+Monstro | La ballena Monstruo
+Callaghan | Yokai | Profesor Callaghan
+Rey Magnífico | Rey Magnifico | Magnífico | Magnifico
+Si y Am | Los gatos siameses
+Percival McLeach | McLeach
+Chernabog
+El Jinete sin Cabeza | Jinete sin cabeza
+Rey del Mal | El Rey del Mal | Horned King
+
+[100]
+Rourke | Comandante Rourke
+Mamá Odie | Mama Odie
+Honrado Juan | Honest John | Juan Honrado
+Sykes

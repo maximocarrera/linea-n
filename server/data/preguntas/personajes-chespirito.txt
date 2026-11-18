@@ -1,0 +1,45 @@
+# Personajes de los programas de Chespirito: El Chavo del 8, El Chapulín Colorado y los sketches
+# (Los Caquitos, El Doctor Chapatín, Los Chifladitos, Chaparrón Bonaparte, Lucas Tañeda).
+# Solo personajes de los que estoy seguro; los villanos de un solo capítulo del Chapulín quedan afuera.
+
+categoria: Televisión
+consigna: Nombrá un personaje de Chespirito (El Chavo, El Chapulín y sus otros programas)
+activa: si
+apellidos: no
+
+[10]
+El Chavo | Chavo | Chavo del 8 | El Chavo del Ocho
+Quico | Kiko
+La Chilindrina | Chilindrina
+Don Ramón | Don Ramon
+Doña Florinda | Dona Florinda
+Profesor Jirafales | El Profesor Jirafales | Jirafales
+Señor Barriga | Senor Barriga | Don Barriga
+El Chapulín Colorado | Chapulín Colorado | Chapulin Colorado | Chapulín | Chapulin
+La Bruja del 71 | Bruja del 71 | Doña Clotilde | Dona Clotilde
+
+[30]
+Ñoño | Nono
+Patty | Paty
+Godínez | Godinez
+Jaimito el cartero | Jaimito | El cartero
+La Popis | Popis
+Doña Nieves | Dona Nieves
+Gloria | Tía Gloria | Tia Gloria
+El Chómpiras | Chómpiras | Chompiras
+La Chimoltrufia | Chimoltrufia
+El Doctor Chapatín | Doctor Chapatín | Doctor Chapatin | Chapatín | Chapatin
+
+[60]
+El Botija | Botija
+Peterete
+Chaparrón Bonaparte | Chaparron Bonaparte
+Lucas Tañeda | Lucas Taneda
+Tripaseca
+Super Sam
+Malicha
+El Sargento Refugio | Sargento Refugio
+
+[100]
+Matonsísimo Kid | Matonsisimo Kid
+Cuajináis | Cuajinais

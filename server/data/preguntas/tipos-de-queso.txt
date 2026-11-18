@@ -1,0 +1,62 @@
+# Tipos de queso: los de la góndola argentina y los internacionales más conocidos.
+# Vale el nombre del tipo, no la marca (La Serenísima, Sancor no valen).
+
+categoria: Comida
+consigna: Nombrá un tipo de queso
+activa: si
+apellidos: no
+
+[10]
+Mozzarella | Muzzarella | Muzarela | Mozarela
+Cremoso | Queso cremoso
+Parmesano | Parmigiano | Parmigiano Reggiano
+Roquefort | Queso azul
+Cheddar
+Provolone | Provoleta
+Reggianito
+Ricota | Ricotta
+Queso crema | Philadelphia
+Sardo
+
+[30]
+Fontina
+Gouda
+Brie
+Camembert
+Mascarpone
+Feta
+Emmental | Emmenthal
+Gruyère | Gruyere
+Pategrás | Pategras
+Tybo
+Port Salut | Por Salut | Portsalut
+Danbo
+Cuartirolo
+Gorgonzola
+Pecorino | Pecorino Romano
+Manchego
+Queso de cabra | Chèvre | Chevre
+Burrata
+Holanda | Queso Holanda
+Mozzarella de búfala | Mozzarella di bufala | Mozzarella de bufala
+
+[60]
+Edam
+Grana Padano | Grana
+Cottage | Queso cottage
+Comté | Comte
+Goya | Queso Goya
+Queso de Tafí | Tafí | Tafi | Queso Tafí
+Halloumi
+Stilton
+Raclette
+Havarti
+Queso fresco
+Scamorza
+Asiago
+
+[100]
+Taleggio
+Paneer
+Oaxaca | Queso Oaxaca
+Monterey Jack

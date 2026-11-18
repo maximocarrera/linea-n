@@ -1,0 +1,56 @@
+# Series emitidas por Disney Channel (o Disney XD) en Latinoamérica: originales de EE. UU. y producciones latinas.
+# Las películas (High School Musical, Camp Rock) no valen. Título en Latinoamérica | original.
+
+categoria: Televisión
+consigna: Nombrá una serie de Disney Channel (con actores o animada)
+activa: si
+apellidos: no
+
+[10]
+Hannah Montana
+Los hechiceros de Waverly Place | Hechiceros de Waverly Place | Wizards of Waverly Place | Los hechiceros
+Zack y Cody | Zack y Cody: Gemelos en acción | The Suite Life of Zack and Cody
+Violetta
+Soy Luna
+Phineas y Ferb | Phineas and Ferb
+Lizzie McGuire
+Es tan Raven | Raven | That's So Raven
+
+[30]
+Zack y Cody: Gemelos a bordo | Gemelos a bordo | The Suite Life on Deck
+Jonas | Jonas L.A.
+Sonny con Chance | Sonny With a Chance | Sunny entre estrellas
+Buena suerte Charlie | Good Luck Charlie
+Jessie
+Austin y Ally | Austin & Ally
+A todo ritmo | Shake It Up
+Liv y Maddie | Liv and Maddie
+Kim Possible
+Gravity Falls
+Recreo | La hora del recreo | Recess
+Cuando toca la campana
+Art Attack
+Zapping Zone
+Prodigiosa: Las aventuras de Ladybug | Ladybug | Miraculous
+Bia
+Los Proud | La familia Proud | The Proud Family
+Jake Long: el dragón occidental | Jake Long | American Dragon
+
+[60]
+Phil del futuro | Phil of the Future
+Cory en la Casa Blanca | Cory in the House
+Riley y el mundo | Girl Meets World
+K.C. Agente Secreta | KC Agente Secreta | K.C. Undercover
+La casa de Raven | Raven's Home
+Campamento Kikiwaka | Bunk'd
+Andi Mack
+Bizaardvark
+Juacas
+O11CE
+Highway: Rodando la aventura | Highway
+Pepper Ann
+Los hermanos Stevens | Even Stevens
+
+[100]
+Quack Pack
+Dave el bárbaro | Dave el barbaro | Dave the Barbarian

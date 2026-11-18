@@ -1,0 +1,62 @@
+# Tragos y cócteles conocidos en Argentina: los de boliche y previa y los clásicos de coctelería.
+# Vale el trago, no la bebida sola (cerveza, vino o una marca no valen).
+
+categoria: Comida
+consigna: Nombrá un trago o cóctel
+activa: si
+apellidos: no
+
+[10]
+Fernet con coca | Fernet | Fernet con Coca-Cola | Fernecito
+Mojito
+Daiquiri | Daikiri
+Caipirinha | Caipiriña | Caipi
+Caipiroska
+Margarita
+Piña colada | Pina colada
+Cuba libre | Cubalibre
+Gin tonic | Gin tónic
+Destornillador
+Sex on the Beach
+
+[30]
+Negroni
+Aperol Spritz | Aperol | Spritz
+Tequila Sunrise
+Cosmopolitan
+Bloody Mary
+Martini | Dry Martini
+Pisco sour
+Campari con naranja | Campari orange
+Gancia con limón | Gancia batido | Gancia con limon
+Clericó | Clerico
+Sangría | Sangria
+Long Island Iced Tea | Long Island
+Mimosa
+Cynar con pomelo
+Moscow Mule
+White Russian | Ruso blanco
+Blue Lagoon | Laguna azul
+Tinto de verano
+Old Fashioned
+
+[60]
+Manhattan
+Mai Tai
+Tom Collins
+Whisky sour | Whiskey sour
+Espresso Martini
+Black Russian | Ruso negro
+Bellini
+Kir Royal
+Hugo Spritz | Hugo
+Zombie
+Gimlet
+Sidecar
+
+[100]
+Sazerac
+Mint Julep
+Aviation
+Boulevardier
+Pisco punch

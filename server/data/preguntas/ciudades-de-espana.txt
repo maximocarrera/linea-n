@@ -1,0 +1,85 @@
+# Ciudades de España (capitales de provincia y ciudades conocidas por turismo o fútbol), en castellano | idioma local.
+
+categoria: Mundo
+consigna: Nombrá una ciudad de España
+activa: si
+apellidos: no
+
+[10]
+Madrid
+Barcelona
+Sevilla
+Valencia
+Bilbao
+Málaga | Malaga
+Granada
+Palma de Mallorca | Palma
+Zaragoza
+
+[30]
+San Sebastián | San Sebastian | Donostia
+Salamanca
+Toledo
+Santiago de Compostela
+Cádiz | Cadiz
+Alicante | Alacant
+Murcia
+Valladolid
+Vigo
+La Coruña | A Coruña | Coruña | La Coruna
+Gijón | Gijon
+Oviedo
+Pamplona | Iruña
+Santander
+Ibiza | Eivissa
+Marbella
+Benidorm
+Segovia
+Las Palmas | Las Palmas de Gran Canaria
+Santa Cruz de Tenerife
+Vitoria | Vitoria-Gasteiz
+Tarragona
+Girona | Gerona
+Córdoba | Cordoba
+
+[60]
+Ávila | Avila
+Burgos
+León | Leon
+Cáceres | Caceres
+Mérida | Merida
+Badajoz
+Almería | Almeria
+Huelva
+Jaén | Jaen
+Jerez de la Frontera | Jerez
+Logroño | Logrono
+Elche | Elx
+Cartagena
+Getafe
+Leganés | Leganes
+Alcalá de Henares | Alcala de Henares
+Sabadell
+Badalona
+Ronda
+Sitges
+Lleida | Lérida | Lerida
+Cuenca
+Albacete
+Castellón | Castellon | Castellón de la Plana
+Lugo
+Ourense | Orense
+Pontevedra
+Ceuta
+Melilla
+Villarreal | Vila-real
+
+[100]
+Huesca
+Teruel
+Soria
+Zamora
+Palencia
+Ciudad Real
+Eibar
+Móstoles | Mostoles

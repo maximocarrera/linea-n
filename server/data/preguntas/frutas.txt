@@ -1,0 +1,68 @@
+# Frutas, con el nombre que se usa en Argentina | otros países.
+# Una pregunta fácil: las de [10] las dice cualquiera; el puntaje está en las exóticas y regionales.
+
+categoria: Comida
+consigna: Nombrá una fruta
+activa: si
+apellidos: no
+
+[10]
+Manzana
+Banana | Plátano | Platano
+Naranja
+Pera
+Frutilla | Fresa
+Uva
+Durazno | Melocotón | Melocoton
+Sandía | Sandia
+Melón | Melon
+Kiwi
+Mandarina
+Ananá | Anana | Piña | Pina
+Limón | Limon
+
+[30]
+Cereza
+Ciruela
+Damasco | Albaricoque
+Mango
+Pomelo | Toronja
+Frambuesa
+Arándano | Arandano
+Mora | Zarzamora
+Higo
+Palta | Aguacate
+Coco
+Maracuyá | Maracuya | Mburucuyá | Mburucuya | Fruta de la pasión
+Membrillo
+Granada
+Papaya | Mamón | Mamon
+Lima
+Pelón | Pelon | Nectarina
+Kinoto | Kumquat
+Níspero | Nispero
+Caqui | Kaki | Persimón | Persimon
+Guayaba
+
+[60]
+Pitaya | Fruta del dragón | Fruta del dragon
+Lichi | Litchi
+Carambola
+Chirimoya
+Grosella
+Tuna | Higo chumbo | Higo de tuna
+Physalis | Aguaymanto
+Guanábana | Guanabana
+Tamarindo
+Açaí | Acai
+Mangostán | Mangostan
+Rambután | Rambutan
+
+[100]
+Durián | Durian
+Jabuticaba
+Feijoa
+Mistol
+Chañar | Chanar
+Yaca | Jackfruit
+Pitanga

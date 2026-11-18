@@ -1,0 +1,50 @@
+# Pilotos campeones del mundo de Fórmula 1, de 1950 a 2025 (Lando Norris, campeón 2025, es el último).
+# Actualizar cuando termine la temporada 2026.
+
+categoria: Deportes
+consigna: Nombrá un piloto campeón del mundo de Fórmula 1 (hasta 2025)
+activa: si
+apellidos: si
+
+[10]
+Juan Manuel Fangio | Fangio | Chueco Fangio
+Ayrton Senna
+Michael Schumacher
+Lewis Hamilton
+Max Verstappen
+Fernando Alonso
+Sebastian Vettel
+Niki Lauda
+
+[30]
+Alain Prost
+Nelson Piquet
+Kimi Räikkönen | Kimi Raikkonen
+Mika Häkkinen | Mika Hakkinen
+Nigel Mansell
+Emerson Fittipaldi
+Jenson Button
+Nico Rosberg
+Lando Norris
+James Hunt
+Jacques Villeneuve
+Damon Hill
+
+[60]
+Jackie Stewart
+Jim Clark
+Graham Hill
+Alberto Ascari
+Jack Brabham
+Mario Andretti
+Keke Rosberg
+Jody Scheckter
+Alan Jones
+
+[100]
+Giuseppe Farina | Nino Farina
+Mike Hawthorn
+Phil Hill
+John Surtees
+Denny Hulme
+Jochen Rindt

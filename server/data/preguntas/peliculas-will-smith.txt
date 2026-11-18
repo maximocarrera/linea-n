@@ -1,0 +1,48 @@
+# Películas en las que actuó Will Smith (incluye voces en animación). Título en Argentina | original.
+# Las secuelas van como respuestas separadas. Sin El príncipe del rap (es serie).
+
+categoria: Cine
+consigna: Nombrá una película en la que actuó Will Smith
+activa: si
+apellidos: no
+imagen: https://commons.wikimedia.org/wiki/File:Will_Smith_(28316676010).jpg
+
+[10]
+Hombres de negro | Men in Black | MIB
+Día de la Independencia | Dia de la Independencia | Independence Day
+Bad Boys | Dos policías rebeldes | Dos policias rebeldes
+Soy leyenda | I Am Legend
+En busca de la felicidad | The Pursuit of Happyness | The Pursuit of Happiness
+Hancock
+Yo, robot | Yo robot | I, Robot | I Robot
+Aladdín | Aladdin
+Hitch | Hitch: especialista en seducción
+
+[30]
+Hombres de negro 2 | Men in Black 2 | Men in Black II
+Hombres de negro 3 | Men in Black 3
+Bad Boys 2 | Bad Boys II | Dos policías rebeldes 2
+Bad Boys para siempre | Bad Boys for Life
+Bad Boys: hasta la muerte | Bad Boys: Ride or Die | Bad Boys 4
+Escuadrón suicida | Escuadron suicida | Suicide Squad
+Siete almas | Seven Pounds
+El espantatiburones | Shark Tale
+Ali | Alí
+King Richard | Rey Richard | King Richard: una familia ganadora
+Enemigo público | Enemigo publico | Enemy of the State
+Después de la Tierra | Despues de la Tierra | After Earth
+Belleza oculta | Collateral Beauty
+Wild Wild West
+
+[60]
+Bright
+Proyecto Géminis | Proyecto Geminis | Gemini Man
+La verdad oculta | Concussion
+Focus
+Emancipation | Emancipación | Emancipacion
+La leyenda de Bagger Vance | The Legend of Bagger Vance
+Espías a escondidas | Espias a escondidas | Spies in Disguise
+
+[100]
+Seis grados de separación | Seis grados de separacion | Six Degrees of Separation
+Made in America

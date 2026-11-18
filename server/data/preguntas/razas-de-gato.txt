@@ -1,0 +1,58 @@
+# Razas de gato reconocidas por las asociaciones felinas (TICA, CFA, FIFe). No vale "común europeo" ni "mestizo".
+
+categoria: Animales
+consigna: Nombrá una raza de gato
+activa: si
+apellidos: no
+
+[10]
+Siamés | Siames
+Persa
+Angora | Angora turco
+Sphynx | Esfinge | Gato esfinge
+Maine Coon
+Bengalí | Bengali | Bengal
+
+[30]
+Ragdoll
+Azul ruso | Ruso azul
+British Shorthair | Británico de pelo corto | Britanico de pelo corto
+Scottish Fold | Fold escocés | Fold escoces
+Bosque de Noruega | Noruego de bosque | Gato de bosque de Noruega
+Siberiano | Siberian
+Exótico de pelo corto | Exotico de pelo corto | Exotic Shorthair
+Birmano | Sagrado de Birmania
+Abisinio
+Himalayo
+Devon Rex
+Cornish Rex
+Van turco | Turkish Van
+Bombay
+Savannah
+
+[60]
+Burmés | Burmes | Burmese
+Oriental de pelo corto | Oriental
+Ocicat
+Somalí | Somali
+Manx
+Chartreux | Cartujo
+American Shorthair | Americano de pelo corto
+Bobtail japonés | Bobtail japones | Japanese Bobtail
+Mau egipcio | Egyptian Mau
+Balinés | Balines
+Tonkinés | Tonkines
+Selkirk Rex
+Munchkin
+Habana | Havana Brown
+Snowshoe
+Ragamuffin
+
+[100]
+Korat
+Singapura
+LaPerm
+Toyger
+Peterbald
+Nebelung
+Sokoke

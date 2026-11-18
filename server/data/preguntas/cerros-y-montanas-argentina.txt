@@ -1,0 +1,51 @@
+# Cerros, montañas y volcanes de Argentina (incluye los compartidos con Chile en la frontera).
+# Vale con o sin "Cerro" / "Volcán" adelante.
+
+categoria: Naturaleza
+consigna: Nombrá un cerro, montaña o volcán de Argentina
+activa: si
+apellidos: no
+
+[10]
+Aconcagua | Cerro Aconcagua
+Fitz Roy | Cerro Fitz Roy | Chaltén | Cerro Chaltén | Chalten
+Cerro Catedral
+Lanín | Lanin | Volcán Lanín | Volcan Lanin
+Uritorco | Cerro Uritorco
+Cerro de los Siete Colores | Cerro de los 7 Colores | Siete Colores
+
+[30]
+Tronador | Cerro Tronador
+Cerro Torre
+Champaquí | Champaqui | Cerro Champaquí
+Ojos del Salado | Nevado Ojos del Salado
+Cerro Otto | Otto
+Cerro Campanario
+Cerro Chapelco | Chapelco
+Cerro Castor
+Cerro Bayo
+Cerro San Bernardo | San Bernardo
+Cerro de la Gloria
+Tupungato | Volcán Tupungato | Volcan Tupungato
+Copahue | Volcán Copahue | Volcan Copahue
+Llullaillaco | Volcán Llullaillaco | Volcan Llullaillaco
+Cerro de la Ventana
+
+[60]
+Mercedario | Cerro Mercedario
+Monte Pissis | Pissis
+Domuyo | Volcán Domuyo | Volcan Domuyo
+Cerro López | Cerro Lopez
+Piltriquitrón | Piltriquitron | Cerro Piltriquitrón
+Cerro Perito Moreno
+Cerro Tres Picos | Tres Picos
+Pan de Azúcar | Cerro Pan de Azúcar | Pan de Azucar
+Payún Matrú | Payun Matru | Payún
+Bonete | Monte Bonete
+Nevado de Cachi
+Aconquija | Nevado del Aconquija
+Maipo | Volcán Maipo | Volcan Maipo
+
+[100]
+Nevado del Chañi | Chañi | Chani
+Cerro Ñuñorco | Ñuñorco | Nunorco

@@ -1,0 +1,34 @@
+# Plantel de 22 de Argentina campeón del Mundial 1978 (DT: César Luis Menotti, que no cuenta).
+# Armado de memoria: chequear que estén los 22.
+
+categoria: Fútbol
+consigna: Nombrá un jugador del equipo campeón del 78
+activa: si
+apellidos: si
+
+[10]
+Mario Kempes | Matador Kempes | El Matador
+Daniel Passarella | Kaiser
+Ubaldo Fillol | Pato Fillol
+Leopoldo Luque
+Osvaldo Ardiles | Ossie Ardiles
+
+[30]
+Alberto Tarantini | Conejo Tarantini
+Daniel Bertoni
+René Houseman | Rene Houseman
+Américo Gallego | Americo Gallego | Tolo Gallego
+Norberto Alonso | Beto Alonso
+Luis Galván | Luis Galvan
+Jorge Olguín | Jorge Olguin
+Ricardo Villa | Ricky Villa
+
+[60]
+Oscar Ortiz
+Omar Larrosa
+Ricardo La Volpe
+Héctor Baley | Hector Baley
+José Daniel Valencia | Jose Daniel Valencia
+Miguel Oviedo
+Rubén Pagnanini | Ruben Pagnanini
+Daniel Killer
