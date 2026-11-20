@@ -1,0 +1,310 @@
+# Canciones de Fito Páez (solista y discos compartidos con Sabina). Solo títulos de los que estoy seguro;
+# se dejan afuera las de Charly o Serú que Fito tocó en vivo.
+
+categoria: Música
+consigna: Nombrá una canción de Fito Páez
+activa: si
+apellidos: no
+imagen: https://commons.wikimedia.org/wiki/File:Homenaje_Gustavo_Cerati_(15528982867)_(cropped).jpg
+
+[10]
+Mariposa Tecknicolor | Mariposa Tecnicolor
+El Amor Después del Amor | El Amor Despues del Amor
+11 y 6 | Once y Seis
+Y Dale Alegría a Mi Corazón | Y Dale Alegria a Mi Corazon | Dale Alegria a Mi Corazon
+A Rodar Mi Vida
+Un Vestido y un Amor | Te Vi
+Brillante Sobre el Mic
+Dar Es Dar
+Ciudad de Pobres Corazones
+Circo Beat
+Tumbas de la Gloria
+Yo Vengo a Ofrecer Mi Corazón | Yo Vengo a Ofrecer Mi Corazon
+
+[30]
+Al Lado del Camino
+Dos Días en la Vida | Dos Dias en la Vida
+La Rueda Mágica | La Rueda Magica
+Cable a Tierra
+Giros
+Del '63 | Del 63 | Del Sesenta y Tres
+Pétalo de Sal | Petalo de Sal
+Creo
+Fue Amor | Fue por Amor
+Polaroid de Locura Ordinaria
+Tema de Piluso
+A Las Piedras de Belén | A Las Piedras de Belen
+La Balada de Donna Helena
+Gente en la Calle
+Tu Vida, Mi Vida
+La Canción de las Bestias | La Cancion de las Bestias
+Tercer Mundo
+Track Track
+Tres Agujas
+Saliendo de Tu Prisión | Saliendo de Tu Prision
+Detrás del Muro de los Lamentos | Detras del Muro de los Lamentos
+La Verónica | La Veronica
+Sasha, Sissi y el Círculo de Baba | Sasha Sissi y el Circulo de Baba
+Tráfico por Katmandú | Trafico por Katmandu
+Naturaleza Sangre
+El Diablo de Tu Corazón | El Diablo de Tu Corazon
+Es Solo una Cuestión de Actitud | Es Solo una Cuestion de Actitud
+Llueve Sobre Mojado
+Contigo
+
+[60]
+Cadáver Exquisito | Cadaver Exquisito
+Parte del Aire
+Lo Mejor de Nuestras Vidas
+Nuevo
+El Chico de la Tapa
+La Ciudad de los Pibes Sin Calma
+Nada del Mundo Real
+Nadie Detiene al Amor en un Lugar
+Bello Abril
+Confiá | Confia
+La Conquista del Espacio
+Resucitar
+Ey, You!
+Los Años Selvajes | Los Anos Selvajes
+Enemigos Íntimos | Enemigos Intimos
+Abre
+Sale el Sol | Salir al Sol
+La Casa Desaparecida
+Por Siete Vidas (Cacería) | Por Siete Vidas
+Sofi Fue una Nena de Papá | Sofi Fue una Nena de Papa
+Sólo La La Lá | Solo La La La
+Muchacha | Muchacha Ojos de Papel
+El Oso
+De 1920 | De Mil Novecientos Veinte
+Aguas de Marzo | Águas de Março
+El Mundo Cabe en una Canción | El Mundo Cabe en una Cancion
+Rey Sol
+Rock and Roll Revolution
+La Ciudad Liberada
+Tiempo al Tiempo
+
+[100]
+13
+139 Lexatins
+A Medio Paso de Tu Amor
+Absolut Vacío | Absolut Vacio
+Aceptémoslo | Aceptemoslo
+Acerca del Niño Proletario | Acerca del Nino Proletario
+Ahí Voy | Ahi Voy
+Alacrán | Alacran | Alacran (resaca)
+Alguna Vez Voy a Ser Libre
+Ámbar Violeta | Ambar Violeta
+Arde
+Argentina Es una Trampa
+Asilo en Tu Corazón | Asilo en Tu Corazon
+B. Ode y Evelyn
+Bailando Hasta Que Se Vaya la Noche
+Balas y Flores
+Beauty
+Beer Blues
+Brujas Salem de Prix
+Buena Estrella
+Buenas Noches
+Buenos Aires
+Cae la Noche en Okinawa
+Caminando por Rosario
+Canción de Amor Mientras Tanto | Cancion de Amor Mientras Tanto
+Canción Para Mi Muerte | Cancion Para Mi Muerte
+Canción Sobre Canción | Cancion Sobre Cancion
+Carabelas Nada
+Carta Para Mí Desde el 2086 | Carta Para Mi Desde el 2086
+Cecilia
+Cerca de la Revolución | Cerca de la Revolucion
+Construcción | Construccion
+Corazón Clandestino | Corazon Clandestino
+Crímenes Perfectos | Crimenes Perfectos
+Cruces de Gin en Sal
+Cuando el Circo Llega al Pueblo
+Cuervos en Casa
+D.L.G.
+Dale Loca
+Dame un Talismán | Dame un Talisman
+Dando Vueltas en el Aire
+Decisiones Apresuradas
+Dejarlas Partir
+Dejaste Ver Tu Corazón | Dejaste Ver Tu Corazon
+Delirium Tremens
+Desaluz
+Desarma y Sangra
+Desierto
+Dos en la Ciudad
+El Amor
+El Centro de Tu Corazón | El Centro de Tu Corazon
+El Cuarto de al Lado
+El Dolor
+El Honor de los Lobos
+El Jardín Donde Vuelan los Mares | El Jardin Donde Vuelan los Mares
+El Mundo de Hoy
+El Ojo Que Mira
+El Otro Cambió, los Que Fueron
+El Sacrificio
+El Triunfo del Amor
+El Último Apagón | El Ultimo Apagon
+El Verdadero Amar
+El Vuelo
+Ella Sabe Todo de Mí | Ella Sabe Todo de Mi
+En el Baño de un Hotel
+Enloquecer
+Entrance
+Eso Que Llevas Ahí | Eso Que Llevas Ahi
+Esperanzas y Tormentas
+Esta Tarde Vi Llover
+Flores en Su Entierro
+Folis
+Folly Berguet
+Fuera de Control
+Fuerte Apache
+Fuga en Tabú | Fuga en Tabu
+Gente Sin Swing
+Girl T-Rex
+Gracias
+Gricel
+Guerra de Luz
+¿Hasta Cuándo? | Hasta Cuando
+Háblame | Hablame I | Hablame II | Hablame III
+Havana
+Hay Algo en el Mundo
+Hay Otra Canción | Hay Otra Cancion
+Hazte Fama
+Herencia
+Hijos de Amor
+Hombre Lobo (Yo)
+Igual a Nadie
+Infierno en la Tierra
+Insoportable
+Instantáneas | Instantaneas
+Intro de Circo Beat
+Islamabad
+Jimmy Jimmy
+Julius Perdiéndolo Todo
+Juramento
+La Canción de los (Buenos) Borrachos
+La Canción de Sibyl Vane | La Cancion de Sibyl Vane
+La Canción del Soldado y Rosita Pazos | La Cancion del Soldado y Rosita Pazos
+La Casa en las Estrellas
+La Despedida
+La Esquina de Sol
+La Guitarra
+La Hora del Destino
+La Ley de la Vida
+La Mejor Solución | La Mejor Solucion
+La Mujer Torso y el Hombre Cola de Ameba
+La Muñeca Que Regala Besos
+La Nave Espacial
+La Rumba del Piano
+La Velocidad del Tiempo
+La Vida Moderna
+La Vida Sin Luis
+Las Cosas Que Me Hacen Bien
+Las Cosas Tienen Movimiento
+Las Fuerzas Armadas del Amor
+Las Luces en la Ciudad | Las Luces Em La Ciudad
+Las Palabras
+Las Tardes del Sol, las Noches del Agua
+Lázaro | Lazaro
+Lejos de Berlín | Lejos de Berlin
+Limbo Mambo
+Lleva
+Lo Que el Viento Nunca Se Llevó
+Loca Tuca de Dios
+Loco
+London Town
+Los Buenos Tiempos
+Los Cerezos Blancos
+Los Corazones Necesitan Amar
+Los Días de Sonrisas, Vino y Flores
+Los Restos de Nuestro Amor
+Love Is Falling Over My Heart
+Luz de Todos los Astros
+M&M
+Maelström | Maelstrom
+Mágica Hermosura | Magica Hermosura
+Maldivina y Turbialuz
+Margarita
+Más Guapa Que Cualquiera | Mas Guapa Que Cualquiera
+Miss Understood
+Modo Carrie
+Molto Lugar
+Mouchette
+Música Para Camaleones | Musica Para Camaleones
+Nada Más Preciado | Nada Mas Preciado
+Nadie Como Ella
+Nadie Es de Nadie
+Naná / La Siesta | Nana / La Siesta
+Narciso y Quasimodo
+Ne Me Quitte Pas
+Nena Boba
+No La Chingues Buey
+Nobody Knows
+Noche en Down Town
+Nocturno en Sol
+Normal 1 | Normal I
+Nuestro Templo
+Nuevo
+Nunca Podrás Sacarme Mi Amor | Nunca Podras Sacarme Mi Amor
+Oh Nena
+Ojalá Que Sea | Ojala Que Sea
+Ojos Rojos
+Onde Você Passou a Noite
+Paranoica Fierita Suite
+Perdón | Perdon
+Planeta Azul
+Pompa Bye Bye
+Por Donde Pasa el Amor
+Por Tu Amor
+Prueba de Amor
+Que Te Vaya Bien
+Regalo de Bodas
+Religion Song
+Río Místico | Rio Mistico
+Rojo Como un Corazón | Rojo Como un Corazon
+Rollinga o Miranda Girl
+Romance de la Pena Negra
+Sable Chino
+Sargent Maravilla
+Se Fue
+Se Terminó | Se Termino
+She's Mine
+Shine
+Si Disney Despertase
+Si Es Amor
+Si Volvieran los Dragones
+Siempre Te Voy a Amar
+Solo Los Chicos
+Sos Más | Sos Mas
+Soy un Hippie
+Superextraño | Superextrano
+Taquicardia
+Tatuaje Falso
+Te Aliviará | Te Aliviara
+Tendré Que Volver a Amar | Tendre Que Volver a Amar
+Tengo un Mono | Tengo Um Mono
+The Shinning of the Sun
+Todo Se Olvida
+Todos Estos Años de Gente
+Torre de Cristal
+Trátame Bien | Tratame Bien
+Tu Everest
+Tu Sonrisa Inolvidable
+Tus Regalos Deberían de Llegar | Tus Regalos Deberian de Llegar
+Un Beso y una Flor
+Un Rosario en Budapest
+Universidad Prix
+Universo
+Urgente Amar
+Ushuaia
+Vale
+Vas Conmigo
+Viejo Mundo
+Volver a Mí | Volver a Mi
+Waltz for Marguie
+Yo Me Bajo en Atocha
+Yo Te Amé en Nicaragua | Yo Te Ame En Nicaragua
+Yo Te Amo
+Zamba del Cielo

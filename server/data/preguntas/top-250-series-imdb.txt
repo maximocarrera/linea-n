@@ -7,7 +7,7 @@
 # en su mejor puesto.
 
 categoria: Televisión
-consigna: Nombrá una serie del Top 250 de IMDb
+consigna: Nombrá una serie del Top 250 con mejor valoracion del publico (segun IMDB)
 activa: si
 apellidos: no
 

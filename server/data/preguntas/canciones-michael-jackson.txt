@@ -1,0 +1,73 @@
+# Canciones de Michael Jackson como solista y con los Jackson 5 / The Jacksons.
+# Sin "We Are the World" (es de USA for Africa). Se dejan afuera títulos de una palabra común (Jam, Cry).
+
+categoria: Música
+consigna: Nombrá una canción de Michael Jackson (solista o con los Jackson 5)
+activa: si
+apellidos: no
+imagen: https://commons.wikimedia.org/wiki/File:Michael_Jackson_performing,_1987.jpg
+
+[10]
+Thriller
+Billie Jean
+Beat It
+Smooth Criminal
+Bad
+Black or White
+Heal the World
+Man in the Mirror
+They Don't Care About Us | They Dont Care About Us
+You Are Not Alone
+Earth Song
+Don't Stop 'Til You Get Enough | Dont Stop Til You Get Enough
+
+[30]
+Remember the Time
+Dirty Diana
+The Way You Make Me Feel | Way You Make Me Feel
+Rock with You
+Wanna Be Startin' Somethin' | Wanna Be Startin Somethin | Wanna Be Starting Something
+Human Nature
+Leave Me Alone
+Scream
+Liberian Girl
+In the Closet
+Will You Be There
+P.Y.T. | PYT | Pretty Young Thing
+Off the Wall
+ABC
+I Want You Back
+I'll Be There | Ill Be There
+Blood on the Dance Floor
+You Rock My World
+
+[60]
+Ben
+Another Part of Me
+Give In to Me
+Who Is It
+Stranger in Moscow
+Childhood
+Ghosts
+Dangerous
+Butterflies
+Love Never Felt So Good
+This Is It
+Hollywood Tonight
+Gone Too Soon
+The Girl Is Mine
+Say Say Say
+She's Out of My Life | Shes Out of My Life
+Speechless
+Unbreakable
+HIStory | History
+Can You Feel It
+Blame It on the Boogie
+
+[100]
+Workin' Day and Night | Working Day and Night
+Speed Demon
+Tabloid Junkie
+Morphine
+Xscape
+Shake Your Body (Down to the Ground) | Shake Your Body

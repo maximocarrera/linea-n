@@ -4,7 +4,7 @@
 # Puntos por puesto: 1-10 → 10 · 11-20 → 20 · ... · 91-100 → 100.
 
 categoria: Cine
-consigna: Nombrá una película del Top 100 de IMDb
+consigna: Nombrá una película del Top 100 con mejor valoracion del publico (segun IMDB)
 activa: si
 apellidos: no
 

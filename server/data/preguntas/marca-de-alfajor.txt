@@ -29,7 +29,11 @@ Punta Ballena
 Entre Dos
 Balcarce
 
-[50] // Podés usar este nivel si el sistema lo soporta, o pasarlo a [60] como venías usando:
+[50] 
+Havanna Playa Grande
+Havanna Playa Bristol
+Rasta TRICO Maicena
+
 [60]
 Merengo
 Havanna Colores
@@ -43,6 +47,10 @@ Abuela Goye
 Belfort
 Dos Dos
 Estancia El Elorza
+GOAT 
+
+[90]
+Alfajor Selección
 
 [100]
 Maza
@@ -65,3 +73,6 @@ Guolis
 El Indiecito
 Estancia Santa Cruz
 Hermenia
+Pescado Raul
+Giga 
+Tim Payne

@@ -1,0 +1,59 @@
+# Canciones de Luis Miguel, incluidos los boleros de la saga Romance (son versiones, pero se las asocia con él).
+# Sin rancheras de "México en la piel" de las que no estoy seguro.
+
+categoria: Música
+consigna: Nombrá una canción de Luis Miguel
+activa: si
+apellidos: no
+imagen: https://commons.wikimedia.org/wiki/File:Luis_Miguel_(3x4_cropped).jpg
+
+[10]
+La incondicional
+Ahora te puedes marchar
+Suave
+Hasta que me olvides
+Cuando calienta el sol
+Será que no me amas | Sera que no me amas
+Culpable o no
+Entrégate | Entregate
+Tengo todo excepto a ti
+Te extraño | Te extrano
+
+[30]
+Fría como el viento | Fria como el viento
+Isabel
+Decídete | Decidete
+La chica del bikini azul
+Un hombre busca una mujer
+Palabra de honor
+No sé tú | No se tu
+Contigo en la distancia
+La barca
+Inolvidable
+Somos novios
+Usted
+Por debajo de la mesa
+El día que me quieras | El dia que me quieras
+Sabor a mí | Sabor a mi
+Amarte es un placer
+O tú o ninguna | O tu o ninguna
+Dormir contigo
+Sueña | Suena
+Si nos dejan
+1+1=2 enamorados | Uno más uno dos enamorados | Uno mas uno dos enamorados
+
+[60]
+Todo y nada
+Reloj
+Solamente una vez
+La gloria eres tú | La gloria eres tu
+Delirio
+Por si volvieras
+Te propongo esta noche
+Bella
+Oro de ley
+Qué nivel de mujer | Que nivel de mujer
+Sol, arena y mar | Sol arena y mar
+Ya nunca más | Ya nunca mas
+Te necesito
+Cómo es posible que a mi lado | Como es posible que a mi lado

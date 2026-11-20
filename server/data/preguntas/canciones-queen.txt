@@ -1,0 +1,253 @@
+# Canciones de Queen (discos de estudio 1973-1995). Sin temas solistas de Freddie Mercury
+# (Barcelona, The Great Pretender, Living on My Own) ni de Brian May.
+# Se dejan afuera títulos de una palabra común (Liar, Scandal, Flash).
+
+categoria: Música
+consigna: Nombrá una canción de Queen
+activa: si
+apellidos: no
+
+[10]
+Bohemian Rhapsody
+We Will Rock You
+We Are the Champions
+Don't Stop Me Now | Dont Stop Me Now
+Another One Bites the Dust
+Somebody to Love
+I Want to Break Free
+Radio Ga Ga
+Under Pressure
+Love of My Life
+Crazy Little Thing Called Love
+The Show Must Go On
+
+[30]
+Killer Queen
+A Kind of Magic
+I Want It All
+You're My Best Friend | Youre My Best Friend
+Bicycle Race
+Fat Bottomed Girls
+Who Wants to Live Forever
+Friends Will Be Friends
+Innuendo
+Hammer to Fall
+I Was Born to Love You
+Tie Your Mother Down
+I'm Going Slightly Mad | Im Going Slightly Mad
+Play the Game
+Save Me
+Too Much Love Will Kill You
+Flash | Flash's Theme | Flashs Theme
+One Vision
+These Are the Days of Our Lives
+Las Palabras de Amor
+Barcelona
+
+[60]
+Seven Seas of Rhye
+Keep Yourself Alive
+Now I'm Here | Now Im Here
+Stone Cold Crazy
+Brighton Rock
+Death on Two Legs
+Good Old-Fashioned Lover Boy | Good Old Fashioned Lover Boy
+Spread Your Wings
+It's a Hard Life | Its a Hard Life
+Breakthru
+The Miracle
+The Invisible Man
+Scandal
+Headlong
+Heaven for Everyone
+Made in Heaven
+A Winter's Tale | A Winters Tale
+You Don't Fool Me | You Dont Fool Me
+Princes of the Universe
+One Year of Love
+Body Language
+Back Chat
+It's Late | Its Late
+Sheer Heart Attack
+I'm in Love With My Car | Im in Love With My Car
+The March of the Black Queen
+Liar
+Great King Rat
+Ogre Battle
+Dragon Attack
+Need Your Loving Tonight
+Let Me Entertain You
+Thank God It's Christmas | Thank God Its Christmas
+No One But You
+Face It Alone
+The Great Pretender
+Living on My Own
+Love Kills
+
+[100]
+20th Century Fox Fanfare
+A Dozen Red Roses for My Darling
+A Human Body
+A New Life Is Born
+Action This Day
+Affairs
+Ain't Put Nothin' Down | Aint Put Nothin Down
+All Dead, All Dead | All Dead All Dead
+All God's People | All Gods People
+All Right Now
+Another World
+April Lady
+Ay-Oh
+Baby It's Alright | Baby Its Alright
+Back to Storm / Little Boogie
+Back to the Light
+Battle Theme
+Big Spender
+Bijou
+Blurred Vision
+Bring Back That Leroy Brown
+C-lebrity
+Call Me
+Calling All Girls
+Can't Get Enough | Cant Get Enough
+Chinese Torture
+Coming Soon
+Cool Cat
+Cosmos Rockin' | Cosmos Rockin
+Dancer
+Dead on Time
+Dear Friends
+Delilah
+Doing All Right
+Don't Lose Your Head | Dont Lose Your Head
+Don't Try So Hard | Dont Try So Hard
+Don't Try Suicide | Dont Try Suicide
+Dreamer's Ball | Dreamers Ball
+Driven by You
+Drowse
+Father to Son
+Feel Like
+Feelings, Feelings
+Fight From the Inside
+Flick of the Wrist
+Fooling Around
+Fun It
+Funny How Love Is
+Get Down, Make Love
+Gimme Some Lovin' | Gimme Some Lovin
+Gimme the Prize (Kurgan's Theme) | Gimme the Prize
+God Save the Queen
+Going Back
+Good Company
+Hang on in There
+Hangman
+Hello Mary Lou
+Hijack My Heart
+How Can I Go On
+I Can't Live With You | I Cant Live With You
+I Go Crazy
+I Guess We're Falling Out | I Guess Were Falling Out
+If You Can't Beat Them | If You Cant Beat Them
+Imagine
+In Only Seven Days
+In the Lap of the Gods
+Is Everybody Happy?
+Is This the World We Created? | Is This the World We Created
+It's a Beautiful Day | Its a Beautiful Day
+It's So You | Its So You
+Jailhouse Rock
+Jealousy
+Jesus
+Keep Passing the Open Windows
+Khashoggi's Ship | Khashoggis Ship
+Lazing on a Sunday Afternoon
+Leaving Home Ain't Easy | Leaving Home Aint Easy
+Let Me in Your Heart Again
+Let Me Live
+Let There Be Drums
+Life Is Real
+Lily of the Valley
+Long Away
+Lost Opportunity
+Love Makin' Love | Love Makin Love
+Machines (Or Back to Humans) | Machines
+Mad the Swine
+Man From Manhattan
+Man on the Prowl
+Misfire
+Modern Times Rock'n'Roll | Modern Times Rock n Roll
+Money Can't Buy Me Happiness | Money Cant Buy Me Happiness
+More of That Jazz
+Mother Love
+Mustapha
+My Baby Does Me
+My Baby Loves Me
+My Fairy King
+My Life Has Been Saved
+My Love Is Dangerous
+My Melancholy Blues
+My Secret Fantasy
+Nevermore
+Not for Sale (Polar Bear) | Not for Sale
+Pain Is So Close to Pleasure
+Party
+Procession
+Put Out the Fire
+Rain Must Fall
+Ride the Wild Wind
+Robbery
+Rock in Rio Blues
+Rock It (Prime Jive) | Rock It
+Runaway
+Sail Away Sweet Sister
+Say It's Not True | Say Its Not True
+Seaside Rendezvous
+See What a Fool I've Been | See What a Fool Ive Been
+She Makes Me
+Silver Salmon
+Sleeping on the Sidewalk
+Small
+Some Day, One Day
+Some Things That Glitter
+Son and Daughter
+Soul Brother
+State of Shock
+Staying Power
+Stealin' | Stealin
+Still Burning
+Surf's Up, School's Out | Surfs Up Schools Out
+Sweet Lady
+Tavaszi Szél | Tavaszi Szel
+Tear It Up
+Tenement Funster
+Teo Torriatte (Let Us Cling Together) | Teo Torriatte
+The Call (46664) | The Call
+The Fairy Feller's Master-Stroke | The Fairy Fellers Master-stroke
+The Golden Boy
+The Hero
+The Hitman
+The Loser in the End
+The Millionaire Waltz
+The Night Comes Down
+The Prophet's Song | The Prophets Song
+The Wedding March
+There Must Be More to Life Than This | There Must Be More To Life In This
+Through the Night
+Time
+Time to Shine
+Tutti Frutti
+Voodoo
+Warboys (A Prayer for Peace) | Warboys
+Was It All Worth It? | Was It All Worth It
+Water
+We Believe
+When Love Breaks Up
+White Man
+White Queen (As It Began) | White Queen
+Who Needs You
+Why Don't We Try Again | Why Dont We Try Again
+Wishing Well
+(You're So Square) Baby I Don't Care | Baby I Dont Care
+You and I
+You Know You Belong to Me
+You Take My Breath Away
