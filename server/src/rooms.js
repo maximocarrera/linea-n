@@ -56,6 +56,7 @@ export class Room {
     this.lastReveal = null;
     this.played = []; // por ronda: { question, answers: { playerId: respuesta } }
     this.history = []; // ids de preguntas que ya salieron en esta sala, de más vieja a más nueva
+    this.excluded = new Set(); // categorías que el conductor apagó (se guardan apagadas: las nuevas arrancan prendidas)
     this.gameOver = null;
     this.timer = null;
     this.dropTimers = new Map();
@@ -159,6 +160,26 @@ export class Room {
     if (this.state === 'question') this.maybeEndEarly();
   }
 
+  /** El conductor elige qué categorías juegan (solo en la sala de espera). `off`: las apagadas. */
+  setCategories(byPlayerId, off) {
+    if (byPlayerId !== this.hostId) return { error: 'Solo el conductor elige las categorías.' };
+    if (this.state !== 'lobby') return { error: 'Las categorías se eligen antes de arrancar.' };
+    const known = new Set(this.store.categoryList().map((c) => c.name));
+    this.excluded = new Set(off.filter((name) => known.has(name)));
+    this.touch();
+    this.broadcast();
+    return { ok: true, room: this.snapshot() };
+  }
+
+  categories() {
+    try {
+      return this.store.categoryList().map((c) => ({ ...c, on: !this.excluded.has(c.name) }));
+    } catch (err) {
+      console.error('categoryList:', err);
+      return [];
+    }
+  }
+
   // ───────────────────────── Partida ─────────────────────────
 
   start(byPlayerId) {
@@ -168,14 +189,18 @@ export class Room {
     // Evitamos lo que ya salió en esta sala y lo que cualquiera de los presentes jugó hace poco.
     // Si no alcanza, se repiten primero las que nadie vio hace más tiempo.
     const avoid = mergeRecent([this.history, ...this.connectedPlayers().map((p) => p.recent ?? [])]);
+    if (this.excluded.size && !this.categories().some((c) => c.on)) return { error: 'Prendé al menos una categoría.' };
     let questions;
     try {
-      questions = this.store.pickGame(QUESTIONS_PER_GAME, avoid).map(buildQuestion).filter((q) => q.answers.length > 0);
+      questions = this.store
+        .pickGame(QUESTIONS_PER_GAME, avoid, { excluded: this.excluded })
+        .map(buildQuestion)
+        .filter((q) => q.answers.length > 0);
     } catch (err) {
       console.error('pickGame:', err);
       return { error: 'No se pudo leer la base de preguntas.' };
     }
-    if (!questions.length) return { error: 'No hay preguntas cargadas en la base.' };
+    if (!questions.length) return { error: this.excluded.size ? 'No hay preguntas en las categorías elegidas.' : 'No hay preguntas cargadas en la base.' };
 
     for (const p of this.players.values()) p.score = 0;
     this.questions = questions;
@@ -346,6 +371,8 @@ export class Room {
       roundIndex: this.roundIndex,
       totalRounds: this.questions.length || QUESTIONS_PER_GAME,
       players: [...this.players.values()].map(({ id, name, color, score, connected }) => ({ id, name, color, score, connected })),
+      // Solo hace falta para elegirlas en la sala de espera.
+      categories: this.state === 'lobby' ? this.categories() : undefined,
     };
   }
 

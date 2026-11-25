@@ -43,6 +43,12 @@ export function registerSocketHandlers(io, rooms) {
       reply(ack, room ? room.rename(socket.data.playerId, clean(data?.name, MAX_NAME)) : { error: 'No estás en una sala' });
     });
 
+    socket.on('room:categories', (data, ack) => {
+      const room = currentRoom();
+      const off = Array.isArray(data?.off) ? data.off.slice(0, 200).map((c) => clean(c, 80)).filter(Boolean) : [];
+      reply(ack, room ? room.setCategories(socket.data.playerId, off) : { error: 'No estás en una sala' });
+    });
+
     socket.on('room:start', (_data, ack) => {
       const room = currentRoom();
       reply(ack, room ? room.start(socket.data.playerId) : { error: 'No estás en una sala' });

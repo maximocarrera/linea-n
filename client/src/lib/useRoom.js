@@ -115,6 +115,8 @@ export function useRoom() {
     },
     [call],
   );
+  /** `off`: nombres de las categorías apagadas (solo el conductor). */
+  const setCategories = useCallback((off) => call('room:categories', { off }), [call]);
   const start = useCallback(() => call('room:start'), [call]);
   const restart = useCallback(() => call('room:restart'), [call]);
   const submit = useCallback((text) => call('answer:submit', { text }), [call]);
@@ -127,5 +129,5 @@ export function useRoom() {
     setFinal(null);
   }, []);
 
-  return { playerId, connected, room, round, reveal, final, create, join, rename, start, restart, submit, leave };
+  return { playerId, connected, room, round, reveal, final, create, join, rename, setCategories, start, restart, submit, leave };
 }

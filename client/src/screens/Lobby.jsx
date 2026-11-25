@@ -1,14 +1,15 @@
-import { useState } from 'react';
-import { Check, Copy, LoaderCircle, Pencil, Share2, TrainFront, UserRound, X } from 'lucide-react';
-import { MAX_NAME, MAX_PLAYERS } from '@linean/shared';
+import { useEffect, useState } from 'react';
+import { Check, ChevronDown, Copy, LoaderCircle, Pencil, Share2, SlidersHorizontal, TrainFront, UserRound, X } from 'lucide-react';
+import { MAX_NAME, MAX_PLAYERS, QUESTIONS_PER_GAME } from '@linean/shared';
 import GameHeader, { ConnectionPill } from '../components/GameHeader';
 import LineBadge from '../components/LineBadge';
 import { GameAdInline } from '../components/AdSlot';
 import FlapText from '../components/landing/FlapText';
+import { lineColorFor } from '../lib/lines';
 import { copyText, shareOrCopy } from '../lib/share';
 import { useShareOrigin } from '../lib/useShareOrigin';
 
-export default function Lobby({ room, meId, onStart, onLeave, onRename, connected }) {
+export default function Lobby({ room, meId, onStart, onCategories, onLeave, onRename, connected }) {
   const [feedback, setFeedback] = useState(null);
   const [error, setError] = useState(null);
   const [starting, setStarting] = useState(false);
@@ -16,6 +17,7 @@ export default function Lobby({ room, meId, onStart, onLeave, onRename, connecte
   const { origin, rewritten } = useShareOrigin();
   const link = `${origin}${location.pathname}?sala=${room.code}`;
   const host = room.players.find((p) => p.id === room.hostId);
+  const noCategories = room.categories?.length > 0 && !room.categories.some((c) => c.on);
 
   const flash = (text) => {
     setFeedback(text);
@@ -121,6 +123,10 @@ export default function Lobby({ room, meId, onStart, onLeave, onRename, connecte
         </ul>
       </section>
 
+      {room.categories?.length > 0 && (
+        <CategoryPicker categories={room.categories} isHost={isHost} hostName={host?.name} onChange={onCategories} />
+      )}
+
       <div className="mt-auto grid gap-3 pb-2">
         {error && (
           <p role="alert" className="border-2 border-alert bg-alert/10 px-4 py-3 text-sm font-semibold text-[#ff8a8b]">
@@ -132,7 +138,7 @@ export default function Lobby({ room, meId, onStart, onLeave, onRename, connecte
             <button
               type="button"
               onClick={start}
-              disabled={starting || !connected}
+              disabled={starting || !connected || noCategories}
               className="press flex min-h-16 cursor-pointer items-center justify-center gap-3 bg-signal text-xl font-bold text-tunnel uppercase disabled:cursor-not-allowed disabled:opacity-50 disabled:shadow-none"
               style={{ '--press-shadow': '#f4f2ea' }}
             >
@@ -150,6 +156,132 @@ export default function Lobby({ room, meId, onStart, onLeave, onRename, connecte
       </div>
       <GameAdInline />
     </>
+  );
+}
+
+/**
+ * Qué categorías entran en la partida. El conductor las prende y apaga (con atajos para
+ * prender o apagar todas); el resto ve cuáles quedaron.
+ */
+function CategoryPicker({ categories, isHost, hostName, onChange }) {
+  // Copia local para que los toques se vean al instante; se resincroniza con lo que manda el server.
+  const serverOff = categories
+    .filter((c) => !c.on)
+    .map((c) => c.name)
+    .join('\n');
+  const [off, setOff] = useState(() => new Set(serverOff ? serverOff.split('\n') : []));
+  useEffect(() => setOff(new Set(serverOff ? serverOff.split('\n') : [])), [serverOff]);
+  const [open, setOpen] = useState(false);
+  const [error, setError] = useState(null);
+
+  const onCount = categories.length - off.size;
+  const questions = categories.reduce((n, c) => n + (off.has(c.name) ? 0 : c.questions), 0);
+
+  async function apply(next) {
+    setOff(next);
+    setError(null);
+    const res = await onChange?.([...next]);
+    if (res?.error) setError(res.error);
+  }
+  const toggle = (name) => {
+    const next = new Set(off);
+    if (next.has(name)) next.delete(name);
+    else next.add(name);
+    apply(next);
+  };
+
+  const summary =
+    onCount === categories.length ? 'Todas las categorías' : onCount === 0 ? 'Ninguna categoría' : `${onCount} de ${categories.length} categorías`;
+  const chip = (on) => `flex min-h-12 items-center gap-2 border-2 px-3 text-sm font-bold ${on ? 'border-chalk bg-platform-2 text-chalk' : 'border-rail bg-tunnel text-mute'}`;
+  const shortcut =
+    'press flex min-h-12 cursor-pointer items-center justify-center gap-2 border-2 border-chalk bg-platform-2 px-3 text-sm font-bold uppercase disabled:cursor-not-allowed disabled:opacity-40 disabled:shadow-none';
+
+  return (
+    <section aria-labelledby="cats-title" className="slab animate-slide-up overflow-hidden" style={{ animationDelay: '180ms' }}>
+      <h2 id="cats-title">
+        <button
+          type="button"
+          onClick={() => setOpen((o) => !o)}
+          aria-expanded={open}
+          aria-controls="cats-panel"
+          className="focus-ring flex min-h-14 w-full cursor-pointer items-center gap-3 bg-sign px-5 py-3 text-left"
+        >
+          <SlidersHorizontal className="size-5 shrink-0 text-signal" aria-hidden />
+          <span className="min-w-0 flex-1">
+            <span className="label-caps block !text-signal">Categorías</span>
+            <span className="block truncate text-sm font-semibold">
+              {summary} · <span className="font-mono">{questions}</span> preguntas
+            </span>
+          </span>
+          <span className="shrink-0 text-sm font-bold text-mute uppercase">{isHost ? 'Elegir' : 'Ver'}</span>
+          <ChevronDown className={`size-5 shrink-0 transition-transform duration-200 ${open ? 'rotate-180' : ''}`} aria-hidden />
+        </button>
+      </h2>
+
+      {open && (
+        <div id="cats-panel" className="grid gap-4 border-t-2 border-rail p-5">
+          {isHost ? (
+            <div className="grid grid-cols-2 gap-3">
+              <button type="button" onClick={() => apply(new Set())} disabled={off.size === 0} className={shortcut}>
+                <Check className="size-4" aria-hidden /> Todas
+              </button>
+              <button type="button" onClick={() => apply(new Set(categories.map((c) => c.name)))} disabled={onCount === 0} className={shortcut}>
+                <X className="size-4" aria-hidden /> Ninguna
+              </button>
+            </div>
+          ) : (
+            <p className="text-sm text-mute">Las elige {hostName ?? 'el conductor'}.</p>
+          )}
+
+          <ul className="flex flex-wrap gap-2" aria-label="Categorías de la partida">
+            {categories.map((c) => {
+              const on = !off.has(c.name);
+              const color = lineColorFor(c.name);
+              const body = (
+                <>
+                  <span className="grid size-5 shrink-0 place-items-center border-2" style={{ borderColor: color, background: on ? color : 'transparent' }} aria-hidden>
+                    {on && <Check className="size-3.5 text-white" strokeWidth={3} />}
+                  </span>
+                  <span className={on ? '' : 'line-through decoration-2'}>{c.name}</span>
+                  <span className="font-mono text-xs text-mute">{c.questions}</span>
+                </>
+              );
+              return (
+                <li key={c.name}>
+                  {isHost ? (
+                    <button type="button" onClick={() => toggle(c.name)} aria-pressed={on} className={`focus-ring cursor-pointer transition-colors ${chip(on)}`}>
+                      {body}
+                    </button>
+                  ) : (
+                    <span className={chip(on)}>
+                      <span className="sr-only">{on ? 'Activa:' : 'Apagada:'}</span>
+                      {body}
+                    </span>
+                  )}
+                </li>
+              );
+            })}
+          </ul>
+
+          {onCount === 0 ? (
+            <p role="status" className="text-sm font-semibold text-signal">
+              Prendé al menos una categoría para arrancar.
+            </p>
+          ) : (
+            questions < QUESTIONS_PER_GAME && (
+              <p role="status" className="text-sm text-mute">
+                Con estas categorías hay {questions} {questions === 1 ? 'pregunta' : 'preguntas'}: la partida va a ser más corta.
+              </p>
+            )
+          )}
+          {error && (
+            <p role="alert" className="text-sm font-semibold text-[#ff8a8b]">
+              {error}
+            </p>
+          )}
+        </div>
+      )}
+    </section>
   );
 }
 

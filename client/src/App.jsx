@@ -59,6 +59,7 @@ export default function App() {
           room={room}
           meId={mp.playerId}
           onStart={mp.start}
+          onCategories={mp.setCategories}
           onLeave={mp.leave}
           onRename={async (newName) => {
             const res = await mp.rename(newName);

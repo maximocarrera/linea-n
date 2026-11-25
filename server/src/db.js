@@ -35,7 +35,7 @@ export class QuestionStore {
   constructor(db) {
     this.db = db;
     this.playableIds = db.prepare(`
-      SELECT q.id FROM questions q
+      SELECT q.id, q.category FROM questions q
       WHERE q.active = 1 AND EXISTS (SELECT 1 FROM answers a WHERE a.question_id = q.id)
     `);
   }
@@ -68,6 +68,24 @@ export class QuestionStore {
     };
   }
 
+  /**
+   * Categorías jugables con cuántas preguntas tiene cada una (para elegirlas en las salas).
+   * Se cachea un minuto: se manda en cada actualización de la sala.
+   */
+  categoryList() {
+    const now = Date.now();
+    if (this.#categories && now - this.#categories.at < 60_000) return this.#categories.list;
+    const counts = new Map();
+    for (const { category } of this.playableIds.all()) counts.set(category, (counts.get(category) ?? 0) + 1);
+    const list = [...counts]
+      .map(([name, questions]) => ({ name, questions }))
+      .sort((a, b) => a.name.localeCompare(b.name, 'es'));
+    this.#categories = { at: now, list };
+    return list;
+  }
+
+  #categories = null;
+
   countPlayable() {
     return this.playableIds.all().length;
   }
@@ -77,8 +95,11 @@ export class QuestionStore {
    * si no alcanzan, completa con las de `avoid` empezando por las jugadas hace más tiempo
    * (`avoid` viene ordenado de más vieja a más nueva).
    */
-  pickIds(count, avoid = []) {
-    const ids = this.playableIds.all().map((r) => r.id);
+  pickIds(count, avoid = [], { excluded } = {}) {
+    const ids = this.playableIds
+      .all()
+      .filter((r) => !excluded?.has(r.category))
+      .map((r) => r.id);
     const age = new Map();
     avoid.forEach((id, i) => {
       if (!age.has(id)) age.set(id, i);
@@ -109,8 +130,9 @@ export class QuestionStore {
     return ids.map((id) => byId.get(id)).filter(Boolean);
   }
 
-  pickGame(count, avoid = []) {
-    return this.load(this.pickIds(count, avoid));
+  /** `excluded`: Set de categorías que no tienen que salir (las que se apagaron en la sala). */
+  pickGame(count, avoid = [], options = {}) {
+    return this.load(this.pickIds(count, avoid, options));
   }
 
   // ───────────── Estadísticas reales: qué eligió la gente ─────────────
