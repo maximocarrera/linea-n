@@ -2,6 +2,7 @@ import { useCallback, useEffect, useState } from 'react';
 import { socket } from './socket';
 import { getPlayerId, session } from './storage';
 import { getRecent, rememberPlayed } from './recent';
+import { track } from './analytics';
 
 const ROOM_KEY = 'linean:room';
 
@@ -43,6 +44,7 @@ export function useRoom() {
     const onRoundStart = (d) => {
       if (!inRoom()) return;
       rememberPlayed(d.question.id);
+      if (d.index === 0 && d.introMs > 0) track('partida_amigos');
       const startsAt = Date.now() + d.introMs;
       setRound({ ...d, startsAt, endsAt: startsAt + d.durationMs });
       setReveal(null);
@@ -50,7 +52,11 @@ export function useRoom() {
     };
     const onProgress = ({ answered }) => setRound((r) => (r ? { ...r, answered } : r));
     const onRoundEnd = (d) => setReveal({ ...d, nextAt: Date.now() + d.nextInMs });
-    const onGameOver = (d) => inRoom() && setFinal(d);
+    const onGameOver = (d) => {
+      if (!inRoom()) return;
+      track('partida_amigos_terminada', { jugadores: d.ranking?.length ?? 0 });
+      setFinal(d);
+    };
 
     socket.on('connect', onConnect);
     socket.on('disconnect', onDisconnect);

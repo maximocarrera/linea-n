@@ -5,6 +5,7 @@ import GameHeader from '../components/GameHeader';
 import LineProgress from '../components/LineProgress';
 import QuestionView from '../components/QuestionView';
 import RevealPanel from '../components/RevealPanel';
+import { track } from '../lib/analytics';
 import { fetchSoloGame } from '../lib/api';
 import { getRecent, rememberPlayed } from '../lib/recent';
 import { SoloResults } from './Results';
@@ -117,6 +118,12 @@ function SoloRun({ gameId, questions, onExit, onRetry }) {
     const t = setTimeout(next, SOLO_REVEAL_MS);
     return () => clearTimeout(t);
   }, [result, done, next]);
+
+  // Estadísticas: cuánta gente llega al final de la partida.
+  useEffect(() => {
+    if (done && questions.length) track('partida_solo_terminada', { puntos: score, gano: score >= SOLO_TARGET ? 'si' : 'no' });
+    // eslint-disable-next-line react-hooks/exhaustive-deps
+  }, [done]);
 
   if (done) return <SoloResults score={score} target={SOLO_TARGET} marks={marks} gameId={gameId} plays={plays} onRetry={onRetry} onExit={onExit} />;
 

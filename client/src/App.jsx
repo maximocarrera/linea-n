@@ -1,5 +1,6 @@
 import { useEffect, useRef, useState } from 'react';
 import { GameAdRail } from './components/AdSlot';
+import { track } from './lib/analytics';
 import Station from './components/Station';
 import { local, session } from './lib/storage';
 import { useRoom } from './lib/useRoom';
@@ -35,22 +36,29 @@ export default function App() {
     if (autoJoined.current || initialCode.length !== 4) return;
     autoJoined.current = true;
     if (session.get('linean:room')?.code === initialCode) return; // ya estaba adentro: reconecta solo
-    enter(() => mp.join(initialCode, name.trim()));
+    enter(() => mp.join(initialCode, name.trim()), 'link');
     // eslint-disable-next-line react-hooks/exhaustive-deps
   }, []);
 
-  async function enter(action) {
+  // via: 'crear' | 'codigo' | 'link' (para las estadísticas)
+  async function enter(action, via) {
     setBusy(true);
     setError(null);
     const res = await action();
     setBusy(false);
     if (!res?.ok) setError(res?.error ?? 'No se pudo conectar.');
+    else track(via === 'crear' ? 'sala_creada' : 'sala_unido', via === 'crear' ? {} : { via });
   }
+
+  const startSolo = (n) => {
+    track('partida_solo', { repite: n > 1 ? 'si' : 'no' });
+    setSoloRun(n);
+  };
 
   let screen;
   let wide = false;
   if (soloRun > 0) {
-    screen = <SoloGame key={soloRun} onRetry={() => setSoloRun((n) => n + 1)} onExit={() => setSoloRun(0)} />;
+    screen = <SoloGame key={soloRun} onRetry={() => startSolo(soloRun + 1)} onExit={() => setSoloRun(0)} />;
   } else if (mp.room) {
     const { room } = mp;
     if (room.state === 'lobby') {
@@ -85,9 +93,9 @@ export default function App() {
         initialCode={initialCode}
         busy={busy}
         error={error}
-        onSolo={() => setSoloRun(1)}
-        onCreate={() => enter(() => mp.create(name.trim()))}
-        onJoin={(code) => enter(() => mp.join(code, name.trim()))}
+        onSolo={() => startSolo(1)}
+        onCreate={() => enter(() => mp.create(name.trim()), 'crear')}
+        onJoin={(code) => enter(() => mp.join(code, name.trim()), 'codigo')}
       />
     );
   }

@@ -70,6 +70,8 @@ function layout({ title, description, path, body }) {
 <link rel="preconnect" href="https://fonts.gstatic.com" crossorigin>
 <link href="https://fonts.googleapis.com/css2?family=Space+Grotesk:wght@400;600;700&family=JetBrains+Mono:wght@500;700&display=swap" rel="stylesheet">
 <style>${CSS}</style>
+<script async src="https://www.googletagmanager.com/gtag/js?id=G-KB2QLK3XWS"></script>
+<script>window.dataLayer=window.dataLayer||[];function gtag(){dataLayer.push(arguments)}gtag('js',new Date());gtag('config','G-KB2QLK3XWS');</script>
 <script async src="https://pagead2.googlesyndication.com/pagead/js/adsbygoogle.js?client=${ADSENSE_CLIENT}" crossorigin="anonymous"></script>
 </head>
 <body>
@@ -281,6 +283,9 @@ export function privacidadPage() {
 <li>También podés desactivar las cookies de otros proveedores de publicidad en <a href="https://www.aboutads.info/choices" rel="noopener noreferrer">aboutads.info</a>.</li>
 <li>Más información sobre cómo Google usa los datos: <a href="https://policies.google.com/technologies/partner-sites" rel="noopener noreferrer">policies.google.com/technologies/partner-sites</a>.</li>
 </ul>
+
+<h2>Estadísticas de uso</h2>
+<p>Usamos Google Analytics para saber cuánta gente visita el sitio y juega (por ejemplo, cuántas partidas se empiezan y se terminan, desde qué país y con qué tipo de dispositivo). Google Analytics usa cookies y no recibe tu nombre ni tus respuestas. Podés bloquearlo con el <a href="https://tools.google.com/dlpage/gaoptout" rel="noopener noreferrer">complemento de inhabilitación de Google Analytics</a> o desde la configuración de tu navegador.</p>
 
 <h2>Registros técnicos</h2>
 <p>Como cualquier servidor web, el nuestro procesa la dirección IP de cada pedido. La usamos solo en memoria para limitar el spam (por ejemplo, cuántas sugerencias se mandan por minuto) y no la guardamos asociada a tus respuestas.</p>
