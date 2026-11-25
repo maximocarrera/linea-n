@@ -242,7 +242,7 @@ function CategoryPicker({ categories, isHost, hostName, onChange }) {
                   <span className="grid size-5 shrink-0 place-items-center border-2" style={{ borderColor: color, background: on ? color : 'transparent' }} aria-hidden>
                     {on && <Check className="size-3.5 text-white" strokeWidth={3} />}
                   </span>
-                  <span className={on ? '' : 'line-through decoration-2'}>{c.name}</span>
+                  <span>{c.name}</span>
                   <span className="font-mono text-xs text-mute">{c.questions}</span>
                 </>
               );

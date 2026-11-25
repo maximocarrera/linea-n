@@ -1,4 +1,4 @@
-categoria: Tele 
+categoria: Televisión
 consigna: Nombrá invitados que estuvieron en el programa Otro día perdido de Mario Pergolini
 activa: si
 apellidos: no

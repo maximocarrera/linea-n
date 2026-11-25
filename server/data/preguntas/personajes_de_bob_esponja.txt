@@ -3,7 +3,7 @@
 # Niveles: [10] común · [30] poco común · [60] rara · [100] de nicho
 # Personajes de la serie animada Bob Esponja.
 
-categoria: Tele 
+categoria: Televisión
 consigna: Nombrá un personaje de Bob Esponja
 activa: si
 apellidos: no

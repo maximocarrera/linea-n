@@ -2,7 +2,7 @@
 # Un nombre por renglón. Variantes con |   ej: Benín | Benin | Dahomey
 # Niveles: [10] común · [30] poco común · [60] rara · [100] de nicho
 
-categoria: Subte
+categoria: Argentina
 consigna: Nombrá una estación del subte de Buenos Aires
 activa: si
 apellidos: no

@@ -1,4 +1,4 @@
-categoria: Tele
+categoria: Televisión
 consigna: Nombrá series, novelas o programas creados por Cris Morena
 activa: si
 apellidos: no

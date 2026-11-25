@@ -1,5 +1,5 @@
-import { useEffect, useRef, useState } from 'react';
-import { Maximize2, X } from 'lucide-react';
+import { useEffect, useLayoutEffect, useRef, useState } from 'react';
+import { Maximize2, X, ZoomIn, ZoomOut } from 'lucide-react';
 
 /**
  * Foto de la pregunta, como un cartel pegado en el andén: ladeado, con cinta amarilla.
@@ -79,6 +79,110 @@ export function HeroPhoto({ image, alt }) {
   );
 }
 
+const ZOOM = 2.5;
+const isTouch = () => typeof matchMedia === 'function' && matchMedia('(pointer: coarse)').matches;
+
+/**
+ * Foto grupal ampliada, sin barras de desplazamiento.
+ * Compu: arranca entera; un clic acerca en ese punto y se recorre arrastrando con el mouse.
+ * Celu: arranca acercada y se recorre arrastrando con el dedo (scroll nativo).
+ */
+function PanViewer({ image, alt }) {
+  const boxRef = useRef(null);
+  const [touch] = useState(isTouch);
+  const [zoomed, setZoomed] = useState(touch);
+  const [dragging, setDragging] = useState(false);
+  const drag = useRef(null);
+  const focus = useRef(null); // punto a mantener debajo del cursor al cambiar el zoom
+
+  // Después de cambiar el zoom, deja el punto clickeado donde estaba el cursor (o centra la foto).
+  useLayoutEffect(() => {
+    const box = boxRef.current;
+    if (!box) return;
+    const f = focus.current ?? { fx: 0.5, fy: 0.5, ox: box.clientWidth / 2, oy: box.clientHeight / 2 };
+    box.scrollLeft = f.fx * box.scrollWidth - f.ox;
+    box.scrollTop = f.fy * box.scrollHeight - f.oy;
+    focus.current = null;
+  }, [zoomed]);
+
+  const toggleAt = (clientX, clientY) => {
+    const box = boxRef.current;
+    if (box && clientX != null) {
+      const r = box.getBoundingClientRect();
+      const ox = clientX - r.left;
+      const oy = clientY - r.top;
+      focus.current = { fx: (box.scrollLeft + ox) / box.scrollWidth, fy: (box.scrollTop + oy) / box.scrollHeight, ox, oy };
+    }
+    setZoomed((z) => !z);
+  };
+
+  // Solo el mouse arrastra a mano: en pantallas táctiles el scroll nativo ya sigue al dedo.
+  const onPointerDown = (e) => {
+    if (e.pointerType !== 'mouse' || e.button !== 0) return;
+    const box = boxRef.current;
+    drag.current = { x: e.clientX, y: e.clientY, left: box.scrollLeft, top: box.scrollTop, moved: false };
+    box.setPointerCapture(e.pointerId);
+  };
+  const onPointerMove = (e) => {
+    const d = drag.current;
+    if (!d) return;
+    const dx = e.clientX - d.x;
+    const dy = e.clientY - d.y;
+    if (!d.moved && Math.hypot(dx, dy) < 5) return;
+    if (!d.moved) setDragging(true);
+    d.moved = true;
+    boxRef.current.scrollLeft = d.left - dx;
+    boxRef.current.scrollTop = d.top - dy;
+  };
+  const onPointerUp = (e) => {
+    const d = drag.current;
+    drag.current = null;
+    setDragging(false);
+    if (d && !d.moved) toggleAt(e.clientX, e.clientY); // clic sin arrastrar: acerca / aleja
+  };
+
+  const cursor = zoomed ? (dragging ? 'cursor-grabbing' : 'cursor-grab') : 'cursor-zoom-in';
+
+  return (
+    <div className="grid gap-2">
+      <div className="relative border-2 border-chalk bg-platform-2 p-1.5 shadow-[10px_10px_0_0_#000]">
+        <div
+          ref={boxRef}
+          onPointerDown={onPointerDown}
+          onPointerMove={onPointerMove}
+          onPointerUp={onPointerUp}
+          onPointerCancel={() => {
+            drag.current = null;
+            setDragging(false);
+          }}
+          className={`max-h-[78dvh] w-[min(calc(100vw-3rem),72rem)] touch-pan-x touch-pan-y overflow-auto overscroll-contain select-none [scrollbar-width:none] [&::-webkit-scrollbar]:hidden ${touch ? '' : cursor}`}
+        >
+          <img
+            src={image.src}
+            alt={alt}
+            draggable={false}
+            className="block h-auto max-w-none"
+            style={{ width: zoomed ? `${ZOOM * 100}%` : '100%' }}
+          />
+        </div>
+        <button
+          type="button"
+          onClick={() => toggleAt()}
+          aria-label={zoomed ? 'Alejar' : 'Acercar'}
+          aria-pressed={zoomed}
+          className="press absolute right-3 bottom-3 grid size-12 cursor-pointer place-items-center bg-tunnel/90 text-chalk"
+          style={{ '--press-shadow': '#000' }}
+        >
+          {zoomed ? <ZoomOut className="size-6" aria-hidden /> : <ZoomIn className="size-6" aria-hidden />}
+        </button>
+      </div>
+      <p className="text-center text-sm text-mute">
+        {touch ? 'Arrastrá con el dedo para recorrer la foto' : zoomed ? 'Arrastrá para moverte · clic para alejar' : 'Hacé clic donde quieras acercarte'}
+      </p>
+    </div>
+  );
+}
+
 function PhotoZoom({ image, alt, onClose, pan = false }) {
   const closeRef = useRef(null);
   // El reloj de la ronda redibuja al padre cada segundo: guardamos onClose en un ref para
@@ -107,16 +211,12 @@ function PhotoZoom({ image, alt, onClose, pan = false }) {
     >
       <figure className="relative grid max-h-full max-w-full animate-pop-in gap-3" onClick={(e) => e.stopPropagation()}>
         {pan ? (
-          // Foto grupal: en pantallas chicas se muestra más grande que la pantalla y se recorre arrastrando.
-          <div className="max-h-[80dvh] max-w-[calc(100vw-2rem)] overflow-auto overscroll-contain border-2 border-chalk bg-platform-2 p-1.5 shadow-[10px_10px_0_0_#000]">
-            <img src={image.src} alt={alt} className="block h-auto w-[max(100%,min(1600px,220vw))] max-w-none" />
-          </div>
+          <PanViewer image={image} alt={alt} />
         ) : (
           <div className="border-2 border-chalk bg-platform-2 p-1.5 shadow-[10px_10px_0_0_#000]">
             <img src={image.src} alt={alt} className="max-h-[78dvh] w-auto max-w-full object-contain" />
           </div>
         )}
-        {pan && <p className="text-center text-sm text-mute lg:hidden">Arrastrá para recorrer la foto</p>}
         {image.credit && <figcaption className="text-center font-mono text-xs text-mute">Foto: {image.credit}</figcaption>}
         <button
           ref={closeRef}

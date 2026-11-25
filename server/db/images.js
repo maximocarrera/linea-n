@@ -48,10 +48,10 @@ const slugify = (s) =>
 /**
  * Prepara la versión web de la foto de una pregunta.
  * @param {string} ref nombre de archivo en server/data/imagenes/ o link de Wikimedia Commons
- * @param {{ checkOnly?: boolean, width?: number }} [opts] width: ancho de la versión web (las preguntas de la categoría Foto usan más)
+ * @param {{ checkOnly?: boolean, width?: number, quality?: number }} [opts] ancho y calidad de la versión web (las preguntas de la categoría Foto usan más)
  * @returns {Promise<{ name: string|null, credit?: string, error?: string, warning?: string, note?: string }>}
  */
-export async function prepareImage(ref, { checkOnly = false, width = WIDTH } = {}) {
+export async function prepareImage(ref, { checkOnly = false, width = WIDTH, quality = QUALITY } = {}) {
   let source;
   let credit;
   let note;
@@ -72,7 +72,7 @@ export async function prepareImage(ref, { checkOnly = false, width = WIDTH } = {
   const bytes = readFileSync(source);
   const hash = createHash('sha1').update(bytes).digest('hex').slice(0, 10);
   const base = slugify(path.basename(file, path.extname(file)));
-  const suffix = width === WIDTH ? '' : `-w${width}`;
+  const suffix = (width === WIDTH ? '' : `-w${width}`) + (quality === QUALITY ? '' : `-q${quality}`);
   const webName = `${base}.${hash}${suffix}.webp`;
   if (existsSync(path.join(IMAGES_WEB_DIR, webName))) return { name: webName, credit, note };
 
@@ -87,7 +87,7 @@ export async function prepareImage(ref, { checkOnly = false, width = WIDTH } = {
     copyFileSync(source, path.join(IMAGES_WEB_DIR, rawName));
     return { name: rawName, credit, note, warning: `imagen "${file}": no se pudo achicar (falta sharp), se usa el original` };
   }
-  const out = await sharp(bytes).rotate().resize({ width, withoutEnlargement: true }).webp({ quality: QUALITY }).toBuffer();
+  const out = await sharp(bytes).rotate().resize({ width, withoutEnlargement: true }).webp({ quality }).toBuffer();
   writeFileSync(path.join(IMAGES_WEB_DIR, webName), out);
   return { name: webName, credit, note: [note, `foto achicada: ${kb(bytes.length)} → ${kb(out.length)}`].filter(Boolean).join(' · ') };
 }

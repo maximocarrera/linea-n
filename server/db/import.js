@@ -13,7 +13,8 @@ import { DB_PATH, openDb } from '../src/db.js';
 import { prepareImage, pruneImages } from './images.js';
 
 const PHOTO_CATEGORY = 'Foto';
-const PHOTO_WIDTH = 1600;
+const PHOTO_WIDTH = 2400; // no agranda: una foto más chica queda en su tamaño
+const PHOTO_QUALITY = 92;
 import { parseQuestionFile } from './questions-file.js';
 
 const __dirname = path.dirname(fileURLToPath(import.meta.url));
@@ -90,7 +91,7 @@ for (const [file, parsed] of parsedFiles) {
   let imageName = null;
   let imageNote = null;
   if (meta.image) {
-    const img = await prepareImage(meta.image, { checkOnly, width: isPhoto ? PHOTO_WIDTH : undefined });
+    const img = await prepareImage(meta.image, { checkOnly, ...(isPhoto && { width: PHOTO_WIDTH, quality: PHOTO_QUALITY }) });
     if (img.error) errors.push(img.error);
     if (img.warning) warnings.unshift(img.warning);
     imageName = img.name;
