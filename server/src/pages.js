@@ -70,8 +70,8 @@ function layout({ title, description, path, body }) {
 <link rel="preconnect" href="https://fonts.gstatic.com" crossorigin>
 <link href="https://fonts.googleapis.com/css2?family=Space+Grotesk:wght@400;600;700&family=JetBrains+Mono:wght@500;700&display=swap" rel="stylesheet">
 <style>${CSS}</style>
-<script async src="https://www.googletagmanager.com/gtag/js?id=G-KB2QLK3XWS"></script>
-<script>window.dataLayer=window.dataLayer||[];function gtag(){dataLayer.push(arguments)}gtag('js',new Date());gtag('config','G-KB2QLK3XWS');</script>
+<script async src="https://www.googletagmanager.com/gtag/js?id=G-SYXTWEC89C"></script>
+<script>window.dataLayer=window.dataLayer||[];function gtag(){dataLayer.push(arguments)}gtag('js',new Date());gtag('config','G-SYXTWEC89C');</script>
 <script async src="https://pagead2.googlesyndication.com/pagead/js/adsbygoogle.js?client=${ADSENSE_CLIENT}" crossorigin="anonymous"></script>
 </head>
 <body>
