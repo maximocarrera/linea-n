@@ -1,5 +1,5 @@
 import { ArrowUpRight, Coffee, MessageSquareText } from 'lucide-react';
-import { TERMINAL_STATION } from '@linean/shared';
+import { useTerminal } from '../../lib/theme';
 import SuggestionForm from '../SuggestionForm';
 
 export const CAFECITO_URL = 'https://cafecito.app/lineanicho';
@@ -26,6 +26,7 @@ export function SuggestionBox() {
 
 /** Al pie de todo: invitación a bancar el proyecto con un cafecito. */
 export function CafecitoPanel() {
+  const terminal = useTerminal();
   return (
     <section
       aria-labelledby="cafecito-title"
@@ -37,12 +38,12 @@ export function CafecitoPanel() {
           <Coffee className="size-9" strokeWidth={2.25} />
         </span>
         <div className="min-w-0">
-          <p className="label-caps">Próxima parada · {TERMINAL_STATION}</p>
+          <p className="label-caps">Próxima parada · {terminal}</p>
           <h2 id="cafecito-title" className="mt-1 text-2xl leading-tight font-bold tracking-tight uppercase sm:text-3xl">
             ¿Te gustó el viaje? <span className="text-signal">Bancanos con un cafecito.</span>
           </h2>
           <p className="mt-2 max-w-[56ch] text-mute">
-            Línea N es un proyecto independiente. Cada cafecito paga el servidor y suma preguntas nuevas; el flat white de {TERMINAL_STATION}, por ahora, lo seguimos esperando.
+            Línea N es un proyecto independiente. Cada cafecito paga el servidor y suma preguntas nuevas; el flat white de {terminal}, por ahora, lo seguimos esperando.
           </p>
         </div>
         <a

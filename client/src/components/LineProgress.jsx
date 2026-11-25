@@ -1,7 +1,9 @@
-import { TERMINAL_STATION, tierFor } from '@linean/shared';
+import { tierFor } from '@linean/shared';
+import { useTerminal } from '../lib/theme';
 
 /** Mapa de la línea: una estación por pregunta, de "Origen" a la cabecera. El tren avanza con transform. */
 export default function LineProgress({ total, current, marks = [] }) {
+  const terminal = useTerminal();
   const clamped = Math.min(Math.max(current, 0), total - 1);
   const ratio = total > 1 ? clamped / (total - 1) : 0;
 
@@ -39,7 +41,7 @@ export default function LineProgress({ total, current, marks = [] }) {
       </div>
       <div className="flex justify-between px-1 font-mono text-xs text-mute" aria-hidden>
         <span>Origen</span>
-        <span className="text-signal">{TERMINAL_STATION}</span>
+        <span className="text-signal">{terminal}</span>
       </div>
     </div>
   );

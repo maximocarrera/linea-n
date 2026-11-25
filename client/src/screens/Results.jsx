@@ -1,6 +1,6 @@
 import { useEffect, useState } from 'react';
 import { Crown, DoorOpen, Home, RotateCcw, TrainFront } from 'lucide-react';
-import { TERMINAL_STATION } from '@linean/shared';
+import { useTerminal } from '../lib/theme';
 import Confetti from '../components/Confetti';
 import LineBadge from '../components/LineBadge';
 import LineProgress from '../components/LineProgress';
@@ -31,6 +31,7 @@ function useSoloCrowd(gameId, plays) {
 // ─────────────────────────────── Solo ───────────────────────────────
 
 export function SoloResults({ score, target, marks, gameId, plays, rounds, onRetry, onExit }) {
+  const terminal = useTerminal();
   const fetched = useSoloCrowd(rounds ? null : gameId, plays);
   const crowd = rounds ? { status: 'ready', rounds } : fetched; // rounds fijo = vista previa
   const won = score >= target;
@@ -46,7 +47,7 @@ export function SoloResults({ score, target, marks, gameId, plays, rounds, onRet
           <>
             <span className="block animate-slide-up">Llegaste a</span>
             <span className="mt-2 inline-block animate-slide-up" style={{ animationDelay: '90ms' }}>
-              <span className="inline-block -rotate-2 bg-signal px-3 pb-1 text-tunnel shadow-[6px_6px_0_0_#000]">{TERMINAL_STATION}.</span>
+              <span className="inline-block -rotate-2 bg-signal px-3 pb-1 text-tunnel shadow-[6px_6px_0_0_#000]">{terminal}.</span>
             </span>
           </>
         ) : (
@@ -101,6 +102,7 @@ export function SoloResults({ score, target, marks, gameId, plays, rounds, onRet
 // ─────────────────────────────── Multijugador ───────────────────────────────
 
 export function MultiResults({ ranking, rounds = [], meId, isHost, onRestart, onLeave }) {
+  const terminal = useTerminal();
   const myRounds = rounds.map((r) => ({ ...r, mine: r.answers?.[meId] ?? null }));
   const ranked = rankPlayers(ranking);
   const top = ranked[0];
@@ -114,11 +116,11 @@ export function MultiResults({ ranking, rounds = [], meId, isHost, onRestart, on
       <Confetti count={iWon ? 48 : 28} />
 
       <header className="grid gap-2 pt-2">
-        <p className="label-caps animate-fade-in">Cabecera · {TERMINAL_STATION}</p>
+        <p className="label-caps animate-fade-in">Cabecera · {terminal}</p>
         <h1 className="text-[clamp(2.25rem,11vw,4rem)] leading-[0.9] font-bold tracking-[-0.04em] uppercase">
           <span className="block animate-slide-up">{tie ? 'Empate en' : 'Llegó a'}</span>
           <span className="mt-2 inline-block animate-slide-up" style={{ animationDelay: '90ms' }}>
-            <span className="inline-block -rotate-2 bg-signal px-3 pb-1 text-tunnel shadow-[6px_6px_0_0_#000]">{TERMINAL_STATION}</span>
+            <span className="inline-block -rotate-2 bg-signal px-3 pb-1 text-tunnel shadow-[6px_6px_0_0_#000]">{terminal}</span>
           </span>
         </h1>
         {top && (

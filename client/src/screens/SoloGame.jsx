@@ -1,6 +1,6 @@
 import { useCallback, useEffect, useMemo, useState } from 'react';
 import { ArrowRight, RotateCcw, TrainFront } from 'lucide-react';
-import { INTRO_MS, ROUND_SECONDS, SOLO_REVEAL_MS, SOLO_TARGET, TERMINAL_STATION, highlightAnswers, matchAnswer } from '@linean/shared';
+import { INTRO_MS, ROUND_SECONDS, SOLO_REVEAL_MS, SOLO_TARGET, highlightAnswers, matchAnswer } from '@linean/shared';
 import GameHeader from '../components/GameHeader';
 import LineProgress from '../components/LineProgress';
 import QuestionView from '../components/QuestionView';
@@ -8,6 +8,7 @@ import RevealPanel from '../components/RevealPanel';
 import { track } from '../lib/analytics';
 import { fetchSoloGame } from '../lib/api';
 import { getRecent, rememberPlayed } from '../lib/recent';
+import { useTerminal } from '../lib/theme';
 import { SoloResults } from './Results';
 
 const makeClock = () => {
@@ -76,6 +77,7 @@ function SoloRun({ gameId, questions, onExit, onRetry }) {
   const [plays, setPlays] = useState([]); // { id, text } de cada respuesta válida (el server la vuelve a validar)
   const [result, setResult] = useState(undefined); // undefined = jugando · null = sin respuesta · {display, points}
   const [clock, setClock] = useState(makeClock);
+  const terminal = useTerminal();
 
   const question = questions[index];
   const score = marks.reduce((a, b) => a + b, 0);
@@ -152,7 +154,7 @@ function SoloRun({ gameId, questions, onExit, onRetry }) {
             className="press mt-auto flex min-h-16 cursor-pointer items-center justify-center gap-3 bg-signal text-lg font-bold text-tunnel uppercase"
             style={{ '--press-shadow': '#f4f2ea' }}
           >
-            {index + 1 < questions.length ? 'Siguiente estación' : `Llegar a ${TERMINAL_STATION}`}
+            {index + 1 < questions.length ? 'Siguiente estación' : `Llegar a ${terminal}`}
             <ArrowRight className="size-6" aria-hidden />
           </button>
         </>

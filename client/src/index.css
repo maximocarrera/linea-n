@@ -268,6 +268,101 @@
   }
 }
 
+/* ───────────── Modo Vice City ─────────────
+ * Filtro estético opcional (botón en la portada, se guarda en localStorage como linean:theme).
+ * Atardecer de Miami en clave neón: noche violeta, rosa de señal, cian y naranja de ocaso.
+ * Solo pisa tokens y agrega decorado; el layout y los componentes son los mismos.
+ * Contrastes: chalk/mute sobre tunnel > 9:1, tunnel sobre signal ≈ 6:1. */
+.vice-only {
+  display: none;
+}
+:root[data-theme='vice'] {
+  --color-tunnel: #140a24;
+  --color-platform: #1f1036;
+  --color-platform-2: #2a1747;
+  --color-sign: #170c2a;
+  --color-chalk: #fff3f8;
+  --color-mute: #cdb7dc;
+  --color-rail: #4b2a72;
+  --color-signal: #ff4fa8;
+  --color-alert: #ff5a5f;
+
+  --color-line-a: #20e3ff;
+  --color-line-b: #ff3f6c;
+  --color-line-c: #6a5cff;
+  --color-line-d: #2de2a6;
+  --color-line-e: #b14dff;
+  --color-line-h: #ffb347;
+
+  --vice-cyan: #20e3ff;
+  --vice-sunset: linear-gradient(100deg, #ff4fa8 0%, #ff7a59 60%, #ffb347 100%);
+}
+:root[data-theme='vice'] .vice-only {
+  display: block;
+}
+/* Cielo de noche con resplandor rosa arriba y grilla neón */
+:root[data-theme='vice'] .tile-wall {
+  background-image:
+    radial-gradient(120% 55% at 50% -5%, rgb(255 79 168 / 0.24), transparent 62%),
+    radial-gradient(90% 45% at 50% 105%, rgb(255 122 89 / 0.16), transparent 70%),
+    linear-gradient(rgb(32 227 255 / 0.05) 1px, transparent 1px),
+    linear-gradient(90deg, rgb(255 79 168 / 0.05) 1px, transparent 1px);
+  background-size: 100% 100%, 100% 100%, 44px 44px, 44px 44px;
+}
+/* Sol a rayas (rayas solo en la mitad de abajo) */
+.vice-sun {
+  position: absolute;
+  left: 50%;
+  bottom: -18vmin;
+  width: min(80vmin, 640px);
+  aspect-ratio: 1;
+  border-radius: 50%;
+  transform: translate3d(-50%, 0, 0);
+  background: linear-gradient(180deg, #ffd36e 0%, #ff7a59 42%, #ff4fa8 70%, #b14dff 100%);
+  mask-image: linear-gradient(180deg, #000 52%, transparent 52%), repeating-linear-gradient(180deg, transparent 0 9px, #000 9px 20px);
+  opacity: 0.2;
+}
+.vice-palm {
+  position: absolute;
+  bottom: -2vmin;
+  width: min(42vmin, 360px);
+  height: auto;
+  color: #20e3ff;
+  opacity: 0.16;
+}
+/* Scanlines de VHS, muy suaves para no bajar el contraste del texto */
+.vice-scanlines {
+  background: repeating-linear-gradient(180deg, rgb(0 0 0 / 0.1) 0 1px, transparent 1px 3px);
+  mix-blend-mode: multiply;
+}
+:root[data-theme='vice'] .safety-strip {
+  background: repeating-linear-gradient(-45deg, #ff4fa8 0 14px, #20e3ff 14px 28px);
+}
+/* Superficies de señal: degradé de atardecer; textos de señal con brillo neón */
+:root[data-theme='vice'] .bg-signal {
+  background-image: var(--vice-sunset);
+}
+:root[data-theme='vice'] .text-signal {
+  text-shadow: 0 0 14px rgb(255 79 168 / 0.6);
+}
+:root[data-theme='vice'] h1 {
+  font-style: italic;
+  text-shadow: 0 0 24px rgb(255 79 168 / 0.35);
+}
+/* Botones: sombra dura cian + halo rosa */
+:root[data-theme='vice'] .press {
+  box-shadow: 5px 5px 0 0 var(--vice-cyan), 0 0 22px rgb(255 79 168 / 0.35);
+}
+:root[data-theme='vice'] .press:hover {
+  box-shadow: 6px 6px 0 0 var(--vice-cyan), 0 0 28px rgb(255 79 168 / 0.45);
+}
+:root[data-theme='vice'] .press:active {
+  box-shadow: 0 0 0 0 var(--vice-cyan), 0 0 14px rgb(255 79 168 / 0.3);
+}
+:root[data-theme='vice'] .slab {
+  box-shadow: 0 0 0 1px rgb(255 79 168 / 0.12), 0 0 30px rgb(177 77 255 / 0.12);
+}
+
 /*
  * "Reducir movimiento" (lo activa el sistema: en Windows, con las animaciones del sistema apagadas;
  * en iOS/Android, desde Accesibilidad). Menos movimiento, no cero: lo que se desplaza mucho

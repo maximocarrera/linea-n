@@ -1,4 +1,4 @@
-import { QUESTIONS_PER_GAME, TERMINAL_STATION } from '@linean/shared';
+import { QUESTIONS_PER_GAME } from '@linean/shared';
 import AdSlot, { AD_SLOTS } from '../components/AdSlot';
 import { CafecitoPanel, SuggestionBox } from '../components/landing/CommunityPanels';
 import LineBadge from '../components/LineBadge';
@@ -6,6 +6,9 @@ import DepartureBoard from '../components/landing/DepartureBoard';
 import NicheTicker from '../components/landing/NicheTicker';
 import RarityFare from '../components/landing/RarityFare';
 import TicketCard from '../components/landing/TicketCard';
+import { TreePalm } from 'lucide-react';
+import { track } from '../lib/analytics';
+import { useTerminal, useTheme } from '../lib/theme';
 import { useStats } from '../lib/useStats';
 
 /**
@@ -71,20 +74,46 @@ function TopBar({ status }) {
   }[status];
 
   return (
-    <nav aria-label="Línea N" className="flex animate-fade-in items-center justify-between gap-4">
+    <nav aria-label="Línea N" className="flex animate-fade-in flex-wrap items-center justify-between gap-x-4 gap-y-3">
       <span className="flex items-center gap-3">
         <LineBadge line="N" />
         <span className="text-xl font-bold tracking-tight uppercase">Línea N</span>
       </span>
-      <span role="status" className="flex items-center gap-2 border-2 border-rail px-3 py-1.5 text-sm font-semibold">
-        <span className={`size-2.5 rounded-full ${pill.dot}`} aria-hidden />
-        {pill.text}
+      <span className="flex items-center gap-2">
+        <ViceToggle />
+        <span role="status" className="flex items-center gap-2 border-2 border-rail px-3 py-1.5 text-sm font-semibold">
+          <span className={`size-2.5 rounded-full ${pill.dot}`} aria-hidden />
+          {pill.text}
+        </span>
       </span>
     </nav>
   );
 }
 
+/** Prende/apaga el Modo Vice City (filtro estético; queda guardado en este dispositivo). */
+function ViceToggle() {
+  const [theme, setTheme] = useTheme();
+  const on = theme === 'vice';
+  return (
+    <button
+      type="button"
+      aria-pressed={on}
+      aria-label="Modo Vice City"
+      title={on ? 'Volver al subte' : 'Modo Vice City'}
+      onClick={() => {
+        setTheme(on ? 'subte' : 'vice');
+        track('modo_vice', { estado: on ? 'apagado' : 'prendido' });
+      }}
+      className={`icon-btn gap-2 px-3 text-sm font-bold uppercase sm:grid-flow-col ${on ? 'border-signal text-signal' : 'text-mute hover:text-chalk'}`}
+    >
+      <TreePalm className="size-5" aria-hidden />
+      <span className="hidden sm:inline">Vice City</span>
+    </button>
+  );
+}
+
 function Hero({ samples, className = '' }) {
+  const terminal = useTerminal();
   return (
     <header className={`grid min-w-0 grid-cols-1 gap-6 ${className}`}>
       <p className="label-caps animate-fade-in">Trivia de nicho · {QUESTIONS_PER_GAME} estaciones por viaje</p>
@@ -100,7 +129,7 @@ function Hero({ samples, className = '' }) {
       </h1>
 
       <p className="max-w-[36ch] animate-fade-in text-lg leading-relaxed text-mute sm:text-xl" style={{ animationDelay: '220ms' }}>
-        Cada parada cambia de línea. Usa tus respuestas de nicho para completar el recorrido: llegá a <strong className="text-signal">{TERMINAL_STATION}</strong>, tu flat white te espera
+        Cada parada cambia de línea. Usa tus respuestas de nicho para completar el recorrido: llegá a <strong className="text-signal">{terminal}</strong>, tu flat white te espera
       </p>
 
       <NicheTicker samples={samples} />
