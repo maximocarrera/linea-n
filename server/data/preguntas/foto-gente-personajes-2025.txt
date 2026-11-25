@@ -1,0 +1,104 @@
+# Línea N · una pregunta por archivo. Después de editar: npm run db:import
+# Un nombre por renglón. Variantes con |
+# Foto de tapa "Personajes del año 2025" de la revista Gente (los 82 puestos de su lista,
+# La T y la M cuentan como dos personas). Categoría Foto: la foto es la pregunta.
+# Niveles: [10] los que conoce todo el mundo · [30] tele y streaming de primera línea ·
+# [60] figuras del streaming, teatro y nicho · [100] empresarios, científicos y casi desconocidos.
+
+categoria: Foto
+consigna: Nombrá una persona de esta foto
+activa: si
+apellidos: si
+imagen: gente-personajes-del-ano-2025.jpg
+credito: Revista Gente · Personajes del año 2025
+
+[10]
+Lionel Messi | Leo Messi
+Mirtha Legrand | Mirtha | La Chiqui
+Moria Casán | Moria | La One
+Guillermo Francella | Francella
+Wanda Nara | Wanda
+Pampita | Carolina Ardohain | Pampita Ardohain
+Ángel de Brito | Angel de Brito
+Yanina Latorre | Yanina
+Nico Vázquez | Nicolás Vázquez
+Valeria Mazza
+Luck Ra
+Patricia Bullrich | Pato Bullrich
+
+[30]
+Leandro Paredes
+Laurita Fernández | Laura Fernández
+Nicolás Occhiato | Nico Occhiato
+Migue Granados | Miguel Granados
+Ángela Torres | Angela Torres
+Darío Barassi | Dario Barassi
+Juanita Viale | Juana Viale
+Mariana Fabbiani | Mariana Fabiani
+Rodolfo Barili
+Nelson Castro
+Evangelina Anderson
+Spreen | Iván Buhajeruk
+Luquitas Rodríguez | Luquitas | Lucas Rodríguez
+José María Listorti | Listorti
+Maxi López | Maximiliano López
+Julieta Prandi
+Gastón Edul
+Joaquín Levinton | Levinton
+Yami Safdie | Yamila Safdie
+Louta
+Diego Santilli | Colo Santilli
+Paula Chaves
+Juli Poggio | Julieta Poggio
+Gastón Dalmau
+Daniela Celis | Dani Celis
+Flor Jazmín Peña | Flor Peña
+
+[60]
+Rada | Agustín Aristarán | Agustín Rada Aristarán
+Nacho Elizalde | Ignacio Elizalde
+Santi Talledo | Santiago Talledo
+Momi Giardina
+Martín Garabal
+Marcos Giles | El Mito
+Malena Pichot
+Ariel Staltari
+Santiago Korovsky
+Grego Rossello | Gregorio Rossello
+Mernuel
+Bauleti
+Juli Castro | Julieta Castro
+Evelyn Botto
+Sofía Gonet | Sofi Gonet
+Lucas Spadafora
+Fede Popgold | Popgold
+Tato Algorta
+Mora Bianchi
+Juan Ingaramo
+Fer Dente | Fernando Dente
+Matías Bottero | Bottero
+Mortedor
+Trinche | Martín Dardik
+Nati Jota
+Marti Benza
+Luli González
+Anita Espósito
+Cami Mayan
+Sofi Martínez | Sofía Martínez
+Marina Bellati
+Ignacio Russo
+Tobías Medrano | La T y la M | La T
+Matías Rapen | La M
+Gerardo Zamora
+
+[100]
+Albana Fuentes
+Nicolás Behringer | Nico Behringer
+Nadia Cerino | Nadia Coralina
+Thomas Marthi
+Darío Turovelzky
+Luis Galli
+Martín Cabrales
+Analía Maiorana
+Jorge De All
+Pedro de Santana Maia

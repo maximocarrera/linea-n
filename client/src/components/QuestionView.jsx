@@ -5,7 +5,7 @@ import { useRoundClock } from '../lib/useRoundClock';
 import AnswerInput from './AnswerInput';
 import CountdownBar from './CountdownBar';
 import LineBadge from './LineBadge';
-import QuestionPhoto from './QuestionPhoto';
+import QuestionPhoto, { HeroPhoto } from './QuestionPhoto';
 import TierChip from './TierChip';
 import TrainTransition from './TrainTransition';
 
@@ -19,6 +19,8 @@ export default function QuestionView({ question, index, total, startsAt, endsAt,
   const [introMs] = useState(() => Math.max(0, startsAt - Date.now()));
   const color = lineColorFor(question.category);
   const image = question.image;
+  // Categoría Foto: la foto es la pregunta, va grande debajo de la consigna.
+  const hero = question.category === 'Foto' && Boolean(image?.src);
 
   // La foto empieza a bajar durante la animación del tren, así aparece al toque.
   useEffect(() => {
@@ -53,10 +55,12 @@ export default function QuestionView({ question, index, total, startsAt, endsAt,
               <p className="mt-2 text-sm text-mute">
                 {question.validCount} respuestas válidas · cuanto más rara, más suma
               </p>
-              {image?.credit && <p className="mt-3 hidden font-mono text-xs text-mute lg:block">Foto: {image.credit}</p>}
+              {image?.credit && !hero && <p className="mt-3 hidden font-mono text-xs text-mute lg:block">Foto: {image.credit}</p>}
             </div>
-            {image?.src && <QuestionPhoto image={image} alt={`Foto de la pregunta: ${question.prompt}`} />}
+            {image?.src && !hero && <QuestionPhoto image={image} alt={`Foto de la pregunta: ${question.prompt}`} />}
           </div>
+
+          {hero && <HeroPhoto image={image} alt={`Foto de la pregunta: ${question.prompt}`} />}
 
           <CountdownBar key={endsAt} endsAt={endsAt} totalMs={ROUND_SECONDS * 1000} secondsLeft={secondsLeft} />
 

@@ -11,6 +11,9 @@ import path from 'node:path';
 import { fileURLToPath } from 'node:url';
 import { DB_PATH, openDb } from '../src/db.js';
 import { prepareImage, pruneImages } from './images.js';
+
+const PHOTO_CATEGORY = 'Foto';
+const PHOTO_WIDTH = 1600;
 import { parseQuestionFile } from './questions-file.js';
 
 const __dirname = path.dirname(fileURLToPath(import.meta.url));
@@ -80,10 +83,14 @@ for (const [file, parsed] of parsedFiles) {
   }
 
   // Foto opcional: se achica y se guarda en server/data/imagenes/web/.
+  // Categoría Foto: la foto ES la pregunta ("Nombrá una persona de esta foto"), así que es
+  // obligatoria, va en alta (se mira con zoom) y la consigna se puede repetir entre preguntas.
+  const isPhoto = meta.category === PHOTO_CATEGORY;
+  if (isPhoto && !meta.image) errors.push(`las preguntas de la categoría ${PHOTO_CATEGORY} necesitan "imagen:"`);
   let imageName = null;
   let imageNote = null;
   if (meta.image) {
-    const img = await prepareImage(meta.image, { checkOnly });
+    const img = await prepareImage(meta.image, { checkOnly, width: isPhoto ? PHOTO_WIDTH : undefined });
     if (img.error) errors.push(img.error);
     if (img.warning) warnings.unshift(img.warning);
     imageName = img.name;
@@ -93,7 +100,7 @@ for (const [file, parsed] of parsedFiles) {
     meta.imageCredit ||= img.credit ?? null;
     if (imageName && !meta.imageCredit) warnings.unshift('tiene foto pero no "credito:" (autor y licencia de la foto)');
   }
-  if (drafts && meta.prompt) {
+  if (drafts && meta.prompt && !isPhoto) {
     const existing = byPrompt.get(meta.prompt);
     if (existing) errors.push(`ya hay una pregunta con esta consigna en el juego (${existing.source ?? `#${existing.id}`})`);
   }
@@ -112,7 +119,7 @@ for (const [file, parsed] of parsedFiles) {
     try {
       db.exec('BEGIN');
       let id = bySource.get(file)?.id;
-      if (!id) {
+      if (!id && !isPhoto) {
         const adopt = byPrompt.get(meta.prompt);
         if (adopt?.source && adopt.source !== file) throw new Error(`la consigna ya está en uso por ${adopt.source}`);
         id = adopt?.id;
