@@ -9,8 +9,8 @@ export default function StationSign({ line = 'N', title, subtitle, size = 'lg', 
       <div className={`flex items-center gap-3 ${big ? 'px-5 py-4' : 'px-4 py-3'}`}>
         <LineBadge line={line} size={big ? 'lg' : 'md'} />
         <div className="min-w-0">
-          <p className={`truncate font-bold tracking-tight uppercase ${big ? 'text-3xl sm:text-4xl' : 'text-xl'}`}>{title}</p>
-          {subtitle && <p className="truncate text-sm font-medium text-mute">{subtitle}</p>}
+          <p className={`[overflow-wrap:anywhere] leading-tight font-bold tracking-tight uppercase ${big ? 'text-3xl sm:text-4xl' : 'text-xl'}`}>{title}</p>
+          {subtitle && <p className="[overflow-wrap:anywhere] text-sm font-medium text-mute">{subtitle}</p>}
         </div>
       </div>
     </div>

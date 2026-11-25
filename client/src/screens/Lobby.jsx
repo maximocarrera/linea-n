@@ -102,7 +102,7 @@ export default function Lobby({ room, meId, onStart, onCategories, onLeave, onRe
                 {p.id === meId && onRename ? (
                   <NameEditor name={p.name} delay={i * 60} onRename={onRename} />
                 ) : (
-                  <FlapText text={p.name} delay={i * 60} className="block truncate text-lg font-bold" />
+                  <FlapText text={p.name} delay={i * 60} className="block [overflow-wrap:anywhere] text-lg font-bold" />
                 )}
                 {!p.connected && <span className="block text-sm text-mute">Reconectando…</span>}
               </span>
@@ -313,7 +313,7 @@ function NameEditor({ name, delay, onRename }) {
   if (!editing) {
     return (
       <span className="flex min-w-0 items-center gap-1">
-        <FlapText text={name} delay={delay} className="block min-w-0 truncate text-lg font-bold" />
+        <FlapText text={name} delay={delay} className="block min-w-0 [overflow-wrap:anywhere] text-lg font-bold" />
         <button
           type="button"
           onClick={open}

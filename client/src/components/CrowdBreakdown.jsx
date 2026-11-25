@@ -69,7 +69,7 @@ function CrowdRow({ round, index, delay }) {
       {mine ? (
         <div>
           <div className="flex items-end justify-between gap-3">
-            <p className="min-w-0 truncate text-xl font-bold tracking-tight uppercase">{mine}</p>
+            <p className="min-w-0 [overflow-wrap:anywhere] text-xl font-bold tracking-tight uppercase">{mine}</p>
             <p className="shrink-0 font-mono text-2xl font-bold text-signal tabular-nums">{formatPct(minePicks, total)}</p>
           </div>
           <PctBar picks={minePicks} total={total} delay={delay + 150} color="var(--color-signal)" />

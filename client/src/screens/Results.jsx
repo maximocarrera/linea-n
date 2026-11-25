@@ -193,7 +193,7 @@ function Podium({ ranked, meId }) {
             <div className="flex min-w-0 animate-pop-in flex-col items-center gap-1 pb-2" style={{ animationDelay: `${cfg.delay + 350}ms` }}>
               {first && <Crown className="crown-drop size-8 text-signal" style={{ animationDelay: `${cfg.delay + 450}ms` }} aria-hidden />}
               <LineBadge line={p.name.charAt(0).toUpperCase() || '?'} color={p.color} size={first ? 'lg' : 'md'} />
-              <span className={`max-w-full truncate text-center font-bold ${first ? 'text-lg' : 'text-sm'} ${p.id === meId ? 'text-signal' : ''}`}>
+              <span className={`max-w-full [overflow-wrap:anywhere] leading-tight text-center font-bold ${first ? 'text-lg' : 'text-sm'} ${p.id === meId ? 'text-signal' : ''}`}>
                 {p.name}
                 {p.id === meId && <span className="sr-only"> (vos)</span>}
               </span>
@@ -247,7 +247,7 @@ function RankingLine({ ranked, meId }) {
             </span>
             <span className="min-w-0">
               <span className="flex items-center gap-2">
-                <FlapText text={p.name} delay={1300 + i * 70} className={`truncate font-bold ${p.id === meId ? 'text-signal' : ''}`} />
+                <FlapText text={p.name} delay={1300 + i * 70} className={`[overflow-wrap:anywhere] font-bold ${p.id === meId ? 'text-signal' : ''}`} />
                 {p.id === meId && <span className="shrink-0 border-2 border-signal px-1.5 text-xs font-bold text-signal uppercase">Vos</span>}
                 {!p.connected && <span className="shrink-0 text-xs text-mute">(se bajó)</span>}
               </span>

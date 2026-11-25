@@ -79,23 +79,27 @@ export function HeroPhoto({ image, alt }) {
   );
 }
 
-const ZOOM = 2.5;
+const ZOOM = 2.5; // al hacer clic / doble toque
+const MAX_ZOOM = 6;
+const clampZoom = (z) => Math.min(MAX_ZOOM, Math.max(1, z));
 const isTouch = () => typeof matchMedia === 'function' && matchMedia('(pointer: coarse)').matches;
 
 /**
  * Foto grupal ampliada, sin barras de desplazamiento.
- * Compu: arranca entera; un clic acerca en ese punto y se recorre arrastrando con el mouse.
- * Celu: arranca acercada y se recorre arrastrando con el dedo (scroll nativo).
+ * Celu: pellizcar con dos dedos acerca (como en Instagram), doble toque acerca/aleja y se recorre arrastrando.
+ * Compu: un clic acerca en ese punto (otro clic aleja), se recorre arrastrando con el mouse y
+ * el pellizco del trackpad (ctrl + rueda) también hace zoom.
  */
 function PanViewer({ image, alt }) {
   const boxRef = useRef(null);
   const [touch] = useState(isTouch);
-  const [zoomed, setZoomed] = useState(touch);
+  const [scale, setScale] = useState(1);
+  const scaleRef = useRef(1);
   const [dragging, setDragging] = useState(false);
   const drag = useRef(null);
-  const focus = useRef(null); // punto a mantener debajo del cursor al cambiar el zoom
+  const focus = useRef(null); // punto de la foto a mantener debajo del dedo / cursor al cambiar el zoom
 
-  // Después de cambiar el zoom, deja el punto clickeado donde estaba el cursor (o centra la foto).
+  // Después de cambiar el zoom, deja el punto elegido donde estaba (o centra la foto).
   useLayoutEffect(() => {
     const box = boxRef.current;
     if (!box) return;
@@ -103,20 +107,90 @@ function PanViewer({ image, alt }) {
     box.scrollLeft = f.fx * box.scrollWidth - f.ox;
     box.scrollTop = f.fy * box.scrollHeight - f.oy;
     focus.current = null;
-  }, [zoomed]);
+  }, [scale]);
 
-  const toggleAt = (clientX, clientY) => {
+  // zoomTo lee todo de refs, así los listeners nativos de abajo se registran una sola vez.
+  const zoomToRef = useRef(null);
+  zoomToRef.current = (next, clientX, clientY) => {
     const box = boxRef.current;
-    if (box && clientX != null) {
+    const z = clampZoom(next);
+    if (!box || z === scaleRef.current) return;
+    if (clientX != null) {
       const r = box.getBoundingClientRect();
       const ox = clientX - r.left;
       const oy = clientY - r.top;
       focus.current = { fx: (box.scrollLeft + ox) / box.scrollWidth, fy: (box.scrollTop + oy) / box.scrollHeight, ox, oy };
     }
-    setZoomed((z) => !z);
+    scaleRef.current = z;
+    setScale(z);
   };
+  const zoomTo = (...args) => zoomToRef.current(...args);
+  const toggleAt = (x, y) => zoomTo(scaleRef.current > 1 ? 1 : ZOOM, x, y);
 
-  // Solo el mouse arrastra a mano: en pantallas táctiles el scroll nativo ya sigue al dedo.
+  // Gestos táctiles: pellizco y doble toque. Listeners nativos porque hace falta preventDefault
+  // (si no, el navegador agranda toda la página en vez de la foto).
+  useEffect(() => {
+    const box = boxRef.current;
+    if (!box) return undefined;
+    let pinch = null;
+    let lastTap = null;
+    let tapStart = null;
+    const dist = (t) => Math.hypot(t[0].clientX - t[1].clientX, t[0].clientY - t[1].clientY);
+    const mid = (t) => [(t[0].clientX + t[1].clientX) / 2, (t[0].clientY + t[1].clientY) / 2];
+    const zoom = (...args) => zoomToRef.current(...args);
+
+    const onStart = (e) => {
+      if (e.touches.length === 2) {
+        e.preventDefault();
+        pinch = { d0: dist(e.touches), z0: scaleRef.current };
+        tapStart = null;
+      } else if (e.touches.length === 1) {
+        tapStart = { x: e.touches[0].clientX, y: e.touches[0].clientY, t: Date.now() };
+      }
+    };
+    const onMove = (e) => {
+      if (pinch && e.touches.length === 2) {
+        e.preventDefault();
+        const [x, y] = mid(e.touches);
+        zoom((pinch.z0 * dist(e.touches)) / pinch.d0, x, y);
+      } else if (tapStart && e.touches.length === 1) {
+        const t = e.touches[0];
+        if (Math.hypot(t.clientX - tapStart.x, t.clientY - tapStart.y) > 10) tapStart = null;
+      }
+    };
+    const onEnd = (e) => {
+      if (e.touches.length < 2) pinch = null;
+      if (e.touches.length > 0 || !tapStart) return;
+      const now = Date.now();
+      if (now - tapStart.t < 250) {
+        if (lastTap && now - lastTap.t < 320 && Math.hypot(tapStart.x - lastTap.x, tapStart.y - lastTap.y) < 30) {
+          e.preventDefault();
+          zoom(scaleRef.current > 1 ? 1 : ZOOM, tapStart.x, tapStart.y);
+          lastTap = null;
+        } else lastTap = { ...tapStart, t: now };
+      }
+      tapStart = null;
+    };
+    // Trackpad de la compu: el pellizco llega como rueda con ctrl apretado.
+    const onWheel = (e) => {
+      if (!e.ctrlKey) return;
+      e.preventDefault();
+      zoom(scaleRef.current * Math.exp(-e.deltaY * 0.01), e.clientX, e.clientY);
+    };
+
+    box.addEventListener('touchstart', onStart, { passive: false });
+    box.addEventListener('touchmove', onMove, { passive: false });
+    box.addEventListener('touchend', onEnd, { passive: false });
+    box.addEventListener('wheel', onWheel, { passive: false });
+    return () => {
+      box.removeEventListener('touchstart', onStart);
+      box.removeEventListener('touchmove', onMove);
+      box.removeEventListener('touchend', onEnd);
+      box.removeEventListener('wheel', onWheel);
+    };
+  }, []);
+
+  // Mouse: arrastrar mueve la foto; clic sin arrastrar acerca / aleja. (En táctil el scroll nativo sigue al dedo.)
   const onPointerDown = (e) => {
     if (e.pointerType !== 'mouse' || e.button !== 0) return;
     const box = boxRef.current;
@@ -138,9 +212,10 @@ function PanViewer({ image, alt }) {
     const d = drag.current;
     drag.current = null;
     setDragging(false);
-    if (d && !d.moved) toggleAt(e.clientX, e.clientY); // clic sin arrastrar: acerca / aleja
+    if (d && !d.moved) toggleAt(e.clientX, e.clientY);
   };
 
+  const zoomed = scale > 1;
   const cursor = zoomed ? (dragging ? 'cursor-grabbing' : 'cursor-grab') : 'cursor-zoom-in';
 
   return (
@@ -157,13 +232,7 @@ function PanViewer({ image, alt }) {
           }}
           className={`max-h-[78dvh] w-[min(calc(100vw-3rem),72rem)] touch-pan-x touch-pan-y overflow-auto overscroll-contain select-none [scrollbar-width:none] [&::-webkit-scrollbar]:hidden ${touch ? '' : cursor}`}
         >
-          <img
-            src={image.src}
-            alt={alt}
-            draggable={false}
-            className="block h-auto max-w-none"
-            style={{ width: zoomed ? `${ZOOM * 100}%` : '100%' }}
-          />
+          <img src={image.src} alt={alt} draggable={false} className="block h-auto max-w-none" style={{ width: `${scale * 100}%` }} />
         </div>
         <button
           type="button"
@@ -177,7 +246,11 @@ function PanViewer({ image, alt }) {
         </button>
       </div>
       <p className="text-center text-sm text-mute">
-        {touch ? 'Arrastrá con el dedo para recorrer la foto' : zoomed ? 'Arrastrá para moverte · clic para alejar' : 'Hacé clic donde quieras acercarte'}
+        {touch
+          ? 'Pellizcá con dos dedos para hacer zoom · arrastrá para moverte'
+          : zoomed
+            ? 'Arrastrá para moverte · clic para alejar'
+            : 'Hacé clic donde quieras acercarte'}
       </p>
     </div>
   );

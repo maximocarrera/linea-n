@@ -15,7 +15,7 @@ export default function Scoreboard({ players, meId, answeredIds }) {
             }`}
           >
             <span className="size-2.5 shrink-0 rounded-full" style={{ backgroundColor: p.color }} aria-hidden />
-            <span className={`max-w-28 truncate font-semibold ${p.id === meId ? 'text-signal' : ''}`}>
+            <span className={`max-w-40 [overflow-wrap:anywhere] leading-tight py-1 font-semibold ${p.id === meId ? 'text-signal' : ''}`}>
               {p.name}
               {p.id === meId && <span className="sr-only"> (vos)</span>}
             </span>

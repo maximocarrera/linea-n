@@ -15,7 +15,7 @@ export default function RevealPanel({ prompt, mine, highlights, results, meId })
           <div className="flex items-end justify-between gap-4">
             <div className="min-w-0">
               <p className="label-caps">Tu respuesta</p>
-              <p className="mt-1 truncate text-3xl font-bold tracking-tight uppercase">{mine.display}</p>
+              <p className="mt-1 [overflow-wrap:anywhere] leading-tight text-3xl font-bold tracking-tight uppercase">{mine.display}</p>
               <TierChip points={mine.points} className="mt-3 inline-block" />
             </div>
             <p className="shrink-0 animate-pop-in font-mono text-5xl font-bold text-signal">+{mine.points}</p>
@@ -38,11 +38,11 @@ export default function RevealPanel({ prompt, mine, highlights, results, meId })
             {results.map((r, i) => (
               <li key={r.id} className="grid animate-slide-up grid-cols-[auto_minmax(0,6rem)_minmax(0,1fr)_auto] items-center gap-3 px-5 py-3" style={{ animationDelay: `${i * 60}ms` }}>
                 <span className="size-3 rounded-full" style={{ backgroundColor: r.color }} aria-hidden />
-                <span className={`truncate font-bold ${r.id === meId ? 'text-signal' : ''}`}>
+                <span className={`[overflow-wrap:anywhere] font-bold ${r.id === meId ? 'text-signal' : ''}`}>
                   {r.name}
                   {r.id === meId && <span className="sr-only"> (vos)</span>}
                 </span>
-                <span className="truncate text-mute">{r.answer ?? '—'}</span>
+                <span className="[overflow-wrap:anywhere] text-mute">{r.answer ?? '—'}</span>
                 <TierChip points={r.points} />
               </li>
             ))}
