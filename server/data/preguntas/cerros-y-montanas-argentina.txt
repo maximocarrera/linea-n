@@ -1,7 +1,7 @@
 # Cerros, montañas y volcanes de Argentina (incluye los compartidos con Chile en la frontera).
 # Vale con o sin "Cerro" / "Volcán" adelante.
 
-categoria: Naturaleza
+categoria: Argentina
 consigna: Nombrá un cerro, montaña o volcán de Argentina
 activa: si
 apellidos: no

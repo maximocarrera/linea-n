@@ -1,0 +1,29 @@
+# Línea N · una pregunta por archivo. Después de editar: npm run db:import
+# Un nombre por renglón. Variantes con |
+# Foto grupal de youtubers argentinos (sacada de Twitter, sin crédito). Categoría Foto: la foto es la pregunta.
+
+categoria: Foto
+consigna: Nombrá un youtuber de esta foto
+activa: si
+apellidos: si
+imagen: youtubers-foto.jpeg
+
+[10]
+Alejo Igoa
+Robleis
+El Demente | Demente
+
+[30]
+María Becerra | Maria Becerra
+Pablo Agustín | Pablo Agustin
+Marito Baracus | Baracus | Marito
+Kevsho
+
+[60]
+Mariano Bondar
+Dai Hernández | Dai Hernandez
+Mica Suárez | Mica Suarez
+
+[100]
+ElChuiucal | El Chuiucal | Chuiucal
+Lyna

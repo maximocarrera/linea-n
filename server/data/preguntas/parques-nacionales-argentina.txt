@@ -1,7 +1,7 @@
 # Parques nacionales de Argentina (Administración de Parques Nacionales). Solo los que tienen categoría
 # de parque nacional: no valen Ischigualasto ni Aconcagua (son provinciales) ni monumentos o reservas naturales.
 
-categoria: Naturaleza
+categoria: Argentina
 consigna: Nombrá un parque nacional de Argentina
 activa: si
 apellidos: no

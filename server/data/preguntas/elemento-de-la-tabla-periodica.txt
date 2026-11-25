@@ -2,7 +2,7 @@
 # Un nombre por renglón. Variantes con |   ej: Benín | Benin | Dahomey
 # Niveles: [10] común · [30] poco común · [60] rara · [100] de nicho
 
-categoria: Ciencia
+categoria: General
 consigna: Nombrá un elemento de la tabla periódica
 activa: si
 apellidos: no

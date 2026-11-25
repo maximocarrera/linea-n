@@ -3,7 +3,7 @@
 # Se dejan afuera las constelaciones cuyo nombre es un animal u objeto común (Mesa, Copa, Reloj, Lobo, Mosca, Paloma...)
 # porque se acertarían tirando palabras al azar.
 
-categoria: Ciencia
+categoria: General
 consigna: Nombrá una constelación
 activa: si
 apellidos: no

@@ -99,7 +99,8 @@ for (const [file, parsed] of parsedFiles) {
     if (imageName) usedImages.add(imageName);
     // "credito:" escrito a mano manda; si no, el que trae Commons.
     meta.imageCredit ||= img.credit ?? null;
-    if (imageName && !meta.imageCredit) warnings.unshift('tiene foto pero no "credito:" (autor y licencia de la foto)');
+    // En Foto muchas imágenes son de redes sin autor conocido: ahí el crédito es opcional.
+    if (imageName && !meta.imageCredit && !isPhoto) warnings.unshift('tiene foto pero no "credito:" (autor y licencia de la foto)');
   }
   if (drafts && meta.prompt && !isPhoto) {
     const existing = byPrompt.get(meta.prompt);
